@@ -1,12 +1,12 @@
 {
   "version": 36,
   "translation_status": "not_configured",
-  "updated_at": "2026-10-17T20:07:13.788005+00:00",
-  "attempted_at": "2026-10-17T20:07:13.788005+00:00",
+  "updated_at": "2026-10-17T22:14:24.929822+00:00",
+  "attempted_at": "2026-10-17T22:14:24.929822+00:00",
   "status": "ok",
   "video_status": "fresh",
   "video_warning": "",
-  "video_last_success_at": "2026-10-17T20:07:13.788005+00:00",
+  "video_last_success_at": "2026-10-17T22:14:24.929822+00:00",
   "video_mode": "popular_and_channel",
   "video_api_note": "YouTube Data API v3 / verified embeddable public videos",
   "source_count": 22,
@@ -36,12 +36,138 @@
   ],
   "sources_failed": [
     "Tuổi Trẻ / world (empty or no recent records)",
-    "Tuổi Trẻ / vietnam (empty or no recent records)",
     "Tuổi Trẻ / economy (empty or no recent records)",
+    "Tuổi Trẻ / vietnam (empty or no recent records)",
     "Search Engine Land / marketing (HTTP Error 403: Forbidden)",
     "VietnamPlus / vietnam (not well-formed (invalid token): line 1, column 0)"
   ],
   "news": [
+    {
+      "id": "7dd27ee4e856d38c00",
+      "title": "Meta removes language that raised scraping and AI training concerns",
+      "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+      "image": "",
+      "published_at": "2026-10-17T21:31:32+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Meta removes language that raised scraping and AI training concerns",
+          "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web."
+        }
+      }
+    },
+    {
+      "id": "e67ddfb92add7bdb00",
+      "title": "Doanh nghiệp sản xuất ôtô trong nước báo lỗ 15 năm liên tiếp",
+      "summary": "Ô tô Giải Phóng, doanh nghiệp sản xuất xe hơi trong nước, lỗ ròng 14,6 tỷ đồng sau 9 tháng năm nay, kéo dài chuỗi lợi nhuận âm trong suốt 15 năm.",
+      "source": "VnExpress",
+      "category": "economy",
+      "url": "https://vnexpress.net/doanh-nghiep-san-xuat-oto-trong-nuoc-bao-lo-15-nam-lien-tiep-5133651.html",
+      "image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/17/f2-1792231722-6294-1792231763.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=DUCjxhNQxq7QU2WfV8Hd3g",
+      "published_at": "2026-10-17T21:06:17+00:00",
+      "kind": "source_brief",
+      "source_lang": "vi",
+      "translations": {
+        "vi": {
+          "title": "Doanh nghiệp sản xuất ôtô trong nước báo lỗ 15 năm liên tiếp",
+          "summary": "Ô tô Giải Phóng, doanh nghiệp sản xuất xe hơi trong nước, lỗ ròng 14,6 tỷ đồng sau 9 tháng năm nay, kéo dài chuỗi lợi nhuận âm trong suốt 15 năm."
+        }
+      }
+    },
+    {
+      "id": "86cccf36b9f1be5aff",
+      "title": "TikTok permanently bans ‘Musk’ documentary advertising account",
+      "summary": "A four-hour documentary about Elon Musk continues to meet resistance from social media platforms.",
+      "source": "TechCrunch",
+      "category": "technology",
+      "url": "https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/",
+      "image": "",
+      "published_at": "2026-10-17T20:55:52+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "TikTok permanently bans ‘Musk’ documentary advertising account",
+          "summary": "A four-hour documentary about Elon Musk continues to meet resistance from social media platforms."
+        }
+      }
+    },
+    {
+      "id": "6d1497d28ad88bffa8",
+      "title": "Anti-government protesters battle with police in Albania",
+      "summary": "There were violent clashes between demonstrators and riot police throughout Saturday in the capital Tirana.",
+      "source": "BBC News",
+      "category": "politics",
+      "url": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b85/live/bbc9c4f0-ca6b-11f1-b2e2-233efb1fd43c.jpg",
+      "published_at": "2026-10-17T20:53:00+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Anti-government protesters battle with police in Albania",
+          "summary": "There were violent clashes between demonstrators and riot police throughout Saturday in the capital Tirana."
+        }
+      }
+    },
+    {
+      "id": "a2a6b621103cfd0a44",
+      "title": "Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests",
+      "summary": "Disorder broke out in cities across the country on a day in which more than half a million joined cost of living protests.",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8264/live/a6715ba0-ca74-11f1-9ef8-9dedd6ab697d.jpg",
+      "published_at": "2026-10-17T20:52:17+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests",
+          "summary": "Disorder broke out in cities across the country on a day in which more than half a million joined cost of living protests."
+        }
+      }
+    },
+    {
+      "id": "fd3979152c2e61bd5a",
+      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+      "summary": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
+      "source": "TechCrunch",
+      "category": "technology",
+      "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+      "image": "",
+      "published_at": "2026-10-17T20:21:19+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+          "summary": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year."
+        }
+      }
+    },
+    {
+      "id": "e41822633f704ba720",
+      "title": "TikTok bans Musk documentary account",
+      "summary": "Just ahead of the wider release of Alex Gibney's Musk documentary, TikTok has banned the film's social media account from its platform. TikTok did not immediately respond to a request for comment. According to The Hollywood Reporter, the film's distributor, Bleecker Street, was informed Friday afternoon that a \"permanent suspens…",
+      "source": "The Verge",
+      "category": "technology",
+      "url": "https://www.theverge.com/tech/1013453/tiktok-bans-alex-gibneys-musk-documentary",
+      "image": "",
+      "published_at": "2026-10-17T19:32:23+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "TikTok bans Musk documentary account",
+          "summary": "Just ahead of the wider release of Alex Gibney's Musk documentary, TikTok has banned the film's social media account from its platform. TikTok did not immediately respond to a request for comment. According to The Hollywood Reporter, the film's distributor, Bleecker Street, was informed Friday afternoon that a \"permanent suspens…"
+        }
+      }
+    },
     {
       "id": "b677fdedabaf44798b",
       "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
@@ -57,6 +183,24 @@
         "en": {
           "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
           "summary": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns."
+        }
+      }
+    },
+    {
+      "id": "6d09bb2727e7ee9f9c",
+      "title": "At least 17 dead in crush at Hindu festival event in India",
+      "summary": "Many more have been injured at an event in the Indian city of Kolkata to mark a Hindu festival.",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/c820vwq7qg2ko?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60d0/live/caaed220-ca5d-11f1-852c-2b93a8fc4799.jpg",
+      "published_at": "2026-10-17T19:19:16+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "At least 17 dead in crush at Hindu festival event in India",
+          "summary": "Many more have been injured at an event in the Indian city of Kolkata to mark a Hindu festival."
         }
       }
     },
@@ -116,7 +260,7 @@
     },
     {
       "id": "fcf73aabe3e37fa7f9",
-      "title": "Replit is no longer working with Anthropic, CEO says",
+      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
       "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
       "source": "TechCrunch",
       "category": "ai",
@@ -127,8 +271,62 @@
       "source_lang": "en",
       "translations": {
         "en": {
-          "title": "Replit is no longer working with Anthropic, CEO says",
+          "title": "Replit makes OpenAI its default over Anthropic, CEO says",
           "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform."
+        }
+      }
+    },
+    {
+      "id": "0bd6429ce4de8bfba6",
+      "title": "European diplomats attacked by Israeli settlers in West Bank",
+      "summary": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15c7/live/4f318350-ca52-11f1-852c-2b93a8fc4799.jpg",
+      "published_at": "2026-10-17T18:38:57+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "European diplomats attacked by Israeli settlers in West Bank",
+          "summary": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign."
+        }
+      }
+    },
+    {
+      "id": "5516c79abcf742544e",
+      "title": "Chủ tịch Vietcombank cam kết giảm tối thiểu 2% lãi suất cho vay",
+      "summary": "Chủ tịch Vietcombank Nguyễn Thanh Tùng cho biết ngân hàng này cam kết từ nay đến cuối năm giảm tối thiểu 2% lãi suất cho vay để hỗ trợ doanh nghiệp.",
+      "source": "VnExpress",
+      "category": "economy",
+      "url": "https://vnexpress.net/chu-tich-vietcombank-cam-ket-giam-toi-thieu-2-lai-suat-cho-vay-5133686.html",
+      "image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/17/171020260558-1792247948-4131-1792248067.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=CLbEHJsKxGNyX8Uf0Axs2A",
+      "published_at": "2026-10-17T17:05:03+00:00",
+      "kind": "source_brief",
+      "source_lang": "vi",
+      "translations": {
+        "vi": {
+          "title": "Chủ tịch Vietcombank cam kết giảm tối thiểu 2% lãi suất cho vay",
+          "summary": "Chủ tịch Vietcombank Nguyễn Thanh Tùng cho biết ngân hàng này cam kết từ nay đến cuối năm giảm tối thiểu 2% lãi suất cho vay để hỗ trợ doanh nghiệp."
+        }
+      }
+    },
+    {
+      "id": "aaa7f6fb9398c70293",
+      "title": "Chính phủ muốn nới điều kiện IPO",
+      "summary": "Chính phủ đề xuất giảm một số điều kiện chào bán cổ phiếu lần đầu ra công chúng (IPO) khi sửa đổi Luật Chứng khoán.",
+      "source": "VnExpress",
+      "category": "economy",
+      "url": "https://vnexpress.net/chinh-phu-muon-noi-dieu-kien-ipo-5133658.html",
+      "image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/17/202610171434046204-g7574298250-1911-4549-1792237073.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=G5HwGb1vpvmv4pwPdCUpkQ",
+      "published_at": "2026-10-17T17:01:42+00:00",
+      "kind": "source_brief",
+      "source_lang": "vi",
+      "translations": {
+        "vi": {
+          "title": "Chính phủ muốn nới điều kiện IPO",
+          "summary": "Chính phủ đề xuất giảm một số điều kiện chào bán cổ phiếu lần đầu ra công chúng (IPO) khi sửa đổi Luật Chứng khoán."
         }
       }
     },
@@ -205,24 +403,6 @@
       }
     },
     {
-      "id": "aaa7f6fb9398c70293",
-      "title": "Chính phủ muốn nới điều kiện IPO",
-      "summary": "Chính phủ đề xuất giảm một số điều kiện chào bán cổ phiếu lần đầu ra công chúng (IPO) khi sửa đổi Luật Chứng khoán.",
-      "source": "VnExpress",
-      "category": "economy",
-      "url": "https://vnexpress.net/chinh-phu-muon-noi-dieu-kien-ipo-5133658.html",
-      "image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/17/202610171434046204-g7574298250-1911-4549-1792237073.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=G5HwGb1vpvmv4pwPdCUpkQ",
-      "published_at": "2026-10-17T15:39:42+00:00",
-      "kind": "source_brief",
-      "source_lang": "vi",
-      "translations": {
-        "vi": {
-          "title": "Chính phủ muốn nới điều kiện IPO",
-          "summary": "Chính phủ đề xuất giảm một số điều kiện chào bán cổ phiếu lần đầu ra công chúng (IPO) khi sửa đổi Luật Chứng khoán."
-        }
-      }
-    },
-    {
       "id": "ccd92597e0d97752d7",
       "title": "Trump’s pause on Russia sanctions is ‘reward’ for Putin, Zelenskyy says",
       "summary": "Ukrainian president warns it will embolden Russian leader and intensify war as Moscow hits country’s power plants Power plant attacks reflect Russian blueprint to make Ukrainian cities unlivable Volodymyr Zelenskyy has described Donald Trump’s decision to roll back sanctions on Russia as a “reward” for Vladimir Putin and warned…",
@@ -255,24 +435,6 @@
         "en": {
           "title": "Ember’s new temperature-controlled mug makes my nightly tea ritual even better",
           "summary": "The biggest change about Ember's new mug is that you no longer have to open the app to adjust your drink’s temperature."
-        }
-      }
-    },
-    {
-      "id": "5516c79abcf742544e",
-      "title": "Chủ tịch Vietcombank cam kết giảm tối thiểu 2% lãi suất cho vay",
-      "summary": "Chủ tịch Vietcombank Nguyễn Thanh Tùng cho biết ngân hàng này cam kết từ nay đến cuối năm giảm tối thiểu 2% lãi suất cho vay để hỗ trợ doanh nghiệp.",
-      "source": "VnExpress",
-      "category": "economy",
-      "url": "https://vnexpress.net/chu-tich-vietcombank-cam-ket-giam-toi-thieu-2-lai-suat-cho-vay-5133686.html",
-      "image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/17/171020260558-1792247948-4131-1792248067.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=CLbEHJsKxGNyX8Uf0Axs2A",
-      "published_at": "2026-10-17T15:19:03+00:00",
-      "kind": "source_brief",
-      "source_lang": "vi",
-      "translations": {
-        "vi": {
-          "title": "Chủ tịch Vietcombank cam kết giảm tối thiểu 2% lãi suất cho vay",
-          "summary": "Chủ tịch Vietcombank Nguyễn Thanh Tùng cho biết ngân hàng này cam kết từ nay đến cuối năm giảm tối thiểu 2% lãi suất cho vay để hỗ trợ doanh nghiệp."
         }
       }
     },
@@ -543,24 +705,6 @@
         "en": {
           "title": "Apple’s HomeView is just the latest threat to online recipe writers",
           "summary": "When Apple revealed the HomeView to the world, it did so with an unusual ad for the company: Instead of pristine, polished tech in immaculate rooms, it's a three-minute look at the messy, frantic morning routine of a family of five. Apple's new smart display sits in the center of the chaos on the kitchen […]"
-        }
-      }
-    },
-    {
-      "id": "4110b70294c70551ab",
-      "title": "It’s a dream week for tech docs",
-      "summary": "Hi, friends! Welcome to Installer No. 148, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, hope you're enjoying all your pumpkin-flavored everything, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about Marc Andreessen and the future of…",
-      "source": "The Verge",
-      "category": "technology",
-      "url": "https://www.theverge.com/tech/1013367/best-tech-documentaries-musk-holmes-installer",
-      "image": "",
-      "published_at": "2026-10-17T12:00:00+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "It’s a dream week for tech docs",
-          "summary": "Hi, friends! Welcome to Installer No. 148, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, hope you're enjoying all your pumpkin-flavored everything, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about Marc Andreessen and the future of…"
         }
       }
     },
@@ -1411,24 +1555,6 @@
       }
     },
     {
-      "id": "af04fb0051c8f787e9",
-      "title": "Thế giới sẽ thay 'giây nhuận' bằng 'giờ nhuận'",
-      "summary": "Chính phủ các nước đã bỏ phiếu bỏ dùng giây nhuận và thay thế bằng giờ nhuận khi cần đồng bộ thời gian.",
-      "source": "VnExpress",
-      "category": "technology",
-      "url": "https://vnexpress.net/the-gioi-se-thay-giay-nhuan-bang-gio-nhuan-5133305.html",
-      "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/16/VNETime-1792142653-1636-1792142743.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=UBuKUNrk2X3rSuYUI7qBKA",
-      "published_at": "2026-10-17T03:00:00+00:00",
-      "kind": "source_brief",
-      "source_lang": "vi",
-      "translations": {
-        "vi": {
-          "title": "Thế giới sẽ thay 'giây nhuận' bằng 'giờ nhuận'",
-          "summary": "Chính phủ các nước đã bỏ phiếu bỏ dùng giây nhuận và thay thế bằng giờ nhuận khi cần đồng bộ thời gian."
-        }
-      }
-    },
-    {
       "id": "6f0f5cb7624d91e1dd",
       "title": "Loạt giải pháp AI cho doanh nghiệp tại FPT Transform 2026",
       "summary": "FPT giới thiệu giải pháp FPT AI EOS, FPT Kubernetes Engine với GPU và FPT Token Factory, hướng tới giải quyết bài toán then chốt khi doanh nghiệp đưa AI từ thử nghiệm vào vận hành thực tế, ngày 17/10.",
@@ -1461,24 +1587,6 @@
         "en": {
           "title": "Mexican judge sentences three men to 158 years in prison for murders of Australian and US surfers​",
           "summary": "Australian ​brothers Jake ​and Callum Robinson, and ​their ‌American friend Carter Rhoad, were killed while on a surf trip in Baja California in 2024 Get our breaking news email , free app or daily news podcast A Mexican ⁠judge ⁠has sentenced ​three men to 158 years ⁠and nine months in prison each for ⁠the murder of ​two Austral…"
-        }
-      }
-    },
-    {
-      "id": "65d6194a8b19b36208",
-      "title": "Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept",
-      "summary": "Mark Wahlberg, who once sank money into a gym chain that got kicked off the NYSE, is now building his own, and he promises you’ll get a cold plunge, a blood panel and a protein muffin without needing a trust fund.",
-      "source": "TechCrunch",
-      "category": "technology",
-      "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept/",
-      "image": "",
-      "published_at": "2026-10-17T02:36:18+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept",
-          "summary": "Mark Wahlberg, who once sank money into a gym chain that got kicked off the NYSE, is now building his own, and he promises you’ll get a cold plunge, a blood panel and a protein muffin without needing a trust fund."
         }
       }
     },
@@ -1663,42 +1771,6 @@
       }
     },
     {
-      "id": "e263fd0408c3ce09d6",
-      "title": "Gone to the dogs: racing fans mourn closure of ‘Wenty’, Sydney’s historic greyhound track",
-      "summary": "Thousands pack Wentworth Park for the final time before the stadium is demolished and returned to parkland Get our breaking news email , free app or daily news podcast The end of an era has fallen upon an Australian sporting landmark as the greyhound races at an inner-city track kicked off for the very last time. Thousands packe…",
-      "source": "The Guardian",
-      "category": "world",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/17/gone-to-the-dogs-racing-fans-mourn-closure-of-wenty-sydneys-historic-greyhound-track",
-      "image": "https://i.guim.co.uk/img/media/14ccab98d3964708fc2f5206bb3d0e3c44e8c5a5/250_0_2500_2002/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=3cefbf4c8f2d8ccd3d14bfc13d3828d0",
-      "published_at": "2026-10-16T23:00:15+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Gone to the dogs: racing fans mourn closure of ‘Wenty’, Sydney’s historic greyhound track",
-          "summary": "Thousands pack Wentworth Park for the final time before the stadium is demolished and returned to parkland Get our breaking news email , free app or daily news podcast The end of an era has fallen upon an Australian sporting landmark as the greyhound races at an inner-city track kicked off for the very last time. Thousands packe…"
-        }
-      }
-    },
-    {
-      "id": "044d1f02079c085505",
-      "title": "Mortgage repayments are now cheaper than rent in some Australian suburbs. Is yours among them?",
-      "summary": "As house prices plateau, the gap between the cost of buying and renting is narrowing in dozens of suburbs Get our breaking news email , free app or daily news podcast High rents and falling property prices have opened a rare window for Australian tenants to become homeowners, with mortgage repayments cheaper than rent in dozens…",
-      "source": "The Guardian",
-      "category": "world",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/17/buying-a-home-cheaper-than-renting-in-some-australian-suburbs",
-      "image": "https://i.guim.co.uk/img/media/e525cfea57188234824c122370d9536aa5e53ba0/480_0_4800_3840/master/4800.jpg?width=140&quality=85&auto=format&fit=max&s=ad11c668c24520a92141a1712cc0280a",
-      "published_at": "2026-10-16T23:00:15+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Mortgage repayments are now cheaper than rent in some Australian suburbs. Is yours among them?",
-          "summary": "As house prices plateau, the gap between the cost of buying and renting is narrowing in dozens of suburbs Get our breaking news email , free app or daily news podcast High rents and falling property prices have opened a rare window for Australian tenants to become homeowners, with mortgage repayments cheaper than rent in dozens…"
-        }
-      }
-    },
-    {
       "id": "16df95b107d5471097",
       "title": "OpenAI models hacked a crypto wallet and breached more websites",
       "summary": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
@@ -1879,24 +1951,6 @@
       }
     },
     {
-      "id": "bb8c1feda7f4c6f8f1",
-      "title": "No 10 leaves option open to impose Chinese EV tariffs if UK joins EU scheme",
-      "summary": "Beijing warns against ‘discriminatory’ step after France drops opposition to British role in Made in Europe package No 10 has left the door open to imposing tariffs on Chinese-made electric vehicles as part of the Made in Europe package, prompting a warning from Beijing that such a move would be “discriminatory”. Downing Street…",
-      "source": "The Guardian",
-      "category": "world",
-      "url": "https://www.theguardian.com/politics/2026/oct/16/uk-chinese-electric-vehicle-ev-tariffs-eu-made-in-europe-scheme",
-      "image": "https://i.guim.co.uk/img/media/d50e0bb4a5fc6d77b7f869e6a131ef2969dbc048/1000_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=14d31939a47c4da3f3e2315e5ad5091a",
-      "published_at": "2026-10-16T18:09:34+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "No 10 leaves option open to impose Chinese EV tariffs if UK joins EU scheme",
-          "summary": "Beijing warns against ‘discriminatory’ step after France drops opposition to British role in Made in Europe package No 10 has left the door open to imposing tariffs on Chinese-made electric vehicles as part of the Made in Europe package, prompting a warning from Beijing that such a move would be “discriminatory”. Downing Street…"
-        }
-      }
-    },
-    {
       "id": "8ffbbf24c13a812dde",
       "title": "India becomes the latest country to report rogue AI agent activity",
       "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
@@ -1967,60 +2021,6 @@
           "summary": "Aurora, ứng dụng kết hợp AI với con người, giúp sắp xếp việc ăn uống, du lịch và nhiều dịch vụ khác, nhưng phí gia nhập lên đến 5.000 USD."
         }
       }
-    },
-    {
-      "id": "e78f657dccab65a19f",
-      "title": "Brazil’s Lula says he now backs lowering age of criminal responsibility to 16",
-      "summary": "Lula reverses position on age of responsibility for ‘heinous’ crimes in what many see as a desperate electoral gambit Brazil’s president, Luiz Inácio Lula da Silva, has announced that he now supports lowering the age of criminal responsibility for “heinous” crimes from 18 to 16, reversing a longstanding policy in what is widely…",
-      "source": "The Guardian",
-      "category": "politics",
-      "url": "https://www.theguardian.com/world/2026/oct/16/brazil-lula-age-criminal-responsibility",
-      "image": "https://i.guim.co.uk/img/media/d849b27b6454c97e931470b1c5fe256748d76ce4/377_0_4335_3467/master/4335.jpg?width=140&quality=85&auto=format&fit=max&s=b17977c8e67d5b6e448974d4d7709ddd",
-      "published_at": "2026-10-16T16:47:35+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Brazil’s Lula says he now backs lowering age of criminal responsibility to 16",
-          "summary": "Lula reverses position on age of responsibility for ‘heinous’ crimes in what many see as a desperate electoral gambit Brazil’s president, Luiz Inácio Lula da Silva, has announced that he now supports lowering the age of criminal responsibility for “heinous” crimes from 18 to 16, reversing a longstanding policy in what is widely…"
-        }
-      }
-    },
-    {
-      "id": "581928a1cd0a4d0f55",
-      "title": "Ex-top official Robbins reaches settlement with government over sacking",
-      "summary": "Sir Olly Robbins was sacked as the top civil servant in the Foreign Office over the vetting of Lord Mandelson.",
-      "source": "BBC News",
-      "category": "politics",
-      "url": "https://www.bbc.co.uk/news/articles/c64g18r402geo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0212/live/e6e99a00-c97d-11f1-80fc-ab418b149008.jpg",
-      "published_at": "2026-10-16T16:38:18+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Ex-top official Robbins reaches settlement with government over sacking",
-          "summary": "Sir Olly Robbins was sacked as the top civil servant in the Foreign Office over the vetting of Lord Mandelson."
-        }
-      }
-    },
-    {
-      "id": "68b9f741f3df646ee4",
-      "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs counter to those who believe that robotics, powered by…",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
-      "image": "",
-      "published_at": "2026-10-16T16:30:00+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-          "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs counter to those who believe that robotics, powered by…"
-        }
-      }
     }
   ],
   "videos": {
@@ -2032,7 +2032,7 @@
         "category": "vietnam",
         "published_at": "2026-10-17T15:30:09+00:00",
         "thumbnail": "https://i.ytimg.com/vi/ojTbjYfJvZQ/hqdefault.jpg",
-        "popularity": 2977,
+        "popularity": 3512,
         "provenance": "official_channel_api",
         "source_lang": "vi",
         "translations": {
@@ -2049,7 +2049,7 @@
         "category": "vietnam",
         "published_at": "2026-10-17T15:30:03+00:00",
         "thumbnail": "https://i.ytimg.com/vi/fERk7S0IBpg/hqdefault.jpg",
-        "popularity": 227443,
+        "popularity": 227652,
         "provenance": "youtube_popular",
         "source_lang": "vi",
         "translations": {
@@ -2066,7 +2066,7 @@
         "category": "vietnam",
         "published_at": "2026-10-17T15:00:31+00:00",
         "thumbnail": "https://i.ytimg.com/vi/a8v50hbGj6k/hqdefault.jpg",
-        "popularity": 2642,
+        "popularity": 3210,
         "provenance": "official_channel_api",
         "source_lang": "vi",
         "translations": {
@@ -2083,7 +2083,7 @@
         "category": "vietnam",
         "published_at": "2026-10-17T14:31:59+00:00",
         "thumbnail": "https://i.ytimg.com/vi/iN9XeQ0Yz30/hqdefault.jpg",
-        "popularity": 4836,
+        "popularity": 5784,
         "provenance": "official_channel_api",
         "source_lang": "vi",
         "translations": {
@@ -2100,7 +2100,7 @@
         "category": "vietnam",
         "published_at": "2026-10-17T14:30:22+00:00",
         "thumbnail": "https://i.ytimg.com/vi/Y5h3hukAgMA/hqdefault.jpg",
-        "popularity": 3829,
+        "popularity": 4318,
         "provenance": "official_channel_api",
         "source_lang": "vi",
         "translations": {
@@ -2117,7 +2117,7 @@
         "category": "vietnam",
         "published_at": "2026-10-17T13:45:11+00:00",
         "thumbnail": "https://i.ytimg.com/vi/-nVQ32hfKBc/hqdefault.jpg",
-        "popularity": 5263,
+        "popularity": 5545,
         "provenance": "official_channel_api",
         "source_lang": "vi",
         "translations": {
@@ -2134,7 +2134,7 @@
         "category": "vietnam",
         "published_at": "2026-10-17T13:30:08+00:00",
         "thumbnail": "https://i.ytimg.com/vi/q5TGwSJTKCw/hqdefault.jpg",
-        "popularity": 2795,
+        "popularity": 2942,
         "provenance": "official_channel_api",
         "source_lang": "vi",
         "translations": {
@@ -2151,7 +2151,7 @@
         "category": "vietnam",
         "published_at": "2026-10-17T13:00:33+00:00",
         "thumbnail": "https://i.ytimg.com/vi/zZs463KwikM/hqdefault.jpg",
-        "popularity": 14734,
+        "popularity": 15275,
         "provenance": "official_channel_api",
         "source_lang": "vi",
         "translations": {
@@ -2164,13 +2164,64 @@
     ],
     "world": [
       {
+        "id": "k9fdVjYTsbQ",
+        "title": "The Case for Mamdani-Style Populism",
+        "channel": "Bloomberg News",
+        "category": "world",
+        "published_at": "2026-10-17T22:00:20+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/k9fdVjYTsbQ/hqdefault.jpg",
+        "popularity": 18,
+        "provenance": "official_channel_api",
+        "source_lang": "en",
+        "translations": {
+          "en": {
+            "title": "The Case for Mamdani-Style Populism",
+            "summary": ""
+          }
+        }
+      },
+      {
+        "id": "i89sZ4WQeWc",
+        "title": "Hundreds arrested in violent protests across France as buildings burned and looted | BBC News",
+        "channel": "BBC News",
+        "category": "world",
+        "published_at": "2026-10-17T21:42:46+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/i89sZ4WQeWc/hqdefault.jpg",
+        "popularity": 5473,
+        "provenance": "official_channel_api",
+        "source_lang": "en",
+        "translations": {
+          "en": {
+            "title": "Hundreds arrested in violent protests across France as buildings burned and looted | BBC News",
+            "summary": ""
+          }
+        }
+      },
+      {
+        "id": "-JXpomZH7FI",
+        "title": "Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC | BBC News",
+        "channel": "BBC News",
+        "category": "world",
+        "published_at": "2026-10-17T20:30:14+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/-JXpomZH7FI/hqdefault.jpg",
+        "popularity": 3916,
+        "provenance": "official_channel_api",
+        "source_lang": "en",
+        "translations": {
+          "en": {
+            "title": "Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC | BBC News",
+            "summary": ""
+          }
+        }
+      },
+      {
         "id": "JIvaN5oxV-0",
         "title": "Two Power Bills Show Growing US Electricity Price Divide",
         "channel": "Bloomberg News",
         "category": "world",
         "published_at": "2026-10-17T20:00:25+00:00",
         "thumbnail": "https://i.ytimg.com/vi/JIvaN5oxV-0/hqdefault.jpg",
-        "popularity": 3,
+        "popularity": 240,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2187,7 +2238,7 @@
         "category": "world",
         "published_at": "2026-10-17T19:30:17+00:00",
         "thumbnail": "https://i.ytimg.com/vi/6xbiorDJRYM/hqdefault.jpg",
-        "popularity": 462,
+        "popularity": 6235,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2204,7 +2255,7 @@
         "category": "world",
         "published_at": "2026-10-17T18:59:40+00:00",
         "thumbnail": "https://i.ytimg.com/vi/g-NG0CVANmw/hqdefault.jpg",
-        "popularity": 7342,
+        "popularity": 47159,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2221,7 +2272,7 @@
         "category": "world",
         "published_at": "2026-10-17T18:00:23+00:00",
         "thumbnail": "https://i.ytimg.com/vi/uGV6eaEKzUs/hqdefault.jpg",
-        "popularity": 248,
+        "popularity": 470,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2238,63 +2289,12 @@
         "category": "world",
         "published_at": "2026-10-17T17:00:03+00:00",
         "thumbnail": "https://i.ytimg.com/vi/Ot0fKLRLILI/hqdefault.jpg",
-        "popularity": 54314,
+        "popularity": 127007,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
           "en": {
             "title": "Hundreds arrested across France during day of major protests | BBC News",
-            "summary": ""
-          }
-        }
-      },
-      {
-        "id": "EEazDp_uWVw",
-        "title": "McKinsey Strips Partner of Leadership Role After LinkedIn Posts",
-        "channel": "Bloomberg News",
-        "category": "world",
-        "published_at": "2026-10-17T16:00:20+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/EEazDp_uWVw/hqdefault.jpg",
-        "popularity": 937,
-        "provenance": "official_channel_api",
-        "source_lang": "en",
-        "translations": {
-          "en": {
-            "title": "McKinsey Strips Partner of Leadership Role After LinkedIn Posts",
-            "summary": ""
-          }
-        }
-      },
-      {
-        "id": "_7qLyCuS6U8",
-        "title": "Lyon tourism office set on fire in day of protests #BBCNews",
-        "channel": "BBC News",
-        "category": "world",
-        "published_at": "2026-10-17T14:22:39+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/_7qLyCuS6U8/hqdefault.jpg",
-        "popularity": 14279,
-        "provenance": "official_channel_api",
-        "source_lang": "en",
-        "translations": {
-          "en": {
-            "title": "Lyon tourism office set on fire in day of protests #BBCNews",
-            "summary": ""
-          }
-        }
-      },
-      {
-        "id": "Ns3FIuBph6Y",
-        "title": "KFC Ditches Pepsi for Coca-Cola Across US Restaurants",
-        "channel": "Bloomberg News",
-        "category": "world",
-        "published_at": "2026-10-17T14:00:31+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/Ns3FIuBph6Y/hqdefault.jpg",
-        "popularity": 4482,
-        "provenance": "official_channel_api",
-        "source_lang": "en",
-        "translations": {
-          "en": {
-            "title": "KFC Ditches Pepsi for Coca-Cola Across US Restaurants",
             "summary": ""
           }
         }
@@ -2308,7 +2308,7 @@
         "category": "economy",
         "published_at": "2026-10-17T16:32:01+00:00",
         "thumbnail": "https://i.ytimg.com/vi/zoqBvldIoQk/hqdefault.jpg",
-        "popularity": 11012,
+        "popularity": 19186,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2325,7 +2325,7 @@
         "category": "economy",
         "published_at": "2026-10-17T14:37:48+00:00",
         "thumbnail": "https://i.ytimg.com/vi/sGiLuwJErTo/hqdefault.jpg",
-        "popularity": 3177,
+        "popularity": 3956,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2342,7 +2342,7 @@
         "category": "economy",
         "published_at": "2026-10-17T14:01:29+00:00",
         "thumbnail": "https://i.ytimg.com/vi/uG8rz3ot2Dk/hqdefault.jpg",
-        "popularity": 3462,
+        "popularity": 3997,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2359,7 +2359,7 @@
         "category": "economy",
         "published_at": "2026-10-17T14:00:31+00:00",
         "thumbnail": "https://i.ytimg.com/vi/9YJ0PW9dEfw/hqdefault.jpg",
-        "popularity": 4927,
+        "popularity": 7440,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2376,7 +2376,7 @@
         "category": "economy",
         "published_at": "2026-10-17T14:00:10+00:00",
         "thumbnail": "https://i.ytimg.com/vi/PNTnVNa69cI/hqdefault.jpg",
-        "popularity": 24521,
+        "popularity": 39307,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2393,7 +2393,7 @@
         "category": "economy",
         "published_at": "2026-10-17T13:43:09+00:00",
         "thumbnail": "https://i.ytimg.com/vi/g4PPOI6zcaI/hqdefault.jpg",
-        "popularity": 3739,
+        "popularity": 4321,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2410,7 +2410,7 @@
         "category": "economy",
         "published_at": "2026-10-17T13:19:31+00:00",
         "thumbnail": "https://i.ytimg.com/vi/rgkbxeFMpEo/hqdefault.jpg",
-        "popularity": 2972,
+        "popularity": 3441,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2427,7 +2427,7 @@
         "category": "economy",
         "published_at": "2026-10-17T13:04:22+00:00",
         "thumbnail": "https://i.ytimg.com/vi/IwwsTx0xNX0/hqdefault.jpg",
-        "popularity": 21194,
+        "popularity": 25496,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2446,7 +2446,7 @@
         "category": "technology",
         "published_at": "2026-10-17T15:00:19+00:00",
         "thumbnail": "https://i.ytimg.com/vi/mtiMk28wmAw/hqdefault.jpg",
-        "popularity": 2749,
+        "popularity": 3866,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2463,7 +2463,7 @@
         "category": "technology",
         "published_at": "2026-10-16T19:15:30+00:00",
         "thumbnail": "https://i.ytimg.com/vi/9h5naV9Ms4s/hqdefault.jpg",
-        "popularity": 12864,
+        "popularity": 13357,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2480,7 +2480,7 @@
         "category": "technology",
         "published_at": "2026-10-16T17:39:18+00:00",
         "thumbnail": "https://i.ytimg.com/vi/HTqc5fMitok/hqdefault.jpg",
-        "popularity": 9940,
+        "popularity": 10593,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2497,7 +2497,7 @@
         "category": "technology",
         "published_at": "2026-10-16T15:36:53+00:00",
         "thumbnail": "https://i.ytimg.com/vi/z00Lhm3CqAM/hqdefault.jpg",
-        "popularity": 38784,
+        "popularity": 40235,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2514,7 +2514,7 @@
         "category": "technology",
         "published_at": "2026-10-16T15:00:20+00:00",
         "thumbnail": "https://i.ytimg.com/vi/dWmEKM4_lKQ/hqdefault.jpg",
-        "popularity": 11112,
+        "popularity": 11887,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2531,7 +2531,7 @@
         "category": "technology",
         "published_at": "2026-10-16T13:49:43+00:00",
         "thumbnail": "https://i.ytimg.com/vi/_EW8O9SLSXs/hqdefault.jpg",
-        "popularity": 228649,
+        "popularity": 229258,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2548,7 +2548,7 @@
         "category": "technology",
         "published_at": "2026-10-16T10:55:14+00:00",
         "thumbnail": "https://i.ytimg.com/vi/BYWy6SyJRZo/hqdefault.jpg",
-        "popularity": 4438016,
+        "popularity": 4606454,
         "provenance": "youtube_popular",
         "source_lang": "en",
         "translations": {
@@ -2565,7 +2565,7 @@
         "category": "technology",
         "published_at": "2026-10-16T01:35:50+00:00",
         "thumbnail": "https://i.ytimg.com/vi/s-dZWcoLmRE/hqdefault.jpg",
-        "popularity": 432364,
+        "popularity": 434001,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2584,7 +2584,7 @@
         "category": "ai-trends",
         "published_at": "2026-10-16T21:00:00+00:00",
         "thumbnail": "https://i.ytimg.com/vi/LJ2v4-FvPcA/hqdefault.jpg",
-        "popularity": 2031,
+        "popularity": 2122,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2601,7 +2601,7 @@
         "category": "ai-trends",
         "published_at": "2026-10-16T16:00:00+00:00",
         "thumbnail": "https://i.ytimg.com/vi/-nmcYcO-EE8/hqdefault.jpg",
-        "popularity": 3798,
+        "popularity": 3912,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2618,7 +2618,7 @@
         "category": "ai-trends",
         "published_at": "2026-10-15T23:00:26+00:00",
         "thumbnail": "https://i.ytimg.com/vi/qJplHFjyv2A/hqdefault.jpg",
-        "popularity": 3684,
+        "popularity": 3788,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2635,7 +2635,7 @@
         "category": "ai-trends",
         "published_at": "2026-10-15T19:00:22+00:00",
         "thumbnail": "https://i.ytimg.com/vi/i3X7Fv0Z3Uc/hqdefault.jpg",
-        "popularity": 11534,
+        "popularity": 11709,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2652,7 +2652,7 @@
         "category": "ai-trends",
         "published_at": "2026-10-15T16:00:02+00:00",
         "thumbnail": "https://i.ytimg.com/vi/nSwmcs37Jd4/hqdefault.jpg",
-        "popularity": 24174,
+        "popularity": 24525,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2669,7 +2669,7 @@
         "category": "ai-trends",
         "published_at": "2026-10-14T17:01:36+00:00",
         "thumbnail": "https://i.ytimg.com/vi/Jh6mgf9M06M/hqdefault.jpg",
-        "popularity": 67974,
+        "popularity": 68251,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2686,7 +2686,7 @@
         "category": "ai-trends",
         "published_at": "2026-10-13T19:00:11+00:00",
         "thumbnail": "https://i.ytimg.com/vi/OYp5j2RihPE/hqdefault.jpg",
-        "popularity": 140995,
+        "popularity": 141631,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2703,7 +2703,7 @@
         "category": "ai-trends",
         "published_at": "2026-10-09T23:00:24+00:00",
         "thumbnail": "https://i.ytimg.com/vi/IBVmenOroPs/hqdefault.jpg",
-        "popularity": 8765,
+        "popularity": 8774,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {

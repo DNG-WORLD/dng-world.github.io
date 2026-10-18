@@ -1,12 +1,12 @@
 {
   "version": 36,
   "translation_status": "not_configured",
-  "updated_at": "2026-10-17T22:14:24.929822+00:00",
-  "attempted_at": "2026-10-17T22:14:24.929822+00:00",
+  "updated_at": "2026-10-18T00:05:32.514493+00:00",
+  "attempted_at": "2026-10-18T00:05:32.514493+00:00",
   "status": "ok",
   "video_status": "fresh",
   "video_warning": "",
-  "video_last_success_at": "2026-10-17T22:14:24.929822+00:00",
+  "video_last_success_at": "2026-10-18T00:05:32.514493+00:00",
   "video_mode": "popular_and_channel",
   "video_api_note": "YouTube Data API v3 / verified embeddable public videos",
   "source_count": 22,
@@ -35,13 +35,85 @@
     "YouTube mostPopular / VN"
   ],
   "sources_failed": [
+    "Tuổi Trẻ / vietnam (empty or no recent records)",
     "Tuổi Trẻ / world (empty or no recent records)",
     "Tuổi Trẻ / economy (empty or no recent records)",
-    "Tuổi Trẻ / vietnam (empty or no recent records)",
     "Search Engine Land / marketing (HTTP Error 403: Forbidden)",
     "VietnamPlus / vietnam (not well-formed (invalid token): line 1, column 0)"
   ],
   "news": [
+    {
+      "id": "1a6e771cd129f9e1f0",
+      "title": "Ebike rider, 13, charged with sexual touching after girls and women allegedly harassed on northern beaches trails",
+      "summary": "Sydney teenager charged with offensive behaviour and sexual touching without consent in relation to incidents involving females aged 13 to 54 An ebike riding 13-year-old boy has been charged with multiple sexual offences allegedly committed against women on walking trails on Sydney’s northern beaches. New South Wales police said…",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/18/sydney-northern-beaches-teenage-ebike-rider-13-charged-sexual-touching-trails-ntwnfb",
+      "image": "https://i.guim.co.uk/img/media/5d3ef148a542eda1fba384c5304087747c009bd4/212_0_4294_3437/master/4294.jpg?width=140&quality=85&auto=format&fit=max&s=e3320d349437156e599cd5bac2c96a2a",
+      "published_at": "2026-10-17T23:53:08+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Ebike rider, 13, charged with sexual touching after girls and women allegedly harassed on northern beaches trails",
+          "summary": "Sydney teenager charged with offensive behaviour and sexual touching without consent in relation to incidents involving females aged 13 to 54 An ebike riding 13-year-old boy has been charged with multiple sexual offences allegedly committed against women on walking trails on Sydney’s northern beaches. New South Wales police said…"
+        }
+      }
+    },
+    {
+      "id": "0bd6429ce4de8bfba6",
+      "title": "European diplomats attacked by Israeli settlers in West Bank",
+      "summary": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15c7/live/4f318350-ca52-11f1-852c-2b93a8fc4799.jpg",
+      "published_at": "2026-10-17T23:52:38+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "European diplomats attacked by Israeli settlers in West Bank",
+          "summary": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign."
+        }
+      }
+    },
+    {
+      "id": "15dda46e4ddf753818",
+      "title": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
+      "summary": "Satellite images give clues about how Kim spends his holidays - something far out of reach for most North Koreans.",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a208/live/829d3600-c861-11f1-9a39-31b474234113.png",
+      "published_at": "2026-10-17T22:09:50+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
+          "summary": "Satellite images give clues about how Kim spends his holidays - something far out of reach for most North Koreans."
+        }
+      }
+    },
+    {
+      "id": "cd1eb74272bdae2dfb",
+      "title": "How day of protests unfolded as disorder breaks out across France",
+      "summary": "Demonstrations across the country turned violent, with cars and buildings set alight and shops ransacked.",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/videos/cwz0vy770gpzo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/087d/live/01edc4a0-ca75-11f1-9a39-31b474234113.jpg",
+      "published_at": "2026-10-17T21:33:17+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "How day of protests unfolded as disorder breaks out across France",
+          "summary": "Demonstrations across the country turned violent, with cars and buildings set alight and shops ransacked."
+        }
+      }
+    },
     {
       "id": "7dd27ee4e856d38c00",
       "title": "Meta removes language that raised scraping and AI training concerns",
@@ -224,7 +296,7 @@
     },
     {
       "id": "038451c825bfda01a6",
-      "title": "Plover, not a fighter: masked lapwing nesting on Tasmanian cricket ground indifferent as play continues",
+      "title": "Plover, not a fighter: protected bird 12th man on Tasmanian cricket ground as staff mow around nest",
       "summary": "While masked lapwings have a reputation for swooping during nesting season, Windsor Park oval’s resident plover just wants a good innings At Windsor Park in Riverside, just outside Launceston in northern Tasmania, a masked lapwing has claimed prime real estate in the middle of a community sports ground, showing complete indiffer…",
       "source": "The Guardian",
       "category": "world",
@@ -235,7 +307,7 @@
       "source_lang": "en",
       "translations": {
         "en": {
-          "title": "Plover, not a fighter: masked lapwing nesting on Tasmanian cricket ground indifferent as play continues",
+          "title": "Plover, not a fighter: protected bird 12th man on Tasmanian cricket ground as staff mow around nest",
           "summary": "While masked lapwings have a reputation for swooping during nesting season, Windsor Park oval’s resident plover just wants a good innings At Windsor Park in Riverside, just outside Launceston in northern Tasmania, a masked lapwing has claimed prime real estate in the middle of a community sports ground, showing complete indiffer…"
         }
       }
@@ -273,24 +345,6 @@
         "en": {
           "title": "Replit makes OpenAI its default over Anthropic, CEO says",
           "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform."
-        }
-      }
-    },
-    {
-      "id": "0bd6429ce4de8bfba6",
-      "title": "European diplomats attacked by Israeli settlers in West Bank",
-      "summary": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
-      "source": "BBC News",
-      "category": "world",
-      "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15c7/live/4f318350-ca52-11f1-852c-2b93a8fc4799.jpg",
-      "published_at": "2026-10-17T18:38:57+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "European diplomats attacked by Israeli settlers in West Bank",
-          "summary": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign."
         }
       }
     },
@@ -387,18 +441,18 @@
     {
       "id": "50384b6a5d0dae4fd8",
       "title": "Revealed: French police used UK-funded 4x4 vehicles to charge student protesters",
-      "summary": "French government launches investigation into why cars funded by UK to prevent asylum seekers crossing Channel were used in school protests French police have used 4x4 vehicles paid for by British taxpayers to charge at student protesters during the school protests that have swept the country. The French government has confirmed…",
+      "summary": "French government investigating why cars funded by UK to prevent asylum seekers crossing Channel were used in school protests French police have used 4x4 vehicles paid for by British taxpayers to charge at student protesters during the school protests that have swept the country. The French government has confirmed that an inves…",
       "source": "The Guardian",
       "category": "politics",
       "url": "https://www.theguardian.com/world/2026/oct/17/french-police-uk-funded-4x4-vehicle-ram-student-protesters",
-      "image": "https://i.guim.co.uk/img/media/6daa6a500e0f0ad7c10925f04401f42e5d35ab48/204_0_4737_3790/master/4737.jpg?width=140&quality=85&auto=format&fit=max&s=64f9bd6bcf9aae6781bd1e448af9f619",
+      "image": "https://i.guim.co.uk/img/media/6daa6a500e0f0ad7c10925f04401f42e5d35ab48/1246_806_3730_2984/master/3730.jpg?width=140&quality=85&auto=format&fit=max&s=184b49497d6c9ae4650683043c7d15dc",
       "published_at": "2026-10-17T16:00:34+00:00",
       "kind": "source_brief",
       "source_lang": "en",
       "translations": {
         "en": {
           "title": "Revealed: French police used UK-funded 4x4 vehicles to charge student protesters",
-          "summary": "French government launches investigation into why cars funded by UK to prevent asylum seekers crossing Channel were used in school protests French police have used 4x4 vehicles paid for by British taxpayers to charge at student protesters during the school protests that have swept the country. The French government has confirmed…"
+          "summary": "French government investigating why cars funded by UK to prevent asylum seekers crossing Channel were used in school protests French police have used 4x4 vehicles paid for by British taxpayers to charge at student protesters during the school protests that have swept the country. The French government has confirmed that an inves…"
         }
       }
     },
@@ -1717,60 +1771,6 @@
       }
     },
     {
-      "id": "7380c158af8ff1c29e",
-      "title": "Judge throws out child sex abuse charges against actor Timothy Busfield",
-      "summary": "The judge in the case said on Friday that the prosecutor \"failed to act in a fair and impartial manner\".",
-      "source": "BBC News",
-      "category": "world",
-      "url": "https://www.bbc.co.uk/news/articles/c8vgxwq4q5r2o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d9d2/live/ddd16cc0-c9b1-11f1-a04a-83cd2533e4f9.jpg",
-      "published_at": "2026-10-17T00:38:34+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Judge throws out child sex abuse charges against actor Timothy Busfield",
-          "summary": "The judge in the case said on Friday that the prosecutor \"failed to act in a fair and impartial manner\"."
-        }
-      }
-    },
-    {
-      "id": "206ad3070cd6cc2fd5",
-      "title": "Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC",
-      "summary": "Defence Minister Guido Crosetto tells the BBC the US risks prolonging Russia's full-scale invasion rather than helping to end it.",
-      "source": "BBC News",
-      "category": "world",
-      "url": "https://www.bbc.co.uk/news/articles/c64g18ljjd8do?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab10/live/c646aaf0-ca3a-11f1-9ab2-b325ce61f9d2.png",
-      "published_at": "2026-10-16T23:54:35+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC",
-          "summary": "Defence Minister Guido Crosetto tells the BBC the US risks prolonging Russia's full-scale invasion rather than helping to end it."
-        }
-      }
-    },
-    {
-      "id": "00f30d32b87311f1e9",
-      "title": "Trial of German steakhouse heiress that sparked a huge spy scandal",
-      "summary": "For 15 months, a high-security courtroom in Hamburg has been hearing the case of Christina Block, accused of ordering the abduction of her children.",
-      "source": "BBC News",
-      "category": "world",
-      "url": "https://www.bbc.co.uk/news/articles/cwvgdn3d656vo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f50/live/e57d8d50-c8c1-11f1-bdfb-e3788aeae9ec.jpg",
-      "published_at": "2026-10-16T23:07:18+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Trial of German steakhouse heiress that sparked a huge spy scandal",
-          "summary": "For 15 months, a high-security courtroom in Hamburg has been hearing the case of Christina Block, accused of ordering the abduction of her children."
-        }
-      }
-    },
-    {
       "id": "16df95b107d5471097",
       "title": "OpenAI models hacked a crypto wallet and breached more websites",
       "summary": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
@@ -2026,13 +2026,30 @@
   "videos": {
     "vietnam": [
       {
+        "id": "zJB9QCsbRhI",
+        "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm và Tổng thống Thụy Sĩ Guy Parmelin cùng dạo bước quanh Hồ Gươm",
+        "channel": "VTV24",
+        "category": "vietnam",
+        "published_at": "2026-10-17T23:54:30+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/zJB9QCsbRhI/hqdefault.jpg",
+        "popularity": 251,
+        "provenance": "official_channel_api",
+        "source_lang": "vi",
+        "translations": {
+          "vi": {
+            "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm và Tổng thống Thụy Sĩ Guy Parmelin cùng dạo bước quanh Hồ Gươm",
+            "summary": ""
+          }
+        }
+      },
+      {
         "id": "ojTbjYfJvZQ",
         "title": "Thật - Giả, Kiểm chứng: Mạo danh cơ quan quản lý lừa đảo nhà đầu tư chứng khoán | VTV24",
         "channel": "VTV24",
         "category": "vietnam",
         "published_at": "2026-10-17T15:30:09+00:00",
         "thumbnail": "https://i.ytimg.com/vi/ojTbjYfJvZQ/hqdefault.jpg",
-        "popularity": 3512,
+        "popularity": 3824,
         "provenance": "official_channel_api",
         "source_lang": "vi",
         "translations": {
@@ -2049,7 +2066,7 @@
         "category": "vietnam",
         "published_at": "2026-10-17T15:30:03+00:00",
         "thumbnail": "https://i.ytimg.com/vi/fERk7S0IBpg/hqdefault.jpg",
-        "popularity": 227652,
+        "popularity": 226048,
         "provenance": "youtube_popular",
         "source_lang": "vi",
         "translations": {
@@ -2066,7 +2083,7 @@
         "category": "vietnam",
         "published_at": "2026-10-17T15:00:31+00:00",
         "thumbnail": "https://i.ytimg.com/vi/a8v50hbGj6k/hqdefault.jpg",
-        "popularity": 3210,
+        "popularity": 3488,
         "provenance": "official_channel_api",
         "source_lang": "vi",
         "translations": {
@@ -2083,7 +2100,7 @@
         "category": "vietnam",
         "published_at": "2026-10-17T14:31:59+00:00",
         "thumbnail": "https://i.ytimg.com/vi/iN9XeQ0Yz30/hqdefault.jpg",
-        "popularity": 5784,
+        "popularity": 6603,
         "provenance": "official_channel_api",
         "source_lang": "vi",
         "translations": {
@@ -2100,7 +2117,7 @@
         "category": "vietnam",
         "published_at": "2026-10-17T14:30:22+00:00",
         "thumbnail": "https://i.ytimg.com/vi/Y5h3hukAgMA/hqdefault.jpg",
-        "popularity": 4318,
+        "popularity": 4735,
         "provenance": "official_channel_api",
         "source_lang": "vi",
         "translations": {
@@ -2117,7 +2134,7 @@
         "category": "vietnam",
         "published_at": "2026-10-17T13:45:11+00:00",
         "thumbnail": "https://i.ytimg.com/vi/-nVQ32hfKBc/hqdefault.jpg",
-        "popularity": 5545,
+        "popularity": 5761,
         "provenance": "official_channel_api",
         "source_lang": "vi",
         "translations": {
@@ -2134,7 +2151,7 @@
         "category": "vietnam",
         "published_at": "2026-10-17T13:30:08+00:00",
         "thumbnail": "https://i.ytimg.com/vi/q5TGwSJTKCw/hqdefault.jpg",
-        "popularity": 2942,
+        "popularity": 3037,
         "provenance": "official_channel_api",
         "source_lang": "vi",
         "translations": {
@@ -2143,26 +2160,26 @@
             "summary": ""
           }
         }
-      },
-      {
-        "id": "zZs463KwikM",
-        "title": "Hưng Yên: Hơn 100 người dân đứng trước nguy cơ mất trắng tiền vì chơi hụi, họ | VTV24",
-        "channel": "VTV24",
-        "category": "vietnam",
-        "published_at": "2026-10-17T13:00:33+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/zZs463KwikM/hqdefault.jpg",
-        "popularity": 15275,
-        "provenance": "official_channel_api",
-        "source_lang": "vi",
-        "translations": {
-          "vi": {
-            "title": "Hưng Yên: Hơn 100 người dân đứng trước nguy cơ mất trắng tiền vì chơi hụi, họ | VTV24",
-            "summary": ""
-          }
-        }
       }
     ],
     "world": [
+      {
+        "id": "MXUyUHwHl6g",
+        "title": "Formula 1 Returns to Africa With Rwanda Grand Prix in 2030s",
+        "channel": "Bloomberg News",
+        "category": "world",
+        "published_at": "2026-10-18T00:00:07+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/MXUyUHwHl6g/hqdefault.jpg",
+        "popularity": 6,
+        "provenance": "official_channel_api",
+        "source_lang": "en",
+        "translations": {
+          "en": {
+            "title": "Formula 1 Returns to Africa With Rwanda Grand Prix in 2030s",
+            "summary": ""
+          }
+        }
+      },
       {
         "id": "k9fdVjYTsbQ",
         "title": "The Case for Mamdani-Style Populism",
@@ -2170,7 +2187,7 @@
         "category": "world",
         "published_at": "2026-10-17T22:00:20+00:00",
         "thumbnail": "https://i.ytimg.com/vi/k9fdVjYTsbQ/hqdefault.jpg",
-        "popularity": 18,
+        "popularity": 168,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2187,7 +2204,7 @@
         "category": "world",
         "published_at": "2026-10-17T21:42:46+00:00",
         "thumbnail": "https://i.ytimg.com/vi/i89sZ4WQeWc/hqdefault.jpg",
-        "popularity": 5473,
+        "popularity": 39990,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2204,7 +2221,7 @@
         "category": "world",
         "published_at": "2026-10-17T20:30:14+00:00",
         "thumbnail": "https://i.ytimg.com/vi/-JXpomZH7FI/hqdefault.jpg",
-        "popularity": 3916,
+        "popularity": 23919,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2221,7 +2238,7 @@
         "category": "world",
         "published_at": "2026-10-17T20:00:25+00:00",
         "thumbnail": "https://i.ytimg.com/vi/JIvaN5oxV-0/hqdefault.jpg",
-        "popularity": 240,
+        "popularity": 335,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2238,7 +2255,7 @@
         "category": "world",
         "published_at": "2026-10-17T19:30:17+00:00",
         "thumbnail": "https://i.ytimg.com/vi/6xbiorDJRYM/hqdefault.jpg",
-        "popularity": 6235,
+        "popularity": 15780,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2255,7 +2272,7 @@
         "category": "world",
         "published_at": "2026-10-17T18:59:40+00:00",
         "thumbnail": "https://i.ytimg.com/vi/g-NG0CVANmw/hqdefault.jpg",
-        "popularity": 47159,
+        "popularity": 106619,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2272,29 +2289,12 @@
         "category": "world",
         "published_at": "2026-10-17T18:00:23+00:00",
         "thumbnail": "https://i.ytimg.com/vi/uGV6eaEKzUs/hqdefault.jpg",
-        "popularity": 470,
+        "popularity": 635,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
           "en": {
             "title": "Dyson’s $500 Toothbrush Doesn’t Work (Yet)",
-            "summary": ""
-          }
-        }
-      },
-      {
-        "id": "Ot0fKLRLILI",
-        "title": "Hundreds arrested across France during day of major protests | BBC News",
-        "channel": "BBC News",
-        "category": "world",
-        "published_at": "2026-10-17T17:00:03+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/Ot0fKLRLILI/hqdefault.jpg",
-        "popularity": 127007,
-        "provenance": "official_channel_api",
-        "source_lang": "en",
-        "translations": {
-          "en": {
-            "title": "Hundreds arrested across France during day of major protests | BBC News",
             "summary": ""
           }
         }
@@ -2308,7 +2308,7 @@
         "category": "economy",
         "published_at": "2026-10-17T16:32:01+00:00",
         "thumbnail": "https://i.ytimg.com/vi/zoqBvldIoQk/hqdefault.jpg",
-        "popularity": 19186,
+        "popularity": 24257,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2325,7 +2325,7 @@
         "category": "economy",
         "published_at": "2026-10-17T14:37:48+00:00",
         "thumbnail": "https://i.ytimg.com/vi/sGiLuwJErTo/hqdefault.jpg",
-        "popularity": 3956,
+        "popularity": 4393,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2342,7 +2342,7 @@
         "category": "economy",
         "published_at": "2026-10-17T14:01:29+00:00",
         "thumbnail": "https://i.ytimg.com/vi/uG8rz3ot2Dk/hqdefault.jpg",
-        "popularity": 3997,
+        "popularity": 4478,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2359,7 +2359,7 @@
         "category": "economy",
         "published_at": "2026-10-17T14:00:31+00:00",
         "thumbnail": "https://i.ytimg.com/vi/9YJ0PW9dEfw/hqdefault.jpg",
-        "popularity": 7440,
+        "popularity": 9368,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2376,7 +2376,7 @@
         "category": "economy",
         "published_at": "2026-10-17T14:00:10+00:00",
         "thumbnail": "https://i.ytimg.com/vi/PNTnVNa69cI/hqdefault.jpg",
-        "popularity": 39307,
+        "popularity": 51242,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2393,7 +2393,7 @@
         "category": "economy",
         "published_at": "2026-10-17T13:43:09+00:00",
         "thumbnail": "https://i.ytimg.com/vi/g4PPOI6zcaI/hqdefault.jpg",
-        "popularity": 4321,
+        "popularity": 4687,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2410,7 +2410,7 @@
         "category": "economy",
         "published_at": "2026-10-17T13:19:31+00:00",
         "thumbnail": "https://i.ytimg.com/vi/rgkbxeFMpEo/hqdefault.jpg",
-        "popularity": 3441,
+        "popularity": 3767,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2427,7 +2427,7 @@
         "category": "economy",
         "published_at": "2026-10-17T13:04:22+00:00",
         "thumbnail": "https://i.ytimg.com/vi/IwwsTx0xNX0/hqdefault.jpg",
-        "popularity": 25496,
+        "popularity": 28489,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2446,7 +2446,7 @@
         "category": "technology",
         "published_at": "2026-10-17T15:00:19+00:00",
         "thumbnail": "https://i.ytimg.com/vi/mtiMk28wmAw/hqdefault.jpg",
-        "popularity": 3866,
+        "popularity": 4447,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2463,7 +2463,7 @@
         "category": "technology",
         "published_at": "2026-10-16T19:15:30+00:00",
         "thumbnail": "https://i.ytimg.com/vi/9h5naV9Ms4s/hqdefault.jpg",
-        "popularity": 13357,
+        "popularity": 13797,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2480,7 +2480,7 @@
         "category": "technology",
         "published_at": "2026-10-16T17:39:18+00:00",
         "thumbnail": "https://i.ytimg.com/vi/HTqc5fMitok/hqdefault.jpg",
-        "popularity": 10593,
+        "popularity": 10983,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2497,7 +2497,7 @@
         "category": "technology",
         "published_at": "2026-10-16T15:36:53+00:00",
         "thumbnail": "https://i.ytimg.com/vi/z00Lhm3CqAM/hqdefault.jpg",
-        "popularity": 40235,
+        "popularity": 41200,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2514,7 +2514,7 @@
         "category": "technology",
         "published_at": "2026-10-16T15:00:20+00:00",
         "thumbnail": "https://i.ytimg.com/vi/dWmEKM4_lKQ/hqdefault.jpg",
-        "popularity": 11887,
+        "popularity": 12557,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2531,7 +2531,7 @@
         "category": "technology",
         "published_at": "2026-10-16T13:49:43+00:00",
         "thumbnail": "https://i.ytimg.com/vi/_EW8O9SLSXs/hqdefault.jpg",
-        "popularity": 229258,
+        "popularity": 230057,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2548,7 +2548,7 @@
         "category": "technology",
         "published_at": "2026-10-16T10:55:14+00:00",
         "thumbnail": "https://i.ytimg.com/vi/BYWy6SyJRZo/hqdefault.jpg",
-        "popularity": 4606454,
+        "popularity": 4727621,
         "provenance": "youtube_popular",
         "source_lang": "en",
         "translations": {
@@ -2565,7 +2565,7 @@
         "category": "technology",
         "published_at": "2026-10-16T01:35:50+00:00",
         "thumbnail": "https://i.ytimg.com/vi/s-dZWcoLmRE/hqdefault.jpg",
-        "popularity": 434001,
+        "popularity": 435422,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2578,13 +2578,30 @@
     ],
     "ai-trends": [
       {
+        "id": "6dR-RCSUgrM",
+        "title": "TRƯA 17/10: Campuchia nói cảnh giác với việc làm tại Nga; 77 cảnh sát bị bắt vì tiếp tay lừa đảo",
+        "channel": "KHỎE TỰ NHIÊN",
+        "category": "ai-trends",
+        "published_at": "2026-10-17T05:06:11+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/6dR-RCSUgrM/hqdefault.jpg",
+        "popularity": 107553,
+        "provenance": "youtube_popular",
+        "source_lang": "en",
+        "translations": {
+          "en": {
+            "title": "TRƯA 17/10: Campuchia nói cảnh giác với việc làm tại Nga; 77 cảnh sát bị bắt vì tiếp tay lừa đảo",
+            "summary": ""
+          }
+        }
+      },
+      {
         "id": "LJ2v4-FvPcA",
         "title": "🧰 Builders building with Gemini Audio",
         "channel": "Google for Developers",
         "category": "ai-trends",
         "published_at": "2026-10-16T21:00:00+00:00",
         "thumbnail": "https://i.ytimg.com/vi/LJ2v4-FvPcA/hqdefault.jpg",
-        "popularity": 2122,
+        "popularity": 2171,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2601,7 +2618,7 @@
         "category": "ai-trends",
         "published_at": "2026-10-16T16:00:00+00:00",
         "thumbnail": "https://i.ytimg.com/vi/-nmcYcO-EE8/hqdefault.jpg",
-        "popularity": 3912,
+        "popularity": 4047,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2618,7 +2635,7 @@
         "category": "ai-trends",
         "published_at": "2026-10-15T23:00:26+00:00",
         "thumbnail": "https://i.ytimg.com/vi/qJplHFjyv2A/hqdefault.jpg",
-        "popularity": 3788,
+        "popularity": 3854,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2635,7 +2652,7 @@
         "category": "ai-trends",
         "published_at": "2026-10-15T19:00:22+00:00",
         "thumbnail": "https://i.ytimg.com/vi/i3X7Fv0Z3Uc/hqdefault.jpg",
-        "popularity": 11709,
+        "popularity": 11724,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2652,7 +2669,7 @@
         "category": "ai-trends",
         "published_at": "2026-10-15T16:00:02+00:00",
         "thumbnail": "https://i.ytimg.com/vi/nSwmcs37Jd4/hqdefault.jpg",
-        "popularity": 24525,
+        "popularity": 24873,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2669,7 +2686,7 @@
         "category": "ai-trends",
         "published_at": "2026-10-14T17:01:36+00:00",
         "thumbnail": "https://i.ytimg.com/vi/Jh6mgf9M06M/hqdefault.jpg",
-        "popularity": 68251,
+        "popularity": 68582,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2686,29 +2703,12 @@
         "category": "ai-trends",
         "published_at": "2026-10-13T19:00:11+00:00",
         "thumbnail": "https://i.ytimg.com/vi/OYp5j2RihPE/hqdefault.jpg",
-        "popularity": 141631,
+        "popularity": 142185,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
           "en": {
             "title": "Gemini 4 Argon and Google Antigravity: From 2D concept to 3D cathedral",
-            "summary": ""
-          }
-        }
-      },
-      {
-        "id": "IBVmenOroPs",
-        "title": "Order in any language with Gemini 3.5 Live Translate",
-        "channel": "Google for Developers",
-        "category": "ai-trends",
-        "published_at": "2026-10-09T23:00:24+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/IBVmenOroPs/hqdefault.jpg",
-        "popularity": 8774,
-        "provenance": "official_channel_api",
-        "source_lang": "en",
-        "translations": {
-          "en": {
-            "title": "Order in any language with Gemini 3.5 Live Translate",
             "summary": ""
           }
         }

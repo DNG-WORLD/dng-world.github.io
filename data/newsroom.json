@@ -1,12 +1,12 @@
 {
   "version": 36,
   "translation_status": "not_configured",
-  "updated_at": "2026-10-18T21:02:28.614798+00:00",
-  "attempted_at": "2026-10-18T21:02:28.614798+00:00",
+  "updated_at": "2026-10-18T22:56:54.653534+00:00",
+  "attempted_at": "2026-10-18T22:56:54.653534+00:00",
   "status": "ok",
   "video_status": "fresh",
   "video_warning": "",
-  "video_last_success_at": "2026-10-18T21:02:28.614798+00:00",
+  "video_last_success_at": "2026-10-18T22:56:54.653534+00:00",
   "video_mode": "popular_and_channel",
   "video_api_note": "YouTube Data API v3 / verified embeddable public videos",
   "source_count": 22,
@@ -42,6 +42,132 @@
     "VietnamPlus / vietnam (not well-formed (invalid token): line 1, column 0)"
   ],
   "news": [
+    {
+      "id": "fe1da706fb4d295faa",
+      "title": "Four people killed in ‘violent, fast-moving’ fire at Canadian military base",
+      "summary": "Prime minister Mark Carney describes blaze as ‘one of the worst tragedies for the forces on Canadian soil in peacetime’ Four people have been killed and dozens more seriously injured after a “violent, fast-moving” fire tore through one of Canada’s busiest military training bases in Alberta, Canada’s prime minister said on Sunday…",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright",
+      "image": "https://i.guim.co.uk/img/media/fd2fce9d5801c1379f2c9034bd7fd12e94a8a1be/1408_22_5652_4521/master/5652.jpg?width=140&quality=85&auto=format&fit=max&s=d0ae93ec314abf587a38476a01cc10a1",
+      "published_at": "2026-10-18T22:26:15+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Four people killed in ‘violent, fast-moving’ fire at Canadian military base",
+          "summary": "Prime minister Mark Carney describes blaze as ‘one of the worst tragedies for the forces on Canadian soil in peacetime’ Four people have been killed and dozens more seriously injured after a “violent, fast-moving” fire tore through one of Canada’s busiest military training bases in Alberta, Canada’s prime minister said on Sunday…"
+        }
+      }
+    },
+    {
+      "id": "4615586fa44617cff1",
+      "title": "A Savannah police officer gave her Flock login to her ICE agent husband",
+      "summary": "Now, former Savannah police officer Amber Harpe was fired in August following a department investigation that found she had shared her Flock login information with her husband, Tyler Harpe, an ICE agent. SPD does not share its Flock data with ICE and said sharing access to the system violated the department's security protocols.…",
+      "source": "The Verge",
+      "category": "technology",
+      "url": "https://www.theverge.com/policy/1013573/spd-officer-fired-flock-ice-husband",
+      "image": "",
+      "published_at": "2026-10-18T22:20:53+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "A Savannah police officer gave her Flock login to her ICE agent husband",
+          "summary": "Now, former Savannah police officer Amber Harpe was fired in August following a department investigation that found she had shared her Flock login information with her husband, Tyler Harpe, an ICE agent. SPD does not share its Flock data with ICE and said sharing access to the system violated the department's security protocols.…"
+        }
+      }
+    },
+    {
+      "id": "96a1d05f6574f4f54e",
+      "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
+      "summary": "The US president blocked numerous sanctions on Russia two days before they were due to take effect.",
+      "source": "BBC News",
+      "category": "politics",
+      "url": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4644/live/461bcc30-cb38-11f1-8a27-2de4c72fadc2.jpg",
+      "published_at": "2026-10-18T22:10:45+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
+          "summary": "The US president blocked numerous sanctions on Russia two days before they were due to take effect."
+        }
+      }
+    },
+    {
+      "id": "f5eb791716b403bfaa",
+      "title": "Nở rộ công cụ 'tăng tính người' cho nội dung AI",
+      "summary": "Hàng trăm công cụ \"nhân hóa\" văn bản AI đang xuất hiện nhằm giúp chỉnh sửa câu chữ tự nhiên hơn, bắt chước văn phong con người.",
+      "source": "VnExpress",
+      "category": "ai",
+      "url": "https://vnexpress.net/no-ro-cong-cu-tang-tinh-nguoi-cho-noi-dung-ai-5131701.html",
+      "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/13/ai-humanizer-1791870277-5825-1791870441.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=KBVZizfIyOESiUAUwj5kOg",
+      "published_at": "2026-10-18T22:00:00+00:00",
+      "kind": "source_brief",
+      "source_lang": "vi",
+      "translations": {
+        "vi": {
+          "title": "Nở rộ công cụ 'tăng tính người' cho nội dung AI",
+          "summary": "Hàng trăm công cụ \"nhân hóa\" văn bản AI đang xuất hiện nhằm giúp chỉnh sửa câu chữ tự nhiên hơn, bắt chước văn phong con người."
+        }
+      }
+    },
+    {
+      "id": "670c82a8c980467678",
+      "title": "What we know so far about deadly fire at Canadian military base",
+      "summary": "At least four people are confirmed to have died after a huge fire swept through the base.",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d82/live/7fedb8b0-cb1a-11f1-a9ef-8b4e735f71f0.jpg",
+      "published_at": "2026-10-18T21:37:56+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "What we know so far about deadly fire at Canadian military base",
+          "summary": "At least four people are confirmed to have died after a huge fire swept through the base."
+        }
+      }
+    },
+    {
+      "id": "ee86d917ab191175a1",
+      "title": "Sydney man charged after alleged gunfire prompted Dulwich Hill lockdown",
+      "summary": "Police responding to reports of an alleged stolen car in Dulwich Hill were told a man was armed with a firearm Get our breaking news email , free app or daily news podcast A man has been charged with a slew of offences following an investigation into reports a man was allegedly seen with a firearm in Sydney’s inner west last wee…",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/19/man-charged-dulwich-hill-sydney-inner-west-alleged-gun-ntwnfb",
+      "image": "https://i.guim.co.uk/img/media/ad63b473fb5f5da33817b94700856e4be2b027b6/368_1087_5353_4282/master/5353.jpg?width=140&quality=85&auto=format&fit=max&s=2678fa90e8b944e5b652ce9f0134c552",
+      "published_at": "2026-10-18T21:22:51+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Sydney man charged after alleged gunfire prompted Dulwich Hill lockdown",
+          "summary": "Police responding to reports of an alleged stolen car in Dulwich Hill were told a man was armed with a firearm Get our breaking news email , free app or daily news podcast A man has been charged with a slew of offences following an investigation into reports a man was allegedly seen with a firearm in Sydney’s inner west last wee…"
+        }
+      }
+    },
+    {
+      "id": "d54fc7597418b304da",
+      "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
+      "summary": "The BBC's Quentin Sommerville reports from Chicago, where communities are battling a new wave of synthetic drugs.",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2040/live/43727360-cb12-11f1-a64c-550be9e3c66b.jpg",
+      "published_at": "2026-10-18T21:00:22+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
+          "summary": "The BBC's Quentin Sommerville reports from Chicago, where communities are battling a new wave of synthetic drugs."
+        }
+      }
+    },
     {
       "id": "9c99b0abc066eb4add",
       "title": "No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market",
@@ -97,20 +223,20 @@
       }
     },
     {
-      "id": "670c82a8c980467678",
-      "title": "What we know so far about deadly fire at Canadian military base",
-      "summary": "At least four people are confirmed to have died after a huge fire swept through the base.",
+      "id": "a8335421abcc6a5016",
+      "title": "Cindy Crawford 'beyond heartbroken' after death of son Presley at 27",
+      "summary": "Presley Gerber's death in September is being investigated as a suspected overdose.",
       "source": "BBC News",
       "category": "world",
-      "url": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d82/live/7fedb8b0-cb1a-11f1-a9ef-8b4e735f71f0.jpg",
-      "published_at": "2026-10-18T19:42:37+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cwzrd6123jyyo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e6f/live/104d6ec0-cb23-11f1-862d-eb45b1209086.jpg",
+      "published_at": "2026-10-18T19:53:27+00:00",
       "kind": "source_brief",
       "source_lang": "en",
       "translations": {
         "en": {
-          "title": "What we know so far about deadly fire at Canadian military base",
-          "summary": "At least four people are confirmed to have died after a huge fire swept through the base."
+          "title": "Cindy Crawford 'beyond heartbroken' after death of son Presley at 27",
+          "summary": "Presley Gerber's death in September is being investigated as a suspected overdose."
         }
       }
     },
@@ -152,7 +278,7 @@
     },
     {
       "id": "9e235dbe784a1b6ca5",
-      "title": "Macron criticises ‘unbridled violence’ after days of unrest and 2,000 arrests across France",
+      "title": "Macron criticises ‘unbridled violence’ after days of unrest and 2,400 arrests across France",
       "summary": "Ministers, officials and police under pressure over response to protests as government holds crisis talks amid ‘colossal failure of the state’ The French president, Emmanuel Macron, has criticised “unbridled violence” after one of the most violent days of unrest in years left public buildings burned, hundreds of shops destroyed…",
       "source": "The Guardian",
       "category": "politics",
@@ -163,7 +289,7 @@
       "source_lang": "en",
       "translations": {
         "en": {
-          "title": "Macron criticises ‘unbridled violence’ after days of unrest and 2,000 arrests across France",
+          "title": "Macron criticises ‘unbridled violence’ after days of unrest and 2,400 arrests across France",
           "summary": "Ministers, officials and police under pressure over response to protests as government holds crisis talks amid ‘colossal failure of the state’ The French president, Emmanuel Macron, has criticised “unbridled violence” after one of the most violent days of unrest in years left public buildings burned, hundreds of shops destroyed…"
         }
       }
@@ -201,24 +327,6 @@
         "en": {
           "title": "Shabana Mahmood to hold talks with EU over law enforcement cooperation",
           "summary": "UK home secretary’s meeting comes after PM said he wanted to rejoin European law enforcement databases The UK home secretary, Shabana Mahmood, will meet the EU’s home affairs commissioner on Monday for further talks just days after Andy Burnham said he wanted to rejoin European law enforcement databases from which the UK has bee…"
-        }
-      }
-    },
-    {
-      "id": "fe1da706fb4d295faa",
-      "title": "Four people killed in ‘violent, fast-moving’ fire at Canadian military base",
-      "summary": "Prime minister Mark Carney describes blaze as ‘one of the worst tragedies for the forces on Canadian soil in peacetime’ Four people have been killed and dozens more seriously injured after a “violent, fast-moving” fire tore through one of Canada’s busiest military training bases in Alberta, Canada’s prime minister said on Sunday…",
-      "source": "The Guardian",
-      "category": "world",
-      "url": "https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright",
-      "image": "https://i.guim.co.uk/img/media/fd2fce9d5801c1379f2c9034bd7fd12e94a8a1be/1408_22_5652_4521/master/5652.jpg?width=140&quality=85&auto=format&fit=max&s=d0ae93ec314abf587a38476a01cc10a1",
-      "published_at": "2026-10-18T17:34:53+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Four people killed in ‘violent, fast-moving’ fire at Canadian military base",
-          "summary": "Prime minister Mark Carney describes blaze as ‘one of the worst tragedies for the forces on Canadian soil in peacetime’ Four people have been killed and dozens more seriously injured after a “violent, fast-moving” fire tore through one of Canada’s busiest military training bases in Alberta, Canada’s prime minister said on Sunday…"
         }
       }
     },
@@ -601,24 +709,6 @@
       }
     },
     {
-      "id": "3371ebd71844866022",
-      "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
-      "summary": "About 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.",
-      "source": "BBC News",
-      "category": "world",
-      "url": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/55f7/live/7d8c1210-cb06-11f1-93db-7509e20aa39a.jpg",
-      "published_at": "2026-10-18T12:07:31+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
-          "summary": "About 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism."
-        }
-      }
-    },
-    {
       "id": "30168ad36b6a9c9cbb",
       "title": "Cities want to put the boot on robotaxis",
       "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on autonomous vehicles, policy, and road rules, follow Andrew J. Hawkins. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started The first state to pass a law […]",
@@ -961,6 +1051,24 @@
       }
     },
     {
+      "id": "7bc7506bc1d648b8f1",
+      "title": "Số người tiêm vaccine não mô cầu tăng đột biến",
+      "summary": "Số lượng tiêm ngừa não mô cầu tăng vọt trong ba ngày qua, sau khi 4 học sinh mắc bệnh, trong đó một em tử vong.",
+      "source": "VnExpress",
+      "category": "vietnam",
+      "url": "https://vnexpress.net/so-nguoi-tiem-vaccine-nao-mo-cau-tang-dot-bien-5133828.html",
+      "image": "https://vcdn1-suckhoe.vnecdn.net/2026/10/18/thumb-vac-xin-na-mo-cau-179230-6936-6343-1792310010.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=P24nPadO45B20AIGehPyHg",
+      "published_at": "2026-10-18T08:00:00+00:00",
+      "kind": "source_brief",
+      "source_lang": "vi",
+      "translations": {
+        "vi": {
+          "title": "Số người tiêm vaccine não mô cầu tăng đột biến",
+          "summary": "Số lượng tiêm ngừa não mô cầu tăng vọt trong ba ngày qua, sau khi 4 học sinh mắc bệnh, trong đó một em tử vong."
+        }
+      }
+    },
+    {
       "id": "b96058820344f52e8b",
       "title": "Sai lầm khiến vết thương nhỏ ở trẻ dễ trở nặng",
       "summary": "Lạm dụng dung dịch sát khuẩn, không bảo đảm vệ sinh khi sơ cứu vết thương cho trẻ có thể gây tổn thương mô, nhiễm trùng và bỏ sót nguy cơ uốn ván.",
@@ -1199,7 +1307,7 @@
       "title": "Giá vàng thế giới khó dự báo diễn biến",
       "summary": "Giới phân tích chia rẽ về triển vọng vàng tuần tới, khi một nửa cảm thấy khó quyết định sau tuần nhiều biến động.",
       "source": "VnExpress",
-      "category": "vietnam",
+      "category": "economy",
       "url": "https://vnexpress.net/gia-vang-the-gioi-kho-du-bao-dien-bien-5133813.html",
       "image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/18/gold3-1792304984-8615-1792305039.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=4QSlPa77ZXsPKVZflb-5tg",
       "published_at": "2026-10-18T06:50:42+00:00",
@@ -1321,6 +1429,24 @@
       }
     },
     {
+      "id": "60a74b8a102239912e",
+      "title": "Long Châu hai năm liên tiếp là 'Doanh nghiệp xuất sắc Châu Á'",
+      "summary": "Long Châu nhận danh hiệu Corporate Excellence Award (Doanh nghiệp xuất sắc Châu Á) thuộc giải thưởng Asia Pacific Enterprise Awards (APEA) 2026 do Hiệp hội Doanh nghiệp Châu Á (Enterprise Asia) tổ chức, ngày 15/10.",
+      "source": "VnExpress",
+      "category": "economy",
+      "url": "https://vnexpress.net/long-chau-hai-nam-lien-tiep-la-doanh-nghiep-xuat-sac-chau-a-5133792.html",
+      "image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/18/1-jpg-1792298087-7659-1792298553.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=gCXr05k8PKZ_vDEViJBaNA",
+      "published_at": "2026-10-18T06:00:00+00:00",
+      "kind": "source_brief",
+      "source_lang": "vi",
+      "translations": {
+        "vi": {
+          "title": "Long Châu hai năm liên tiếp là 'Doanh nghiệp xuất sắc Châu Á'",
+          "summary": "Long Châu nhận danh hiệu Corporate Excellence Award (Doanh nghiệp xuất sắc Châu Á) thuộc giải thưởng Asia Pacific Enterprise Awards (APEA) 2026 do Hiệp hội Doanh nghiệp Châu Á (Enterprise Asia) tổ chức, ngày 15/10."
+        }
+      }
+    },
+    {
       "id": "3851d9f7945bf7288b",
       "title": "Dạ tiệc âm nhạc của Phùng Khánh Linh",
       "summary": "Ca sĩ Phùng Khánh Linh hát, nhảy suốt ba giờ, làm chủ sân khấu trong đêm nhạc 7.000 khán giả - đông nhất từ trước đến nay của cô.",
@@ -1339,20 +1465,20 @@
       }
     },
     {
-      "id": "60a74b8a102239912e",
-      "title": "Long Châu hai năm liên tiếp là 'Doanh nghiệp xuất sắc Châu Á'",
-      "summary": "Long Châu nhận danh hiệu Corporate Excellence Award (Doanh nghiệp xuất sắc Châu Á) thuộc giải thưởng Asia Pacific Enterprise Awards (APEA) 2026 do Hiệp hội Doanh nghiệp Châu Á (Enterprise Asia) tổ chức, ngày 15/10.",
+      "id": "a29fa4ba11b11fd72b",
+      "title": "Căn hộ hạng sang Phú Mỹ Hưng Triton Crown mở bán đợt đầu",
+      "summary": "Hơn 400 người tham gia rút thăm thứ tự mua giỏ hàng tòa A, khu căn hộ hạng sang Triton Crown, sáng 18/10.",
       "source": "VnExpress",
       "category": "vietnam",
-      "url": "https://vnexpress.net/long-chau-hai-nam-lien-tiep-la-doanh-nghiep-xuat-sac-chau-a-5133792.html",
-      "image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/18/1-jpg-1792298087-7659-1792298553.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=gCXr05k8PKZ_vDEViJBaNA",
+      "url": "https://vnexpress.net/can-ho-hang-sang-phu-my-hung-triton-crown-mo-ban-dot-dau-5133626.html",
+      "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/18/story-do-t-1792302127-2783-1792302259.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=UVbh02q4H27EU3g1NR6NJA",
       "published_at": "2026-10-18T06:00:00+00:00",
       "kind": "source_brief",
       "source_lang": "vi",
       "translations": {
         "vi": {
-          "title": "Long Châu hai năm liên tiếp là 'Doanh nghiệp xuất sắc Châu Á'",
-          "summary": "Long Châu nhận danh hiệu Corporate Excellence Award (Doanh nghiệp xuất sắc Châu Á) thuộc giải thưởng Asia Pacific Enterprise Awards (APEA) 2026 do Hiệp hội Doanh nghiệp Châu Á (Enterprise Asia) tổ chức, ngày 15/10."
+          "title": "Căn hộ hạng sang Phú Mỹ Hưng Triton Crown mở bán đợt đầu",
+          "summary": "Hơn 400 người tham gia rút thăm thứ tự mua giỏ hàng tòa A, khu căn hộ hạng sang Triton Crown, sáng 18/10."
         }
       }
     },
@@ -1389,24 +1515,6 @@
         "vi": {
           "title": "Bí thư Trần Lưu Quang: TP HCM chắt chiu nguồn lực để tăng trưởng hai chữ số",
           "summary": "Ông Trần Lưu Quang khẳng định TP HCM chắt chiu nguồn lực để GRDP đạt hai chữ số, nhưng sẽ tăng trưởng bền vững, \"không ăn xổi ở thì\"."
-        }
-      }
-    },
-    {
-      "id": "0e4e8818e9343e503d",
-      "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
-      "summary": "BBC News hears from users, dealers, prison and recovery workers as the country battles with a deadly new drug epidemic.",
-      "source": "BBC News",
-      "category": "world",
-      "url": "https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a90/live/cf7329e0-ca0e-11f1-bc2e-018d645d8d21.jpg",
-      "published_at": "2026-10-18T05:04:31+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
-          "summary": "BBC News hears from users, dealers, prison and recovery workers as the country battles with a deadly new drug epidemic."
         }
       }
     },
@@ -1717,24 +1825,6 @@
       }
     },
     {
-      "id": "fd3979152c2e61bd5a",
-      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
-      "summary": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
-      "source": "TechCrunch",
-      "category": "technology",
-      "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
-      "image": "",
-      "published_at": "2026-10-17T20:21:19+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
-          "summary": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year."
-        }
-      }
-    },
-    {
       "id": "6d09bb2727e7ee9f9c",
       "title": "At least 17 dead in crush at Hindu festival event in India",
       "summary": "Many more have been injured at an event in the Indian city of Kolkata to mark a Hindu festival.",
@@ -1749,24 +1839,6 @@
         "en": {
           "title": "At least 17 dead in crush at Hindu festival event in India",
           "summary": "Many more have been injured at an event in the Indian city of Kolkata to mark a Hindu festival."
-        }
-      }
-    },
-    {
-      "id": "038451c825bfda01a6",
-      "title": "Plover, not a fighter: protected bird 12th man on Tasmanian cricket ground as staff mow around nest",
-      "summary": "While masked lapwings have a reputation for swooping during nesting season, Windsor Park oval’s resident plover just wants a good innings At Windsor Park in Riverside, just outside Launceston in northern Tasmania, a masked lapwing has claimed prime real estate in the middle of a community sports ground, showing complete indiffer…",
-      "source": "The Guardian",
-      "category": "world",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/18/plover-not-a-fighter-masked-lapwing-nesting-on-tasmanian-cricket-ground-indifferent-as-play-continues",
-      "image": "https://i.guim.co.uk/img/media/b8a8dcdafe9f90bfe19a2550a0320b7daf4f29c0/130_0_1666_1333/master/1666.jpg?width=140&quality=85&auto=format&fit=max&s=15fcdac68cb5f150670b1c3a8c07f652",
-      "published_at": "2026-10-17T19:00:40+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Plover, not a fighter: protected bird 12th man on Tasmanian cricket ground as staff mow around nest",
-          "summary": "While masked lapwings have a reputation for swooping during nesting season, Windsor Park oval’s resident plover just wants a good innings At Windsor Park in Riverside, just outside Launceston in northern Tasmania, a masked lapwing has claimed prime real estate in the middle of a community sports ground, showing complete indiffer…"
         }
       }
     },
@@ -1915,42 +1987,6 @@
       }
     },
     {
-      "id": "578ef30bdd4c92867a",
-      "title": "US corporate lobbyists mounted ‘blitz’ to dilute landmark EU deforestation law, report finds",
-      "summary": "Environmental watchdog Mighty Earth reveals two-year effort to postpone and weaken EU Deforestation Regulation US corporate lobbyists launched a two-year “blitz” to postpone and weaken the world’s most progressive legislation to protect forests, according to a new investigation by the environmental watchdog Mighty Earth. Major U…",
-      "source": "The Guardian",
-      "category": "economy",
-      "url": "https://www.theguardian.com/environment/2026/oct/17/us-corporate-lobbyists-europe-deforestation",
-      "image": "https://i.guim.co.uk/img/media/df8c85f8eb823746e6c6870d49f885ae6b15be08/831_0_6622_5299/master/6622.jpg?width=140&quality=85&auto=format&fit=max&s=f84ef67156d0ee7bae0416a47f64d940",
-      "published_at": "2026-10-17T11:00:31+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "US corporate lobbyists mounted ‘blitz’ to dilute landmark EU deforestation law, report finds",
-          "summary": "Environmental watchdog Mighty Earth reveals two-year effort to postpone and weaken EU Deforestation Regulation US corporate lobbyists launched a two-year “blitz” to postpone and weaken the world’s most progressive legislation to protect forests, according to a new investigation by the environmental watchdog Mighty Earth. Major U…"
-        }
-      }
-    },
-    {
-      "id": "297fa8e587e9d72847",
-      "title": "Dự kiến nâng ngưỡng doanh thu xác định doanh nghiệp nhỏ và vừa lên 400 tỷ đồng",
-      "summary": "Chính phủ đề xuất ngưỡng doanh thu năm để xác định doanh nghiệp nhỏ và vừa là 400 tỷ đồng, tăng 100 tỷ so với luật hiện hành.",
-      "source": "VnExpress",
-      "category": "economy",
-      "url": "https://vnexpress.net/du-kien-nang-nguong-doanh-thu-xac-dinh-doanh-nghiep-nho-va-vua-len-400-ty-dong-5133605.html",
-      "image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/17/ong-ngo-van-tuan-1792227352-3705-1792227423.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Es5Edh00_0XioPxi2NNdZg",
-      "published_at": "2026-10-17T09:16:25+00:00",
-      "kind": "source_brief",
-      "source_lang": "vi",
-      "translations": {
-        "vi": {
-          "title": "Dự kiến nâng ngưỡng doanh thu xác định doanh nghiệp nhỏ và vừa lên 400 tỷ đồng",
-          "summary": "Chính phủ đề xuất ngưỡng doanh thu năm để xác định doanh nghiệp nhỏ và vừa là 400 tỷ đồng, tăng 100 tỷ so với luật hiện hành."
-        }
-      }
-    },
-    {
       "id": "bbf1b05bddb045b0f3",
       "title": "Sự trỗi dậy của những tổ chức đánh giá an toàn AI",
       "summary": "Từng là mảnh ghép thầm lặng trong ngành AI, các tổ chức đánh giá an toàn đang vươn lên khi nhu cầu kiểm soát rủi ro tăng cao.",
@@ -1985,46 +2021,27 @@
           "summary": "FPT giới thiệu giải pháp FPT AI EOS, FPT Kubernetes Engine với GPU và FPT Token Factory, hướng tới giải quyết bài toán then chốt khi doanh nghiệp đưa AI từ thử nghiệm vào vận hành thực tế, ngày 17/10."
         }
       }
-    },
-    {
-      "id": "a1365c50f71f1cd7c3",
-      "title": "Brazil sees record fall in Amazon deforestation as key election looms",
-      "summary": "The Amazon rainforest is a crucial buffer against climate change - but deforestation had expanded under former president Jair Bolsonaro.",
-      "source": "BBC News",
-      "category": "politics",
-      "url": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43ab/live/8511edf0-c9be-11f1-ae9f-bf0ab88aba90.jpg",
-      "published_at": "2026-10-17T02:33:09+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Brazil sees record fall in Amazon deforestation as key election looms",
-          "summary": "The Amazon rainforest is a crucial buffer against climate change - but deforestation had expanded under former president Jair Bolsonaro."
-        }
-      }
-    },
-    {
-      "id": "16df95b107d5471097",
-      "title": "OpenAI models hacked a crypto wallet and breached more websites",
-      "summary": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
-      "source": "Ars Technica",
-      "category": "ai",
-      "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-agents-1152x648.jpg",
-      "published_at": "2026-10-16T20:59:01+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "OpenAI models hacked a crypto wallet and breached more websites",
-          "summary": "The actions could have resulted in criminal charges had humans been behind the keyboard."
-        }
-      }
     }
   ],
   "videos": {
     "vietnam": [
+      {
+        "id": "tfQ8s3iJkow",
+        "title": "Việt Nam Bắn Đạn Thật Tại Đà Nẵng: Nước Cờ Bảo Vệ Yết Hầu Hoàng Sa!",
+        "channel": "La Bàn Thời Sự",
+        "category": "vietnam",
+        "published_at": "2026-10-18T16:22:26+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/tfQ8s3iJkow/hqdefault.jpg",
+        "popularity": 235766,
+        "provenance": "youtube_popular",
+        "source_lang": "vi",
+        "translations": {
+          "vi": {
+            "title": "Việt Nam Bắn Đạn Thật Tại Đà Nẵng: Nước Cờ Bảo Vệ Yết Hầu Hoàng Sa!",
+            "summary": ""
+          }
+        }
+      },
       {
         "id": "mCuJYVTzfNA",
         "title": "Nông dân thời công nghệ: Chủ động đổi mới, nâng tầm sản xuất | VTV24",
@@ -2032,7 +2049,7 @@
         "category": "vietnam",
         "published_at": "2026-10-18T16:00:26+00:00",
         "thumbnail": "https://i.ytimg.com/vi/mCuJYVTzfNA/hqdefault.jpg",
-        "popularity": 2055,
+        "popularity": 2428,
         "provenance": "official_channel_api",
         "source_lang": "vi",
         "translations": {
@@ -2049,7 +2066,7 @@
         "category": "vietnam",
         "published_at": "2026-10-18T15:30:18+00:00",
         "thumbnail": "https://i.ytimg.com/vi/6urHjVdDbIE/hqdefault.jpg",
-        "popularity": 3016,
+        "popularity": 3320,
         "provenance": "official_channel_api",
         "source_lang": "vi",
         "translations": {
@@ -2066,7 +2083,7 @@
         "category": "vietnam",
         "published_at": "2026-10-18T15:00:08+00:00",
         "thumbnail": "https://i.ytimg.com/vi/mFNUvMDm9lQ/hqdefault.jpg",
-        "popularity": 2763,
+        "popularity": 3036,
         "provenance": "official_channel_api",
         "source_lang": "vi",
         "translations": {
@@ -2083,7 +2100,7 @@
         "category": "vietnam",
         "published_at": "2026-10-18T14:30:14+00:00",
         "thumbnail": "https://i.ytimg.com/vi/EfQgIwGGRNM/hqdefault.jpg",
-        "popularity": 4611,
+        "popularity": 4831,
         "provenance": "official_channel_api",
         "source_lang": "vi",
         "translations": {
@@ -2100,7 +2117,7 @@
         "category": "vietnam",
         "published_at": "2026-10-18T14:00:15+00:00",
         "thumbnail": "https://i.ytimg.com/vi/JTilaGtj3OA/hqdefault.jpg",
-        "popularity": 8377,
+        "popularity": 9386,
         "provenance": "official_channel_api",
         "source_lang": "vi",
         "translations": {
@@ -2117,7 +2134,7 @@
         "category": "vietnam",
         "published_at": "2026-10-18T13:09:29+00:00",
         "thumbnail": "https://i.ytimg.com/vi/ZgjrhZzdEAA/hqdefault.jpg",
-        "popularity": 10065,
+        "popularity": 10960,
         "provenance": "official_channel_api",
         "source_lang": "vi",
         "translations": {
@@ -2134,7 +2151,7 @@
         "category": "vietnam",
         "published_at": "2026-10-18T12:15:15+00:00",
         "thumbnail": "https://i.ytimg.com/vi/u-kUyJwvQ2A/hqdefault.jpg",
-        "popularity": 45634,
+        "popularity": 48269,
         "provenance": "official_channel_api",
         "source_lang": "vi",
         "translations": {
@@ -2143,26 +2160,60 @@
             "summary": ""
           }
         }
-      },
-      {
-        "id": "1Hi92bZq61M",
-        "title": "Điểm tuần: Hoa sữa và chúng ta - Khi nghĩ cho nhau từ những điều nhỏ nhất | VTV24",
-        "channel": "VTV24",
-        "category": "vietnam",
-        "published_at": "2026-10-18T11:36:06+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/1Hi92bZq61M/hqdefault.jpg",
-        "popularity": 8062,
-        "provenance": "official_channel_api",
-        "source_lang": "vi",
-        "translations": {
-          "vi": {
-            "title": "Điểm tuần: Hoa sữa và chúng ta - Khi nghĩ cho nhau từ những điều nhỏ nhất | VTV24",
-            "summary": ""
-          }
-        }
       }
     ],
     "world": [
+      {
+        "id": "xhVv8I9j3KI",
+        "title": "2’400 arrests in France's worst street violence for decades | BBC News",
+        "channel": "BBC News",
+        "category": "world",
+        "published_at": "2026-10-18T22:48:07+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/xhVv8I9j3KI/hqdefault.jpg",
+        "popularity": 601,
+        "provenance": "official_channel_api",
+        "source_lang": "en",
+        "translations": {
+          "en": {
+            "title": "2’400 arrests in France's worst street violence for decades | BBC News",
+            "summary": ""
+          }
+        }
+      },
+      {
+        "id": "erA-DIrAgTY",
+        "title": "Malibu's Fire-Damaged Mansions Face El Niño Threat",
+        "channel": "Bloomberg News",
+        "category": "world",
+        "published_at": "2026-10-18T22:00:26+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/erA-DIrAgTY/hqdefault.jpg",
+        "popularity": 158,
+        "provenance": "official_channel_api",
+        "source_lang": "en",
+        "translations": {
+          "en": {
+            "title": "Malibu's Fire-Damaged Mansions Face El Niño Threat",
+            "summary": ""
+          }
+        }
+      },
+      {
+        "id": "jlejQVL_YD8",
+        "title": "America's Synthetic Drug Crisis | BBC News",
+        "channel": "BBC News",
+        "category": "world",
+        "published_at": "2026-10-18T21:49:34+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/jlejQVL_YD8/hqdefault.jpg",
+        "popularity": 1604,
+        "provenance": "official_channel_api",
+        "source_lang": "en",
+        "translations": {
+          "en": {
+            "title": "America's Synthetic Drug Crisis | BBC News",
+            "summary": ""
+          }
+        }
+      },
       {
         "id": "CA7P1c8FYzA",
         "title": "Gas Prices Could Cost Trump the Midterms",
@@ -2170,7 +2221,7 @@
         "category": "world",
         "published_at": "2026-10-18T20:00:12+00:00",
         "thumbnail": "https://i.ytimg.com/vi/CA7P1c8FYzA/hqdefault.jpg",
-        "popularity": 312,
+        "popularity": 737,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2187,7 +2238,7 @@
         "category": "world",
         "published_at": "2026-10-18T19:20:07+00:00",
         "thumbnail": "https://i.ytimg.com/vi/zgXCOSgSVjo/hqdefault.jpg",
-        "popularity": 3143,
+        "popularity": 6663,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2204,7 +2255,7 @@
         "category": "world",
         "published_at": "2026-10-18T18:24:11+00:00",
         "thumbnail": "https://i.ytimg.com/vi/8-QqHaqLAsE/hqdefault.jpg",
-        "popularity": 8145,
+        "popularity": 26913,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2221,7 +2272,7 @@
         "category": "world",
         "published_at": "2026-10-18T18:15:01+00:00",
         "thumbnail": "https://i.ytimg.com/vi/-S1oSeORfhA/hqdefault.jpg",
-        "popularity": 7788,
+        "popularity": 29201,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2238,63 +2289,12 @@
         "category": "world",
         "published_at": "2026-10-18T18:00:11+00:00",
         "thumbnail": "https://i.ytimg.com/vi/6UQrPIkclN4/hqdefault.jpg",
-        "popularity": 274,
+        "popularity": 418,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
           "en": {
             "title": "Will Brazil Turn Rightward and Elect Another Bolsonaro President?",
-            "summary": ""
-          }
-        }
-      },
-      {
-        "id": "aK1Cmn8yua8",
-        "title": "Inside Iceland's farming innovations | BBC News",
-        "channel": "BBC News",
-        "category": "world",
-        "published_at": "2026-10-18T17:17:06+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/aK1Cmn8yua8/hqdefault.jpg",
-        "popularity": 30479,
-        "provenance": "official_channel_api",
-        "source_lang": "en",
-        "translations": {
-          "en": {
-            "title": "Inside Iceland's farming innovations | BBC News",
-            "summary": ""
-          }
-        }
-      },
-      {
-        "id": "vIw9GAXhzmg",
-        "title": "Rory Mcllroy: Liv Golf Spent Too Much Money 'Enriching Tour Pros'",
-        "channel": "Bloomberg News",
-        "category": "world",
-        "published_at": "2026-10-18T16:00:08+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/vIw9GAXhzmg/hqdefault.jpg",
-        "popularity": 628,
-        "provenance": "official_channel_api",
-        "source_lang": "en",
-        "translations": {
-          "en": {
-            "title": "Rory Mcllroy: Liv Golf Spent Too Much Money 'Enriching Tour Pros'",
-            "summary": ""
-          }
-        }
-      },
-      {
-        "id": "CjnOAsEyA5U",
-        "title": "Can Labour Prevent Another Winter NHS Crisis? | BBC News",
-        "channel": "BBC News",
-        "category": "world",
-        "published_at": "2026-10-18T16:00:02+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/CjnOAsEyA5U/hqdefault.jpg",
-        "popularity": 14131,
-        "provenance": "official_channel_api",
-        "source_lang": "en",
-        "translations": {
-          "en": {
-            "title": "Can Labour Prevent Another Winter NHS Crisis? | BBC News",
             "summary": ""
           }
         }
@@ -2308,7 +2308,7 @@
         "category": "economy",
         "published_at": "2026-10-18T16:18:24+00:00",
         "thumbnail": "https://i.ytimg.com/vi/vx0j3I7jPcI/hqdefault.jpg",
-        "popularity": 5038,
+        "popularity": 7790,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2325,7 +2325,7 @@
         "category": "economy",
         "published_at": "2026-10-18T15:19:14+00:00",
         "thumbnail": "https://i.ytimg.com/vi/Y5M8Gs7AS7I/hqdefault.jpg",
-        "popularity": 3117,
+        "popularity": 3899,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2342,7 +2342,7 @@
         "category": "economy",
         "published_at": "2026-10-18T15:04:10+00:00",
         "thumbnail": "https://i.ytimg.com/vi/hyDmuq7guqc/hqdefault.jpg",
-        "popularity": 4184,
+        "popularity": 5217,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2359,7 +2359,7 @@
         "category": "economy",
         "published_at": "2026-10-18T14:36:08+00:00",
         "thumbnail": "https://i.ytimg.com/vi/q--shB_2V2k/hqdefault.jpg",
-        "popularity": 9350,
+        "popularity": 11278,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2376,7 +2376,7 @@
         "category": "economy",
         "published_at": "2026-10-18T14:21:24+00:00",
         "thumbnail": "https://i.ytimg.com/vi/EqvkKSaE1X0/hqdefault.jpg",
-        "popularity": 6414,
+        "popularity": 7837,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2393,7 +2393,7 @@
         "category": "economy",
         "published_at": "2026-10-18T14:10:17+00:00",
         "thumbnail": "https://i.ytimg.com/vi/oKchaDHk3_Q/hqdefault.jpg",
-        "popularity": 3387,
+        "popularity": 3920,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2410,7 +2410,7 @@
         "category": "economy",
         "published_at": "2026-10-18T14:00:37+00:00",
         "thumbnail": "https://i.ytimg.com/vi/frhH6gRM3Pw/hqdefault.jpg",
-        "popularity": 86519,
+        "popularity": 107469,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2427,7 +2427,7 @@
         "category": "economy",
         "published_at": "2026-10-18T14:00:09+00:00",
         "thumbnail": "https://i.ytimg.com/vi/m9VblmOgeMc/hqdefault.jpg",
-        "popularity": 9289,
+        "popularity": 10664,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2446,7 +2446,7 @@
         "category": "technology",
         "published_at": "2026-10-17T15:00:27+00:00",
         "thumbnail": "https://i.ytimg.com/vi/5P0Xb3Y0hYg/hqdefault.jpg",
-        "popularity": 134179,
+        "popularity": 136159,
         "provenance": "youtube_popular",
         "source_lang": "en",
         "translations": {
@@ -2463,7 +2463,7 @@
         "category": "technology",
         "published_at": "2026-10-17T15:00:19+00:00",
         "thumbnail": "https://i.ytimg.com/vi/mtiMk28wmAw/hqdefault.jpg",
-        "popularity": 7697,
+        "popularity": 7932,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2480,7 +2480,7 @@
         "category": "technology",
         "published_at": "2026-10-16T19:15:30+00:00",
         "thumbnail": "https://i.ytimg.com/vi/9h5naV9Ms4s/hqdefault.jpg",
-        "popularity": 16585,
+        "popularity": 16964,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2497,7 +2497,7 @@
         "category": "technology",
         "published_at": "2026-10-16T17:39:18+00:00",
         "thumbnail": "https://i.ytimg.com/vi/HTqc5fMitok/hqdefault.jpg",
-        "popularity": 15334,
+        "popularity": 15831,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2514,7 +2514,7 @@
         "category": "technology",
         "published_at": "2026-10-16T15:36:53+00:00",
         "thumbnail": "https://i.ytimg.com/vi/z00Lhm3CqAM/hqdefault.jpg",
-        "popularity": 48045,
+        "popularity": 48801,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2531,7 +2531,7 @@
         "category": "technology",
         "published_at": "2026-10-16T15:00:20+00:00",
         "thumbnail": "https://i.ytimg.com/vi/dWmEKM4_lKQ/hqdefault.jpg",
-        "popularity": 16156,
+        "popularity": 16503,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2548,7 +2548,7 @@
         "category": "technology",
         "published_at": "2026-10-16T13:49:43+00:00",
         "thumbnail": "https://i.ytimg.com/vi/_EW8O9SLSXs/hqdefault.jpg",
-        "popularity": 236301,
+        "popularity": 236550,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2565,7 +2565,7 @@
         "category": "technology",
         "published_at": "2026-10-16T10:55:14+00:00",
         "thumbnail": "https://i.ytimg.com/vi/BYWy6SyJRZo/hqdefault.jpg",
-        "popularity": 5522035,
+        "popularity": 5618421,
         "provenance": "youtube_popular",
         "source_lang": "en",
         "translations": {
@@ -2584,7 +2584,7 @@
         "category": "ai-trends",
         "published_at": "2026-10-17T13:00:11+00:00",
         "thumbnail": "https://i.ytimg.com/vi/yAGGkDvbjAs/hqdefault.jpg",
-        "popularity": 2170338,
+        "popularity": 2249869,
         "provenance": "youtube_popular",
         "source_lang": "en",
         "translations": {
@@ -2601,7 +2601,7 @@
         "category": "ai-trends",
         "published_at": "2026-10-17T05:06:11+00:00",
         "thumbnail": "https://i.ytimg.com/vi/6dR-RCSUgrM/hqdefault.jpg",
-        "popularity": 135171,
+        "popularity": 135574,
         "provenance": "youtube_popular",
         "source_lang": "en",
         "translations": {
@@ -2618,7 +2618,7 @@
         "category": "ai-trends",
         "published_at": "2026-10-16T21:00:00+00:00",
         "thumbnail": "https://i.ytimg.com/vi/LJ2v4-FvPcA/hqdefault.jpg",
-        "popularity": 2606,
+        "popularity": 2643,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2635,7 +2635,7 @@
         "category": "ai-trends",
         "published_at": "2026-10-16T16:00:00+00:00",
         "thumbnail": "https://i.ytimg.com/vi/-nmcYcO-EE8/hqdefault.jpg",
-        "popularity": 5905,
+        "popularity": 6153,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2652,7 +2652,7 @@
         "category": "ai-trends",
         "published_at": "2026-10-15T23:00:26+00:00",
         "thumbnail": "https://i.ytimg.com/vi/qJplHFjyv2A/hqdefault.jpg",
-        "popularity": 4686,
+        "popularity": 4789,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2669,7 +2669,7 @@
         "category": "ai-trends",
         "published_at": "2026-10-15T19:00:22+00:00",
         "thumbnail": "https://i.ytimg.com/vi/i3X7Fv0Z3Uc/hqdefault.jpg",
-        "popularity": 12535,
+        "popularity": 12585,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2686,7 +2686,7 @@
         "category": "ai-trends",
         "published_at": "2026-10-15T16:00:02+00:00",
         "thumbnail": "https://i.ytimg.com/vi/nSwmcs37Jd4/hqdefault.jpg",
-        "popularity": 27779,
+        "popularity": 27990,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2703,7 +2703,7 @@
         "category": "ai-trends",
         "published_at": "2026-10-14T17:01:36+00:00",
         "thumbnail": "https://i.ytimg.com/vi/Jh6mgf9M06M/hqdefault.jpg",
-        "popularity": 71278,
+        "popularity": 71640,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {

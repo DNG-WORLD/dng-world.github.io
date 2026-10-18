@@ -1,12 +1,12 @@
 {
   "version": 36,
   "translation_status": "not_configured",
-  "updated_at": "2026-10-18T12:58:10.566560+00:00",
-  "attempted_at": "2026-10-18T12:58:10.566560+00:00",
+  "updated_at": "2026-10-18T16:20:42.363635+00:00",
+  "attempted_at": "2026-10-18T16:20:42.363635+00:00",
   "status": "ok",
   "video_status": "fresh",
   "video_warning": "",
-  "video_last_success_at": "2026-10-18T12:58:10.566560+00:00",
+  "video_last_success_at": "2026-10-18T16:20:42.363635+00:00",
   "video_mode": "popular_and_channel",
   "video_api_note": "YouTube Data API v3 / verified embeddable public videos",
   "source_count": 22,
@@ -36,12 +36,300 @@
   ],
   "sources_failed": [
     "Search Engine Land / marketing (HTTP Error 403: Forbidden)",
-    "Tuổi Trẻ / world (empty or no recent records)",
     "Tuổi Trẻ / economy (empty or no recent records)",
+    "Tuổi Trẻ / world (empty or no recent records)",
     "Tuổi Trẻ / vietnam (empty or no recent records)",
     "VietnamPlus / vietnam (not well-formed (invalid token): line 1, column 0)"
   ],
   "news": [
+    {
+      "id": "1e22e9d984020bf18c",
+      "title": "TechCrunch Mobility: Rivian’s next act",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/10/18/techcrunch-mobility-rivians-next-act/",
+      "image": "",
+      "published_at": "2026-10-18T16:05:00+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "TechCrunch Mobility: Rivian’s next act",
+          "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it."
+        }
+      }
+    },
+    {
+      "id": "cae4297ec407ec6afa",
+      "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
+      "summary": "At least one person was killed in the strikes, which also hit a data centre used by Russia's equivalent of Facebook.",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4966/live/70482900-cad8-11f1-a64c-550be9e3c66b.jpg",
+      "published_at": "2026-10-18T15:46:10+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
+          "summary": "At least one person was killed in the strikes, which also hit a data centre used by Russia's equivalent of Facebook."
+        }
+      }
+    },
+    {
+      "id": "fe1da706fb4d295faa",
+      "title": "Multiple people killed as Canadian authorities tackle active blaze at Alberta military base",
+      "summary": "Hospitals receive injured patients as doctor describes scale of emergency in Wainwright as a ‘disaster’ Multiple people have been killed and others injured after a deadly blaze tore through one of Canada’s busiest military training bases in Alberta, Canada’s defence minister said on Saturday. “I’m saddened to share that there ha…",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright",
+      "image": "https://i.guim.co.uk/img/media/fd2fce9d5801c1379f2c9034bd7fd12e94a8a1be/1408_22_5652_4521/master/5652.jpg?width=140&quality=85&auto=format&fit=max&s=d0ae93ec314abf587a38476a01cc10a1",
+      "published_at": "2026-10-18T15:31:33+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Multiple people killed as Canadian authorities tackle active blaze at Alberta military base",
+          "summary": "Hospitals receive injured patients as doctor describes scale of emergency in Wainwright as a ‘disaster’ Multiple people have been killed and others injured after a deadly blaze tore through one of Canada’s busiest military training bases in Alberta, Canada’s defence minister said on Saturday. “I’m saddened to share that there ha…"
+        }
+      }
+    },
+    {
+      "id": "9e235dbe784a1b6ca5",
+      "title": "French government in crisis talks after ‘colossal failure of the state’",
+      "summary": "Ministers, officials and police under pressure over response to days of violent unrest in cities across France The French government was in crisis talks on Sunday after one of the most violent days of unrest in years left public buildings burned, hundreds of shops destroyed and looted, and more than 2000 people arrested in citie…",
+      "source": "The Guardian",
+      "category": "politics",
+      "url": "https://www.theguardian.com/world/2026/oct/18/french-government-crisis-talks-violent-unrest-policing-macron",
+      "image": "https://i.guim.co.uk/img/media/5f500153bda796e2afac7a987063976da41c702a/266_0_6528_5223/master/6528.jpg?width=140&quality=85&auto=format&fit=max&s=6e303d8ed1b09c9e628fbbaf182caf77",
+      "published_at": "2026-10-18T15:10:32+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "French government in crisis talks after ‘colossal failure of the state’",
+          "summary": "Ministers, officials and police under pressure over response to days of violent unrest in cities across France The French government was in crisis talks on Sunday after one of the most violent days of unrest in years left public buildings burned, hundreds of shops destroyed and looted, and more than 2000 people arrested in citie…"
+        }
+      }
+    },
+    {
+      "id": "3a7eaf979be555684a",
+      "title": "Lenovo’s fast, comfy SteamOS handheld is hundreds off",
+      "summary": "The Legion Go S with SteamOS is a pretty solid alternative to the $789 Steam Deck OLED. It runs identical software, but ships in a design with two-stage triggers, a bigger eight-inch IPS screen (1080p and up to 120Hz versus 800p and 90Hz in the Deck OLED), and it’s got double the RAM and storage […]",
+      "source": "The Verge",
+      "category": "technology",
+      "url": "https://www.theverge.com/gadgets/1013436/lenovo-legion-go-s-steamos-handheld-deal-sale",
+      "image": "",
+      "published_at": "2026-10-18T15:00:00+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Lenovo’s fast, comfy SteamOS handheld is hundreds off",
+          "summary": "The Legion Go S with SteamOS is a pretty solid alternative to the $789 Steam Deck OLED. It runs identical software, but ships in a design with two-stage triggers, a bigger eight-inch IPS screen (1080p and up to 120Hz versus 800p and 90Hz in the Deck OLED), and it’s got double the RAM and storage […]"
+        }
+      }
+    },
+    {
+      "id": "3ab8196ec7d0a28a3e",
+      "title": "Polanski says he will not overturn Green Party's 'Zionism is racism' motion",
+      "summary": "The Green Party leader said, while he wanted to amend it, the motion would stand until 2028.",
+      "source": "BBC News",
+      "category": "politics",
+      "url": "https://www.bbc.co.uk/news/articles/cmn8w5v8yne4o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de1f/live/a4d8c560-cae4-11f1-bc2e-018d645d8d21.jpg",
+      "published_at": "2026-10-18T14:57:19+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Polanski says he will not overturn Green Party's 'Zionism is racism' motion",
+          "summary": "The Green Party leader said, while he wanted to amend it, the motion would stand until 2028."
+        }
+      }
+    },
+    {
+      "id": "11801541aed4e2c94f",
+      "title": "Arrests over France protests rise to 1,800, with whole streets in Paris ‘devastated’ – Europe live",
+      "summary": "Interior minister says ‘the Republic will not yield’ to France’s worst protests in years A dispatch here from Sam Jones, our reporter in Madrid, as protests have spread to Italy and Portugal The angry protests that have convulsed Spain and France in recent weeks have spilled over to Italy and Portugal , with rioters clashing wit…",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/world/live/2026/oct/18/paris-protests-france-demonstrations-europe-live-latest-news",
+      "image": "https://i.guim.co.uk/img/media/72eddfdab73cd6b8d98c4fd7741a2043478b01c6/740_0_6184_4946/master/6184.jpg?width=140&quality=85&auto=format&fit=max&s=18db3856a8866063f824e2dec10ae4ee",
+      "published_at": "2026-10-18T14:50:37+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Arrests over France protests rise to 1,800, with whole streets in Paris ‘devastated’ – Europe live",
+          "summary": "Interior minister says ‘the Republic will not yield’ to France’s worst protests in years A dispatch here from Sam Jones, our reporter in Madrid, as protests have spread to Italy and Portugal The angry protests that have convulsed Spain and France in recent weeks have spilled over to Italy and Portugal , with rioters clashing wit…"
+        }
+      }
+    },
+    {
+      "id": "45420893bf1ca6b670",
+      "title": "Two killed and at least 17 injured as Russia and Ukraine trade blows on power infrastructure",
+      "summary": "Ukraine used more than 1,000 drones to target Russian oil depots, logistics facilities and datacentres Two people have been killed and at least 17 injured as Russia and Ukraine continue to trade strikes on each other’s power infrastructure, after the breakdown of Donald Trump’s short-lived and unilaterally declared “energy cease…",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/world/2026/oct/18/killed-injured-russia-ukraine-strikes-power-infrastructure",
+      "image": "https://i.guim.co.uk/img/media/e9b8a97f06f0de7018aa3da9b71e6255547d87c6/1014_545_3831_3064/master/3831.jpg?width=140&quality=85&auto=format&fit=max&s=5eaa05d934b3441ec8d99133c40ab285",
+      "published_at": "2026-10-18T14:31:30+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Two killed and at least 17 injured as Russia and Ukraine trade blows on power infrastructure",
+          "summary": "Ukraine used more than 1,000 drones to target Russian oil depots, logistics facilities and datacentres Two people have been killed and at least 17 injured as Russia and Ukraine continue to trade strikes on each other’s power infrastructure, after the breakdown of Donald Trump’s short-lived and unilaterally declared “energy cease…"
+        }
+      }
+    },
+    {
+      "id": "427bd94667dcb0e2d7",
+      "title": "Wikipedia often gets taken for granted – but its history is fascinating, and its future is fragile",
+      "summary": "Wikipedia’s 68m articles have been consulted trillions of times. Not bad for a website that has barely changed since it was founded 20 years ago A few years ago, I was struck by the tension between how Wikipedia was used, and how it was talked about. Everyone was on it all the time, and yet its reputation had stalled at “don’t t…",
+      "source": "The Guardian",
+      "category": "technology",
+      "url": "https://www.theguardian.com/technology/2026/oct/18/wikipedia-human-history-ai-future-under-threat",
+      "image": "https://i.guim.co.uk/img/media/11bdcbd79d2083cd3ae980e805b8cdfd7e27fb80/145_0_2850_2279/master/2850.jpg?width=140&quality=85&auto=format&fit=max&s=ada5d277ad4d4387b5bc020d6159d745",
+      "published_at": "2026-10-18T14:00:02+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Wikipedia often gets taken for granted – but its history is fascinating, and its future is fragile",
+          "summary": "Wikipedia’s 68m articles have been consulted trillions of times. Not bad for a website that has barely changed since it was founded 20 years ago A few years ago, I was struck by the tension between how Wikipedia was used, and how it was talked about. Everyone was on it all the time, and yet its reputation had stalled at “don’t t…"
+        }
+      }
+    },
+    {
+      "id": "cea7651d1685c8deef",
+      "title": "J Mascis has nothing better to do",
+      "summary": "Dinosaur Jr. frontman J Mascis is known as something of a slacker guitar god. He stands stoically onstage, barely moving, as he seemingly effortlessly works through deft guitar solos and lopsided riffs. Unfortunately, Mascis has developed a similar reputation as an interview subject, quietly sitting and offering deft nonanswers.…",
+      "source": "The Verge",
+      "category": "technology",
+      "url": "https://www.theverge.com/entertainment/1012442/j-mascis-dinosaur-jr-fender-interview",
+      "image": "",
+      "published_at": "2026-10-18T14:00:00+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "J Mascis has nothing better to do",
+          "summary": "Dinosaur Jr. frontman J Mascis is known as something of a slacker guitar god. He stands stoically onstage, barely moving, as he seemingly effortlessly works through deft guitar solos and lopsided riffs. Unfortunately, Mascis has developed a similar reputation as an interview subject, quietly sitting and offering deft nonanswers.…"
+        }
+      }
+    },
+    {
+      "id": "de7a52e65340618d72",
+      "title": "Search for Amelia Earhart's plane resumes after stormy weather",
+      "summary": "An expedition to a remote Pacific island hoping to uncover the American aviator's wreckage was on hold for three days.",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/cv70pxe5j90eo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f795/live/26bf0220-cacb-11f1-b5ff-6fb710f59c84.jpg",
+      "published_at": "2026-10-18T13:47:07+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Search for Amelia Earhart's plane resumes after stormy weather",
+          "summary": "An expedition to a remote Pacific island hoping to uncover the American aviator's wreckage was on hold for three days."
+        }
+      }
+    },
+    {
+      "id": "6719421a10a6f040bc",
+      "title": "What are self-replicating ‘AI worms’, and why is Anthropic worried about them?",
+      "summary": "The tech company says successful AI worms need more capability on less powerful devices, but current trends make that feasible by the end of the year Warnings about what artificial intelligence might do in the future – together with alarming reports of what it has gotten up to already – are being issued so quickly that even secu…",
+      "source": "The Guardian",
+      "category": "ai",
+      "url": "https://www.theguardian.com/technology/2026/oct/18/anthropic-ai-worm-worries",
+      "image": "https://i.guim.co.uk/img/media/34972ab7bdc22bd58b4b430c49ae81493971934a/234_0_5907_4725/master/5907.jpg?width=140&quality=85&auto=format&fit=max&s=288348dd3aa3c598608d1126f3559d09",
+      "published_at": "2026-10-18T13:30:00+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "What are self-replicating ‘AI worms’, and why is Anthropic worried about them?",
+          "summary": "The tech company says successful AI worms need more capability on less powerful devices, but current trends make that feasible by the end of the year Warnings about what artificial intelligence might do in the future – together with alarming reports of what it has gotten up to already – are being issued so quickly that even secu…"
+        }
+      }
+    },
+    {
+      "id": "81cc485622695eaba4",
+      "title": "Trump says Google kisses his ass",
+      "summary": "During a rally on Saturday, October 17th, in Highland Heights, Kentucky, Donald Trump bragged about how much more powerful and influential he was during his second term. While listing off his accomplishments, he mentioned his decision to rename the Gulf of Mexico and Lake Ontario. \"This is a much more powerful term. I can do […]",
+      "source": "The Verge",
+      "category": "technology",
+      "url": "https://www.theverge.com/policy/1013485/trump-google-kiss-my-ass",
+      "image": "",
+      "published_at": "2026-10-18T13:25:01+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Trump says Google kisses his ass",
+          "summary": "During a rally on Saturday, October 17th, in Highland Heights, Kentucky, Donald Trump bragged about how much more powerful and influential he was during his second term. While listing off his accomplishments, he mentioned his decision to rename the Gulf of Mexico and Lake Ontario. \"This is a much more powerful term. I can do […]"
+        }
+      }
+    },
+    {
+      "id": "8cf87a882577e932d3",
+      "title": "Phê La thu hồi thìa nhựa 'tái sử dụng'",
+      "summary": "Phê La thông báo thu hồi thìa nhựa sau thông tin người dùng kiểm định sản phẩm này làm từ loại vật liệu không thể tái sử dụng hay phân hủy sinh học như quảng cáo.",
+      "source": "VnExpress",
+      "category": "economy",
+      "url": "https://vnexpress.net/phe-la-thu-hoi-thia-nhua-tai-su-dung-5133842.html",
+      "image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/18/mau-thia-phe-la-duoc-quang-cao-8384-9853-1792327898.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ouV8JG-mCLCuii5rFABtgQ",
+      "published_at": "2026-10-18T13:03:06+00:00",
+      "kind": "source_brief",
+      "source_lang": "vi",
+      "translations": {
+        "vi": {
+          "title": "Phê La thu hồi thìa nhựa 'tái sử dụng'",
+          "summary": "Phê La thông báo thu hồi thìa nhựa sau thông tin người dùng kiểm định sản phẩm này làm từ loại vật liệu không thể tái sử dụng hay phân hủy sinh học như quảng cáo."
+        }
+      }
+    },
+    {
+      "id": "347fe00b6f02ad3a20",
+      "title": "The best gadget I bought this year is a milk frother",
+      "summary": "Back in February, I went to Los Angeles to take in some art and stayed in Koreatown. Down the street from my hotel, there was this little coffee shop - Stagger - that is, I think, best known for its matcha, which is good. But the drink I unexpectedly found myself obsessed with was their […]",
+      "source": "The Verge",
+      "category": "technology",
+      "url": "https://www.theverge.com/gadgets/1013257/milk-frother-cold-foam-gadget",
+      "image": "",
+      "published_at": "2026-10-18T13:00:00+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "The best gadget I bought this year is a milk frother",
+          "summary": "Back in February, I went to Los Angeles to take in some art and stayed in Koreatown. Down the street from my hotel, there was this little coffee shop - Stagger - that is, I think, best known for its matcha, which is good. But the drink I unexpectedly found myself obsessed with was their […]"
+        }
+      }
+    },
+    {
+      "id": "6f1a5c309cd40e1020",
+      "title": "Công nghệ giúp xe bay Alef thách thức Tesla Roadster",
+      "summary": "Đi trước Tesla 11 năm trong cuộc đua phát triển xe bay, Alef đã tạo ra thiết kế độc đáo cho mẫu Model A và chuẩn bị giao đến tay khách hàng cuối năm nay.",
+      "source": "VnExpress",
+      "category": "technology",
+      "url": "https://vnexpress.net/cong-nghe-giup-xe-bay-alef-thach-thuc-tesla-roadster-5133837.html",
+      "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/18/VNECar-1792312199-4798-1792312640.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=W7guiUrsf2Gwsx-i05Uc1A",
+      "published_at": "2026-10-18T13:00:00+00:00",
+      "kind": "source_brief",
+      "source_lang": "vi",
+      "translations": {
+        "vi": {
+          "title": "Công nghệ giúp xe bay Alef thách thức Tesla Roadster",
+          "summary": "Đi trước Tesla 11 năm trong cuộc đua phát triển xe bay, Alef đã tạo ra thiết kế độc đáo cho mẫu Model A và chuẩn bị giao đến tay khách hàng cuối năm nay."
+        }
+      }
+    },
     {
       "id": "cc10eba0630c01bf8e",
       "title": "How overhead projectors took over your classroom",
@@ -61,24 +349,6 @@
       }
     },
     {
-      "id": "6bd483fb49bef24adf",
-      "title": "Several dead or injured in major fire at Canada military base",
-      "summary": "Officials have not given a cause or death toll, citing the \"very active and delicate\" situation at Canadian Forces Base Wainwright.",
-      "source": "BBC News",
-      "category": "world",
-      "url": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/951a/live/d1508b70-cac9-11f1-9a39-31b474234113.jpg",
-      "published_at": "2026-10-18T12:41:59+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Several dead or injured in major fire at Canada military base",
-          "summary": "Officials have not given a cause or death toll, citing the \"very active and delicate\" situation at Canadian Forces Base Wainwright."
-        }
-      }
-    },
-    {
       "id": "0bd6429ce4de8bfba6",
       "title": "European diplomats attacked by Israeli settlers in West Bank",
       "summary": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
@@ -93,24 +363,6 @@
         "en": {
           "title": "European diplomats attacked by Israeli settlers in West Bank",
           "summary": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign."
-        }
-      }
-    },
-    {
-      "id": "11801541aed4e2c94f",
-      "title": "Arrests over France protests rise to 1,800, with whole streets in Paris ‘devastated’ – Europe live",
-      "summary": "Interior minister says ‘the Republic will not yield’ to France’s worst protests in years A dispatch here from Sam Jones, our reporter in Madrid, as protests have spread to Italy and Portugal The angry protests that have convulsed Spain and France in recent weeks have spilled over to Italy and Portugal , with rioters clashing wit…",
-      "source": "The Guardian",
-      "category": "world",
-      "url": "https://www.theguardian.com/world/live/2026/oct/18/paris-protests-france-demonstrations-europe-live-latest-news",
-      "image": "https://i.guim.co.uk/img/media/72eddfdab73cd6b8d98c4fd7741a2043478b01c6/740_0_6184_4946/master/6184.jpg?width=140&quality=85&auto=format&fit=max&s=18db3856a8866063f824e2dec10ae4ee",
-      "published_at": "2026-10-18T12:14:03+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Arrests over France protests rise to 1,800, with whole streets in Paris ‘devastated’ – Europe live",
-          "summary": "Interior minister says ‘the Republic will not yield’ to France’s worst protests in years A dispatch here from Sam Jones, our reporter in Madrid, as protests have spread to Italy and Portugal The angry protests that have convulsed Spain and France in recent weeks have spilled over to Italy and Portugal , with rioters clashing wit…"
         }
       }
     },
@@ -135,18 +387,18 @@
     {
       "id": "3371ebd71844866022",
       "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
-      "summary": "Around 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.",
+      "summary": "About 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.",
       "source": "BBC News",
       "category": "world",
       "url": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d285/live/4704a830-cacd-11f1-b5ff-6fb710f59c84.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/55f7/live/7d8c1210-cb06-11f1-93db-7509e20aa39a.jpg",
       "published_at": "2026-10-18T12:07:31+00:00",
       "kind": "source_brief",
       "source_lang": "en",
       "translations": {
         "en": {
           "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
-          "summary": "Around 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism."
+          "summary": "About 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism."
         }
       }
     },
@@ -169,56 +421,38 @@
       }
     },
     {
-      "id": "cae4297ec407ec6afa",
-      "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
-      "summary": "At least one person was killed in the strikes, which also hit a data centre used by Russia's equivalent of Facebook.",
-      "source": "BBC News",
-      "category": "world",
-      "url": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4966/live/70482900-cad8-11f1-a64c-550be9e3c66b.jpg",
-      "published_at": "2026-10-18T11:57:49+00:00",
+      "id": "b474e53ea5f1c3e878",
+      "title": "Dấu vân tay 2.200 năm hé lộ người xây Đội quân đất nung mộ Tần Thủy Hoàng",
+      "summary": "Nghiên cứu mới cho thấy phụ nữ và trẻ em có thể tham gia vào quá trình xây dựng đội quân đất nung 2.200 năm canh giữ lăng mộ hoàng đế Tần Thủy Hoàng.",
+      "source": "VnExpress",
+      "category": "technology",
+      "url": "https://vnexpress.net/dau-van-tay-2-200-nam-he-lo-nguoi-xay-doi-quan-dat-nung-mo-tan-thuy-hoang-5133827.html",
+      "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/18/VNEFinger-1792309136-7676-1792309219.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=_DboX7S35ijF52a512WbKg",
+      "published_at": "2026-10-18T12:00:00+00:00",
       "kind": "source_brief",
-      "source_lang": "en",
+      "source_lang": "vi",
       "translations": {
-        "en": {
-          "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
-          "summary": "At least one person was killed in the strikes, which also hit a data centre used by Russia's equivalent of Facebook."
+        "vi": {
+          "title": "Dấu vân tay 2.200 năm hé lộ người xây Đội quân đất nung mộ Tần Thủy Hoàng",
+          "summary": "Nghiên cứu mới cho thấy phụ nữ và trẻ em có thể tham gia vào quá trình xây dựng đội quân đất nung 2.200 năm canh giữ lăng mộ hoàng đế Tần Thủy Hoàng."
         }
       }
     },
     {
-      "id": "b36ffe6cffdcd4cf1a",
-      "title": "Thủ tướng: Cắt giảm khâu trung gian trong phân phối xăng dầu, điện",
-      "summary": "Thủ tướng Lê Minh Hưng cho biết các khâu trung gian trong lĩnh vực điện, phân phối xăng dầu sẽ được cắt giảm để hạ chi phí đầu vào cho nền kinh tế.",
+      "id": "c70c48a0acf2407d7f",
+      "title": "Thủ tướng: Không để người dân trả giá cao vì các khâu trung gian",
+      "summary": "Thủ tướng Lê Minh Hưng cho biết các khâu trung gian trong lĩnh vực y tế, điện, phân phối xăng dầu sẽ được cắt giảm, \"không chấp nhận để người dân phải trả giá cao\".",
       "source": "VnExpress",
       "category": "economy",
-      "url": "https://vnexpress.net/thu-tuong-cat-giam-khau-trung-gian-trong-phan-phoi-xang-dau-dien-5133864.html",
+      "url": "https://vnexpress.net/thu-tuong-khong-de-nguoi-dan-tra-gia-cao-vi-cac-khau-trung-gian-5133864.html",
       "image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/18/wm1-wm1-l1790664-jpg-1792319126-5845-1792319221.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=uAa3PnrXmj3gJcd_A1nUnQ",
       "published_at": "2026-10-18T11:35:54+00:00",
       "kind": "source_brief",
       "source_lang": "vi",
       "translations": {
         "vi": {
-          "title": "Thủ tướng: Cắt giảm khâu trung gian trong phân phối xăng dầu, điện",
-          "summary": "Thủ tướng Lê Minh Hưng cho biết các khâu trung gian trong lĩnh vực điện, phân phối xăng dầu sẽ được cắt giảm để hạ chi phí đầu vào cho nền kinh tế."
-        }
-      }
-    },
-    {
-      "id": "3ab8196ec7d0a28a3e",
-      "title": "Polanski says he will not overturn Green Party's 'Zionism is racism' motion",
-      "summary": "The Green Party leader said, while he wanted to amend it, the motion would stand until 2028.",
-      "source": "BBC News",
-      "category": "politics",
-      "url": "https://www.bbc.co.uk/news/articles/cmn8w5v8yne4o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de1f/live/a4d8c560-cae4-11f1-bc2e-018d645d8d21.jpg",
-      "published_at": "2026-10-18T11:14:33+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Polanski says he will not overturn Green Party's 'Zionism is racism' motion",
-          "summary": "The Green Party leader said, while he wanted to amend it, the motion would stand until 2028."
+          "title": "Thủ tướng: Không để người dân trả giá cao vì các khâu trung gian",
+          "summary": "Thủ tướng Lê Minh Hưng cho biết các khâu trung gian trong lĩnh vực y tế, điện, phân phối xăng dầu sẽ được cắt giảm, \"không chấp nhận để người dân phải trả giá cao\"."
         }
       }
     },
@@ -391,7 +625,7 @@
       "source": "VnExpress",
       "category": "technology",
       "url": "https://vnexpress.net/lam-chu-cong-nghe-san-xuat-giong-tom-doi-tu-duy-lam-giau-tu-bien-5133818.html",
-      "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/18/tomnuoi-1792311149-3313-1792312715.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=1OxpQKCF0azJQVm4jX93Zg",
+      "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/18/tom-1792331803-2595-1792331837.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=5AUKBwK3uOLyKMTcDT2vZg",
       "published_at": "2026-10-18T08:38:56+00:00",
       "kind": "source_brief",
       "source_lang": "vi",
@@ -785,7 +1019,7 @@
       "title": "Giá vàng thế giới khó dự báo diễn biến",
       "summary": "Giới phân tích chia rẽ về triển vọng vàng tuần tới, khi một nửa cảm thấy khó quyết định sau tuần nhiều biến động.",
       "source": "VnExpress",
-      "category": "economy",
+      "category": "vietnam",
       "url": "https://vnexpress.net/gia-vang-the-gioi-kho-du-bao-dien-bien-5133813.html",
       "image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/18/gold3-1792304984-8615-1792305039.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=4QSlPa77ZXsPKVZflb-5tg",
       "published_at": "2026-10-18T06:50:42+00:00",
@@ -907,24 +1141,6 @@
       }
     },
     {
-      "id": "60a74b8a102239912e",
-      "title": "Long Châu hai năm liên tiếp là 'Doanh nghiệp xuất sắc Châu Á'",
-      "summary": "Long Châu nhận danh hiệu Corporate Excellence Award (Doanh nghiệp xuất sắc Châu Á) thuộc giải thưởng Asia Pacific Enterprise Awards (APEA) 2026 do Hiệp hội Doanh nghiệp Châu Á (Enterprise Asia) tổ chức, ngày 15/10.",
-      "source": "VnExpress",
-      "category": "economy",
-      "url": "https://vnexpress.net/long-chau-hai-nam-lien-tiep-la-doanh-nghiep-xuat-sac-chau-a-5133792.html",
-      "image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/18/1-jpg-1792298087-7659-1792298553.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=gCXr05k8PKZ_vDEViJBaNA",
-      "published_at": "2026-10-18T06:00:00+00:00",
-      "kind": "source_brief",
-      "source_lang": "vi",
-      "translations": {
-        "vi": {
-          "title": "Long Châu hai năm liên tiếp là 'Doanh nghiệp xuất sắc Châu Á'",
-          "summary": "Long Châu nhận danh hiệu Corporate Excellence Award (Doanh nghiệp xuất sắc Châu Á) thuộc giải thưởng Asia Pacific Enterprise Awards (APEA) 2026 do Hiệp hội Doanh nghiệp Châu Á (Enterprise Asia) tổ chức, ngày 15/10."
-        }
-      }
-    },
-    {
       "id": "3851d9f7945bf7288b",
       "title": "Dạ tiệc âm nhạc của Phùng Khánh Linh",
       "summary": "Ca sĩ Phùng Khánh Linh hát, nhảy suốt ba giờ, làm chủ sân khấu trong đêm nhạc 7.000 khán giả - đông nhất từ trước đến nay của cô.",
@@ -939,24 +1155,6 @@
         "vi": {
           "title": "Dạ tiệc âm nhạc của Phùng Khánh Linh",
           "summary": "Ca sĩ Phùng Khánh Linh hát, nhảy suốt ba giờ, làm chủ sân khấu trong đêm nhạc 7.000 khán giả - đông nhất từ trước đến nay của cô."
-        }
-      }
-    },
-    {
-      "id": "a29fa4ba11b11fd72b",
-      "title": "Căn hộ hạng sang Phú Mỹ Hưng Triton Crown mở bán đợt đầu",
-      "summary": "Hơn 400 người tham gia rút thăm thứ tự mua giỏ hàng tòa A, khu căn hộ hạng sang Triton Crown, sáng 18/10.",
-      "source": "VnExpress",
-      "category": "vietnam",
-      "url": "https://vnexpress.net/can-ho-hang-sang-phu-my-hung-triton-crown-mo-ban-dot-dau-5133626.html",
-      "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/18/story-do-t-1792302127-2783-1792302259.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=UVbh02q4H27EU3g1NR6NJA",
-      "published_at": "2026-10-18T06:00:00+00:00",
-      "kind": "source_brief",
-      "source_lang": "vi",
-      "translations": {
-        "vi": {
-          "title": "Căn hộ hạng sang Phú Mỹ Hưng Triton Crown mở bán đợt đầu",
-          "summary": "Hơn 400 người tham gia rút thăm thứ tự mua giỏ hàng tòa A, khu căn hộ hạng sang Triton Crown, sáng 18/10."
         }
       }
     },
@@ -1037,7 +1235,7 @@
       "title": "‘I felt disgusted’: MEP speaks out over nude deepfakes and urges EU action",
       "summary": "Lena Schilling of Austrian Greens says images are ‘digital violence against women’ and a threat to democracy An Austrian MEP has spoken out about her experience of being “stripped naked” online without her consent and has urged the EU to take action, as a report found that one in six female MEPs had been targeted by sexualised A…",
       "source": "The Guardian",
-      "category": "world",
+      "category": "technology",
       "url": "https://www.theguardian.com/society/2026/oct/18/mep-lena-schilling-nude-deepfakes-eu-action",
       "image": "https://i.guim.co.uk/img/media/f451bf58ce9566761ef3e471f9080edcbc94e0a6/261_121_2606_2085/master/2606.jpg?width=140&quality=85&auto=format&fit=max&s=acca07559bd2486c93e545f85c16af5d",
       "published_at": "2026-10-18T04:00:50+00:00",
@@ -1065,24 +1263,6 @@
         "en": {
           "title": "‘4,000 people minding our own business’: four decades on, Falklands again face a hostile Argentina",
           "summary": "Facing a slump in the polls, Argentina’s president is making economic attacks on the islands’ oil industry, and suggesting its key fisheries industry could be next A dozen local people and a uniformed military police officer (“Do you mind if I sit in?”) took their seats at the back of the handsome wood-panelled courtroom that do…"
-        }
-      }
-    },
-    {
-      "id": "b885d679e02845f24c",
-      "title": "Is sisterhood the secret to a long life? The Sardinian village that could hold key to women’s longevity",
-      "summary": "Meet some of the elderly residents of Bolotana, in line to be the world’s sixth ‘blue zone’ for its high number of female centenarians When Giovanna Marras opens the door to her home in Bolotana, a mountain village in central Sardinia, her eyes are bright with curiosity as she sizes up her visitors. Her sister, Mariangela, peeks…",
-      "source": "The Guardian",
-      "category": "world",
-      "url": "https://www.theguardian.com/world/2026/oct/18/bolotana-sardinian-village-women-centenarians-longevity-long-life",
-      "image": "https://i.guim.co.uk/img/media/c52699fa79a08ff54fc072b7ba247700230f9b4f/213_0_4459_3565/master/4459.jpg?width=140&quality=85&auto=format&fit=max&s=6d09014ff10f6821d87e0d76730829b9",
-      "published_at": "2026-10-18T04:00:49+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Is sisterhood the secret to a long life? The Sardinian village that could hold key to women’s longevity",
-          "summary": "Meet some of the elderly residents of Bolotana, in line to be the world’s sixth ‘blue zone’ for its high number of female centenarians When Giovanna Marras opens the door to her home in Bolotana, a mountain village in central Sardinia, her eyes are bright with curiosity as she sizes up her visitors. Her sister, Mariangela, peeks…"
         }
       }
     },
@@ -1119,24 +1299,6 @@
         "en": {
           "title": "Indigenous woman shackled to hospital bed while in labour in Queensland",
           "summary": "Birth happens days before Labor and Coalition block bill to ban ‘barbaric practice’ of shackling incarcerated women during childbirth Get our new political email , free app or daily news podcast An incarcerated Indigenous woman was shackled to a hospital bed in Queensland while she was in labour last weekend, an advocacy group h…"
-        }
-      }
-    },
-    {
-      "id": "fe1da706fb4d295faa",
-      "title": "‘Serious incident’ at Alberta military base causes deaths and injuries, Canada officials say",
-      "summary": "Patients being taken to hospitals in Edmonton as Wainwright ‘completely overwhelmed’ by number of injuries, local doctor says People have been killed and injured after an incident at one of Canada’s busiest military training bases in Alberta caused a large fire, Canada’s defence minister said Saturday. “I’m saddened to share tha…",
-      "source": "The Guardian",
-      "category": "world",
-      "url": "https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright",
-      "image": "https://i.guim.co.uk/img/media/fd2fce9d5801c1379f2c9034bd7fd12e94a8a1be/1408_22_5652_4521/master/5652.jpg?width=140&quality=85&auto=format&fit=max&s=d0ae93ec314abf587a38476a01cc10a1",
-      "published_at": "2026-10-18T02:50:29+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "‘Serious incident’ at Alberta military base causes deaths and injuries, Canada officials say",
-          "summary": "Patients being taken to hospitals in Edmonton as Wainwright ‘completely overwhelmed’ by number of injuries, local doctor says People have been killed and injured after an incident at one of Canada’s busiest military training bases in Alberta caused a large fire, Canada’s defence minister said Saturday. “I’m saddened to share tha…"
         }
       }
     },
@@ -1609,60 +1771,6 @@
       }
     },
     {
-      "id": "1c601858b5c461a1a2",
-      "title": "Why Britain should reject the lure of cheap – and scary – Chinese AI",
-      "summary": "In the west the technology comes with at least some effort to provide security and a benign intent – not so from China There is much to fear from artificial intelligence developed in China and handed to businesses and governments in the west almost free of charge. Every month Chinese AI developers such as DeepSeek and Xiaomi dis…",
-      "source": "The Guardian",
-      "category": "ai",
-      "url": "https://www.theguardian.com/business/2026/oct/17/why-britain-should-reject-the-lure-of-cheap-and-scary-chinese-ai",
-      "image": "https://i.guim.co.uk/img/media/ed76515ea4f9df6a0b170674679392f87ba2c9ea/531_0_4025_3221/master/4025.jpg?width=140&quality=85&auto=format&fit=max&s=3b88a02580f809a6d160f8960e568a1c",
-      "published_at": "2026-10-17T15:00:33+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Why Britain should reject the lure of cheap – and scary – Chinese AI",
-          "summary": "In the west the technology comes with at least some effort to provide security and a benign intent – not so from China There is much to fear from artificial intelligence developed in China and handed to businesses and governments in the west almost free of charge. Every month Chinese AI developers such as DeepSeek and Xiaomi dis…"
-        }
-      }
-    },
-    {
-      "id": "5e77e5d05a55500be6",
-      "title": "Pikmin 4 is $20 off ahead of its $10 Nintendo Switch 2 update",
-      "summary": "If you’re wondering what video game to play this weekend, my colleague Sheena Vasani spotted a discounted Nintendo Switch title with instant digital delivery. Walmart has the digital version of Pikmin 4 for Switch discounted to $39.88, just over $20 lower than its usual price. This version of the game follows the same puzzle for…",
-      "source": "The Verge",
-      "category": "technology",
-      "url": "https://www.theverge.com/gadgets/1013105/pikmin-4-nintendo-switch-deal-sale",
-      "image": "",
-      "published_at": "2026-10-17T15:00:00+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Pikmin 4 is $20 off ahead of its $10 Nintendo Switch 2 update",
-          "summary": "If you’re wondering what video game to play this weekend, my colleague Sheena Vasani spotted a discounted Nintendo Switch title with instant digital delivery. Walmart has the digital version of Pikmin 4 for Switch discounted to $39.88, just over $20 lower than its usual price. This version of the game follows the same puzzle for…"
-        }
-      }
-    },
-    {
-      "id": "37dbc742cdbd30065c",
-      "title": "Jad Abumrad loves a butterfly knife and a good springy pillow",
-      "summary": "It's hard to overstate Jad Abumrad's impact on the podcasting world. He created and hosted Dolly Parton's America and Fela Kuti: Fear No Man, two Peabody Award-winning shows that offered unprecedented looks at the lives of two of the most important music icons of the last century. Before that, though, he created Radiolab, an exp…",
-      "source": "The Verge",
-      "category": "technology",
-      "url": "https://www.theverge.com/entertainment/1013381/jad-abumrad-radiolab-dolly-parton-fela-kuti-podcast-interview",
-      "image": "",
-      "published_at": "2026-10-17T14:30:00+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Jad Abumrad loves a butterfly knife and a good springy pillow",
-          "summary": "It's hard to overstate Jad Abumrad's impact on the podcasting world. He created and hosted Dolly Parton's America and Fela Kuti: Fear No Man, two Peabody Award-winning shows that offered unprecedented looks at the lives of two of the most important music icons of the last century. Before that, though, he created Radiolab, an exp…"
-        }
-      }
-    },
-    {
       "id": "67d283c69f7b36ee18",
       "title": "Mua bán vàng từ 5 triệu đồng một ngày phải thanh toán không tiền mặt",
       "summary": "Từ 16/10, khách hàng mua, bán vàng có giá trị từ 5 triệu đồng trong ngày phải thanh toán không dùng tiền mặt, thay vì ngưỡng 20 triệu đồng như trước.",
@@ -1681,38 +1789,20 @@
       }
     },
     {
-      "id": "b437462ca3e1db1287",
-      "title": "SpaceX’s ambitious, expensive gamble to replace AT&T, T-Mobile, and Verizon",
-      "summary": "Today, I’m talking with Walter Piecyk, a partner and analyst at LightShed Partners who covers tech, media, and telecom, about SpaceX’s recently announced plan to become a major wireless carrier. Last week, SpaceX agreed to buy a big chunk of low-band spectrum to expand the Starlink network, spectrum that’s been traded around the…",
-      "source": "The Verge",
-      "category": "technology",
-      "url": "https://www.theverge.com/podcast/1012416/spacex-starlink-elon-musk-cell-carrier-wireless-mobile-att-verizon-t-mobile",
-      "image": "",
-      "published_at": "2026-10-17T14:00:00+00:00",
+      "id": "8e2aa409f0824ff1d7",
+      "title": "Pope discharged from hospital days after lung cancer surgery",
+      "summary": "The pontiff will give the traditional Angelus prayer and blessing in St Peter's Square on Sunday.",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/c5x2vkddrkrko?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c6c/live/9aad8f70-ca31-11f1-9ab2-b325ce61f9d2.jpg",
+      "published_at": "2026-10-17T13:51:36+00:00",
       "kind": "source_brief",
       "source_lang": "en",
       "translations": {
         "en": {
-          "title": "SpaceX’s ambitious, expensive gamble to replace AT&T, T-Mobile, and Verizon",
-          "summary": "Today, I’m talking with Walter Piecyk, a partner and analyst at LightShed Partners who covers tech, media, and telecom, about SpaceX’s recently announced plan to become a major wireless carrier. Last week, SpaceX agreed to buy a big chunk of low-band spectrum to expand the Starlink network, spectrum that’s been traded around the…"
-        }
-      }
-    },
-    {
-      "id": "b31543fcd7d1501be9",
-      "title": "Websites are closing their doors to AI agents",
-      "summary": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes. But what happens when the rest of the internet won't play nice? In recent weeks, […",
-      "source": "The Verge",
-      "category": "ai",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-      "image": "",
-      "published_at": "2026-10-17T13:00:00+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Websites are closing their doors to AI agents",
-          "summary": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes. But what happens when the rest of the internet won't play nice? In recent weeks, […"
+          "title": "Pope discharged from hospital days after lung cancer surgery",
+          "summary": "The pontiff will give the traditional Angelus prayer and blessing in St Peter's Square on Sunday."
         }
       }
     },
@@ -1807,78 +1897,6 @@
       }
     },
     {
-      "id": "64644fa20b751ee49c",
-      "title": "Fake Linda and me: the Agatha Christie-worthy mystery of the fraudster who stole my byline",
-      "summary": "How a string of bizarre events led writer Linda Geddes to don her sleuthing cap and dig into a world of shadowy impersonators It started with an entirely ordinary interaction on LinkedIn. Someone had tagged me in a post, saying how much they’d enjoyed contributing to a New York Post article I’d written about “chronoworking”. As…",
-      "source": "The Guardian",
-      "category": "technology",
-      "url": "https://www.theguardian.com/technology/2026/oct/17/fake-linda-and-me-mystery-fraudster-stole-my-byline",
-      "image": "https://i.guim.co.uk/img/media/a426a8b6b459aed32bd6a8e431b13736369c3b21/676_119_6732_5385/master/6732.jpg?width=140&quality=85&auto=format&fit=max&s=f09aaf2d349e8bfc65d3ca6823fc23a4",
-      "published_at": "2026-10-17T11:00:30+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Fake Linda and me: the Agatha Christie-worthy mystery of the fraudster who stole my byline",
-          "summary": "How a string of bizarre events led writer Linda Geddes to don her sleuthing cap and dig into a world of shadowy impersonators It started with an entirely ordinary interaction on LinkedIn. Someone had tagged me in a post, saying how much they’d enjoyed contributing to a New York Post article I’d written about “chronoworking”. As…"
-        }
-      }
-    },
-    {
-      "id": "ead9ea938e0fe49849",
-      "title": "Why BioWare's Neverwinter Nights still has thousands of active players",
-      "summary": "The single-player is just OK, but according to the players, that doesn't matter.",
-      "source": "Ars Technica",
-      "category": "technology",
-      "url": "https://arstechnica.com/gaming/2026/10/why-biowares-neverwinter-nights-still-has-thousands-of-active-players/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/NWN-header-1152x648.jpg",
-      "published_at": "2026-10-17T11:00:21+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Why BioWare's Neverwinter Nights still has thousands of active players",
-          "summary": "The single-player is just OK, but according to the players, that doesn't matter."
-        }
-      }
-    },
-    {
-      "id": "23b3323c475ed6640b",
-      "title": "Việt Nam - Thụy Sĩ thúc đẩy hợp tác khoa học công nghệ",
-      "summary": "Việt Nam và Thụy Sĩ ký Ý định thư hợp tác phát triển kinh tế, hướng tới thúc đẩy đổi mới sáng tạo, khoa học công nghệ và kết nối nghiên cứu giữa hai nước.",
-      "source": "VnExpress",
-      "category": "technology",
-      "url": "https://vnexpress.net/viet-nam-thuy-si-thuc-day-hop-tac-khoa-hoc-cong-nghe-5133639.html",
-      "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/17/bt-1792234313-8485-1792234365.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=uxW57rKMOGASCVF3toJlSQ",
-      "published_at": "2026-10-17T10:52:45+00:00",
-      "kind": "source_brief",
-      "source_lang": "vi",
-      "translations": {
-        "vi": {
-          "title": "Việt Nam - Thụy Sĩ thúc đẩy hợp tác khoa học công nghệ",
-          "summary": "Việt Nam và Thụy Sĩ ký Ý định thư hợp tác phát triển kinh tế, hướng tới thúc đẩy đổi mới sáng tạo, khoa học công nghệ và kết nối nghiên cứu giữa hai nước."
-        }
-      }
-    },
-    {
-      "id": "1cd626d30199600548",
-      "title": "Ministers must be honest about Russian threat to UK, says former Foreign Office head",
-      "summary": "Peter Ricketts calls for more resilience in protecting banking, energy and water systems from cyber-assaults Ministers need to be honest with the British public about the immediate threat posed by Russia, which could soon lead to lives being lost, a former national security adviser has said. Peter Ricketts, who advised David Cam…",
-      "source": "The Guardian",
-      "category": "technology",
-      "url": "https://www.theguardian.com/technology/2026/oct/17/russia-threat-uk-former-foreign-office-head-lord-peter-ricketts",
-      "image": "https://i.guim.co.uk/img/media/8580aa29134c097092b2760c87b5d620add039e7/111_0_455_364/master/455.jpg?width=140&quality=85&auto=format&fit=max&s=ac134d44b6412db0e5ff6bd87c77c7f6",
-      "published_at": "2026-10-17T10:19:32+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Ministers must be honest about Russian threat to UK, says former Foreign Office head",
-          "summary": "Peter Ricketts calls for more resilience in protecting banking, energy and water systems from cyber-assaults Ministers need to be honest with the British public about the immediate threat posed by Russia, which could soon lead to lives being lost, a former national security adviser has said. Peter Ricketts, who advised David Cam…"
-        }
-      }
-    },
-    {
       "id": "297fa8e587e9d72847",
       "title": "Dự kiến nâng ngưỡng doanh thu xác định doanh nghiệp nhỏ và vừa lên 400 tỷ đồng",
       "summary": "Chính phủ đề xuất ngưỡng doanh thu năm để xác định doanh nghiệp nhỏ và vừa là 400 tỷ đồng, tăng 100 tỷ so với luật hiện hành.",
@@ -1897,20 +1915,20 @@
       }
     },
     {
-      "id": "28df7871f5a7a9bb1a",
-      "title": "‘You can’t make this stuff up’: why we remain fascinated by Elizabeth Holmes",
-      "summary": "The entrepreneur turned fraudster is the subject of an Oscar-tipped new documentary that takes an unusual look at her strange legacy David Agus’s first encounter with Elizabeth Holmes at a health conference came as a shock. The Holmes he met in the green room was personable and pleasant. The Holmes he interviewed on stage was al…",
-      "source": "The Guardian",
-      "category": "technology",
-      "url": "https://www.theguardian.com/film/2026/oct/17/elizabeth-holmes-documentary-why-we-care",
-      "image": "https://i.guim.co.uk/img/media/964fa47326a827f12bf336e880b2fdc4665711e6/124_0_5598_4480/master/5598.jpg?width=140&quality=85&auto=format&fit=max&s=a87bb955799dc99704c62e34bbde3f3a",
-      "published_at": "2026-10-17T09:00:28+00:00",
+      "id": "d8819b5c8a70d06469",
+      "title": "VCCI đề nghị không buộc đầu mối xăng dầu sở hữu 40 cửa hàng",
+      "summary": "VCCI lo yêu cầu mỗi đầu mối xăng dầu sở hữu ít nhất 40 cửa hàng có thể thúc đẩy mua lại các cây xăng độc lập, thu hẹp cạnh tranh ở khâu bán lẻ.",
+      "source": "VnExpress",
+      "category": "economy",
+      "url": "https://vnexpress.net/vcci-de-nghi-khong-buoc-dau-moi-xang-dau-so-huu-40-cua-hang-5133413.html",
+      "image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/17/wm1-wm1-110326xangdau15hoanggiang-4017-4308-1792199696.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ymGBozSi_XgCd7ScXHsZew",
+      "published_at": "2026-10-17T08:38:52+00:00",
       "kind": "source_brief",
-      "source_lang": "en",
+      "source_lang": "vi",
       "translations": {
-        "en": {
-          "title": "‘You can’t make this stuff up’: why we remain fascinated by Elizabeth Holmes",
-          "summary": "The entrepreneur turned fraudster is the subject of an Oscar-tipped new documentary that takes an unusual look at her strange legacy David Agus’s first encounter with Elizabeth Holmes at a health conference came as a shock. The Holmes he met in the green room was personable and pleasant. The Holmes he interviewed on stage was al…"
+        "vi": {
+          "title": "VCCI đề nghị không buộc đầu mối xăng dầu sở hữu 40 cửa hàng",
+          "summary": "VCCI lo yêu cầu mỗi đầu mối xăng dầu sở hữu ít nhất 40 cửa hàng có thể thúc đẩy mua lại các cây xăng độc lập, thu hẹp cạnh tranh ở khâu bán lẻ."
         }
       }
     },
@@ -2003,28 +2021,112 @@
           "summary": "Discord user flagged AI CSAM, triggering arrest of New Jersey deputy AG."
         }
       }
-    },
-    {
-      "id": "bfbf9ca78ba6e3fc97",
-      "title": "Brazilian Amazon deforestation falls to lowest on record as pivotal vote looms",
-      "summary": "Forest clearance at smallest total since records began in 1988 in success for Lula ahead of presidential run-off Deforestation in the Brazilian Amazon has fallen to its lowest level since records began, new government data shows. But whether this globally important success is maintained or reversed is on a knife edge ahead of a…",
-      "source": "The Guardian",
-      "category": "politics",
-      "url": "https://www.theguardian.com/environment/2026/oct/16/brazil-amazon-deforestation-lowest-on-record-election",
-      "image": "https://i.guim.co.uk/img/media/1ab732d5e231b07fef02c8b733fbf39933a3f591/420_0_4200_3360/master/4200.jpg?width=140&quality=85&auto=format&fit=max&s=fbafa9b10ba28b2d75e5b663dd38e53c",
-      "published_at": "2026-10-16T19:37:53+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Brazilian Amazon deforestation falls to lowest on record as pivotal vote looms",
-          "summary": "Forest clearance at smallest total since records began in 1988 in success for Lula ahead of presidential run-off Deforestation in the Brazilian Amazon has fallen to its lowest level since records began, new government data shows. But whether this globally important success is maintained or reversed is on a knife edge ahead of a…"
-        }
-      }
     }
   ],
   "videos": {
     "vietnam": [
+      {
+        "id": "mCuJYVTzfNA",
+        "title": "Nông dân thời công nghệ: Chủ động đổi mới, nâng tầm sản xuất | VTV24",
+        "channel": "VTV24",
+        "category": "vietnam",
+        "published_at": "2026-10-18T16:00:26+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/mCuJYVTzfNA/hqdefault.jpg",
+        "popularity": 41,
+        "provenance": "official_channel_api",
+        "source_lang": "vi",
+        "translations": {
+          "vi": {
+            "title": "Nông dân thời công nghệ: Chủ động đổi mới, nâng tầm sản xuất | VTV24",
+            "summary": ""
+          }
+        }
+      },
+      {
+        "id": "6urHjVdDbIE",
+        "title": "Chiếc điện thoại mở lối tiêu thụ đặc sản, đưa sản phẩm vươn xa trên thị trường số | VTV24",
+        "channel": "VTV24",
+        "category": "vietnam",
+        "published_at": "2026-10-18T15:30:18+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/6urHjVdDbIE/hqdefault.jpg",
+        "popularity": 101,
+        "provenance": "official_channel_api",
+        "source_lang": "vi",
+        "translations": {
+          "vi": {
+            "title": "Chiếc điện thoại mở lối tiêu thụ đặc sản, đưa sản phẩm vươn xa trên thị trường số | VTV24",
+            "summary": ""
+          }
+        }
+      },
+      {
+        "id": "mFNUvMDm9lQ",
+        "title": "Kiên định mục tiêu tăng trưởng hai con số | Cụm tin | VTV24",
+        "channel": "VTV24",
+        "category": "vietnam",
+        "published_at": "2026-10-18T15:00:08+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/mFNUvMDm9lQ/hqdefault.jpg",
+        "popularity": 332,
+        "provenance": "official_channel_api",
+        "source_lang": "vi",
+        "translations": {
+          "vi": {
+            "title": "Kiên định mục tiêu tăng trưởng hai con số | Cụm tin | VTV24",
+            "summary": ""
+          }
+        }
+      },
+      {
+        "id": "EfQgIwGGRNM",
+        "title": "Thật - Giả, Kiểm chứng: Fanpage tích xanh vẫn có thể là bẫy lừa đảo | VTV24",
+        "channel": "VTV24",
+        "category": "vietnam",
+        "published_at": "2026-10-18T14:30:14+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/EfQgIwGGRNM/hqdefault.jpg",
+        "popularity": 410,
+        "provenance": "official_channel_api",
+        "source_lang": "vi",
+        "translations": {
+          "vi": {
+            "title": "Thật - Giả, Kiểm chứng: Fanpage tích xanh vẫn có thể là bẫy lừa đảo | VTV24",
+            "summary": ""
+          }
+        }
+      },
+      {
+        "id": "JTilaGtj3OA",
+        "title": "Thời sự toàn cảnh tối 18/10: Giá dầu Brent áp sát 110 USD/thùng, Mỹ - Nga - châu Âu toan tính gì?",
+        "channel": "VTV24",
+        "category": "vietnam",
+        "published_at": "2026-10-18T14:00:15+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/JTilaGtj3OA/hqdefault.jpg",
+        "popularity": 2589,
+        "provenance": "official_channel_api",
+        "source_lang": "vi",
+        "translations": {
+          "vi": {
+            "title": "Thời sự toàn cảnh tối 18/10: Giá dầu Brent áp sát 110 USD/thùng, Mỹ - Nga - châu Âu toan tính gì?",
+            "summary": ""
+          }
+        }
+      },
+      {
+        "id": "ZgjrhZzdEAA",
+        "title": "Viết tiếp trang sử hợp tác hữu nghị Việt Nam - Thụy Sĩ | Cụm tin | VTV24",
+        "channel": "VTV24",
+        "category": "vietnam",
+        "published_at": "2026-10-18T13:09:29+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/ZgjrhZzdEAA/hqdefault.jpg",
+        "popularity": 5104,
+        "provenance": "official_channel_api",
+        "source_lang": "vi",
+        "translations": {
+          "vi": {
+            "title": "Viết tiếp trang sử hợp tác hữu nghị Việt Nam - Thụy Sĩ | Cụm tin | VTV24",
+            "summary": ""
+          }
+        }
+      },
       {
         "id": "u-kUyJwvQ2A",
         "title": "Quan điểm đối lập của Nga và Ucraina về sắc lệnh miễn trừ của Mỹ | Cụm tin Quốc tế | VTV24",
@@ -2032,7 +2134,7 @@
         "category": "vietnam",
         "published_at": "2026-10-18T12:15:15+00:00",
         "thumbnail": "https://i.ytimg.com/vi/u-kUyJwvQ2A/hqdefault.jpg",
-        "popularity": 2872,
+        "popularity": 39458,
         "provenance": "official_channel_api",
         "source_lang": "vi",
         "translations": {
@@ -2049,7 +2151,7 @@
         "category": "vietnam",
         "published_at": "2026-10-18T11:36:06+00:00",
         "thumbnail": "https://i.ytimg.com/vi/1Hi92bZq61M/hqdefault.jpg",
-        "popularity": 847,
+        "popularity": 6155,
         "provenance": "official_channel_api",
         "source_lang": "vi",
         "translations": {
@@ -2058,111 +2160,94 @@
             "summary": ""
           }
         }
-      },
-      {
-        "id": "iTe7x_ff1EM",
-        "title": "Phản ứng về việc Mỹ miễn áp dụng trừng phạt mới với Nga | Cụm tin Quốc tế | VTV24",
-        "channel": "VTV24",
-        "category": "vietnam",
-        "published_at": "2026-10-18T11:00:17+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/iTe7x_ff1EM/hqdefault.jpg",
-        "popularity": 5829,
-        "provenance": "official_channel_api",
-        "source_lang": "vi",
-        "translations": {
-          "vi": {
-            "title": "Phản ứng về việc Mỹ miễn áp dụng trừng phạt mới với Nga | Cụm tin Quốc tế | VTV24",
-            "summary": ""
-          }
-        }
-      },
-      {
-        "id": "HQFMMfMcsno",
-        "title": "Bắt tạm giam Tôn Bằng - chồng cũ của TikToker Hằng Du Mục | VTV24",
-        "channel": "VTV24",
-        "category": "vietnam",
-        "published_at": "2026-10-18T10:34:57+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/HQFMMfMcsno/hqdefault.jpg",
-        "popularity": 8513,
-        "provenance": "official_channel_api",
-        "source_lang": "vi",
-        "translations": {
-          "vi": {
-            "title": "Bắt tạm giam Tôn Bằng - chồng cũ của TikToker Hằng Du Mục | VTV24",
-            "summary": ""
-          }
-        }
-      },
-      {
-        "id": "1L8CER1Z2NE",
-        "title": "Vì Sao Lào Và Cam Lại Cho TQ Đặt Căn Cứ Quân Sự?",
-        "channel": "Tài Chính Kinh Điển",
-        "category": "vietnam",
-        "published_at": "2026-10-18T10:30:16+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/1L8CER1Z2NE/hqdefault.jpg",
-        "popularity": 15959,
-        "provenance": "youtube_popular",
-        "source_lang": "vi",
-        "translations": {
-          "vi": {
-            "title": "Vì Sao Lào Và Cam Lại Cho TQ Đặt Căn Cứ Quân Sự?",
-            "summary": ""
-          }
-        }
-      },
-      {
-        "id": "fIApfxLFE88",
-        "title": "Xử phạt 6 phụ nữ ngồi chụp ảnh giữa đường trên đèo Hải Vân | Cụm tin | VTV24",
-        "channel": "VTV24",
-        "category": "vietnam",
-        "published_at": "2026-10-18T09:10:41+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/fIApfxLFE88/hqdefault.jpg",
-        "popularity": 10288,
-        "provenance": "official_channel_api",
-        "source_lang": "vi",
-        "translations": {
-          "vi": {
-            "title": "Xử phạt 6 phụ nữ ngồi chụp ảnh giữa đường trên đèo Hải Vân | Cụm tin | VTV24",
-            "summary": ""
-          }
-        }
-      },
-      {
-        "id": "PPCgIODtcDQ",
-        "title": "Hà Nội đánh thức di sản, tạo sức bật cho kinh tế văn hóa | VTV24",
-        "channel": "VTV24",
-        "category": "vietnam",
-        "published_at": "2026-10-18T08:26:01+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/PPCgIODtcDQ/hqdefault.jpg",
-        "popularity": 1777,
-        "provenance": "official_channel_api",
-        "source_lang": "vi",
-        "translations": {
-          "vi": {
-            "title": "Hà Nội đánh thức di sản, tạo sức bật cho kinh tế văn hóa | VTV24",
-            "summary": ""
-          }
-        }
-      },
-      {
-        "id": "B2sHVtP-IaA",
-        "title": "TSTC: Tổng Bí thư, Chủ tịch nước Tô Lâm chứng kiến Lễ ký Hiệp định thương mại tự do Việt Nam - EFTA",
-        "channel": "VTV24",
-        "category": "vietnam",
-        "published_at": "2026-10-18T07:00:09+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/B2sHVtP-IaA/hqdefault.jpg",
-        "popularity": 15192,
-        "provenance": "official_channel_api",
-        "source_lang": "vi",
-        "translations": {
-          "vi": {
-            "title": "TSTC: Tổng Bí thư, Chủ tịch nước Tô Lâm chứng kiến Lễ ký Hiệp định thương mại tự do Việt Nam - EFTA",
-            "summary": ""
-          }
-        }
       }
     ],
     "world": [
+      {
+        "id": "vIw9GAXhzmg",
+        "title": "Rory Mcllroy: Liv Golf Spent Too Much Money 'Enriching Tour Pros'",
+        "channel": "Bloomberg News",
+        "category": "world",
+        "published_at": "2026-10-18T16:00:08+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/vIw9GAXhzmg/hqdefault.jpg",
+        "popularity": 24,
+        "provenance": "official_channel_api",
+        "source_lang": "en",
+        "translations": {
+          "en": {
+            "title": "Rory Mcllroy: Liv Golf Spent Too Much Money 'Enriching Tour Pros'",
+            "summary": ""
+          }
+        }
+      },
+      {
+        "id": "CjnOAsEyA5U",
+        "title": "Can Labour Prevent Another Winter NHS Crisis? | BBC News",
+        "channel": "BBC News",
+        "category": "world",
+        "published_at": "2026-10-18T16:00:02+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/CjnOAsEyA5U/hqdefault.jpg",
+        "popularity": 225,
+        "provenance": "official_channel_api",
+        "source_lang": "en",
+        "translations": {
+          "en": {
+            "title": "Can Labour Prevent Another Winter NHS Crisis? | BBC News",
+            "summary": ""
+          }
+        }
+      },
+      {
+        "id": "uT8sox6oNbI",
+        "title": "Pope Leo XIV thanks wellwishers in first event after cancer surgery.#PopeLeo #BBCNews",
+        "channel": "BBC News",
+        "category": "world",
+        "published_at": "2026-10-18T15:30:00+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/uT8sox6oNbI/hqdefault.jpg",
+        "popularity": 920,
+        "provenance": "official_channel_api",
+        "source_lang": "en",
+        "translations": {
+          "en": {
+            "title": "Pope Leo XIV thanks wellwishers in first event after cancer surgery.#PopeLeo #BBCNews",
+            "summary": ""
+          }
+        }
+      },
+      {
+        "id": "zmfKyRsScPA",
+        "title": "Netflix Names Ex-Disney TV Chair Rice Chief Content Officer",
+        "channel": "Bloomberg News",
+        "category": "world",
+        "published_at": "2026-10-18T14:00:30+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/zmfKyRsScPA/hqdefault.jpg",
+        "popularity": 267,
+        "provenance": "official_channel_api",
+        "source_lang": "en",
+        "translations": {
+          "en": {
+            "title": "Netflix Names Ex-Disney TV Chair Rice Chief Content Officer",
+            "summary": ""
+          }
+        }
+      },
+      {
+        "id": "nliE10g3d4Q",
+        "title": "Is VisionQuest REALLY the end of the WandaVision trilogy? #Marvel #BBCNews",
+        "channel": "BBC News",
+        "category": "world",
+        "published_at": "2026-10-18T13:11:45+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/nliE10g3d4Q/hqdefault.jpg",
+        "popularity": 3589,
+        "provenance": "official_channel_api",
+        "source_lang": "en",
+        "translations": {
+          "en": {
+            "title": "Is VisionQuest REALLY the end of the WandaVision trilogy? #Marvel #BBCNews",
+            "summary": ""
+          }
+        }
+      },
       {
         "id": "PTMpRcUCvL8",
         "title": "Violent clashes and buildings ablaze in France protests | BBC News",
@@ -2170,7 +2255,7 @@
         "category": "world",
         "published_at": "2026-10-18T12:19:02+00:00",
         "thumbnail": "https://i.ytimg.com/vi/PTMpRcUCvL8/hqdefault.jpg",
-        "popularity": 4690,
+        "popularity": 60042,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2187,7 +2272,7 @@
         "category": "world",
         "published_at": "2026-10-18T10:00:32+00:00",
         "thumbnail": "https://i.ytimg.com/vi/tqUaH8nN7C0/hqdefault.jpg",
-        "popularity": 12197,
+        "popularity": 26257,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2204,7 +2289,7 @@
         "category": "world",
         "published_at": "2026-10-18T09:02:08+00:00",
         "thumbnail": "https://i.ytimg.com/vi/A34fhs8uCW4/hqdefault.jpg",
-        "popularity": 93858,
+        "popularity": 194957,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2213,226 +2298,141 @@
             "summary": ""
           }
         }
-      },
-      {
-        "id": "85f6Tn_BfPI",
-        "title": "French town hall spire collapses in flames amidst protests #France #Protests #BBCNews",
-        "channel": "BBC News",
-        "category": "world",
-        "published_at": "2026-10-18T08:24:44+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/85f6Tn_BfPI/hqdefault.jpg",
-        "popularity": 49818,
-        "provenance": "official_channel_api",
-        "source_lang": "en",
-        "translations": {
-          "en": {
-            "title": "French town hall spire collapses in flames amidst protests #France #Protests #BBCNews",
-            "summary": ""
-          }
-        }
-      },
-      {
-        "id": "sBfbquHJsrI",
-        "title": "America's Synthetic Drug Crisis | BBC News",
-        "channel": "BBC News",
-        "category": "world",
-        "published_at": "2026-10-18T05:00:02+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/sBfbquHJsrI/hqdefault.jpg",
-        "popularity": 59435,
-        "provenance": "official_channel_api",
-        "source_lang": "en",
-        "translations": {
-          "en": {
-            "title": "America's Synthetic Drug Crisis | BBC News",
-            "summary": ""
-          }
-        }
-      },
-      {
-        "id": "MXUyUHwHl6g",
-        "title": "Formula 1 Returns to Africa With Rwanda Grand Prix in 2030s",
-        "channel": "Bloomberg News",
-        "category": "world",
-        "published_at": "2026-10-18T00:00:07+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/MXUyUHwHl6g/hqdefault.jpg",
-        "popularity": 1218,
-        "provenance": "official_channel_api",
-        "source_lang": "en",
-        "translations": {
-          "en": {
-            "title": "Formula 1 Returns to Africa With Rwanda Grand Prix in 2030s",
-            "summary": ""
-          }
-        }
-      },
-      {
-        "id": "k9fdVjYTsbQ",
-        "title": "The Case for Mamdani-Style Populism",
-        "channel": "Bloomberg News",
-        "category": "world",
-        "published_at": "2026-10-17T22:00:20+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/k9fdVjYTsbQ/hqdefault.jpg",
-        "popularity": 806,
-        "provenance": "official_channel_api",
-        "source_lang": "en",
-        "translations": {
-          "en": {
-            "title": "The Case for Mamdani-Style Populism",
-            "summary": ""
-          }
-        }
-      },
-      {
-        "id": "i89sZ4WQeWc",
-        "title": "Hundreds arrested in violent protests across France as buildings burned and looted | BBC News",
-        "channel": "BBC News",
-        "category": "world",
-        "published_at": "2026-10-17T21:42:46+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/i89sZ4WQeWc/hqdefault.jpg",
-        "popularity": 428305,
-        "provenance": "official_channel_api",
-        "source_lang": "en",
-        "translations": {
-          "en": {
-            "title": "Hundreds arrested in violent protests across France as buildings burned and looted | BBC News",
-            "summary": ""
-          }
-        }
       }
     ],
     "economy": [
       {
-        "id": "GrRfLdpltfM",
-        "title": "Rep. Pappas Says New Hampshire Race Is Not in the Bag",
+        "id": "vx0j3I7jPcI",
+        "title": "Riots in France, US Ukraine Disagree on Starshield, Watching Wall Street",
         "channel": "Bloomberg Television",
         "category": "economy",
-        "published_at": "2026-10-18T12:49:29+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/GrRfLdpltfM/hqdefault.jpg",
-        "popularity": 16,
+        "published_at": "2026-10-18T16:18:24+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/vx0j3I7jPcI/hqdefault.jpg",
+        "popularity": 4,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
           "en": {
-            "title": "Rep. Pappas Says New Hampshire Race Is Not in the Bag",
+            "title": "Riots in France, US Ukraine Disagree on Starshield, Watching Wall Street",
             "summary": ""
           }
         }
       },
       {
-        "id": "DVlgK0Fr14g",
-        "title": "By The Way: Headlines You May Have Missed",
+        "id": "Y5M8Gs7AS7I",
+        "title": "Bookmarked: News Stories On Our Reading List",
         "channel": "Bloomberg Television",
         "category": "economy",
-        "published_at": "2026-10-18T12:35:25+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/DVlgK0Fr14g/hqdefault.jpg",
-        "popularity": 73,
+        "published_at": "2026-10-18T15:19:14+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/Y5M8Gs7AS7I/hqdefault.jpg",
+        "popularity": 96,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
           "en": {
-            "title": "By The Way: Headlines You May Have Missed",
+            "title": "Bookmarked: News Stories On Our Reading List",
             "summary": ""
           }
         }
       },
       {
-        "id": "FzI9oLgbmX8",
-        "title": "OpenAI Arrest Raises AI Espionage Concerns",
+        "id": "hyDmuq7guqc",
+        "title": "Inside Andreessen’s Growing Political Influence",
         "channel": "Bloomberg Television",
         "category": "economy",
-        "published_at": "2026-10-18T12:26:50+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/FzI9oLgbmX8/hqdefault.jpg",
-        "popularity": 358,
+        "published_at": "2026-10-18T15:04:10+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/hyDmuq7guqc/hqdefault.jpg",
+        "popularity": 213,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
           "en": {
-            "title": "OpenAI Arrest Raises AI Espionage Concerns",
+            "title": "Inside Andreessen’s Growing Political Influence",
             "summary": ""
           }
         }
       },
       {
-        "id": "hULF_x_HpWw",
-        "title": "Pope Leo Looks Ahead After Cancer Surgery",
+        "id": "q--shB_2V2k",
+        "title": "Senate Control Moves Toward a Toss-Up",
         "channel": "Bloomberg Television",
         "category": "economy",
-        "published_at": "2026-10-18T12:11:44+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/hULF_x_HpWw/hqdefault.jpg",
-        "popularity": 144,
+        "published_at": "2026-10-18T14:36:08+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/q--shB_2V2k/hqdefault.jpg",
+        "popularity": 961,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
           "en": {
-            "title": "Pope Leo Looks Ahead After Cancer Surgery",
+            "title": "Senate Control Moves Toward a Toss-Up",
             "summary": ""
           }
         }
       },
       {
-        "id": "cqYJOZE-uOc",
-        "title": "Why Globalization Is Getting Harder to Navigate",
+        "id": "EqvkKSaE1X0",
+        "title": "Rep. Veasey Calls for Scrutiny of Trump Russia Ties",
         "channel": "Bloomberg Television",
         "category": "economy",
-        "published_at": "2026-10-18T12:00:22+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/cqYJOZE-uOc/hqdefault.jpg",
-        "popularity": 1361,
+        "published_at": "2026-10-18T14:21:24+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/EqvkKSaE1X0/hqdefault.jpg",
+        "popularity": 659,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
           "en": {
-            "title": "Why Globalization Is Getting Harder to Navigate",
+            "title": "Rep. Veasey Calls for Scrutiny of Trump Russia Ties",
             "summary": ""
           }
         }
       },
       {
-        "id": "NT7NMVZeU6g",
-        "title": "France Faces Unrest Over Rising Living Costs",
+        "id": "oKchaDHk3_Q",
+        "title": "Chicago Tops Travelers’ Favorite US Cities",
         "channel": "Bloomberg Television",
         "category": "economy",
-        "published_at": "2026-10-18T11:54:27+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/NT7NMVZeU6g/hqdefault.jpg",
-        "popularity": 1847,
+        "published_at": "2026-10-18T14:10:17+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/oKchaDHk3_Q/hqdefault.jpg",
+        "popularity": 689,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
           "en": {
-            "title": "France Faces Unrest Over Rising Living Costs",
+            "title": "Chicago Tops Travelers’ Favorite US Cities",
             "summary": ""
           }
         }
       },
       {
-        "id": "KMoQYOaZikk",
-        "title": "Trump Faces GOP Backlash Over Russia Sanctions",
-        "channel": "Bloomberg Television",
+        "id": "frhH6gRM3Pw",
+        "title": "Why Fuel Economy Rollbacks Will Spur More Trucks, More V-8 Engines",
+        "channel": "CNBC",
         "category": "economy",
-        "published_at": "2026-10-18T11:50:56+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/KMoQYOaZikk/hqdefault.jpg",
-        "popularity": 4534,
+        "published_at": "2026-10-18T14:00:37+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/frhH6gRM3Pw/hqdefault.jpg",
+        "popularity": 12515,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
           "en": {
-            "title": "Trump Faces GOP Backlash Over Russia Sanctions",
+            "title": "Why Fuel Economy Rollbacks Will Spur More Trucks, More V-8 Engines",
             "summary": ""
           }
         }
       },
       {
-        "id": "IbsGB6Gvabw",
-        "title": "Inside Trinity Rodman’s Record-Breaking Payday",
+        "id": "m9VblmOgeMc",
+        "title": "Can America Rebuild Trust With Its Allies?",
         "channel": "Bloomberg Television",
         "category": "economy",
-        "published_at": "2026-10-18T08:15:27+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/IbsGB6Gvabw/hqdefault.jpg",
-        "popularity": 4250,
+        "published_at": "2026-10-18T14:00:09+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/m9VblmOgeMc/hqdefault.jpg",
+        "popularity": 1984,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
           "en": {
-            "title": "Inside Trinity Rodman’s Record-Breaking Payday",
+            "title": "Can America Rebuild Trust With Its Allies?",
             "summary": ""
           }
         }
@@ -2446,7 +2446,7 @@
         "category": "technology",
         "published_at": "2026-10-17T15:00:27+00:00",
         "thumbnail": "https://i.ytimg.com/vi/5P0Xb3Y0hYg/hqdefault.jpg",
-        "popularity": 105267,
+        "popularity": 125542,
         "provenance": "youtube_popular",
         "source_lang": "en",
         "translations": {
@@ -2463,7 +2463,7 @@
         "category": "technology",
         "published_at": "2026-10-17T15:00:19+00:00",
         "thumbnail": "https://i.ytimg.com/vi/mtiMk28wmAw/hqdefault.jpg",
-        "popularity": 6765,
+        "popularity": 7205,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2480,7 +2480,7 @@
         "category": "technology",
         "published_at": "2026-10-16T19:15:30+00:00",
         "thumbnail": "https://i.ytimg.com/vi/9h5naV9Ms4s/hqdefault.jpg",
-        "popularity": 15608,
+        "popularity": 15956,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2497,7 +2497,7 @@
         "category": "technology",
         "published_at": "2026-10-16T17:39:18+00:00",
         "thumbnail": "https://i.ytimg.com/vi/HTqc5fMitok/hqdefault.jpg",
-        "popularity": 13637,
+        "popularity": 14289,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2514,7 +2514,7 @@
         "category": "technology",
         "published_at": "2026-10-16T15:36:53+00:00",
         "thumbnail": "https://i.ytimg.com/vi/z00Lhm3CqAM/hqdefault.jpg",
-        "popularity": 45460,
+        "popularity": 46570,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2531,7 +2531,7 @@
         "category": "technology",
         "published_at": "2026-10-16T15:00:20+00:00",
         "thumbnail": "https://i.ytimg.com/vi/dWmEKM4_lKQ/hqdefault.jpg",
-        "popularity": 15068,
+        "popularity": 15506,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2548,7 +2548,7 @@
         "category": "technology",
         "published_at": "2026-10-16T13:49:43+00:00",
         "thumbnail": "https://i.ytimg.com/vi/_EW8O9SLSXs/hqdefault.jpg",
-        "popularity": 234533,
+        "popularity": 235503,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2565,7 +2565,7 @@
         "category": "technology",
         "published_at": "2026-10-16T10:55:14+00:00",
         "thumbnail": "https://i.ytimg.com/vi/BYWy6SyJRZo/hqdefault.jpg",
-        "popularity": 5205336,
+        "popularity": 5309079,
         "provenance": "youtube_popular",
         "source_lang": "en",
         "translations": {
@@ -2584,7 +2584,7 @@
         "category": "ai-trends",
         "published_at": "2026-10-17T13:00:11+00:00",
         "thumbnail": "https://i.ytimg.com/vi/yAGGkDvbjAs/hqdefault.jpg",
-        "popularity": 1881814,
+        "popularity": 2015294,
         "provenance": "youtube_popular",
         "source_lang": "en",
         "translations": {
@@ -2601,7 +2601,7 @@
         "category": "ai-trends",
         "published_at": "2026-10-17T05:06:11+00:00",
         "thumbnail": "https://i.ytimg.com/vi/6dR-RCSUgrM/hqdefault.jpg",
-        "popularity": 128300,
+        "popularity": 132964,
         "provenance": "youtube_popular",
         "source_lang": "en",
         "translations": {
@@ -2618,7 +2618,7 @@
         "category": "ai-trends",
         "published_at": "2026-10-16T21:00:00+00:00",
         "thumbnail": "https://i.ytimg.com/vi/LJ2v4-FvPcA/hqdefault.jpg",
-        "popularity": 2455,
+        "popularity": 2504,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2635,7 +2635,7 @@
         "category": "ai-trends",
         "published_at": "2026-10-16T16:00:00+00:00",
         "thumbnail": "https://i.ytimg.com/vi/-nmcYcO-EE8/hqdefault.jpg",
-        "popularity": 5009,
+        "popularity": 5323,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2652,7 +2652,7 @@
         "category": "ai-trends",
         "published_at": "2026-10-15T23:00:26+00:00",
         "thumbnail": "https://i.ytimg.com/vi/qJplHFjyv2A/hqdefault.jpg",
-        "popularity": 4327,
+        "popularity": 4468,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2669,7 +2669,7 @@
         "category": "ai-trends",
         "published_at": "2026-10-15T19:00:22+00:00",
         "thumbnail": "https://i.ytimg.com/vi/i3X7Fv0Z3Uc/hqdefault.jpg",
-        "popularity": 12149,
+        "popularity": 12343,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2686,7 +2686,7 @@
         "category": "ai-trends",
         "published_at": "2026-10-15T16:00:02+00:00",
         "thumbnail": "https://i.ytimg.com/vi/nSwmcs37Jd4/hqdefault.jpg",
-        "popularity": 26680,
+        "popularity": 27134,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2703,7 +2703,7 @@
         "category": "ai-trends",
         "published_at": "2026-10-14T17:01:36+00:00",
         "thumbnail": "https://i.ytimg.com/vi/Jh6mgf9M06M/hqdefault.jpg",
-        "popularity": 70217,
+        "popularity": 70661,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {

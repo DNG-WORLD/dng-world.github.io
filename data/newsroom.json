@@ -1,12 +1,12 @@
 {
   "version": 36,
   "translation_status": "not_configured",
-  "updated_at": "2026-10-18T16:20:42.363635+00:00",
-  "attempted_at": "2026-10-18T16:20:42.363635+00:00",
+  "updated_at": "2026-10-18T18:42:33.726576+00:00",
+  "attempted_at": "2026-10-18T18:42:33.726576+00:00",
   "status": "ok",
   "video_status": "fresh",
   "video_warning": "",
-  "video_last_success_at": "2026-10-18T16:20:42.363635+00:00",
+  "video_last_success_at": "2026-10-18T18:42:33.726576+00:00",
   "video_mode": "popular_and_channel",
   "video_api_note": "YouTube Data API v3 / verified embeddable public videos",
   "source_count": 22,
@@ -36,12 +36,156 @@
   ],
   "sources_failed": [
     "Search Engine Land / marketing (HTTP Error 403: Forbidden)",
-    "Tuổi Trẻ / economy (empty or no recent records)",
     "Tuổi Trẻ / world (empty or no recent records)",
     "Tuổi Trẻ / vietnam (empty or no recent records)",
+    "Tuổi Trẻ / economy (empty or no recent records)",
     "VietnamPlus / vietnam (not well-formed (invalid token): line 1, column 0)"
   ],
   "news": [
+    {
+      "id": "3cf4d945cff63c9532",
+      "title": "A woman was arrested in Philly for blocking a delivery robot",
+      "summary": "Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. Marvin told Philadelphia's ABC13 \"I know they're taking the jobs of human delivery workers and so, I have been protesting them whenever I saw them by standing in front […]",
+      "source": "The Verge",
+      "category": "technology",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
+      "image": "",
+      "published_at": "2026-10-18T18:28:10+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "A woman was arrested in Philly for blocking a delivery robot",
+          "summary": "Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. Marvin told Philadelphia's ABC13 \"I know they're taking the jobs of human delivery workers and so, I have been protesting them whenever I saw them by standing in front […]"
+        }
+      }
+    },
+    {
+      "id": "53abfb0900ea34a713",
+      "title": "Shabana Mahmood to hold talks with EU over law enforcement cooperation",
+      "summary": "UK home secretary’s meeting comes after PM said he wanted to rejoin European law enforcement databases The UK home secretary, Shabana Mahmood, will meet the EU’s home affairs commissioner on Monday for further talks just days after Andy Burnham said he wanted to rejoin European law enforcement databases from which the UK has bee…",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/politics/2026/oct/18/shabana-mahmood-talks-eu-law-enforcement-cooperation-magnus-brunner",
+      "image": "https://i.guim.co.uk/img/media/24e45bf3b5e3a5f717a23661a27db15921ddebcb/341_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=38b190c1b0d0608a45ad2b88f4febef3",
+      "published_at": "2026-10-18T18:13:11+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Shabana Mahmood to hold talks with EU over law enforcement cooperation",
+          "summary": "UK home secretary’s meeting comes after PM said he wanted to rejoin European law enforcement databases The UK home secretary, Shabana Mahmood, will meet the EU’s home affairs commissioner on Monday for further talks just days after Andy Burnham said he wanted to rejoin European law enforcement databases from which the UK has bee…"
+        }
+      }
+    },
+    {
+      "id": "fe1da706fb4d295faa",
+      "title": "Four people killed in ‘violent, fast-moving’ fire at Canadian military base",
+      "summary": "Prime minister Mark Carney describes blaze as ‘one of the worst tragedies for the forces on Canadian soil in peacetime’ Four people have been killed and dozens more seriously injured after a “violent, fast-moving” fire tore through one of Canada’s busiest military training bases in Alberta, Canada’s prime minister said on Sunday…",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright",
+      "image": "https://i.guim.co.uk/img/media/fd2fce9d5801c1379f2c9034bd7fd12e94a8a1be/1408_22_5652_4521/master/5652.jpg?width=140&quality=85&auto=format&fit=max&s=d0ae93ec314abf587a38476a01cc10a1",
+      "published_at": "2026-10-18T17:34:53+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Four people killed in ‘violent, fast-moving’ fire at Canadian military base",
+          "summary": "Prime minister Mark Carney describes blaze as ‘one of the worst tragedies for the forces on Canadian soil in peacetime’ Four people have been killed and dozens more seriously injured after a “violent, fast-moving” fire tore through one of Canada’s busiest military training bases in Alberta, Canada’s prime minister said on Sunday…"
+        }
+      }
+    },
+    {
+      "id": "986a7130e6fc2403de",
+      "title": "Kiếm triệu USD nhờ làm trang trại bí ngô",
+      "summary": "Ông Kelly Schultz (74 tuổi) chỉ mở cửa trang trại bí ngô 7 tuần mỗi năm vào dịp Halloween, nhưng thu về 2 triệu USD năm ngoái.",
+      "source": "VnExpress",
+      "category": "economy",
+      "url": "https://vnexpress.net/kiem-trieu-usd-nho-lam-trang-trai-bi-ngo-5133755.html",
+      "image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/18/108420164-kelly-schultz-and-be-3521-8477-1792297126.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=Q2kP7afQ20FRwbMkcuZQ-g",
+      "published_at": "2026-10-18T17:03:00+00:00",
+      "kind": "source_brief",
+      "source_lang": "vi",
+      "translations": {
+        "vi": {
+          "title": "Kiếm triệu USD nhờ làm trang trại bí ngô",
+          "summary": "Ông Kelly Schultz (74 tuổi) chỉ mở cửa trang trại bí ngô 7 tuần mỗi năm vào dịp Halloween, nhưng thu về 2 triệu USD năm ngoái."
+        }
+      }
+    },
+    {
+      "id": "45420893bf1ca6b670",
+      "title": "Zelenskyy thanks Trump for resumed intelligence sharing after US Starlink ‘message’",
+      "summary": "Two people killed and at least 17 injured as Russia and Ukraine continue to trade strikes on power infrastructure Volodymyr Zelenskyy on Sunday thanked the Trump administration for resuming intelligence sharing between the two countries, but maintained the US had intentionally throttled its Starlink satellite internet access so…",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/world/2026/oct/18/killed-injured-russia-ukraine-strikes-power-infrastructure",
+      "image": "https://i.guim.co.uk/img/media/6ecbc6005fcdea363a01b880b148c2f7c49e0fc7/472_0_4721_3777/master/4721.jpg?width=140&quality=85&auto=format&fit=max&s=92f2cdf61a4f48629deb09f90227e024",
+      "published_at": "2026-10-18T16:37:52+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Zelenskyy thanks Trump for resumed intelligence sharing after US Starlink ‘message’",
+          "summary": "Two people killed and at least 17 injured as Russia and Ukraine continue to trade strikes on power infrastructure Volodymyr Zelenskyy on Sunday thanked the Trump administration for resuming intelligence sharing between the two countries, but maintained the US had intentionally throttled its Starlink satellite internet access so…"
+        }
+      }
+    },
+    {
+      "id": "35cd62faf12b8e71eb",
+      "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+      "summary": "After chatbot startup Character.AI filed for bankruptcy earlier this week, many of its employees will have the opportunity to take jobs at Disney. Character.AI’s former CEO Karandeep Anand recently became the entertainment giant’s first CTO, and the startup previously said that Disney had agreed to acquire some of its assets for…",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+      "image": "",
+      "published_at": "2026-10-18T16:30:00+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+          "summary": "After chatbot startup Character.AI filed for bankruptcy earlier this week, many of its employees will have the opportunity to take jobs at Disney. Character.AI’s former CEO Karandeep Anand recently became the entertainment giant’s first CTO, and the startup previously said that Disney had agreed to acquire some of its assets for…"
+        }
+      }
+    },
+    {
+      "id": "feaf69e12ce5e3bb0a",
+      "title": "Video game ownership bill introduced in Congress",
+      "summary": "Rep. Ritchie Torres of New York's 15th congressional district in the Bronx introduced the Power To The Players Act this week. If passed, the bill would direct the Federal Trade Commission to establish regulations that guarantee consumers ownership of a game when they pay for it, rather than a licensing agreement. It's increasing…",
+      "source": "The Verge",
+      "category": "technology",
+      "url": "https://www.theverge.com/policy/1013521/video-game-ownership-bill-congress-power-to-the-players-act",
+      "image": "",
+      "published_at": "2026-10-18T16:27:51+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Video game ownership bill introduced in Congress",
+          "summary": "Rep. Ritchie Torres of New York's 15th congressional district in the Bronx introduced the Power To The Players Act this week. If passed, the bill would direct the Federal Trade Commission to establish regulations that guarantee consumers ownership of a game when they pay for it, rather than a licensing agreement. It's increasing…"
+        }
+      }
+    },
+    {
+      "id": "796bbd796e41457364",
+      "title": "Anthropic gives outside AI watchdog “employee-like” access",
+      "summary": "The outside watchdog can publish its findings without Anthropic's approval.",
+      "source": "Ars Technica",
+      "category": "ai",
+      "url": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/claudebyanthropic-1024x648.jpg",
+      "published_at": "2026-10-18T16:25:19+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Anthropic gives outside AI watchdog “employee-like” access",
+          "summary": "The outside watchdog can publish its findings without Anthropic's approval."
+        }
+      }
+    },
     {
       "id": "1e22e9d984020bf18c",
       "title": "TechCrunch Mobility: Rivian’s next act",
@@ -79,27 +223,9 @@
       }
     },
     {
-      "id": "fe1da706fb4d295faa",
-      "title": "Multiple people killed as Canadian authorities tackle active blaze at Alberta military base",
-      "summary": "Hospitals receive injured patients as doctor describes scale of emergency in Wainwright as a ‘disaster’ Multiple people have been killed and others injured after a deadly blaze tore through one of Canada’s busiest military training bases in Alberta, Canada’s defence minister said on Saturday. “I’m saddened to share that there ha…",
-      "source": "The Guardian",
-      "category": "world",
-      "url": "https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright",
-      "image": "https://i.guim.co.uk/img/media/fd2fce9d5801c1379f2c9034bd7fd12e94a8a1be/1408_22_5652_4521/master/5652.jpg?width=140&quality=85&auto=format&fit=max&s=d0ae93ec314abf587a38476a01cc10a1",
-      "published_at": "2026-10-18T15:31:33+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Multiple people killed as Canadian authorities tackle active blaze at Alberta military base",
-          "summary": "Hospitals receive injured patients as doctor describes scale of emergency in Wainwright as a ‘disaster’ Multiple people have been killed and others injured after a deadly blaze tore through one of Canada’s busiest military training bases in Alberta, Canada’s defence minister said on Saturday. “I’m saddened to share that there ha…"
-        }
-      }
-    },
-    {
       "id": "9e235dbe784a1b6ca5",
       "title": "French government in crisis talks after ‘colossal failure of the state’",
-      "summary": "Ministers, officials and police under pressure over response to days of violent unrest in cities across France The French government was in crisis talks on Sunday after one of the most violent days of unrest in years left public buildings burned, hundreds of shops destroyed and looted, and more than 2000 people arrested in citie…",
+      "summary": "Ministers, officials and police under pressure over response to days of violent unrest in cities across France The French government was in crisis talks on Sunday after one of the most violent days of unrest in years left public buildings burned, hundreds of shops destroyed and looted, and more than 2,000 people arrested in citi…",
       "source": "The Guardian",
       "category": "politics",
       "url": "https://www.theguardian.com/world/2026/oct/18/french-government-crisis-talks-violent-unrest-policing-macron",
@@ -110,7 +236,7 @@
       "translations": {
         "en": {
           "title": "French government in crisis talks after ‘colossal failure of the state’",
-          "summary": "Ministers, officials and police under pressure over response to days of violent unrest in cities across France The French government was in crisis talks on Sunday after one of the most violent days of unrest in years left public buildings burned, hundreds of shops destroyed and looted, and more than 2000 people arrested in citie…"
+          "summary": "Ministers, officials and police under pressure over response to days of violent unrest in cities across France The French government was in crisis talks on Sunday after one of the most violent days of unrest in years left public buildings burned, hundreds of shops destroyed and looted, and more than 2,000 people arrested in citi…"
         }
       }
     },
@@ -165,24 +291,6 @@
         "en": {
           "title": "Arrests over France protests rise to 1,800, with whole streets in Paris ‘devastated’ – Europe live",
           "summary": "Interior minister says ‘the Republic will not yield’ to France’s worst protests in years A dispatch here from Sam Jones, our reporter in Madrid, as protests have spread to Italy and Portugal The angry protests that have convulsed Spain and France in recent weeks have spilled over to Italy and Portugal , with rioters clashing wit…"
-        }
-      }
-    },
-    {
-      "id": "45420893bf1ca6b670",
-      "title": "Two killed and at least 17 injured as Russia and Ukraine trade blows on power infrastructure",
-      "summary": "Ukraine used more than 1,000 drones to target Russian oil depots, logistics facilities and datacentres Two people have been killed and at least 17 injured as Russia and Ukraine continue to trade strikes on each other’s power infrastructure, after the breakdown of Donald Trump’s short-lived and unilaterally declared “energy cease…",
-      "source": "The Guardian",
-      "category": "world",
-      "url": "https://www.theguardian.com/world/2026/oct/18/killed-injured-russia-ukraine-strikes-power-infrastructure",
-      "image": "https://i.guim.co.uk/img/media/e9b8a97f06f0de7018aa3da9b71e6255547d87c6/1014_545_3831_3064/master/3831.jpg?width=140&quality=85&auto=format&fit=max&s=5eaa05d934b3441ec8d99133c40ab285",
-      "published_at": "2026-10-18T14:31:30+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Two killed and at least 17 injured as Russia and Ukraine trade blows on power infrastructure",
-          "summary": "Ukraine used more than 1,000 drones to target Russian oil depots, logistics facilities and datacentres Two people have been killed and at least 17 injured as Russia and Ukraine continue to trade strikes on each other’s power infrastructure, after the breakdown of Donald Trump’s short-lived and unilaterally declared “energy cease…"
         }
       }
     },
@@ -745,24 +853,6 @@
       }
     },
     {
-      "id": "7bc7506bc1d648b8f1",
-      "title": "Số người tiêm vaccine não mô cầu tăng đột biến",
-      "summary": "Số lượng tiêm ngừa não mô cầu tăng vọt trong ba ngày qua, sau khi 4 học sinh mắc bệnh, trong đó một em tử vong.",
-      "source": "VnExpress",
-      "category": "vietnam",
-      "url": "https://vnexpress.net/so-nguoi-tiem-vaccine-nao-mo-cau-tang-dot-bien-5133828.html",
-      "image": "https://vcdn1-suckhoe.vnecdn.net/2026/10/18/thumb-vac-xin-na-mo-cau-179230-6936-6343-1792310010.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=P24nPadO45B20AIGehPyHg",
-      "published_at": "2026-10-18T08:00:00+00:00",
-      "kind": "source_brief",
-      "source_lang": "vi",
-      "translations": {
-        "vi": {
-          "title": "Số người tiêm vaccine não mô cầu tăng đột biến",
-          "summary": "Số lượng tiêm ngừa não mô cầu tăng vọt trong ba ngày qua, sau khi 4 học sinh mắc bệnh, trong đó một em tử vong."
-        }
-      }
-    },
-    {
       "id": "b96058820344f52e8b",
       "title": "Sai lầm khiến vết thương nhỏ ở trẻ dễ trở nặng",
       "summary": "Lạm dụng dung dịch sát khuẩn, không bảo đảm vệ sinh khi sơ cứu vết thương cho trẻ có thể gây tổn thương mô, nhiễm trùng và bỏ sót nguy cơ uốn ván.",
@@ -885,24 +975,6 @@
         "en": {
           "title": "An extraordinary life: descendant welcomes biography of woman ‘gifted’ to Queen Victoria",
           "summary": "A girl called Àìná was captured by an African king and later taken to England to become Sarah Forbes Bonetta, protege of the imperial monarch When she was seven years old, Bayo Randle’s great-great-grandmother Sarah Forbes Bonetta was presented to Queen Victoria at Windsor Castle as a “diplomatic gift” from an African king. Vict…"
-        }
-      }
-    },
-    {
-      "id": "43351f7a1883545a6b",
-      "title": "‘Austerity is inevitably painful’: How Michael Gove justifies his politics | Radical Thinking with Aditya Chakrabortty",
-      "summary": "For more than three decades, Michael Gove has been a leading figure in British Conservatism. As a journalist, government minister and now editor of the Tory bible the Spectator, he has helped shape the right even as it has moved further rightwards. In the latest episode of Radical Thinking, Gove joins Aditya Chakrabortty to disc…",
-      "source": "The Guardian",
-      "category": "politics",
-      "url": "https://www.theguardian.com/news/audio/2026/oct/18/michael-gove-justifies-his-politics-radical-thinking-with-aditya-chakrabortty",
-      "image": "https://i.guim.co.uk/img/media/e65d9406458078d3d6327d2627a8ee34413c9350/40_0_3538_2832/master/3538.jpg?width=140&quality=85&auto=format&fit=max&s=ddf59aa37f049ff429ebdc4255e2b2a7",
-      "published_at": "2026-10-18T07:00:53+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "‘Austerity is inevitably painful’: How Michael Gove justifies his politics | Radical Thinking with Aditya Chakrabortty",
-          "summary": "For more than three decades, Michael Gove has been a leading figure in British Conservatism. As a journalist, government minister and now editor of the Tory bible the Spectator, he has helped shape the right even as it has moved further rightwards. In the latest episode of Radical Thinking, Gove joins Aditya Chakrabortty to disc…"
         }
       }
     },
@@ -1155,6 +1227,24 @@
         "vi": {
           "title": "Dạ tiệc âm nhạc của Phùng Khánh Linh",
           "summary": "Ca sĩ Phùng Khánh Linh hát, nhảy suốt ba giờ, làm chủ sân khấu trong đêm nhạc 7.000 khán giả - đông nhất từ trước đến nay của cô."
+        }
+      }
+    },
+    {
+      "id": "60a74b8a102239912e",
+      "title": "Long Châu hai năm liên tiếp là 'Doanh nghiệp xuất sắc Châu Á'",
+      "summary": "Long Châu nhận danh hiệu Corporate Excellence Award (Doanh nghiệp xuất sắc Châu Á) thuộc giải thưởng Asia Pacific Enterprise Awards (APEA) 2026 do Hiệp hội Doanh nghiệp Châu Á (Enterprise Asia) tổ chức, ngày 15/10.",
+      "source": "VnExpress",
+      "category": "vietnam",
+      "url": "https://vnexpress.net/long-chau-hai-nam-lien-tiep-la-doanh-nghiep-xuat-sac-chau-a-5133792.html",
+      "image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/18/1-jpg-1792298087-7659-1792298553.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=gCXr05k8PKZ_vDEViJBaNA",
+      "published_at": "2026-10-18T06:00:00+00:00",
+      "kind": "source_brief",
+      "source_lang": "vi",
+      "translations": {
+        "vi": {
+          "title": "Long Châu hai năm liên tiếp là 'Doanh nghiệp xuất sắc Châu Á'",
+          "summary": "Long Châu nhận danh hiệu Corporate Excellence Award (Doanh nghiệp xuất sắc Châu Á) thuộc giải thưởng Asia Pacific Enterprise Awards (APEA) 2026 do Hiệp hội Doanh nghiệp Châu Á (Enterprise Asia) tổ chức, ngày 15/10."
         }
       }
     },
@@ -1717,24 +1807,6 @@
       }
     },
     {
-      "id": "856e060c0f3ab2f7cb",
-      "title": "Elon Musk settles lawsuits over $1 million voter giveaway",
-      "summary": "In 2024, Elon Musk promised to give away $1 million a day to a randomly selected registered voter in a swing state. That prompted legal challenges, raised questions about its legality, and drew lawsuits from two Arizona residents claiming the lottery was a fraud. Musk has now agreed to settle the two lawsuits filed in […]",
-      "source": "The Verge",
-      "category": "technology",
-      "url": "https://www.theverge.com/tech/1013431/elon-musk-settles-lawsuits-over-1-million-voter-giveaway",
-      "image": "",
-      "published_at": "2026-10-17T16:39:44+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Elon Musk settles lawsuits over $1 million voter giveaway",
-          "summary": "In 2024, Elon Musk promised to give away $1 million a day to a randomly selected registered voter in a swing state. That prompted legal challenges, raised questions about its legality, and drew lawsuits from two Arizona residents claiming the lottery was a fraud. Musk has now agreed to settle the two lawsuits filed in […]"
-        }
-      }
-    },
-    {
       "id": "273d744b399a616439",
       "title": "Ember’s new temperature-controlled mug makes my nightly tea ritual even better",
       "summary": "The biggest change about Ember's new mug is that you no longer have to open the app to adjust your drink’s temperature.",
@@ -1753,24 +1825,6 @@
       }
     },
     {
-      "id": "0b81a58f5b3fe13146",
-      "title": "Meta removes language that may have allowed it to scrape news sites",
-      "summary": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the commercial terms page: … Meta may use any content from such domains, web pages, or URLs to provide, develop, i…",
-      "source": "The Verge",
-      "category": "ai",
-      "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
-      "image": "",
-      "published_at": "2026-10-17T15:04:36+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Meta removes language that may have allowed it to scrape news sites",
-          "summary": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the commercial terms page: … Meta may use any content from such domains, web pages, or URLs to provide, develop, i…"
-        }
-      }
-    },
-    {
       "id": "67d283c69f7b36ee18",
       "title": "Mua bán vàng từ 5 triệu đồng một ngày phải thanh toán không tiền mặt",
       "summary": "Từ 16/10, khách hàng mua, bán vàng có giá trị từ 5 triệu đồng trong ngày phải thanh toán không dùng tiền mặt, thay vì ngưỡng 20 triệu đồng như trước.",
@@ -1785,24 +1839,6 @@
         "vi": {
           "title": "Mua bán vàng từ 5 triệu đồng một ngày phải thanh toán không tiền mặt",
           "summary": "Từ 16/10, khách hàng mua, bán vàng có giá trị từ 5 triệu đồng trong ngày phải thanh toán không dùng tiền mặt, thay vì ngưỡng 20 triệu đồng như trước."
-        }
-      }
-    },
-    {
-      "id": "8e2aa409f0824ff1d7",
-      "title": "Pope discharged from hospital days after lung cancer surgery",
-      "summary": "The pontiff will give the traditional Angelus prayer and blessing in St Peter's Square on Sunday.",
-      "source": "BBC News",
-      "category": "world",
-      "url": "https://www.bbc.co.uk/news/articles/c5x2vkddrkrko?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c6c/live/9aad8f70-ca31-11f1-9ab2-b325ce61f9d2.jpg",
-      "published_at": "2026-10-17T13:51:36+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Pope discharged from hospital days after lung cancer surgery",
-          "summary": "The pontiff will give the traditional Angelus prayer and blessing in St Peter's Square on Sunday."
         }
       }
     },
@@ -1861,24 +1897,6 @@
       }
     },
     {
-      "id": "6808fc909befc84a45",
-      "title": "Science says your boss should talk less in meetings",
-      "summary": "Research suggests listening more while talking less. Killing aimless meetings can help, too.",
-      "source": "Ars Technica",
-      "category": "technology",
-      "url": "https://arstechnica.com/science/2026/10/science-says-your-boss-should-talk-less-in-meetings/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/meetingboredom-1152x648.jpg",
-      "published_at": "2026-10-17T11:15:11+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Science says your boss should talk less in meetings",
-          "summary": "Research suggests listening more while talking less. Killing aimless meetings can help, too."
-        }
-      }
-    },
-    {
       "id": "578ef30bdd4c92867a",
       "title": "US corporate lobbyists mounted ‘blitz’ to dilute landmark EU deforestation law, report finds",
       "summary": "Environmental watchdog Mighty Earth reveals two-year effort to postpone and weaken EU Deforestation Regulation US corporate lobbyists launched a two-year “blitz” to postpone and weaken the world’s most progressive legislation to protect forests, according to a new investigation by the environmental watchdog Mighty Earth. Major U…",
@@ -1911,24 +1929,6 @@
         "vi": {
           "title": "Dự kiến nâng ngưỡng doanh thu xác định doanh nghiệp nhỏ và vừa lên 400 tỷ đồng",
           "summary": "Chính phủ đề xuất ngưỡng doanh thu năm để xác định doanh nghiệp nhỏ và vừa là 400 tỷ đồng, tăng 100 tỷ so với luật hiện hành."
-        }
-      }
-    },
-    {
-      "id": "d8819b5c8a70d06469",
-      "title": "VCCI đề nghị không buộc đầu mối xăng dầu sở hữu 40 cửa hàng",
-      "summary": "VCCI lo yêu cầu mỗi đầu mối xăng dầu sở hữu ít nhất 40 cửa hàng có thể thúc đẩy mua lại các cây xăng độc lập, thu hẹp cạnh tranh ở khâu bán lẻ.",
-      "source": "VnExpress",
-      "category": "economy",
-      "url": "https://vnexpress.net/vcci-de-nghi-khong-buoc-dau-moi-xang-dau-so-huu-40-cua-hang-5133413.html",
-      "image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/17/wm1-wm1-110326xangdau15hoanggiang-4017-4308-1792199696.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ymGBozSi_XgCd7ScXHsZew",
-      "published_at": "2026-10-17T08:38:52+00:00",
-      "kind": "source_brief",
-      "source_lang": "vi",
-      "translations": {
-        "vi": {
-          "title": "VCCI đề nghị không buộc đầu mối xăng dầu sở hữu 40 cửa hàng",
-          "summary": "VCCI lo yêu cầu mỗi đầu mối xăng dầu sở hữu ít nhất 40 cửa hàng có thể thúc đẩy mua lại các cây xăng độc lập, thu hẹp cạnh tranh ở khâu bán lẻ."
         }
       }
     },
@@ -2032,7 +2032,7 @@
         "category": "vietnam",
         "published_at": "2026-10-18T16:00:26+00:00",
         "thumbnail": "https://i.ytimg.com/vi/mCuJYVTzfNA/hqdefault.jpg",
-        "popularity": 41,
+        "popularity": 986,
         "provenance": "official_channel_api",
         "source_lang": "vi",
         "translations": {
@@ -2049,7 +2049,7 @@
         "category": "vietnam",
         "published_at": "2026-10-18T15:30:18+00:00",
         "thumbnail": "https://i.ytimg.com/vi/6urHjVdDbIE/hqdefault.jpg",
-        "popularity": 101,
+        "popularity": 2184,
         "provenance": "official_channel_api",
         "source_lang": "vi",
         "translations": {
@@ -2066,7 +2066,7 @@
         "category": "vietnam",
         "published_at": "2026-10-18T15:00:08+00:00",
         "thumbnail": "https://i.ytimg.com/vi/mFNUvMDm9lQ/hqdefault.jpg",
-        "popularity": 332,
+        "popularity": 2187,
         "provenance": "official_channel_api",
         "source_lang": "vi",
         "translations": {
@@ -2083,7 +2083,7 @@
         "category": "vietnam",
         "published_at": "2026-10-18T14:30:14+00:00",
         "thumbnail": "https://i.ytimg.com/vi/EfQgIwGGRNM/hqdefault.jpg",
-        "popularity": 410,
+        "popularity": 4082,
         "provenance": "official_channel_api",
         "source_lang": "vi",
         "translations": {
@@ -2100,7 +2100,7 @@
         "category": "vietnam",
         "published_at": "2026-10-18T14:00:15+00:00",
         "thumbnail": "https://i.ytimg.com/vi/JTilaGtj3OA/hqdefault.jpg",
-        "popularity": 2589,
+        "popularity": 6825,
         "provenance": "official_channel_api",
         "source_lang": "vi",
         "translations": {
@@ -2117,7 +2117,7 @@
         "category": "vietnam",
         "published_at": "2026-10-18T13:09:29+00:00",
         "thumbnail": "https://i.ytimg.com/vi/ZgjrhZzdEAA/hqdefault.jpg",
-        "popularity": 5104,
+        "popularity": 8926,
         "provenance": "official_channel_api",
         "source_lang": "vi",
         "translations": {
@@ -2134,7 +2134,7 @@
         "category": "vietnam",
         "published_at": "2026-10-18T12:15:15+00:00",
         "thumbnail": "https://i.ytimg.com/vi/u-kUyJwvQ2A/hqdefault.jpg",
-        "popularity": 39458,
+        "popularity": 44315,
         "provenance": "official_channel_api",
         "source_lang": "vi",
         "translations": {
@@ -2151,7 +2151,7 @@
         "category": "vietnam",
         "published_at": "2026-10-18T11:36:06+00:00",
         "thumbnail": "https://i.ytimg.com/vi/1Hi92bZq61M/hqdefault.jpg",
-        "popularity": 6155,
+        "popularity": 7810,
         "provenance": "official_channel_api",
         "source_lang": "vi",
         "translations": {
@@ -2164,13 +2164,81 @@
     ],
     "world": [
       {
+        "id": "8-QqHaqLAsE",
+        "title": "Four killed and dozens seriously injured in major fire at Canadian military base - Carney. #BBCNews",
+        "channel": "BBC News",
+        "category": "world",
+        "published_at": "2026-10-18T18:24:11+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/8-QqHaqLAsE/hqdefault.jpg",
+        "popularity": 755,
+        "provenance": "official_channel_api",
+        "source_lang": "en",
+        "translations": {
+          "en": {
+            "title": "Four killed and dozens seriously injured in major fire at Canadian military base - Carney. #BBCNews",
+            "summary": ""
+          }
+        }
+      },
+      {
+        "id": "-S1oSeORfhA",
+        "title": "Can smart glasses lose their ‘creepy’ reputation? | BBC News",
+        "channel": "BBC News",
+        "category": "world",
+        "published_at": "2026-10-18T18:15:01+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/-S1oSeORfhA/hqdefault.jpg",
+        "popularity": 621,
+        "provenance": "official_channel_api",
+        "source_lang": "en",
+        "translations": {
+          "en": {
+            "title": "Can smart glasses lose their ‘creepy’ reputation? | BBC News",
+            "summary": ""
+          }
+        }
+      },
+      {
+        "id": "6UQrPIkclN4",
+        "title": "Will Brazil Turn Rightward and Elect Another Bolsonaro President?",
+        "channel": "Bloomberg News",
+        "category": "world",
+        "published_at": "2026-10-18T18:00:11+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/6UQrPIkclN4/hqdefault.jpg",
+        "popularity": 66,
+        "provenance": "official_channel_api",
+        "source_lang": "en",
+        "translations": {
+          "en": {
+            "title": "Will Brazil Turn Rightward and Elect Another Bolsonaro President?",
+            "summary": ""
+          }
+        }
+      },
+      {
+        "id": "aK1Cmn8yua8",
+        "title": "Inside Iceland's farming innovations | BBC News",
+        "channel": "BBC News",
+        "category": "world",
+        "published_at": "2026-10-18T17:17:06+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/aK1Cmn8yua8/hqdefault.jpg",
+        "popularity": 4104,
+        "provenance": "official_channel_api",
+        "source_lang": "en",
+        "translations": {
+          "en": {
+            "title": "Inside Iceland's farming innovations | BBC News",
+            "summary": ""
+          }
+        }
+      },
+      {
         "id": "vIw9GAXhzmg",
         "title": "Rory Mcllroy: Liv Golf Spent Too Much Money 'Enriching Tour Pros'",
         "channel": "Bloomberg News",
         "category": "world",
         "published_at": "2026-10-18T16:00:08+00:00",
         "thumbnail": "https://i.ytimg.com/vi/vIw9GAXhzmg/hqdefault.jpg",
-        "popularity": 24,
+        "popularity": 314,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2187,7 +2255,7 @@
         "category": "world",
         "published_at": "2026-10-18T16:00:02+00:00",
         "thumbnail": "https://i.ytimg.com/vi/CjnOAsEyA5U/hqdefault.jpg",
-        "popularity": 225,
+        "popularity": 4734,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2204,7 +2272,7 @@
         "category": "world",
         "published_at": "2026-10-18T15:30:00+00:00",
         "thumbnail": "https://i.ytimg.com/vi/uT8sox6oNbI/hqdefault.jpg",
-        "popularity": 920,
+        "popularity": 6092,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2221,80 +2289,12 @@
         "category": "world",
         "published_at": "2026-10-18T14:00:30+00:00",
         "thumbnail": "https://i.ytimg.com/vi/zmfKyRsScPA/hqdefault.jpg",
-        "popularity": 267,
+        "popularity": 821,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
           "en": {
             "title": "Netflix Names Ex-Disney TV Chair Rice Chief Content Officer",
-            "summary": ""
-          }
-        }
-      },
-      {
-        "id": "nliE10g3d4Q",
-        "title": "Is VisionQuest REALLY the end of the WandaVision trilogy? #Marvel #BBCNews",
-        "channel": "BBC News",
-        "category": "world",
-        "published_at": "2026-10-18T13:11:45+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/nliE10g3d4Q/hqdefault.jpg",
-        "popularity": 3589,
-        "provenance": "official_channel_api",
-        "source_lang": "en",
-        "translations": {
-          "en": {
-            "title": "Is VisionQuest REALLY the end of the WandaVision trilogy? #Marvel #BBCNews",
-            "summary": ""
-          }
-        }
-      },
-      {
-        "id": "PTMpRcUCvL8",
-        "title": "Violent clashes and buildings ablaze in France protests | BBC News",
-        "channel": "BBC News",
-        "category": "world",
-        "published_at": "2026-10-18T12:19:02+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/PTMpRcUCvL8/hqdefault.jpg",
-        "popularity": 60042,
-        "provenance": "official_channel_api",
-        "source_lang": "en",
-        "translations": {
-          "en": {
-            "title": "Violent clashes and buildings ablaze in France protests | BBC News",
-            "summary": ""
-          }
-        }
-      },
-      {
-        "id": "tqUaH8nN7C0",
-        "title": "Ambushed at home: The eight-hour fight to stay alive",
-        "channel": "BBC News",
-        "category": "world",
-        "published_at": "2026-10-18T10:00:32+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/tqUaH8nN7C0/hqdefault.jpg",
-        "popularity": 26257,
-        "provenance": "official_channel_api",
-        "source_lang": "en",
-        "translations": {
-          "en": {
-            "title": "Ambushed at home: The eight-hour fight to stay alive",
-            "summary": ""
-          }
-        }
-      },
-      {
-        "id": "A34fhs8uCW4",
-        "title": "Several dead or injured in major fire at Canada military base | BBC News",
-        "channel": "BBC News",
-        "category": "world",
-        "published_at": "2026-10-18T09:02:08+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/A34fhs8uCW4/hqdefault.jpg",
-        "popularity": 194957,
-        "provenance": "official_channel_api",
-        "source_lang": "en",
-        "translations": {
-          "en": {
-            "title": "Several dead or injured in major fire at Canada military base | BBC News",
             "summary": ""
           }
         }
@@ -2308,7 +2308,7 @@
         "category": "economy",
         "published_at": "2026-10-18T16:18:24+00:00",
         "thumbnail": "https://i.ytimg.com/vi/vx0j3I7jPcI/hqdefault.jpg",
-        "popularity": 4,
+        "popularity": 1283,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2325,7 +2325,7 @@
         "category": "economy",
         "published_at": "2026-10-18T15:19:14+00:00",
         "thumbnail": "https://i.ytimg.com/vi/Y5M8Gs7AS7I/hqdefault.jpg",
-        "popularity": 96,
+        "popularity": 1973,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2342,7 +2342,7 @@
         "category": "economy",
         "published_at": "2026-10-18T15:04:10+00:00",
         "thumbnail": "https://i.ytimg.com/vi/hyDmuq7guqc/hqdefault.jpg",
-        "popularity": 213,
+        "popularity": 2577,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2359,7 +2359,7 @@
         "category": "economy",
         "published_at": "2026-10-18T14:36:08+00:00",
         "thumbnail": "https://i.ytimg.com/vi/q--shB_2V2k/hqdefault.jpg",
-        "popularity": 961,
+        "popularity": 6490,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2376,7 +2376,7 @@
         "category": "economy",
         "published_at": "2026-10-18T14:21:24+00:00",
         "thumbnail": "https://i.ytimg.com/vi/EqvkKSaE1X0/hqdefault.jpg",
-        "popularity": 659,
+        "popularity": 4388,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2393,7 +2393,7 @@
         "category": "economy",
         "published_at": "2026-10-18T14:10:17+00:00",
         "thumbnail": "https://i.ytimg.com/vi/oKchaDHk3_Q/hqdefault.jpg",
-        "popularity": 689,
+        "popularity": 2609,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2410,7 +2410,7 @@
         "category": "economy",
         "published_at": "2026-10-18T14:00:37+00:00",
         "thumbnail": "https://i.ytimg.com/vi/frhH6gRM3Pw/hqdefault.jpg",
-        "popularity": 12515,
+        "popularity": 56653,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2427,7 +2427,7 @@
         "category": "economy",
         "published_at": "2026-10-18T14:00:09+00:00",
         "thumbnail": "https://i.ytimg.com/vi/m9VblmOgeMc/hqdefault.jpg",
-        "popularity": 1984,
+        "popularity": 6812,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2446,7 +2446,7 @@
         "category": "technology",
         "published_at": "2026-10-17T15:00:27+00:00",
         "thumbnail": "https://i.ytimg.com/vi/5P0Xb3Y0hYg/hqdefault.jpg",
-        "popularity": 125542,
+        "popularity": 132406,
         "provenance": "youtube_popular",
         "source_lang": "en",
         "translations": {
@@ -2463,7 +2463,7 @@
         "category": "technology",
         "published_at": "2026-10-17T15:00:19+00:00",
         "thumbnail": "https://i.ytimg.com/vi/mtiMk28wmAw/hqdefault.jpg",
-        "popularity": 7205,
+        "popularity": 7461,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2480,7 +2480,7 @@
         "category": "technology",
         "published_at": "2026-10-16T19:15:30+00:00",
         "thumbnail": "https://i.ytimg.com/vi/9h5naV9Ms4s/hqdefault.jpg",
-        "popularity": 15956,
+        "popularity": 16293,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2497,7 +2497,7 @@
         "category": "technology",
         "published_at": "2026-10-16T17:39:18+00:00",
         "thumbnail": "https://i.ytimg.com/vi/HTqc5fMitok/hqdefault.jpg",
-        "popularity": 14289,
+        "popularity": 14882,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2514,7 +2514,7 @@
         "category": "technology",
         "published_at": "2026-10-16T15:36:53+00:00",
         "thumbnail": "https://i.ytimg.com/vi/z00Lhm3CqAM/hqdefault.jpg",
-        "popularity": 46570,
+        "popularity": 47309,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2531,7 +2531,7 @@
         "category": "technology",
         "published_at": "2026-10-16T15:00:20+00:00",
         "thumbnail": "https://i.ytimg.com/vi/dWmEKM4_lKQ/hqdefault.jpg",
-        "popularity": 15506,
+        "popularity": 15825,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2548,7 +2548,7 @@
         "category": "technology",
         "published_at": "2026-10-16T13:49:43+00:00",
         "thumbnail": "https://i.ytimg.com/vi/_EW8O9SLSXs/hqdefault.jpg",
-        "popularity": 235503,
+        "popularity": 235990,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2565,7 +2565,7 @@
         "category": "technology",
         "published_at": "2026-10-16T10:55:14+00:00",
         "thumbnail": "https://i.ytimg.com/vi/BYWy6SyJRZo/hqdefault.jpg",
-        "popularity": 5309079,
+        "popularity": 5419662,
         "provenance": "youtube_popular",
         "source_lang": "en",
         "translations": {
@@ -2584,7 +2584,7 @@
         "category": "ai-trends",
         "published_at": "2026-10-17T13:00:11+00:00",
         "thumbnail": "https://i.ytimg.com/vi/yAGGkDvbjAs/hqdefault.jpg",
-        "popularity": 2015294,
+        "popularity": 2095224,
         "provenance": "youtube_popular",
         "source_lang": "en",
         "translations": {
@@ -2601,7 +2601,7 @@
         "category": "ai-trends",
         "published_at": "2026-10-17T05:06:11+00:00",
         "thumbnail": "https://i.ytimg.com/vi/6dR-RCSUgrM/hqdefault.jpg",
-        "popularity": 132964,
+        "popularity": 134735,
         "provenance": "youtube_popular",
         "source_lang": "en",
         "translations": {
@@ -2618,7 +2618,7 @@
         "category": "ai-trends",
         "published_at": "2026-10-16T21:00:00+00:00",
         "thumbnail": "https://i.ytimg.com/vi/LJ2v4-FvPcA/hqdefault.jpg",
-        "popularity": 2504,
+        "popularity": 2557,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2635,7 +2635,7 @@
         "category": "ai-trends",
         "published_at": "2026-10-16T16:00:00+00:00",
         "thumbnail": "https://i.ytimg.com/vi/-nmcYcO-EE8/hqdefault.jpg",
-        "popularity": 5323,
+        "popularity": 5641,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2652,7 +2652,7 @@
         "category": "ai-trends",
         "published_at": "2026-10-15T23:00:26+00:00",
         "thumbnail": "https://i.ytimg.com/vi/qJplHFjyv2A/hqdefault.jpg",
-        "popularity": 4468,
+        "popularity": 4528,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2669,7 +2669,7 @@
         "category": "ai-trends",
         "published_at": "2026-10-15T19:00:22+00:00",
         "thumbnail": "https://i.ytimg.com/vi/i3X7Fv0Z3Uc/hqdefault.jpg",
-        "popularity": 12343,
+        "popularity": 12447,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2686,7 +2686,7 @@
         "category": "ai-trends",
         "published_at": "2026-10-15T16:00:02+00:00",
         "thumbnail": "https://i.ytimg.com/vi/nSwmcs37Jd4/hqdefault.jpg",
-        "popularity": 27134,
+        "popularity": 27517,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2703,7 +2703,7 @@
         "category": "ai-trends",
         "published_at": "2026-10-14T17:01:36+00:00",
         "thumbnail": "https://i.ytimg.com/vi/Jh6mgf9M06M/hqdefault.jpg",
-        "popularity": 70661,
+        "popularity": 71021,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {

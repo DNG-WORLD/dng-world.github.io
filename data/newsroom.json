@@ -1,12 +1,12 @@
 {
   "version": 36,
   "translation_status": "not_configured",
-  "updated_at": "2026-10-18T18:42:33.726576+00:00",
-  "attempted_at": "2026-10-18T18:42:33.726576+00:00",
+  "updated_at": "2026-10-18T21:02:28.614798+00:00",
+  "attempted_at": "2026-10-18T21:02:28.614798+00:00",
   "status": "ok",
   "video_status": "fresh",
   "video_warning": "",
-  "video_last_success_at": "2026-10-18T18:42:33.726576+00:00",
+  "video_last_success_at": "2026-10-18T21:02:28.614798+00:00",
   "video_mode": "popular_and_channel",
   "video_api_note": "YouTube Data API v3 / verified embeddable public videos",
   "source_count": 22,
@@ -35,13 +35,139 @@
     "YouTube mostPopular / VN"
   ],
   "sources_failed": [
-    "Search Engine Land / marketing (HTTP Error 403: Forbidden)",
     "Tuổi Trẻ / world (empty or no recent records)",
-    "Tuổi Trẻ / vietnam (empty or no recent records)",
     "Tuổi Trẻ / economy (empty or no recent records)",
+    "Tuổi Trẻ / vietnam (empty or no recent records)",
+    "Search Engine Land / marketing (HTTP Error 403: Forbidden)",
     "VietnamPlus / vietnam (not well-formed (invalid token): line 1, column 0)"
   ],
   "news": [
+    {
+      "id": "9c99b0abc066eb4add",
+      "title": "No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market",
+      "summary": "Benchmark may have grown its funds and swapped out some partners, but onstage the five who are left sounded like friends who just happen to be running one of the Valley’s most storied firms",
+      "source": "TechCrunch",
+      "category": "technology",
+      "url": "https://techcrunch.com/2026/10/18/no-agenda-no-rush-no-leaving-san-francisco-benchmarks-partners-on-investing-in-a-frenzied-market/",
+      "image": "",
+      "published_at": "2026-10-18T21:00:00+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market",
+          "summary": "Benchmark may have grown its funds and swapped out some partners, but onstage the five who are left sounded like friends who just happen to be running one of the Valley’s most storied firms"
+        }
+      }
+    },
+    {
+      "id": "16eddc2105cf8883d0",
+      "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+      "summary": "Anthropic said that it will commit 5% of its shares to the fund.",
+      "source": "TechCrunch",
+      "category": "technology",
+      "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+      "image": "",
+      "published_at": "2026-10-18T20:37:40+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+          "summary": "Anthropic said that it will commit 5% of its shares to the fund."
+        }
+      }
+    },
+    {
+      "id": "e5394eb93ed65f5c49",
+      "title": "Macron calls for 'calm and order' after riots across France",
+      "summary": "French President Emmanuel Macron gives a national address after widespread disorder and as some looting continued in Paris.",
+      "source": "BBC News",
+      "category": "politics",
+      "url": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3671/live/56f97410-cb35-11f1-9e57-a506a0943bb2.jpg",
+      "published_at": "2026-10-18T20:33:21+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Macron calls for 'calm and order' after riots across France",
+          "summary": "French President Emmanuel Macron gives a national address after widespread disorder and as some looting continued in Paris."
+        }
+      }
+    },
+    {
+      "id": "670c82a8c980467678",
+      "title": "What we know so far about deadly fire at Canadian military base",
+      "summary": "At least four people are confirmed to have died after a huge fire swept through the base.",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d82/live/7fedb8b0-cb1a-11f1-a9ef-8b4e735f71f0.jpg",
+      "published_at": "2026-10-18T19:42:37+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "What we know so far about deadly fire at Canadian military base",
+          "summary": "At least four people are confirmed to have died after a huge fire swept through the base."
+        }
+      }
+    },
+    {
+      "id": "f8740cf8c54e30f29a",
+      "title": "Mister Organ is one of the most unsettling documentaries I’ve ever seen",
+      "summary": "Mister Organ doesn't reach the level of societal horror of The Act of Killing or the creepypasta-meets-true-crime gruesomeness of Beware the Slenderman, but there's something deeply unsettling about Michael Organ and his intimate campaign of terror against everyone who enters his life. Mister Organ is a documentary by David Farr…",
+      "source": "The Verge",
+      "category": "technology",
+      "url": "https://www.theverge.com/entertainment/1013545/mister-organ-horror-documentary-review",
+      "image": "",
+      "published_at": "2026-10-18T19:30:00+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Mister Organ is one of the most unsettling documentaries I’ve ever seen",
+          "summary": "Mister Organ doesn't reach the level of societal horror of The Act of Killing or the creepypasta-meets-true-crime gruesomeness of Beware the Slenderman, but there's something deeply unsettling about Michael Organ and his intimate campaign of terror against everyone who enters his life. Mister Organ is a documentary by David Farr…"
+        }
+      }
+    },
+    {
+      "id": "27050e4fcd162602f5",
+      "title": "Everyone’s watching the Elizabeth Holmes documentary ‘You Can See Everything’",
+      "summary": "\"You Can See Everything\" is having the second biggest opening weekend ever for a documentary film.",
+      "source": "TechCrunch",
+      "category": "technology",
+      "url": "https://techcrunch.com/2026/10/18/everyones-watching-the-elizabeth-holmes-documentary-you-can-see-everything/",
+      "image": "",
+      "published_at": "2026-10-18T19:03:38+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Everyone’s watching the Elizabeth Holmes documentary ‘You Can See Everything’",
+          "summary": "\"You Can See Everything\" is having the second biggest opening weekend ever for a documentary film."
+        }
+      }
+    },
+    {
+      "id": "9e235dbe784a1b6ca5",
+      "title": "Macron criticises ‘unbridled violence’ after days of unrest and 2,000 arrests across France",
+      "summary": "Ministers, officials and police under pressure over response to protests as government holds crisis talks amid ‘colossal failure of the state’ The French president, Emmanuel Macron, has criticised “unbridled violence” after one of the most violent days of unrest in years left public buildings burned, hundreds of shops destroyed…",
+      "source": "The Guardian",
+      "category": "politics",
+      "url": "https://www.theguardian.com/world/2026/oct/18/french-government-crisis-talks-violent-unrest-policing-macron",
+      "image": "https://i.guim.co.uk/img/media/5f500153bda796e2afac7a987063976da41c702a/266_0_6528_5223/master/6528.jpg?width=140&quality=85&auto=format&fit=max&s=6e303d8ed1b09c9e628fbbaf182caf77",
+      "published_at": "2026-10-18T18:57:48+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Macron criticises ‘unbridled violence’ after days of unrest and 2,000 arrests across France",
+          "summary": "Ministers, officials and police under pressure over response to protests as government holds crisis talks amid ‘colossal failure of the state’ The French president, Emmanuel Macron, has criticised “unbridled violence” after one of the most violent days of unrest in years left public buildings burned, hundreds of shops destroyed…"
+        }
+      }
+    },
     {
       "id": "3cf4d945cff63c9532",
       "title": "A woman was arrested in Philly for blocking a delivery robot",
@@ -135,7 +261,7 @@
     {
       "id": "35cd62faf12b8e71eb",
       "title": "Disney agrees to hire the majority of Character.AI’s workforce",
-      "summary": "After chatbot startup Character.AI filed for bankruptcy earlier this week, many of its employees will have the opportunity to take jobs at Disney. Character.AI’s former CEO Karandeep Anand recently became the entertainment giant’s first CTO, and the startup previously said that Disney had agreed to acquire some of its assets for…",
+      "summary": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
       "source": "TechCrunch",
       "category": "ai",
       "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
@@ -146,7 +272,7 @@
       "translations": {
         "en": {
           "title": "Disney agrees to hire the majority of Character.AI’s workforce",
-          "summary": "After chatbot startup Character.AI filed for bankruptcy earlier this week, many of its employees will have the opportunity to take jobs at Disney. Character.AI’s former CEO Karandeep Anand recently became the entertainment giant’s first CTO, and the startup previously said that Disney had agreed to acquire some of its assets for…"
+          "summary": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer."
         }
       }
     },
@@ -219,24 +345,6 @@
         "en": {
           "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
           "summary": "At least one person was killed in the strikes, which also hit a data centre used by Russia's equivalent of Facebook."
-        }
-      }
-    },
-    {
-      "id": "9e235dbe784a1b6ca5",
-      "title": "French government in crisis talks after ‘colossal failure of the state’",
-      "summary": "Ministers, officials and police under pressure over response to days of violent unrest in cities across France The French government was in crisis talks on Sunday after one of the most violent days of unrest in years left public buildings burned, hundreds of shops destroyed and looted, and more than 2,000 people arrested in citi…",
-      "source": "The Guardian",
-      "category": "politics",
-      "url": "https://www.theguardian.com/world/2026/oct/18/french-government-crisis-talks-violent-unrest-policing-macron",
-      "image": "https://i.guim.co.uk/img/media/5f500153bda796e2afac7a987063976da41c702a/266_0_6528_5223/master/6528.jpg?width=140&quality=85&auto=format&fit=max&s=6e303d8ed1b09c9e628fbbaf182caf77",
-      "published_at": "2026-10-18T15:10:32+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "French government in crisis talks after ‘colossal failure of the state’",
-          "summary": "Ministers, officials and police under pressure over response to days of violent unrest in cities across France The French government was in crisis talks on Sunday after one of the most violent days of unrest in years left public buildings burned, hundreds of shops destroyed and looted, and more than 2,000 people arrested in citi…"
         }
       }
     },
@@ -619,24 +727,6 @@
       }
     },
     {
-      "id": "b7cab3ee8afd0bca92",
-      "title": "Parisians wake up to protest damage and looted shops",
-      "summary": "Violence broke out across France on Saturday during the latest day of demonstrations against conditions in schools and the cost of living.",
-      "source": "BBC News",
-      "category": "world",
-      "url": "https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8791/live/7abdd380-cadd-11f1-bc2e-018d645d8d21.jpg",
-      "published_at": "2026-10-18T10:58:39+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Parisians wake up to protest damage and looted shops",
-          "summary": "Violence broke out across France on Saturday during the latest day of demonstrations against conditions in schools and the cost of living."
-        }
-      }
-    },
-    {
       "id": "d2b06bd866abd22848",
       "title": "Ngân hàng Nhà nước yêu cầu giảm ít nhất 0,5% lãi suất tiết kiệm",
       "summary": "Ngân hàng Nhà nước yêu cầu các nhà băng phải giảm ít nhất 0,5% lãi suất tiền gửi kỳ hạn từ 6 tháng, nếu không sẽ bị siết chỉ tiêu tăng trưởng tín dụng.",
@@ -687,6 +777,24 @@
         "en": {
           "title": "World Bank says ‘small AI’ could transform developing countries",
           "summary": "Bank’s chief knowledge officer says the tech could speed up economic development from centuries to decades The World Bank is urging developing countries to kickstart the creation of “small AI” models, which can run on a mobile phone with low connectivity, to reap the full benefits of artificial intelligence. While Silicon Valley…"
+        }
+      }
+    },
+    {
+      "id": "6c5922bd6b92bc8553",
+      "title": "Jordon Steele-John says ‘I’m not on leave’ and accuses Greens leader of making ‘bad call’ regarding complaints",
+      "summary": "Greens senator for WA says complaints regarding his behaviour towards women not about ‘accountability’ but rather ‘factionalism’ Get our breaking news email , free app or daily news podcast Jordon Steele-John has accused an internal faction within the Greens of playing “nasty political games” and the leader, David Shoebridge, of…",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/18/greens-senator-jordon-steele-john-says-not-on-leave-blames-david-shoebridge-complaints-ntwnfb",
+      "image": "https://i.guim.co.uk/img/media/011a8490b80a4fe80a018ff4224824ec867c841d/316_0_6021_4817/master/6021.jpg?width=140&quality=85&auto=format&fit=max&s=56a4d7a500b3bda60aa1fc34bb03e2c2",
+      "published_at": "2026-10-18T09:51:48+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Jordon Steele-John says ‘I’m not on leave’ and accuses Greens leader of making ‘bad call’ regarding complaints",
+          "summary": "Greens senator for WA says complaints regarding his behaviour towards women not about ‘accountability’ but rather ‘factionalism’ Get our breaking news email , free app or daily news podcast Jordon Steele-John has accused an internal faction within the Greens of playing “nasty political games” and the leader, David Shoebridge, of…"
         }
       }
     },
@@ -1537,24 +1645,6 @@
       }
     },
     {
-      "id": "cd1eb74272bdae2dfb",
-      "title": "How day of protests unfolded as disorder breaks out across France",
-      "summary": "Demonstrations across the country turned violent, with cars and buildings set alight and shops ransacked.",
-      "source": "BBC News",
-      "category": "world",
-      "url": "https://www.bbc.co.uk/news/videos/cwz0vy770gpzo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/087d/live/01edc4a0-ca75-11f1-9a39-31b474234113.jpg",
-      "published_at": "2026-10-17T21:33:17+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "How day of protests unfolded as disorder breaks out across France",
-          "summary": "Demonstrations across the country turned violent, with cars and buildings set alight and shops ransacked."
-        }
-      }
-    },
-    {
       "id": "7dd27ee4e856d38c00",
       "title": "Meta removes language that raised scraping and AI training concerns",
       "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
@@ -1645,24 +1735,6 @@
       }
     },
     {
-      "id": "e41822633f704ba720",
-      "title": "TikTok bans Musk documentary account",
-      "summary": "Just ahead of the wider release of Alex Gibney's Musk documentary, TikTok has banned the film's social media account from its platform. TikTok did not immediately respond to a request for comment. According to The Hollywood Reporter, the film's distributor, Bleecker Street, was informed Friday afternoon that a \"permanent suspens…",
-      "source": "The Verge",
-      "category": "technology",
-      "url": "https://www.theverge.com/tech/1013453/tiktok-bans-alex-gibneys-musk-documentary",
-      "image": "",
-      "published_at": "2026-10-17T19:32:23+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "TikTok bans Musk documentary account",
-          "summary": "Just ahead of the wider release of Alex Gibney's Musk documentary, TikTok has banned the film's social media account from its platform. TikTok did not immediately respond to a request for comment. According to The Hollywood Reporter, the film's distributor, Bleecker Street, was informed Friday afternoon that a \"permanent suspens…"
-        }
-      }
-    },
-    {
       "id": "6d09bb2727e7ee9f9c",
       "title": "At least 17 dead in crush at Hindu festival event in India",
       "summary": "Many more have been injured at an event in the Indian city of Kolkata to mark a Hindu festival.",
@@ -1695,24 +1767,6 @@
         "en": {
           "title": "Plover, not a fighter: protected bird 12th man on Tasmanian cricket ground as staff mow around nest",
           "summary": "While masked lapwings have a reputation for swooping during nesting season, Windsor Park oval’s resident plover just wants a good innings At Windsor Park in Riverside, just outside Launceston in northern Tasmania, a masked lapwing has claimed prime real estate in the middle of a community sports ground, showing complete indiffer…"
-        }
-      }
-    },
-    {
-      "id": "2a73695b634ad3f99e",
-      "title": "Most NSW homes destroyed in black summer bushfires were within 100 metres of vegetation",
-      "summary": "Exclusive : Research confirms official advice about high-risk properties and warns worsening conditions will make more homes unsafe Sign up for climate and environment editor Adam Morton’s free Clear Air newsletter here Almost every home destroyed in New South Wales during the black summer bushfires of 2019-20 was inside the 100…",
-      "source": "The Guardian",
-      "category": "world",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/18/nsw-homes-destroyed-in-black-summer-bushfires-in-high-risk-buffer-zone",
-      "image": "https://i.guim.co.uk/img/media/fb7f9558ce032aba14287c04852433e83741ccb5/80_0_2400_1920/master/2400.jpg?width=140&quality=85&auto=format&fit=max&s=cb7f23973fed7aef66da8d019e26f8fd",
-      "published_at": "2026-10-17T19:00:40+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Most NSW homes destroyed in black summer bushfires were within 100 metres of vegetation",
-          "summary": "Exclusive : Research confirms official advice about high-risk properties and warns worsening conditions will make more homes unsafe Sign up for climate and environment editor Adam Morton’s free Clear Air newsletter here Almost every home destroyed in New South Wales during the black summer bushfires of 2019-20 was inside the 100…"
         }
       }
     },
@@ -1771,24 +1825,6 @@
       }
     },
     {
-      "id": "de0cce47f02c45d948",
-      "title": "Mercedes-AMG’s first ground-up SUV is a 1,150hp electric beast",
-      "summary": "Earlier this year, Mercedes' AMG performance brand grabbed our attention with the GT four-door coupe, a souped-up sports sedan with three axial flux motors delivering over 1,150 horsepower. Well, now meet its beefier cousin, the 2028 Mercedes-AMG GT SUV, an equally powerful, ultra-fast-charging electric people-hauler. The AMG GT…",
-      "source": "The Verge",
-      "category": "technology",
-      "url": "https://www.theverge.com/transportation/1013088/mercedes-amg-gt-suv-price-specs-performance",
-      "image": "",
-      "published_at": "2026-10-17T17:00:00+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Mercedes-AMG’s first ground-up SUV is a 1,150hp electric beast",
-          "summary": "Earlier this year, Mercedes' AMG performance brand grabbed our attention with the GT four-door coupe, a souped-up sports sedan with three axial flux motors delivering over 1,150 horsepower. Well, now meet its beefier cousin, the 2028 Mercedes-AMG GT SUV, an equally powerful, ultra-fast-charging electric people-hauler. The AMG GT…"
-        }
-      }
-    },
-    {
       "id": "cb9a74730732cb227d",
       "title": "Sau toán học, AI có thể chinh phục những đỉnh cao mới",
       "summary": "Các nhà nghiên cứu ở Viện Công nghệ Massacusetts dự đoán AI sẽ cách mạng hóa xác suất thống kê, lý thuyết kinh tế, vũ trụ học, vật lý lượng tử sau loạt thành tựu toán học gần đây.",
@@ -1803,24 +1839,6 @@
         "vi": {
           "title": "Sau toán học, AI có thể chinh phục những đỉnh cao mới",
           "summary": "Các nhà nghiên cứu ở Viện Công nghệ Massacusetts dự đoán AI sẽ cách mạng hóa xác suất thống kê, lý thuyết kinh tế, vũ trụ học, vật lý lượng tử sau loạt thành tựu toán học gần đây."
-        }
-      }
-    },
-    {
-      "id": "273d744b399a616439",
-      "title": "Ember’s new temperature-controlled mug makes my nightly tea ritual even better",
-      "summary": "The biggest change about Ember's new mug is that you no longer have to open the app to adjust your drink’s temperature.",
-      "source": "TechCrunch",
-      "category": "technology",
-      "url": "https://techcrunch.com/2026/10/17/embers-new-temperature-controlled-mug-makes-my-nightly-tea-ritual-even-better/",
-      "image": "",
-      "published_at": "2026-10-17T15:30:00+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Ember’s new temperature-controlled mug makes my nightly tea ritual even better",
-          "summary": "The biggest change about Ember's new mug is that you no longer have to open the app to adjust your drink’s temperature."
         }
       }
     },
@@ -1843,20 +1861,20 @@
       }
     },
     {
-      "id": "40b4c3c0230a318449",
-      "title": "TP HCM định hình mạng lưới khu công nghệ số hơn 1.200 ha",
-      "summary": "11 vị trí rộng hơn 1.200 ha dự kiến được TP HCM phát triển thành mạng lưới khu công nghệ số tập trung, kết nối doanh nghiệp, viện nghiên cứu, trường đại học và nhà đầu tư.",
-      "source": "VnExpress",
-      "category": "technology",
-      "url": "https://vnexpress.net/tp-hcm-dinh-hinh-mang-luoi-khu-cong-nghe-so-hon-1-200-ha-5133642.html",
-      "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/17/dji-1792229485-2111-1792229647.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=E6T6hPxzfvqZRQV7VhxUXA",
-      "published_at": "2026-10-17T12:30:00+00:00",
+      "id": "8e2aa409f0824ff1d7",
+      "title": "Pope discharged from hospital days after lung cancer surgery",
+      "summary": "The pontiff will give the traditional Angelus prayer and blessing in St Peter's Square on Sunday.",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/c5x2vkddrkrko?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c6c/live/9aad8f70-ca31-11f1-9ab2-b325ce61f9d2.jpg",
+      "published_at": "2026-10-17T13:51:36+00:00",
       "kind": "source_brief",
-      "source_lang": "vi",
+      "source_lang": "en",
       "translations": {
-        "vi": {
-          "title": "TP HCM định hình mạng lưới khu công nghệ số hơn 1.200 ha",
-          "summary": "11 vị trí rộng hơn 1.200 ha dự kiến được TP HCM phát triển thành mạng lưới khu công nghệ số tập trung, kết nối doanh nghiệp, viện nghiên cứu, trường đại học và nhà đầu tư."
+        "en": {
+          "title": "Pope discharged from hospital days after lung cancer surgery",
+          "summary": "The pontiff will give the traditional Angelus prayer and blessing in St Peter's Square on Sunday."
         }
       }
     },
@@ -2003,24 +2021,6 @@
           "summary": "The actions could have resulted in criminal charges had humans been behind the keyboard."
         }
       }
-    },
-    {
-      "id": "7353a42c67b5a3214c",
-      "title": "“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops",
-      "summary": "Discord user flagged AI CSAM, triggering arrest of New Jersey deputy AG.",
-      "source": "Ars Technica",
-      "category": "ai",
-      "url": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2233803629-2-1152x648.jpg",
-      "published_at": "2026-10-16T20:20:07+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops",
-          "summary": "Discord user flagged AI CSAM, triggering arrest of New Jersey deputy AG."
-        }
-      }
     }
   ],
   "videos": {
@@ -2032,7 +2032,7 @@
         "category": "vietnam",
         "published_at": "2026-10-18T16:00:26+00:00",
         "thumbnail": "https://i.ytimg.com/vi/mCuJYVTzfNA/hqdefault.jpg",
-        "popularity": 986,
+        "popularity": 2055,
         "provenance": "official_channel_api",
         "source_lang": "vi",
         "translations": {
@@ -2049,7 +2049,7 @@
         "category": "vietnam",
         "published_at": "2026-10-18T15:30:18+00:00",
         "thumbnail": "https://i.ytimg.com/vi/6urHjVdDbIE/hqdefault.jpg",
-        "popularity": 2184,
+        "popularity": 3016,
         "provenance": "official_channel_api",
         "source_lang": "vi",
         "translations": {
@@ -2066,7 +2066,7 @@
         "category": "vietnam",
         "published_at": "2026-10-18T15:00:08+00:00",
         "thumbnail": "https://i.ytimg.com/vi/mFNUvMDm9lQ/hqdefault.jpg",
-        "popularity": 2187,
+        "popularity": 2763,
         "provenance": "official_channel_api",
         "source_lang": "vi",
         "translations": {
@@ -2083,7 +2083,7 @@
         "category": "vietnam",
         "published_at": "2026-10-18T14:30:14+00:00",
         "thumbnail": "https://i.ytimg.com/vi/EfQgIwGGRNM/hqdefault.jpg",
-        "popularity": 4082,
+        "popularity": 4611,
         "provenance": "official_channel_api",
         "source_lang": "vi",
         "translations": {
@@ -2100,7 +2100,7 @@
         "category": "vietnam",
         "published_at": "2026-10-18T14:00:15+00:00",
         "thumbnail": "https://i.ytimg.com/vi/JTilaGtj3OA/hqdefault.jpg",
-        "popularity": 6825,
+        "popularity": 8377,
         "provenance": "official_channel_api",
         "source_lang": "vi",
         "translations": {
@@ -2117,7 +2117,7 @@
         "category": "vietnam",
         "published_at": "2026-10-18T13:09:29+00:00",
         "thumbnail": "https://i.ytimg.com/vi/ZgjrhZzdEAA/hqdefault.jpg",
-        "popularity": 8926,
+        "popularity": 10065,
         "provenance": "official_channel_api",
         "source_lang": "vi",
         "translations": {
@@ -2134,7 +2134,7 @@
         "category": "vietnam",
         "published_at": "2026-10-18T12:15:15+00:00",
         "thumbnail": "https://i.ytimg.com/vi/u-kUyJwvQ2A/hqdefault.jpg",
-        "popularity": 44315,
+        "popularity": 45634,
         "provenance": "official_channel_api",
         "source_lang": "vi",
         "translations": {
@@ -2151,7 +2151,7 @@
         "category": "vietnam",
         "published_at": "2026-10-18T11:36:06+00:00",
         "thumbnail": "https://i.ytimg.com/vi/1Hi92bZq61M/hqdefault.jpg",
-        "popularity": 7810,
+        "popularity": 8062,
         "provenance": "official_channel_api",
         "source_lang": "vi",
         "translations": {
@@ -2164,13 +2164,47 @@
     ],
     "world": [
       {
+        "id": "CA7P1c8FYzA",
+        "title": "Gas Prices Could Cost Trump the Midterms",
+        "channel": "Bloomberg News",
+        "category": "world",
+        "published_at": "2026-10-18T20:00:12+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/CA7P1c8FYzA/hqdefault.jpg",
+        "popularity": 312,
+        "provenance": "official_channel_api",
+        "source_lang": "en",
+        "translations": {
+          "en": {
+            "title": "Gas Prices Could Cost Trump the Midterms",
+            "summary": ""
+          }
+        }
+      },
+      {
+        "id": "zgXCOSgSVjo",
+        "title": "Why is Gen Z protesting around the world? #GenZ #BBCNews",
+        "channel": "BBC News",
+        "category": "world",
+        "published_at": "2026-10-18T19:20:07+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/zgXCOSgSVjo/hqdefault.jpg",
+        "popularity": 3143,
+        "provenance": "official_channel_api",
+        "source_lang": "en",
+        "translations": {
+          "en": {
+            "title": "Why is Gen Z protesting around the world? #GenZ #BBCNews",
+            "summary": ""
+          }
+        }
+      },
+      {
         "id": "8-QqHaqLAsE",
         "title": "Four killed and dozens seriously injured in major fire at Canadian military base - Carney. #BBCNews",
         "channel": "BBC News",
         "category": "world",
         "published_at": "2026-10-18T18:24:11+00:00",
         "thumbnail": "https://i.ytimg.com/vi/8-QqHaqLAsE/hqdefault.jpg",
-        "popularity": 755,
+        "popularity": 8145,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2187,7 +2221,7 @@
         "category": "world",
         "published_at": "2026-10-18T18:15:01+00:00",
         "thumbnail": "https://i.ytimg.com/vi/-S1oSeORfhA/hqdefault.jpg",
-        "popularity": 621,
+        "popularity": 7788,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2204,7 +2238,7 @@
         "category": "world",
         "published_at": "2026-10-18T18:00:11+00:00",
         "thumbnail": "https://i.ytimg.com/vi/6UQrPIkclN4/hqdefault.jpg",
-        "popularity": 66,
+        "popularity": 274,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2221,7 +2255,7 @@
         "category": "world",
         "published_at": "2026-10-18T17:17:06+00:00",
         "thumbnail": "https://i.ytimg.com/vi/aK1Cmn8yua8/hqdefault.jpg",
-        "popularity": 4104,
+        "popularity": 30479,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2238,7 +2272,7 @@
         "category": "world",
         "published_at": "2026-10-18T16:00:08+00:00",
         "thumbnail": "https://i.ytimg.com/vi/vIw9GAXhzmg/hqdefault.jpg",
-        "popularity": 314,
+        "popularity": 628,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2255,46 +2289,12 @@
         "category": "world",
         "published_at": "2026-10-18T16:00:02+00:00",
         "thumbnail": "https://i.ytimg.com/vi/CjnOAsEyA5U/hqdefault.jpg",
-        "popularity": 4734,
+        "popularity": 14131,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
           "en": {
             "title": "Can Labour Prevent Another Winter NHS Crisis? | BBC News",
-            "summary": ""
-          }
-        }
-      },
-      {
-        "id": "uT8sox6oNbI",
-        "title": "Pope Leo XIV thanks wellwishers in first event after cancer surgery.#PopeLeo #BBCNews",
-        "channel": "BBC News",
-        "category": "world",
-        "published_at": "2026-10-18T15:30:00+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/uT8sox6oNbI/hqdefault.jpg",
-        "popularity": 6092,
-        "provenance": "official_channel_api",
-        "source_lang": "en",
-        "translations": {
-          "en": {
-            "title": "Pope Leo XIV thanks wellwishers in first event after cancer surgery.#PopeLeo #BBCNews",
-            "summary": ""
-          }
-        }
-      },
-      {
-        "id": "zmfKyRsScPA",
-        "title": "Netflix Names Ex-Disney TV Chair Rice Chief Content Officer",
-        "channel": "Bloomberg News",
-        "category": "world",
-        "published_at": "2026-10-18T14:00:30+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/zmfKyRsScPA/hqdefault.jpg",
-        "popularity": 821,
-        "provenance": "official_channel_api",
-        "source_lang": "en",
-        "translations": {
-          "en": {
-            "title": "Netflix Names Ex-Disney TV Chair Rice Chief Content Officer",
             "summary": ""
           }
         }
@@ -2308,7 +2308,7 @@
         "category": "economy",
         "published_at": "2026-10-18T16:18:24+00:00",
         "thumbnail": "https://i.ytimg.com/vi/vx0j3I7jPcI/hqdefault.jpg",
-        "popularity": 1283,
+        "popularity": 5038,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2325,7 +2325,7 @@
         "category": "economy",
         "published_at": "2026-10-18T15:19:14+00:00",
         "thumbnail": "https://i.ytimg.com/vi/Y5M8Gs7AS7I/hqdefault.jpg",
-        "popularity": 1973,
+        "popularity": 3117,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2342,7 +2342,7 @@
         "category": "economy",
         "published_at": "2026-10-18T15:04:10+00:00",
         "thumbnail": "https://i.ytimg.com/vi/hyDmuq7guqc/hqdefault.jpg",
-        "popularity": 2577,
+        "popularity": 4184,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2359,7 +2359,7 @@
         "category": "economy",
         "published_at": "2026-10-18T14:36:08+00:00",
         "thumbnail": "https://i.ytimg.com/vi/q--shB_2V2k/hqdefault.jpg",
-        "popularity": 6490,
+        "popularity": 9350,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2376,7 +2376,7 @@
         "category": "economy",
         "published_at": "2026-10-18T14:21:24+00:00",
         "thumbnail": "https://i.ytimg.com/vi/EqvkKSaE1X0/hqdefault.jpg",
-        "popularity": 4388,
+        "popularity": 6414,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2393,7 +2393,7 @@
         "category": "economy",
         "published_at": "2026-10-18T14:10:17+00:00",
         "thumbnail": "https://i.ytimg.com/vi/oKchaDHk3_Q/hqdefault.jpg",
-        "popularity": 2609,
+        "popularity": 3387,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2410,7 +2410,7 @@
         "category": "economy",
         "published_at": "2026-10-18T14:00:37+00:00",
         "thumbnail": "https://i.ytimg.com/vi/frhH6gRM3Pw/hqdefault.jpg",
-        "popularity": 56653,
+        "popularity": 86519,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2427,7 +2427,7 @@
         "category": "economy",
         "published_at": "2026-10-18T14:00:09+00:00",
         "thumbnail": "https://i.ytimg.com/vi/m9VblmOgeMc/hqdefault.jpg",
-        "popularity": 6812,
+        "popularity": 9289,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2446,7 +2446,7 @@
         "category": "technology",
         "published_at": "2026-10-17T15:00:27+00:00",
         "thumbnail": "https://i.ytimg.com/vi/5P0Xb3Y0hYg/hqdefault.jpg",
-        "popularity": 132406,
+        "popularity": 134179,
         "provenance": "youtube_popular",
         "source_lang": "en",
         "translations": {
@@ -2463,7 +2463,7 @@
         "category": "technology",
         "published_at": "2026-10-17T15:00:19+00:00",
         "thumbnail": "https://i.ytimg.com/vi/mtiMk28wmAw/hqdefault.jpg",
-        "popularity": 7461,
+        "popularity": 7697,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2480,7 +2480,7 @@
         "category": "technology",
         "published_at": "2026-10-16T19:15:30+00:00",
         "thumbnail": "https://i.ytimg.com/vi/9h5naV9Ms4s/hqdefault.jpg",
-        "popularity": 16293,
+        "popularity": 16585,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2497,7 +2497,7 @@
         "category": "technology",
         "published_at": "2026-10-16T17:39:18+00:00",
         "thumbnail": "https://i.ytimg.com/vi/HTqc5fMitok/hqdefault.jpg",
-        "popularity": 14882,
+        "popularity": 15334,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2514,7 +2514,7 @@
         "category": "technology",
         "published_at": "2026-10-16T15:36:53+00:00",
         "thumbnail": "https://i.ytimg.com/vi/z00Lhm3CqAM/hqdefault.jpg",
-        "popularity": 47309,
+        "popularity": 48045,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2531,7 +2531,7 @@
         "category": "technology",
         "published_at": "2026-10-16T15:00:20+00:00",
         "thumbnail": "https://i.ytimg.com/vi/dWmEKM4_lKQ/hqdefault.jpg",
-        "popularity": 15825,
+        "popularity": 16156,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2548,7 +2548,7 @@
         "category": "technology",
         "published_at": "2026-10-16T13:49:43+00:00",
         "thumbnail": "https://i.ytimg.com/vi/_EW8O9SLSXs/hqdefault.jpg",
-        "popularity": 235990,
+        "popularity": 236301,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2565,7 +2565,7 @@
         "category": "technology",
         "published_at": "2026-10-16T10:55:14+00:00",
         "thumbnail": "https://i.ytimg.com/vi/BYWy6SyJRZo/hqdefault.jpg",
-        "popularity": 5419662,
+        "popularity": 5522035,
         "provenance": "youtube_popular",
         "source_lang": "en",
         "translations": {
@@ -2584,7 +2584,7 @@
         "category": "ai-trends",
         "published_at": "2026-10-17T13:00:11+00:00",
         "thumbnail": "https://i.ytimg.com/vi/yAGGkDvbjAs/hqdefault.jpg",
-        "popularity": 2095224,
+        "popularity": 2170338,
         "provenance": "youtube_popular",
         "source_lang": "en",
         "translations": {
@@ -2601,7 +2601,7 @@
         "category": "ai-trends",
         "published_at": "2026-10-17T05:06:11+00:00",
         "thumbnail": "https://i.ytimg.com/vi/6dR-RCSUgrM/hqdefault.jpg",
-        "popularity": 134735,
+        "popularity": 135171,
         "provenance": "youtube_popular",
         "source_lang": "en",
         "translations": {
@@ -2618,7 +2618,7 @@
         "category": "ai-trends",
         "published_at": "2026-10-16T21:00:00+00:00",
         "thumbnail": "https://i.ytimg.com/vi/LJ2v4-FvPcA/hqdefault.jpg",
-        "popularity": 2557,
+        "popularity": 2606,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2635,7 +2635,7 @@
         "category": "ai-trends",
         "published_at": "2026-10-16T16:00:00+00:00",
         "thumbnail": "https://i.ytimg.com/vi/-nmcYcO-EE8/hqdefault.jpg",
-        "popularity": 5641,
+        "popularity": 5905,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2652,7 +2652,7 @@
         "category": "ai-trends",
         "published_at": "2026-10-15T23:00:26+00:00",
         "thumbnail": "https://i.ytimg.com/vi/qJplHFjyv2A/hqdefault.jpg",
-        "popularity": 4528,
+        "popularity": 4686,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2669,7 +2669,7 @@
         "category": "ai-trends",
         "published_at": "2026-10-15T19:00:22+00:00",
         "thumbnail": "https://i.ytimg.com/vi/i3X7Fv0Z3Uc/hqdefault.jpg",
-        "popularity": 12447,
+        "popularity": 12535,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2686,7 +2686,7 @@
         "category": "ai-trends",
         "published_at": "2026-10-15T16:00:02+00:00",
         "thumbnail": "https://i.ytimg.com/vi/nSwmcs37Jd4/hqdefault.jpg",
-        "popularity": 27517,
+        "popularity": 27779,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2703,7 +2703,7 @@
         "category": "ai-trends",
         "published_at": "2026-10-14T17:01:36+00:00",
         "thumbnail": "https://i.ytimg.com/vi/Jh6mgf9M06M/hqdefault.jpg",
-        "popularity": 71021,
+        "popularity": 71278,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {

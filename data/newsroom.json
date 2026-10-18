@@ -1,12 +1,12 @@
 {
   "version": 36,
   "translation_status": "not_configured",
-  "updated_at": "2026-10-18T00:05:32.514493+00:00",
-  "attempted_at": "2026-10-18T00:05:32.514493+00:00",
+  "updated_at": "2026-10-18T04:22:52.781930+00:00",
+  "attempted_at": "2026-10-18T04:22:52.781930+00:00",
   "status": "ok",
   "video_status": "fresh",
   "video_warning": "",
-  "video_last_success_at": "2026-10-18T00:05:32.514493+00:00",
+  "video_last_success_at": "2026-10-18T04:22:52.781930+00:00",
   "video_mode": "popular_and_channel",
   "video_api_note": "YouTube Data API v3 / verified embeddable public videos",
   "source_count": 22,
@@ -35,17 +35,233 @@
     "YouTube mostPopular / VN"
   ],
   "sources_failed": [
-    "Tuổi Trẻ / vietnam (empty or no recent records)",
+    "Search Engine Land / marketing (HTTP Error 403: Forbidden)",
     "Tuổi Trẻ / world (empty or no recent records)",
     "Tuổi Trẻ / economy (empty or no recent records)",
-    "Search Engine Land / marketing (HTTP Error 403: Forbidden)",
+    "Tuổi Trẻ / vietnam (empty or no recent records)",
     "VietnamPlus / vietnam (not well-formed (invalid token): line 1, column 0)"
   ],
   "news": [
     {
+      "id": "6bd483fb49bef24adf",
+      "title": "Deadly fire breaks out at Canada military base",
+      "summary": "Defence Minister David McGuinty says there are casualties in what the prime minister called a \"serious incident\".",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16b9/live/88b2a660-caa5-11f1-9f95-1db69c12ee59.jpg",
+      "published_at": "2026-10-18T04:00:50+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Deadly fire breaks out at Canada military base",
+          "summary": "Defence Minister David McGuinty says there are casualties in what the prime minister called a \"serious incident\"."
+        }
+      }
+    },
+    {
+      "id": "7aa231234c5d84a8cb",
+      "title": "‘I felt disgusted’: MEP speaks out over nude deepfakes and urges EU action",
+      "summary": "Lena Schilling of Austrian Greens says images are ‘digital violence against women’ and a threat to democracy An Austrian MEP has spoken out about her experience of being “stripped naked” online without her consent and has urged the EU to take action, as a report found that one in six female MEPs had been targeted by sexualised A…",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/society/2026/oct/18/mep-lena-schilling-nude-deepfakes-eu-action",
+      "image": "https://i.guim.co.uk/img/media/f451bf58ce9566761ef3e471f9080edcbc94e0a6/261_121_2606_2085/master/2606.jpg?width=140&quality=85&auto=format&fit=max&s=acca07559bd2486c93e545f85c16af5d",
+      "published_at": "2026-10-18T04:00:50+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "‘I felt disgusted’: MEP speaks out over nude deepfakes and urges EU action",
+          "summary": "Lena Schilling of Austrian Greens says images are ‘digital violence against women’ and a threat to democracy An Austrian MEP has spoken out about her experience of being “stripped naked” online without her consent and has urged the EU to take action, as a report found that one in six female MEPs had been targeted by sexualised A…"
+        }
+      }
+    },
+    {
+      "id": "6d2c2f650e3dab91f2",
+      "title": "‘4,000 people minding our own business’: four decades on, Falklands again face a hostile Argentina",
+      "summary": "Facing a slump in the polls, Argentina’s president is making economic attacks on the islands’ oil industry, and suggesting its key fisheries industry could be next A dozen local people and a uniformed military police officer (“Do you mind if I sit in?”) took their seats at the back of the handsome wood-panelled courtroom that do…",
+      "source": "The Guardian",
+      "category": "politics",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/18/4000-people-minding-our-own-business-four-decades-on-falklands-again-face-a-hostile-argentina",
+      "image": "https://i.guim.co.uk/img/media/695b7c54600f1a7aeb665fd7f024c80a6b5330d6/391_162_7606_6086/master/7606.jpg?width=140&quality=85&auto=format&fit=max&s=7e770d17c51c9105e4dc74a829280d48",
+      "published_at": "2026-10-18T04:00:49+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "‘4,000 people minding our own business’: four decades on, Falklands again face a hostile Argentina",
+          "summary": "Facing a slump in the polls, Argentina’s president is making economic attacks on the islands’ oil industry, and suggesting its key fisheries industry could be next A dozen local people and a uniformed military police officer (“Do you mind if I sit in?”) took their seats at the back of the handsome wood-panelled courtroom that do…"
+        }
+      }
+    },
+    {
+      "id": "b885d679e02845f24c",
+      "title": "Is sisterhood the secret to a long life? The Sardinian village that could hold key to women’s longevity",
+      "summary": "Meet some of the elderly residents of Bolotana, in line to be the world’s sixth ‘blue zone’ for its high number of female centenarians When Giovanna Marras opens the door to her home in Bolotana, a mountain village in central Sardinia, her eyes are bright with curiosity as she sizes up her visitors. Her sister, Mariangela, peeks…",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/world/2026/oct/18/bolotana-sardinian-village-women-centenarians-longevity-long-life",
+      "image": "https://i.guim.co.uk/img/media/c52699fa79a08ff54fc072b7ba247700230f9b4f/213_0_4459_3565/master/4459.jpg?width=140&quality=85&auto=format&fit=max&s=6d09014ff10f6821d87e0d76730829b9",
+      "published_at": "2026-10-18T04:00:49+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Is sisterhood the secret to a long life? The Sardinian village that could hold key to women’s longevity",
+          "summary": "Meet some of the elderly residents of Bolotana, in line to be the world’s sixth ‘blue zone’ for its high number of female centenarians When Giovanna Marras opens the door to her home in Bolotana, a mountain village in central Sardinia, her eyes are bright with curiosity as she sizes up her visitors. Her sister, Mariangela, peeks…"
+        }
+      }
+    },
+    {
+      "id": "240aec86200e8842e6",
+      "title": "Indigenous woman shackled to hospital bed while in labour in Queensland",
+      "summary": "Birth happens days before Labor and Coalition block bill to ban ‘barbaric practice’ of shackling incarcerated women during childbirth Get our new political email , free app or daily news podcast An incarcerated Indigenous woman was shackled to a hospital bed in Queensland while she was in labour last weekend, an advocacy group h…",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/18/indigenous-woman-shackled-during-labour-childbirth-queensland-ntwnfb",
+      "image": "https://i.guim.co.uk/img/media/eeaa78fab5bd670f07defe9f653fe7d43b508614/683_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=b521a96e84e2110db24800f8a5a57081",
+      "published_at": "2026-10-18T03:59:02+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Indigenous woman shackled to hospital bed while in labour in Queensland",
+          "summary": "Birth happens days before Labor and Coalition block bill to ban ‘barbaric practice’ of shackling incarcerated women during childbirth Get our new political email , free app or daily news podcast An incarcerated Indigenous woman was shackled to a hospital bed in Queensland while she was in labour last weekend, an advocacy group h…"
+        }
+      }
+    },
+    {
+      "id": "fe1da706fb4d295faa",
+      "title": "‘Serious incident’ at Alberta military base causes deaths and injuries, Canada officials say",
+      "summary": "Incident at CFB Wainwright base in Alberta caused a ‘major fire’ that is spreading to the nearby town because of strong winds People have been killed and injured after an incident at one of Canada’s busiest military training bases in Alberta caused a large fire, Canada’s defence minister said Saturday. “I’m saddened to share tha…",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright",
+      "image": "https://i.guim.co.uk/img/media/b00577f4dd9c40e89cdaed4dc9d1a17ac22996e0/336_0_3664_2931/master/3664.jpg?width=140&quality=85&auto=format&fit=max&s=e6e72ca1ec2787b50d7c04cd5ed8abb5",
+      "published_at": "2026-10-18T02:50:29+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "‘Serious incident’ at Alberta military base causes deaths and injuries, Canada officials say",
+          "summary": "Incident at CFB Wainwright base in Alberta caused a ‘major fire’ that is spreading to the nearby town because of strong winds People have been killed and injured after an incident at one of Canada’s busiest military training bases in Alberta caused a large fire, Canada’s defence minister said Saturday. “I’m saddened to share tha…"
+        }
+      }
+    },
+    {
+      "id": "3fa047b81ef29bb08f",
+      "title": "Châu Âu muốn hạn chế thêm hàng nhập khẩu từ Trung Quốc",
+      "summary": "EU sẽ đề xuất thêm nhiều biện pháp để giảm mức thâm hụt hàng hóa lên tới hơn 1 tỷ USD một ngày với Trung Quốc, theo Chủ tịch EC Ursula von der Leyen.",
+      "source": "VnExpress",
+      "category": "economy",
+      "url": "https://vnexpress.net/chau-au-muon-han-che-them-hang-nhap-khau-tu-trung-quoc-5133749.html",
+      "image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/18/Screenshot20261018085549-17922-6378-3667-1792288947.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=86ZPQ5O14mguhE2LdVRqbQ",
+      "published_at": "2026-10-18T02:39:30+00:00",
+      "kind": "source_brief",
+      "source_lang": "vi",
+      "translations": {
+        "vi": {
+          "title": "Châu Âu muốn hạn chế thêm hàng nhập khẩu từ Trung Quốc",
+          "summary": "EU sẽ đề xuất thêm nhiều biện pháp để giảm mức thâm hụt hàng hóa lên tới hơn 1 tỷ USD một ngày với Trung Quốc, theo Chủ tịch EC Ursula von der Leyen."
+        }
+      }
+    },
+    {
+      "id": "cf7ccffa157149fde2",
+      "title": "Nhà máy giúp Subcom thống trị thị trường cáp quang biển",
+      "summary": "Nhà máy Newington tại bang New Hampshire chuyên sản xuất hệ thống cáp quang biển để truyền dữ liệu qua hàng nghìn km đại dương với công suất 58.000 km cáp mỗi năm.",
+      "source": "VnExpress",
+      "category": "technology",
+      "url": "https://vnexpress.net/nha-may-giup-subcom-thong-tri-thi-truong-cap-quang-bien-5132375.html",
+      "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/15/VNEFactory1-1792027300-6753-1792028535.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=AsKQGUSIb6_2HWk3SDJBwQ",
+      "published_at": "2026-10-18T01:58:57+00:00",
+      "kind": "source_brief",
+      "source_lang": "vi",
+      "translations": {
+        "vi": {
+          "title": "Nhà máy giúp Subcom thống trị thị trường cáp quang biển",
+          "summary": "Nhà máy Newington tại bang New Hampshire chuyên sản xuất hệ thống cáp quang biển để truyền dữ liệu qua hàng nghìn km đại dương với công suất 58.000 km cáp mỗi năm."
+        }
+      }
+    },
+    {
+      "id": "b677fdedabaf44798b",
+      "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+      "summary": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
+      "source": "BBC News",
+      "category": "politics",
+      "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c147/live/f608c860-c9cf-11f1-84c1-fd3c3266bb86.jpg",
+      "published_at": "2026-10-18T01:10:25+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+          "summary": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns."
+        }
+      }
+    },
+    {
+      "id": "2fd92ca9aaca5b8426",
+      "title": "Khối ngoại có thể ngừng bán ròng chứng khoán từ giữa 2027",
+      "summary": "Chuyên gia dự báo khối ngoại khó quay lại mua ròng trong năm nay, nhưng có thể đảo chiều từ giữa 2027 nhờ dòng vốn theo lộ trình nâng hạng tăng lên, còn dư địa bán giảm dần.",
+      "source": "VnExpress",
+      "category": "economy",
+      "url": "https://vnexpress.net/khoi-ngoai-co-the-ngung-ban-rong-chung-khoan-tu-giua-2027-5133643.html",
+      "image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/17/233A7967-2688-1792251565.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=laRJ0kWxgUtASIEW4lZwjw",
+      "published_at": "2026-10-18T00:34:10+00:00",
+      "kind": "source_brief",
+      "source_lang": "vi",
+      "translations": {
+        "vi": {
+          "title": "Khối ngoại có thể ngừng bán ròng chứng khoán từ giữa 2027",
+          "summary": "Chuyên gia dự báo khối ngoại khó quay lại mua ròng trong năm nay, nhưng có thể đảo chiều từ giữa 2027 nhờ dòng vốn theo lộ trình nâng hạng tăng lên, còn dư địa bán giảm dần."
+        }
+      }
+    },
+    {
+      "id": "a1edb85a1164badbe6",
+      "title": "Thụy Sĩ đề xuất kết nối Crypto Valley với hệ sinh thái đổi mới sáng tạo Việt Nam",
+      "summary": "Tổng thống Thụy Sĩ Guy Parmelin đề xuất kết nối Trung tâm Crypto Valley với hệ sinh thái đổi mới sáng tạo Việt Nam, hợp tác về blockchain, trí tuệ nhân tạo và công nghệ lượng tử.",
+      "source": "VnExpress",
+      "category": "economy",
+      "url": "https://vnexpress.net/thuy-si-de-xuat-ket-noi-crypto-valley-voi-he-sinh-thai-doi-moi-sang-tao-viet-nam-5133708.html",
+      "image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/17/wm31-wm31-base641792241702849108282-1414-7080-1792253230.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=Y2ab2mxjpVBmoBXf9GF93g",
+      "published_at": "2026-10-18T00:17:16+00:00",
+      "kind": "source_brief",
+      "source_lang": "vi",
+      "translations": {
+        "vi": {
+          "title": "Thụy Sĩ đề xuất kết nối Crypto Valley với hệ sinh thái đổi mới sáng tạo Việt Nam",
+          "summary": "Tổng thống Thụy Sĩ Guy Parmelin đề xuất kết nối Trung tâm Crypto Valley với hệ sinh thái đổi mới sáng tạo Việt Nam, hợp tác về blockchain, trí tuệ nhân tạo và công nghệ lượng tử."
+        }
+      }
+    },
+    {
+      "id": "66183320dfac4d6afe",
+      "title": "Buildings set ablaze and more than 1,200 arrested as police clash with protesters across France",
+      "summary": "Police fire teargas in Paris and Limoges town hall ‘largely lost’ to fire – with officials blaming violence on ‘ultra-left’ More than 1,200 people were arrested in France on Saturday after protesters supporting high school students clashed with police, with some demonstrations later spiralling out of control as buildings were se…",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/world/2026/oct/17/protests-france-high-prices-social-security-gilets-jaunes",
+      "image": "https://i.guim.co.uk/img/media/7581252b072b651e754e46a8d2d3f76989d36833/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=b6a18d42ff582fc580489ac914a54a72",
+      "published_at": "2026-10-18T00:01:12+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Buildings set ablaze and more than 1,200 arrested as police clash with protesters across France",
+          "summary": "Police fire teargas in Paris and Limoges town hall ‘largely lost’ to fire – with officials blaming violence on ‘ultra-left’ More than 1,200 people were arrested in France on Saturday after protesters supporting high school students clashed with police, with some demonstrations later spiralling out of control as buildings were se…"
+        }
+      }
+    },
+    {
       "id": "1a6e771cd129f9e1f0",
-      "title": "Ebike rider, 13, charged with sexual touching after girls and women allegedly harassed on northern beaches trails",
-      "summary": "Sydney teenager charged with offensive behaviour and sexual touching without consent in relation to incidents involving females aged 13 to 54 An ebike riding 13-year-old boy has been charged with multiple sexual offences allegedly committed against women on walking trails on Sydney’s northern beaches. New South Wales police said…",
+      "title": "Ebike rider, 13, charged with sexual touching after girls and women allegedly harassed on northern beaches",
+      "summary": "Sydney teenager charged with offensive behaviour and sexual touching without consent in relation to incidents involving females aged 13 to 54 Get our breaking news email , free app or daily news podcast An ebike riding 13-year-old boy has been charged with multiple sexual offences allegedly committed against women on walking tra…",
       "source": "The Guardian",
       "category": "world",
       "url": "https://www.theguardian.com/australia-news/2026/oct/18/sydney-northern-beaches-teenage-ebike-rider-13-charged-sexual-touching-trails-ntwnfb",
@@ -55,8 +271,8 @@
       "source_lang": "en",
       "translations": {
         "en": {
-          "title": "Ebike rider, 13, charged with sexual touching after girls and women allegedly harassed on northern beaches trails",
-          "summary": "Sydney teenager charged with offensive behaviour and sexual touching without consent in relation to incidents involving females aged 13 to 54 An ebike riding 13-year-old boy has been charged with multiple sexual offences allegedly committed against women on walking trails on Sydney’s northern beaches. New South Wales police said…"
+          "title": "Ebike rider, 13, charged with sexual touching after girls and women allegedly harassed on northern beaches",
+          "summary": "Sydney teenager charged with offensive behaviour and sexual touching without consent in relation to incidents involving females aged 13 to 54 Get our breaking news email , free app or daily news podcast An ebike riding 13-year-old boy has been charged with multiple sexual offences allegedly committed against women on walking tra…"
         }
       }
     },
@@ -193,7 +409,7 @@
       "source": "BBC News",
       "category": "world",
       "url": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8264/live/a6715ba0-ca74-11f1-9ef8-9dedd6ab697d.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/287a/live/339305e0-ca4a-11f1-81dd-07b2258f847d.jpg",
       "published_at": "2026-10-17T20:52:17+00:00",
       "kind": "source_brief",
       "source_lang": "en",
@@ -241,24 +457,6 @@
       }
     },
     {
-      "id": "b677fdedabaf44798b",
-      "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-      "summary": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
-      "source": "BBC News",
-      "category": "politics",
-      "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c147/live/f608c860-c9cf-11f1-84c1-fd3c3266bb86.jpg",
-      "published_at": "2026-10-17T19:19:19+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-          "summary": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns."
-        }
-      }
-    },
-    {
       "id": "6d09bb2727e7ee9f9c",
       "title": "At least 17 dead in crush at Hindu festival event in India",
       "summary": "Many more have been injured at an event in the Indian city of Kolkata to mark a Hindu festival.",
@@ -273,24 +471,6 @@
         "en": {
           "title": "At least 17 dead in crush at Hindu festival event in India",
           "summary": "Many more have been injured at an event in the Indian city of Kolkata to mark a Hindu festival."
-        }
-      }
-    },
-    {
-      "id": "66183320dfac4d6afe",
-      "title": "More than 400 arrested as police clash with protesters across France",
-      "summary": "Police fire teargas in Paris and protesters storm town hall in Marseille – with officials blaming violence on ‘ultra-left’ More than 400 people were arrested in France on Saturday after protesters supporting high school student grievances clashed with police. Police fired teargas in confrontations with protesters, as demonstrati…",
-      "source": "The Guardian",
-      "category": "world",
-      "url": "https://www.theguardian.com/world/2026/oct/17/protests-france-high-prices-social-security-gilets-jaunes",
-      "image": "https://i.guim.co.uk/img/media/7581252b072b651e754e46a8d2d3f76989d36833/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=b6a18d42ff582fc580489ac914a54a72",
-      "published_at": "2026-10-17T19:15:03+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "More than 400 arrested as police clash with protesters across France",
-          "summary": "Police fire teargas in Paris and protesters storm town hall in Marseille – with officials blaming violence on ‘ultra-left’ More than 400 people were arrested in France on Saturday after protesters supporting high school student grievances clashed with police. Police fired teargas in confrontations with protesters, as demonstrati…"
         }
       }
     },
@@ -314,8 +494,8 @@
     },
     {
       "id": "2a73695b634ad3f99e",
-      "title": "Almost all NSW homes destroyed in black summer bushfires were within 100 metres of flammable vegetation",
-      "summary": "Exclusive : Research confirms official advice about high-risk properties and warns worsening conditions will make more homes unsafe Sign up for climate and environment editor Adam Morton’s free Clear Air newsletter here Almost every home destroyed in New South Wales during the black summer bushfires of 2019 and 2020 was inside t…",
+      "title": "Most NSW homes destroyed in black summer bushfires were within 100 metres of vegetation",
+      "summary": "Exclusive : Research confirms official advice about high-risk properties and warns worsening conditions will make more homes unsafe Sign up for climate and environment editor Adam Morton’s free Clear Air newsletter here Almost every home destroyed in New South Wales during the black summer bushfires of 2019-20 was inside the 100…",
       "source": "The Guardian",
       "category": "world",
       "url": "https://www.theguardian.com/australia-news/2026/oct/18/nsw-homes-destroyed-in-black-summer-bushfires-in-high-risk-buffer-zone",
@@ -325,8 +505,8 @@
       "source_lang": "en",
       "translations": {
         "en": {
-          "title": "Almost all NSW homes destroyed in black summer bushfires were within 100 metres of flammable vegetation",
-          "summary": "Exclusive : Research confirms official advice about high-risk properties and warns worsening conditions will make more homes unsafe Sign up for climate and environment editor Adam Morton’s free Clear Air newsletter here Almost every home destroyed in New South Wales during the black summer bushfires of 2019 and 2020 was inside t…"
+          "title": "Most NSW homes destroyed in black summer bushfires were within 100 metres of vegetation",
+          "summary": "Exclusive : Research confirms official advice about high-risk properties and warns worsening conditions will make more homes unsafe Sign up for climate and environment editor Adam Morton’s free Clear Air newsletter here Almost every home destroyed in New South Wales during the black summer bushfires of 2019-20 was inside the 100…"
         }
       }
     },
@@ -619,24 +799,6 @@
       }
     },
     {
-      "id": "8c36c180acb449c865",
-      "title": "Pope Leo discharged from hospital after cancer operation",
-      "summary": "Doctors say pontiff is ‘fit for discharge’ after operation to remove cancerous tumour from his lung Pope Leo lung cancer surgery: what kind of operation did he have and what happens next? Pope Leo has been discharged from hospital in Rome after undergoing an operation to remove a cancerous tumour from his lung . Leo, 71, was dee…",
-      "source": "The Guardian",
-      "category": "world",
-      "url": "https://www.theguardian.com/world/2026/oct/17/pope-leo-discharged-from-hospital-after-cancer-operation",
-      "image": "https://i.guim.co.uk/img/media/b2300794af74c02b2bf4fa103214f40bf19a6d4a/243_0_2560_2048/master/2560.jpg?width=140&quality=85&auto=format&fit=max&s=d9a4a37ae368d92fd048f87c1e1a16f7",
-      "published_at": "2026-10-17T13:41:49+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Pope Leo discharged from hospital after cancer operation",
-          "summary": "Doctors say pontiff is ‘fit for discharge’ after operation to remove cancerous tumour from his lung Pope Leo lung cancer surgery: what kind of operation did he have and what happens next? Pope Leo has been discharged from hospital in Rome after undergoing an operation to remove a cancerous tumour from his lung . Leo, 71, was dee…"
-        }
-      }
-    },
-    {
       "id": "be13bbdd0fd85de1c1",
       "title": "Green SM hợp tác Elife đưa dịch vụ gọi xe điện lên mạng lưới toàn cầu",
       "summary": "Green SM và nền tảng hỗ trợ các siêu ứng dụng B2B Elife ký kết biên bản ghi nhớ hợp tác nhằm tích hợp dịch vụ gọi xe điện vào mạng lưới quốc tế, hướng tới phục vụ tệp du khách.",
@@ -651,24 +813,6 @@
         "vi": {
           "title": "Green SM hợp tác Elife đưa dịch vụ gọi xe điện lên mạng lưới toàn cầu",
           "summary": "Green SM và nền tảng hỗ trợ các siêu ứng dụng B2B Elife ký kết biên bản ghi nhớ hợp tác nhằm tích hợp dịch vụ gọi xe điện vào mạng lưới quốc tế, hướng tới phục vụ tệp du khách."
-        }
-      }
-    },
-    {
-      "id": "1fad22f215eaab7fe5",
-      "title": "Isabel Allende wins €1m Spanish literary prize under pseudonym",
-      "summary": "Chilean-American author awarded Premio Planeta for sequel to her 1982 debut novel, The House of the Spirits The Chilean-American author Isabel Allende has won Spain’s €1m (£843,000) Premio Planeta, one of the world’s most lucrative literary prizes, under a pseudonym, with a sequel to her celebrated debut novel, The House of the…",
-      "source": "The Guardian",
-      "category": "world",
-      "url": "https://www.theguardian.com/books/2026/oct/17/isabel-allende-wins-premio-planeta-spanish-literary-prize-pseudonym",
-      "image": "https://i.guim.co.uk/img/media/7eb9ba7e84deaf176eb11173d98ccc978e25f47c/496_0_3841_3072/master/3841.jpg?width=140&quality=85&auto=format&fit=max&s=8fe9aec4a73cd1a764d09b7994cd7d75",
-      "published_at": "2026-10-17T13:01:51+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Isabel Allende wins €1m Spanish literary prize under pseudonym",
-          "summary": "Chilean-American author awarded Premio Planeta for sequel to her 1982 debut novel, The House of the Spirits The Chilean-American author Isabel Allende has won Spain’s €1m (£843,000) Premio Planeta, one of the world’s most lucrative literary prizes, under a pseudonym, with a sequel to her celebrated debut novel, The House of the…"
         }
       }
     },
@@ -1001,7 +1145,7 @@
       "title": "Bàn làm việc của Mark Zuckerberg có gì?",
       "summary": "Ông chủ Meta đăng ảnh bàn làm việc khi ra mắt Muse Spark Open, cho thấy có thiết bị Apple chưa được bán trên thị trường.",
       "source": "VnExpress",
-      "category": "vietnam",
+      "category": "technology",
       "url": "https://vnexpress.net/ban-lam-viec-cua-mark-zuckerberg-co-gi-5133572.html",
       "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/17/ban-lam-viec-mark-zuck-1-1792215675.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=niVo9zgkv3tn474B3Yxjuw",
       "published_at": "2026-10-17T08:00:00+00:00",
@@ -1011,150 +1155,6 @@
         "vi": {
           "title": "Bàn làm việc của Mark Zuckerberg có gì?",
           "summary": "Ông chủ Meta đăng ảnh bàn làm việc khi ra mắt Muse Spark Open, cho thấy có thiết bị Apple chưa được bán trên thị trường."
-        }
-      }
-    },
-    {
-      "id": "1c1e77d5563b066d64",
-      "title": "Tôi muốn bạn trai tặng món quà có cả giá trị vật chất và tinh thần",
-      "summary": "Nếu anh ấy tặng tôi chiếc điện thoại, tôi sẽ tặng anh ấy một chiếc điện thoại hoặc món quà giá thậm chí còn hơn món quà tôi được nhận.",
-      "source": "VnExpress",
-      "category": "vietnam",
-      "url": "https://vnexpress.net/toi-muon-ban-trai-tang-mon-qua-co-ca-gia-tri-vat-chat-va-tinh-than-5133542.html",
-      "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/17/GeminiGeneratedImage1e962e1e96-9096-9936-1792211829.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=H2hO5qanWsii-ig_y280BQ",
-      "published_at": "2026-10-17T08:00:00+00:00",
-      "kind": "source_brief",
-      "source_lang": "vi",
-      "translations": {
-        "vi": {
-          "title": "Tôi muốn bạn trai tặng món quà có cả giá trị vật chất và tinh thần",
-          "summary": "Nếu anh ấy tặng tôi chiếc điện thoại, tôi sẽ tặng anh ấy một chiếc điện thoại hoặc món quà giá thậm chí còn hơn món quà tôi được nhận."
-        }
-      }
-    },
-    {
-      "id": "0a77a7a8fa724a814d",
-      "title": "Dự án Luvista Quy Nhơn nhận hai giải thưởng tại Vietnam Property",
-      "summary": "Luvista Quy Nhơn được vinh danh là Dự án quần thể bất động sản xuất sắc nhất và Thiết kế kiến trúc cao tầng xuất sắc nhất tại PropertyGuru Vietnam Property Awards năm 2026.",
-      "source": "VnExpress",
-      "category": "vietnam",
-      "url": "https://vnexpress.net/du-an-luvista-quy-nhon-nhan-hai-giai-thuong-tai-vietnam-property-5133602.html",
-      "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/17/img-1792223415-6544-1792223494.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=OMuF4dxxzZpfsR-xYYA83A",
-      "published_at": "2026-10-17T08:00:00+00:00",
-      "kind": "source_brief",
-      "source_lang": "vi",
-      "translations": {
-        "vi": {
-          "title": "Dự án Luvista Quy Nhơn nhận hai giải thưởng tại Vietnam Property",
-          "summary": "Luvista Quy Nhơn được vinh danh là Dự án quần thể bất động sản xuất sắc nhất và Thiết kế kiến trúc cao tầng xuất sắc nhất tại PropertyGuru Vietnam Property Awards năm 2026."
-        }
-      }
-    },
-    {
-      "id": "30a2a7bbf15aebbca7",
-      "title": "5 việc cần làm ngay khi trẻ tiếp xúc với người mắc não mô cầu",
-      "summary": "Trẻ tiếp xúc người mắc não mô cầu cần được đánh giá nguy cơ, dùng kháng sinh dự phòng khi có chỉ định và tiêm vaccine theo khuyến cáo.",
-      "source": "VnExpress",
-      "category": "vietnam",
-      "url": "https://vnexpress.net/5-viec-can-lam-ngay-khi-tre-tiep-xuc-voi-nguoi-mac-nao-mo-cau-5133588.html",
-      "image": "https://vcdn1-suckhoe.vnecdn.net/2026/10/17/image001-1792220476-7754-1792220551.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=qMrURCLmYcUyA_y7MJ7hFg",
-      "published_at": "2026-10-17T08:00:00+00:00",
-      "kind": "source_brief",
-      "source_lang": "vi",
-      "translations": {
-        "vi": {
-          "title": "5 việc cần làm ngay khi trẻ tiếp xúc với người mắc não mô cầu",
-          "summary": "Trẻ tiếp xúc người mắc não mô cầu cần được đánh giá nguy cơ, dùng kháng sinh dự phòng khi có chỉ định và tiêm vaccine theo khuyến cáo."
-        }
-      }
-    },
-    {
-      "id": "32d532ba5c463be43e",
-      "title": "PVCFC thúc đẩy xúc tiến thương mại tại Đông Nam Á",
-      "summary": "PVCFC tìm kiếm cơ hội mở rộng kinh doanh tại Đông Nam Á thông qua hợp tác với đối tác Thái Lan, khảo sát thị trường Lào và tiếp cận khách hàng nông nghiệp quy mô lớn.",
-      "source": "VnExpress",
-      "category": "vietnam",
-      "url": "https://vnexpress.net/pvcfc-thuc-day-xuc-tien-thuong-mai-tai-dong-nam-a-5133564.html",
-      "image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/17/hinh-anh-1792215356-6375-1792215772.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=JhqO-O8tDwt_jw1NRmzwlA",
-      "published_at": "2026-10-17T08:00:00+00:00",
-      "kind": "source_brief",
-      "source_lang": "vi",
-      "translations": {
-        "vi": {
-          "title": "PVCFC thúc đẩy xúc tiến thương mại tại Đông Nam Á",
-          "summary": "PVCFC tìm kiếm cơ hội mở rộng kinh doanh tại Đông Nam Á thông qua hợp tác với đối tác Thái Lan, khảo sát thị trường Lào và tiếp cận khách hàng nông nghiệp quy mô lớn."
-        }
-      }
-    },
-    {
-      "id": "b7d7b72cd8f73288a9",
-      "title": "4 lưu ý khi tràn dịch khớp gối",
-      "summary": "Người bị tràn dịch khớp gối có thể chườm lạnh khi sưng đau, duy trì cân nặng phù hợp và tránh tự ý dùng thuốc giảm đau, chống viêm.",
-      "source": "VnExpress",
-      "category": "vietnam",
-      "url": "https://vnexpress.net/4-luu-y-khi-tran-dich-khop-goi-5133561.html",
-      "image": "https://vcdn1-suckhoe.vnecdn.net/2026/10/17/goi-1792214855-1736-1792214906.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=aC7kBZYhml8gCyudxFGYKQ",
-      "published_at": "2026-10-17T08:00:00+00:00",
-      "kind": "source_brief",
-      "source_lang": "vi",
-      "translations": {
-        "vi": {
-          "title": "4 lưu ý khi tràn dịch khớp gối",
-          "summary": "Người bị tràn dịch khớp gối có thể chườm lạnh khi sưng đau, duy trì cân nặng phù hợp và tránh tự ý dùng thuốc giảm đau, chống viêm."
-        }
-      }
-    },
-    {
-      "id": "8402eaba091eeef1b5",
-      "title": "Phù chân, mí mắt có phải dấu hiệu suy thận?",
-      "summary": "Tôi 55 tuổi, tăng huyết áp hơn 5 năm. Gần đây, tôi bị phù chân và mí mắt khi thức dậy, có phải dấu hiệu suy thận không? (Trần Tâm, Tây Ninh)",
-      "source": "VnExpress",
-      "category": "vietnam",
-      "url": "https://vnexpress.net/phu-chan-mi-mat-co-phai-dau-hieu-suy-than-5133557.html",
-      "image": "https://vcdn1-suckhoe.vnecdn.net/2026/10/17/2q7a0277-1792213820-6303-1792213947.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=5a8mXeyTaTLKiz49Hc_kpw",
-      "published_at": "2026-10-17T08:00:00+00:00",
-      "kind": "source_brief",
-      "source_lang": "vi",
-      "translations": {
-        "vi": {
-          "title": "Phù chân, mí mắt có phải dấu hiệu suy thận?",
-          "summary": "Tôi 55 tuổi, tăng huyết áp hơn 5 năm. Gần đây, tôi bị phù chân và mí mắt khi thức dậy, có phải dấu hiệu suy thận không? (Trần Tâm, Tây Ninh)"
-        }
-      }
-    },
-    {
-      "id": "9b05e5486e02093944",
-      "title": "Hettich Việt Nam đưa phụ kiện nội thất Đức vào các dự án nhà ở",
-      "summary": "Hettich Việt Nam và Han Spaces ký kết hợp tác đưa các giải pháp phụ kiện nội thất Đức vào các dự án phù hợp, đồng thời tăng cường tư vấn kỹ thuật, đào tạo và hỗ trợ triển khai.",
-      "source": "VnExpress",
-      "category": "vietnam",
-      "url": "https://vnexpress.net/hettich-viet-nam-dua-phu-kien-noi-that-duc-vao-cac-du-an-nha-o-5132595.html",
-      "image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/17/image-extractword-1792221361-3002-1792221432.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=WQANKSeln8DDF7C2orEhgg",
-      "published_at": "2026-10-17T08:00:00+00:00",
-      "kind": "source_brief",
-      "source_lang": "vi",
-      "translations": {
-        "vi": {
-          "title": "Hettich Việt Nam đưa phụ kiện nội thất Đức vào các dự án nhà ở",
-          "summary": "Hettich Việt Nam và Han Spaces ký kết hợp tác đưa các giải pháp phụ kiện nội thất Đức vào các dự án phù hợp, đồng thời tăng cường tư vấn kỹ thuật, đào tạo và hỗ trợ triển khai."
-        }
-      }
-    },
-    {
-      "id": "5637b650b3491233f2",
-      "title": "Iran nói siêu tàu dầu trúng thủy lôi, bốc cháy ở Hormuz",
-      "summary": "IRGC cho biết con tàu chở hơn 2 triệu thùng dầu trúng thủy lôi và bốc cháy dữ dội khi vượt eo biển Hormuz bằng tuyến đường \"trái phép\".",
-      "source": "VnExpress",
-      "category": "vietnam",
-      "url": "https://vnexpress.net/iran-noi-sieu-tau-dau-trung-thuy-loi-boc-chay-o-hormuz-5133590.html",
-      "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/17/anh3-1792222344-8642-1792222888.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=E2STDPJSs9Cs_Obo-Qfhnw",
-      "published_at": "2026-10-17T07:55:29+00:00",
-      "kind": "source_brief",
-      "source_lang": "vi",
-      "translations": {
-        "vi": {
-          "title": "Iran nói siêu tàu dầu trúng thủy lôi, bốc cháy ở Hormuz",
-          "summary": "IRGC cho biết con tàu chở hơn 2 triệu thùng dầu trúng thủy lôi và bốc cháy dữ dội khi vượt eo biển Hormuz bằng tuyến đường \"trái phép\"."
         }
       }
     },
@@ -1393,6 +1393,114 @@
       }
     },
     {
+      "id": "94c25f19b903894489",
+      "title": "Pandora ra mắt bộ sưu tập trang sức Talisman",
+      "summary": "Pandora Việt Nam giới thiệu bộ sưu tập Talisman lấy cảm hứng từ cung hoàng đạo và châm ngôn sống Latin trong sự kiện \"Your Symbol - Your Story\" ở TP HCM ngày 24/9.",
+      "source": "VnExpress",
+      "category": "vietnam",
+      "url": "https://vnexpress.net/pandora-ra-mat-bo-suu-tap-trang-suc-talisman-5133355.html",
+      "image": "https://vcdn1-giaitri.vnecdn.net/2026/10/17/baianhbia-1792212396-4433-1792212411.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=MOyncYozqZQZAqI_7AGX-Q",
+      "published_at": "2026-10-17T07:00:00+00:00",
+      "kind": "source_brief",
+      "source_lang": "vi",
+      "translations": {
+        "vi": {
+          "title": "Pandora ra mắt bộ sưu tập trang sức Talisman",
+          "summary": "Pandora Việt Nam giới thiệu bộ sưu tập Talisman lấy cảm hứng từ cung hoàng đạo và châm ngôn sống Latin trong sự kiện \"Your Symbol - Your Story\" ở TP HCM ngày 24/9."
+        }
+      }
+    },
+    {
+      "id": "1ea81ce69903848e68",
+      "title": "Yếu tố giúp Canifa tiếp tục đạt Thương hiệu quốc gia Việt Nam",
+      "summary": "Canifa được công nhận Thương hiệu quốc gia Việt Nam 2026 nhờ liên tục đổi mới hoạt động, nâng cao chất lượng sản phẩm, bám sát nhu cầu tiêu dùng thực tế.",
+      "source": "VnExpress",
+      "category": "vietnam",
+      "url": "https://vnexpress.net/yeu-to-giup-canifa-tiep-tuc-dat-thuong-hieu-quoc-gia-viet-nam-5133129.html",
+      "image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/17/original-f3f12728bdefa-ba06bba-4800-2365-1792219467.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=G6dkKC2wUfr4LjxbHCx_LQ",
+      "published_at": "2026-10-17T07:00:00+00:00",
+      "kind": "source_brief",
+      "source_lang": "vi",
+      "translations": {
+        "vi": {
+          "title": "Yếu tố giúp Canifa tiếp tục đạt Thương hiệu quốc gia Việt Nam",
+          "summary": "Canifa được công nhận Thương hiệu quốc gia Việt Nam 2026 nhờ liên tục đổi mới hoạt động, nâng cao chất lượng sản phẩm, bám sát nhu cầu tiêu dùng thực tế."
+        }
+      }
+    },
+    {
+      "id": "ecc3b9a8c814714b94",
+      "title": "Entiz Group đạt 3 giải thưởng bất động sản PropertyGuru 2026",
+      "summary": "Với mục tiêu phát triển đô thị hiện đại, gìn giữ bản sắc và xây dựng cộng đồng bền vững, Entiz Group được vinh danh 3 hạng mục dành cho chủ đầu tư và dự án.",
+      "source": "VnExpress",
+      "category": "vietnam",
+      "url": "https://vnexpress.net/entiz-group-dat-3-giai-thuong-bat-dong-san-propertyguru-2026-5132817.html",
+      "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/17/bb-1792219541-9790-1792219629.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=RLYFBkYagbPzJM3yNPE8dg",
+      "published_at": "2026-10-17T07:00:00+00:00",
+      "kind": "source_brief",
+      "source_lang": "vi",
+      "translations": {
+        "vi": {
+          "title": "Entiz Group đạt 3 giải thưởng bất động sản PropertyGuru 2026",
+          "summary": "Với mục tiêu phát triển đô thị hiện đại, gìn giữ bản sắc và xây dựng cộng đồng bền vững, Entiz Group được vinh danh 3 hạng mục dành cho chủ đầu tư và dự án."
+        }
+      }
+    },
+    {
+      "id": "cd4c1ba75d5deb4bf5",
+      "title": "Cảnh chen chúc leo 'mỏm đá sống ảo' ở Quảng Ninh gây tranh cãi",
+      "summary": "Cảnh khách nối nhau leo lên những tảng đá chồng sát vực sâu ở núi Đá Chồng để chụp ảnh, khiến nhiều người lo ngại về an toàn.",
+      "source": "VnExpress",
+      "category": "vietnam",
+      "url": "https://vnexpress.net/canh-chen-chuc-leo-mom-da-song-ao-o-quang-ninh-gay-tranh-cai-5133530.html",
+      "image": "https://vcdn1-dulich.vnecdn.net/2026/10/17/anhmanhinh20261017luc113108-17-5578-9994-1792211535.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=XdWal6aEs7tvegQgx2A1kA",
+      "published_at": "2026-10-17T06:58:34+00:00",
+      "kind": "source_brief",
+      "source_lang": "vi",
+      "translations": {
+        "vi": {
+          "title": "Cảnh chen chúc leo 'mỏm đá sống ảo' ở Quảng Ninh gây tranh cãi",
+          "summary": "Cảnh khách nối nhau leo lên những tảng đá chồng sát vực sâu ở núi Đá Chồng để chụp ảnh, khiến nhiều người lo ngại về an toàn."
+        }
+      }
+    },
+    {
+      "id": "241d20f1211316d00c",
+      "title": "Người đàn ông 75 tuổi đính hôn với bạn của con",
+      "summary": "Ông Ramsughar, 75 tuổi, đính hôn với nữ influencer 30 tuổi sau hai năm quen biết, bất chấp khoảng cách tuổi tác và những bàn tán trên mạng xã hội.",
+      "source": "VnExpress",
+      "category": "vietnam",
+      "url": "https://vnexpress.net/nguoi-dan-ong-75-tuoi-dinh-hon-voi-ban-cua-con-5133133.html",
+      "image": "https://vcdn1-giadinh.vnecdn.net/2026/10/16/95eaad59b0b62e6c1ded82-1792125-3248-3374-1792125906.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=7-VEgPtBimVe71VODvw5EQ",
+      "published_at": "2026-10-17T06:52:42+00:00",
+      "kind": "source_brief",
+      "source_lang": "vi",
+      "translations": {
+        "vi": {
+          "title": "Người đàn ông 75 tuổi đính hôn với bạn của con",
+          "summary": "Ông Ramsughar, 75 tuổi, đính hôn với nữ influencer 30 tuổi sau hai năm quen biết, bất chấp khoảng cách tuổi tác và những bàn tán trên mạng xã hội."
+        }
+      }
+    },
+    {
+      "id": "db75d17d7ed8642841",
+      "title": "Anthony Gordon: 'Ở Barca, không thông minh là tự sát'",
+      "summary": "Anthony Gordon, bản hợp đồng đắt giá nhất kỳ chuyển nhượng hè 2026 của Barca, trải lòng với báo Tây Ban Nha El Pais về bước ngoặt tâm lý thời được cho mượn ở Preston, việc chọn quay lưng với mạng xã hội và tư duy chơi bóng bằng trí thông minh.",
+      "source": "VnExpress",
+      "category": "vietnam",
+      "url": "https://vnexpress.net/anthony-gordon-o-barca-khong-thong-minh-la-tu-sat-5133577.html",
+      "image": "https://vcdn1-thethao.vnecdn.net/2026/10/17/673fa9e9d1fb4bcd85ed1489587420-9837-2241-1792218686.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=kO14LuqRJ9CUyTo5Mt1WNQ",
+      "published_at": "2026-10-17T06:46:50+00:00",
+      "kind": "source_brief",
+      "source_lang": "vi",
+      "translations": {
+        "vi": {
+          "title": "Anthony Gordon: 'Ở Barca, không thông minh là tự sát'",
+          "summary": "Anthony Gordon, bản hợp đồng đắt giá nhất kỳ chuyển nhượng hè 2026 của Barca, trải lòng với báo Tây Ban Nha El Pais về bước ngoặt tâm lý thời được cho mượn ở Preston, việc chọn quay lưng với mạng xã hội và tư duy chơi bóng bằng trí thông minh."
+        }
+      }
+    },
+    {
       "id": "ecda8e30ad87687344",
       "title": "Đề xuất siết quản lý tiền thu hộ COD của doanh nghiệp bưu chính",
       "summary": "Đại biểu Quốc hội đề nghị Luật Bưu chính (sửa đổi) cần quy định quản lý chặt, đảm bảo an toàn tiền thu hộ COD của doanh nghiệp chuyển phát.",
@@ -1407,6 +1515,60 @@
         "vi": {
           "title": "Đề xuất siết quản lý tiền thu hộ COD của doanh nghiệp bưu chính",
           "summary": "Đại biểu Quốc hội đề nghị Luật Bưu chính (sửa đổi) cần quy định quản lý chặt, đảm bảo an toàn tiền thu hộ COD của doanh nghiệp chuyển phát."
+        }
+      }
+    },
+    {
+      "id": "e3df2e341913b76e56",
+      "title": "Áp lực 30 phút chạy đua giữa giờ tan làm và đón con",
+      "summary": "Giờ đón trẻ và giờ tan làm lệch 30 phút khiến nhiều cha mẹ xoay xở đủ cách để vừa giữ việc, vừa chăm con.",
+      "source": "VnExpress",
+      "category": "vietnam",
+      "url": "https://vnexpress.net/ap-luc-30-phut-chay-dua-giua-gio-tan-lam-va-don-con-5133494.html",
+      "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/17/duaruoccontanhoc-1792206496-8764-1792206520.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=yJXJX5-WdLMT3litW4PSrA",
+      "published_at": "2026-10-17T06:34:45+00:00",
+      "kind": "source_brief",
+      "source_lang": "vi",
+      "translations": {
+        "vi": {
+          "title": "Áp lực 30 phút chạy đua giữa giờ tan làm và đón con",
+          "summary": "Giờ đón trẻ và giờ tan làm lệch 30 phút khiến nhiều cha mẹ xoay xở đủ cách để vừa giữ việc, vừa chăm con."
+        }
+      }
+    },
+    {
+      "id": "ef3d26d1097ae1bfd6",
+      "title": "Di chuyển 1 que diêm nào để '4 - 5 = 7' thành đúng?",
+      "summary": "Phép toán 4 - 5 = 7 hoàn toàn sai đang khiến dân mạng xoắn não, bạn có tìm ra đáp án đúng chỉ trong 5 giây?",
+      "source": "VnExpress",
+      "category": "vietnam",
+      "url": "https://vnexpress.net/di-chuyen-1-que-diem-nao-de-4-5-7-thanh-dung-5131700.html",
+      "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/14/qd-1791964339-7412-1791964518.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=hgTgzm3K9wtjCyP0iExKBw",
+      "published_at": "2026-10-17T06:30:00+00:00",
+      "kind": "source_brief",
+      "source_lang": "vi",
+      "translations": {
+        "vi": {
+          "title": "Di chuyển 1 que diêm nào để '4 - 5 = 7' thành đúng?",
+          "summary": "Phép toán 4 - 5 = 7 hoàn toàn sai đang khiến dân mạng xoắn não, bạn có tìm ra đáp án đúng chỉ trong 5 giây?"
+        }
+      }
+    },
+    {
+      "id": "11b859f487316c7ff2",
+      "title": "ETC đạt 'Thương hiệu quốc gia'",
+      "summary": "Phần mềm ETC của Công ty Cổ phần Hệ thống công nghệ ETC được công nhận đạt Thương hiệu Quốc gia, trong sự kiện ngày 16/10.",
+      "source": "VnExpress",
+      "category": "vietnam",
+      "url": "https://vnexpress.net/etc-dat-thuong-hieu-quoc-gia-5133569.html",
+      "image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/17/oahhh-1792217498-5569-1792217572.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=f5iKZ2UKavLVT8sxWO99dg",
+      "published_at": "2026-10-17T06:30:00+00:00",
+      "kind": "source_brief",
+      "source_lang": "vi",
+      "translations": {
+        "vi": {
+          "title": "ETC đạt 'Thương hiệu quốc gia'",
+          "summary": "Phần mềm ETC của Công ty Cổ phần Hệ thống công nghệ ETC được công nhận đạt Thương hiệu Quốc gia, trong sự kiện ngày 16/10."
         }
       }
     },
@@ -1515,42 +1677,6 @@
         "vi": {
           "title": "Mỹ thâm hụt ngân sách gần 2.000 tỷ USD",
           "summary": "Mỹ khép lại tài khóa 2026 với mức thâm hụt ngân sách cao nhất 5 năm và cao thứ 3 lịch sử nước này."
-        }
-      }
-    },
-    {
-      "id": "4322732e2eede13894",
-      "title": "Chính phủ muốn mở rộng dịch vụ gửi hàng giá hợp lý trên toàn quốc",
-      "summary": "Dự thảo Luật Bưu chính sửa đổi mở rộng dịch vụ phổ cập từ thư sang cả gói, kiện hàng hóa, giúp người dân có thêm lựa chọn chuyển phát với mức giá được kiểm soát.",
-      "source": "VnExpress",
-      "category": "technology",
-      "url": "https://vnexpress.net/chinh-phu-muon-mo-rong-dich-vu-gui-hang-gia-hop-ly-tren-toan-quoc-5133500.html",
-      "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/17/1792205648658c48c78eb9641b5795-3463-3023-1792210277.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ezAOFZ2QeAfZaWkEQolLkg",
-      "published_at": "2026-10-17T04:07:23+00:00",
-      "kind": "source_brief",
-      "source_lang": "vi",
-      "translations": {
-        "vi": {
-          "title": "Chính phủ muốn mở rộng dịch vụ gửi hàng giá hợp lý trên toàn quốc",
-          "summary": "Dự thảo Luật Bưu chính sửa đổi mở rộng dịch vụ phổ cập từ thư sang cả gói, kiện hàng hóa, giúp người dân có thêm lựa chọn chuyển phát với mức giá được kiểm soát."
-        }
-      }
-    },
-    {
-      "id": "a7c07b667e14a1ee3c",
-      "title": "Not cool: who hacked France’s supermarket fridges?",
-      "summary": "Whether it was youngsters proving their skills or state sabotage, Europe’s most hacked country was left with a mountain of waste after food began cooking in freezers Shortly before midnight last Sunday, the digital thermostats controlling hundreds of supermarket cold aisles across France began to flicker and rise. In a “bizarre…",
-      "source": "The Guardian",
-      "category": "technology",
-      "url": "https://www.theguardian.com/world/2026/oct/17/who-hacked-frances-supermarket-fridges",
-      "image": "https://i.guim.co.uk/img/media/446c1773fea046f80e07ca9533f82b2eaa90e1e6/494_0_3540_2832/master/3540.jpg?width=140&quality=85&auto=format&fit=max&s=aa4cee8a1aabe7c0ef821e19e4acd335",
-      "published_at": "2026-10-17T04:00:20+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Not cool: who hacked France’s supermarket fridges?",
-          "summary": "Whether it was youngsters proving their skills or state sabotage, Europe’s most hacked country was left with a mountain of waste after food began cooking in freezers Shortly before midnight last Sunday, the digital thermostats controlling hundreds of supermarket cold aisles across France began to flicker and rise. In a “bizarre…"
         }
       }
     },
@@ -1681,24 +1807,6 @@
       }
     },
     {
-      "id": "4d2797c44b0f3f5cc9",
-      "title": "Mimicking populists will not ease cost of living or boost productivity, Mathias Cormann warns",
-      "summary": "Former minister and OECD head urges Australia not to adopt migration caps, with research showing migrants boost employment Get our breaking news email , free app or daily news podcast Australia’s mainstream political parties are being warned not to adopt populist policies such as migration caps to address voters’ grievances over…",
-      "source": "The Guardian",
-      "category": "world",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/17/mimicking-populists-will-not-ease-cost-of-living-or-raise-productivity-mathias-cormann-warns-ntwnfb",
-      "image": "https://i.guim.co.uk/img/media/de3f2e8a77b6dda011deff1298ee6f189e9c0594/190_0_3429_2744/master/3429.jpg?width=140&quality=85&auto=format&fit=max&s=64bd3dbf3d431b0ee61c28f9db2a97e7",
-      "published_at": "2026-10-17T01:49:17+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Mimicking populists will not ease cost of living or boost productivity, Mathias Cormann warns",
-          "summary": "Former minister and OECD head urges Australia not to adopt migration caps, with research showing migrants boost employment Get our breaking news email , free app or daily news podcast Australia’s mainstream political parties are being warned not to adopt populist policies such as migration caps to address voters’ grievances over…"
-        }
-      }
-    },
-    {
       "id": "45e35b088da73d017f",
       "title": "Techcom Life tăng vốn lên 4.300 tỷ đồng sau một năm thành lập",
       "summary": "Sau một năm thành lập, Techcom Life vào top 5 doanh nghiệp bảo hiểm nhân thọ về doanh thu khai thác mới quý III, đồng thời hoàn tất tăng vốn điều lệ lên 4.300 tỷ đồng.",
@@ -1713,42 +1821,6 @@
         "vi": {
           "title": "Techcom Life tăng vốn lên 4.300 tỷ đồng sau một năm thành lập",
           "summary": "Sau một năm thành lập, Techcom Life vào top 5 doanh nghiệp bảo hiểm nhân thọ về doanh thu khai thác mới quý III, đồng thời hoàn tất tăng vốn điều lệ lên 4.300 tỷ đồng."
-        }
-      }
-    },
-    {
-      "id": "880a0eaff04e0931ab",
-      "title": "The uncertain future of Canada's 30 rescued belugas",
-      "summary": "An international rescue operation for the last 30 captive whales in Canada made headlines. Then five of them died.",
-      "source": "BBC News",
-      "category": "world",
-      "url": "https://www.bbc.co.uk/news/articles/c623dnn3xvpko?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7e9/live/0fd9b790-c971-11f1-80fc-ab418b149008.jpg",
-      "published_at": "2026-10-17T01:18:08+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "The uncertain future of Canada's 30 rescued belugas",
-          "summary": "An international rescue operation for the last 30 captive whales in Canada made headlines. Then five of them died."
-        }
-      }
-    },
-    {
-      "id": "88386493be35012956",
-      "title": "A thousand slogans echoed here - but it could be the end for iconic Delhi protest site",
-      "summary": "Jantar Mantar, an 18th Century site almost synonymous with demonstrations in Delhi, has been denotified as a protest site.",
-      "source": "BBC News",
-      "category": "world",
-      "url": "https://www.bbc.co.uk/news/articles/c6kgqjvdv4n2o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae0a/live/7e914b00-c96f-11f1-80fc-ab418b149008.jpg",
-      "published_at": "2026-10-17T00:41:58+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "A thousand slogans echoed here - but it could be the end for iconic Delhi protest site",
-          "summary": "Jantar Mantar, an 18th Century site almost synonymous with demonstrations in Delhi, has been denotified as a protest site."
         }
       }
     },
@@ -1949,82 +2021,129 @@
           "summary": "The Australian government hopes to protect social media users from being served content they don't want to see."
         }
       }
-    },
-    {
-      "id": "8ffbbf24c13a812dde",
-      "title": "India becomes the latest country to report rogue AI agent activity",
-      "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
-      "image": "",
-      "published_at": "2026-10-16T17:52:24+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "India becomes the latest country to report rogue AI agent activity",
-          "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles."
-        }
-      }
-    },
-    {
-      "id": "6152609409795b1597",
-      "title": "Reform councillor calls TV report 'vote interference'",
-      "summary": "ITV News filmed undercover with Reform councillors and candidates around the country.",
-      "source": "BBC News",
-      "category": "politics",
-      "url": "https://www.bbc.co.uk/news/articles/cqjdm2nylkz0o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e24e/live/3f2cdf90-c953-11f1-8879-9d9deeb686e1.png",
-      "published_at": "2026-10-16T17:07:59+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Reform councillor calls TV report 'vote interference'",
-          "summary": "ITV News filmed undercover with Reform councillors and candidates around the country."
-        }
-      }
-    },
-    {
-      "id": "e09da572bbd95a7028",
-      "title": "Trái phiếu có thể thay thế cổ phiếu khi lãi suất tăng cao?",
-      "summary": "Lãi suất tăng khiến trái phiếu hấp dẫn hơn, song việc rút vốn khỏi cổ phiếu để chuyển sang kênh này chưa hẳn luôn là lựa chọn tối ưu.",
-      "source": "VnExpress",
-      "category": "economy",
-      "url": "https://vnexpress.net/trai-phieu-co-the-thay-the-co-phieu-khi-lai-suat-tang-cao-5132674.html",
-      "image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/15/huy-1792046733-9821-1792046770.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=luwmxrC3NKg2ESw_8buD9A",
-      "published_at": "2026-10-16T17:05:00+00:00",
-      "kind": "source_brief",
-      "source_lang": "vi",
-      "translations": {
-        "vi": {
-          "title": "Trái phiếu có thể thay thế cổ phiếu khi lãi suất tăng cao?",
-          "summary": "Lãi suất tăng khiến trái phiếu hấp dẫn hơn, song việc rút vốn khỏi cổ phiếu để chuyển sang kênh này chưa hẳn luôn là lựa chọn tối ưu."
-        }
-      }
-    },
-    {
-      "id": "bad3f1b087c3e7153d",
-      "title": "'Trợ lý AI lai' chuyên phục vụ giới nhà giàu",
-      "summary": "Aurora, ứng dụng kết hợp AI với con người, giúp sắp xếp việc ăn uống, du lịch và nhiều dịch vụ khác, nhưng phí gia nhập lên đến 5.000 USD.",
-      "source": "VnExpress",
-      "category": "ai",
-      "url": "https://vnexpress.net/tro-ly-ai-lai-chuyen-phuc-vu-gioi-nha-giau-5131957.html",
-      "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/14/aurorae1791574104925-179194401-6363-2394-1791944413.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=xSP5mIcdpJL437rLmg2PRQ",
-      "published_at": "2026-10-16T16:59:00+00:00",
-      "kind": "source_brief",
-      "source_lang": "vi",
-      "translations": {
-        "vi": {
-          "title": "'Trợ lý AI lai' chuyên phục vụ giới nhà giàu",
-          "summary": "Aurora, ứng dụng kết hợp AI với con người, giúp sắp xếp việc ăn uống, du lịch và nhiều dịch vụ khác, nhưng phí gia nhập lên đến 5.000 USD."
-        }
-      }
     }
   ],
   "videos": {
     "vietnam": [
+      {
+        "id": "OfKEBHH9pDo",
+        "title": "Vì sao Mỹ chưa hỗ trợ Ảrập Xêut đối phó Houthi? | VTV24",
+        "channel": "VTV24",
+        "category": "vietnam",
+        "published_at": "2026-10-18T04:12:48+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/OfKEBHH9pDo/hqdefault.jpg",
+        "popularity": 105,
+        "provenance": "official_channel_api",
+        "source_lang": "vi",
+        "translations": {
+          "vi": {
+            "title": "Vì sao Mỹ chưa hỗ trợ Ảrập Xêut đối phó Houthi? | VTV24",
+            "summary": ""
+          }
+        }
+      },
+      {
+        "id": "zEOuB08sjzU",
+        "title": "Vì sao bị phản đối nhưng Tổng thống Mỹ Donald Trump vẫn nới lỏng trừng phạt với Nga? | VTV24",
+        "channel": "VTV24",
+        "category": "vietnam",
+        "published_at": "2026-10-18T03:20:07+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/zEOuB08sjzU/hqdefault.jpg",
+        "popularity": 2805,
+        "provenance": "official_channel_api",
+        "source_lang": "vi",
+        "translations": {
+          "vi": {
+            "title": "Vì sao bị phản đối nhưng Tổng thống Mỹ Donald Trump vẫn nới lỏng trừng phạt với Nga? | VTV24",
+            "summary": ""
+          }
+        }
+      },
+      {
+        "id": "QlKTzG_nQwg",
+        "title": "Ghi nhận học sinh thứ 4 mắc não mô cầu tại TP. Hồ Chí Minh | Cụm tin | VTV24",
+        "channel": "VTV24",
+        "category": "vietnam",
+        "published_at": "2026-10-18T02:40:28+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/QlKTzG_nQwg/hqdefault.jpg",
+        "popularity": 366,
+        "provenance": "official_channel_api",
+        "source_lang": "vi",
+        "translations": {
+          "vi": {
+            "title": "Ghi nhận học sinh thứ 4 mắc não mô cầu tại TP. Hồ Chí Minh | Cụm tin | VTV24",
+            "summary": ""
+          }
+        }
+      },
+      {
+        "id": "6lCyM58aQ-Q",
+        "title": "Thế giới toàn cảnh 18/10: Nga đánh giá cao quyết định nới lỏng trừng phạt của Mỹ | VTV24",
+        "channel": "VTV24",
+        "category": "vietnam",
+        "published_at": "2026-10-18T02:00:19+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/6lCyM58aQ-Q/hqdefault.jpg",
+        "popularity": 2741,
+        "provenance": "official_channel_api",
+        "source_lang": "vi",
+        "translations": {
+          "vi": {
+            "title": "Thế giới toàn cảnh 18/10: Nga đánh giá cao quyết định nới lỏng trừng phạt của Mỹ | VTV24",
+            "summary": ""
+          }
+        }
+      },
+      {
+        "id": "Zfn21MZNUnE",
+        "title": "Ít nhất 17 người thiệt mạng trong vụ giẫm đạp tại lễ hội ở Ấn Độ | Cụm tin Quốc tế | VTV24",
+        "channel": "VTV24",
+        "category": "vietnam",
+        "published_at": "2026-10-18T01:30:37+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/Zfn21MZNUnE/hqdefault.jpg",
+        "popularity": 4629,
+        "provenance": "official_channel_api",
+        "source_lang": "vi",
+        "translations": {
+          "vi": {
+            "title": "Ít nhất 17 người thiệt mạng trong vụ giẫm đạp tại lễ hội ở Ấn Độ | Cụm tin Quốc tế | VTV24",
+            "summary": ""
+          }
+        }
+      },
+      {
+        "id": "zoBgotvLcyg",
+        "title": "Bổ sung biển báo khoảng cách an toàn trên 7 tuyến cao tốc trước ngày 31/10 | Cụm tin | VTV24",
+        "channel": "VTV24",
+        "category": "vietnam",
+        "published_at": "2026-10-18T01:04:43+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/zoBgotvLcyg/hqdefault.jpg",
+        "popularity": 2666,
+        "provenance": "official_channel_api",
+        "source_lang": "vi",
+        "translations": {
+          "vi": {
+            "title": "Bổ sung biển báo khoảng cách an toàn trên 7 tuyến cao tốc trước ngày 31/10 | Cụm tin | VTV24",
+            "summary": ""
+          }
+        }
+      },
+      {
+        "id": "N4nLCmMzszo",
+        "title": "Thời tiết ngày 18/10: Bắc Bộ oi nóng, Nam Bộ chiều tối có mưa giông mạnh | VTV24",
+        "channel": "VTV24",
+        "category": "vietnam",
+        "published_at": "2026-10-18T00:30:05+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/N4nLCmMzszo/hqdefault.jpg",
+        "popularity": 13157,
+        "provenance": "official_channel_api",
+        "source_lang": "vi",
+        "translations": {
+          "vi": {
+            "title": "Thời tiết ngày 18/10: Bắc Bộ oi nóng, Nam Bộ chiều tối có mưa giông mạnh | VTV24",
+            "summary": ""
+          }
+        }
+      },
       {
         "id": "zJB9QCsbRhI",
         "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm và Tổng thống Thụy Sĩ Guy Parmelin cùng dạo bước quanh Hồ Gươm",
@@ -2032,131 +2151,12 @@
         "category": "vietnam",
         "published_at": "2026-10-17T23:54:30+00:00",
         "thumbnail": "https://i.ytimg.com/vi/zJB9QCsbRhI/hqdefault.jpg",
-        "popularity": 251,
+        "popularity": 64268,
         "provenance": "official_channel_api",
         "source_lang": "vi",
         "translations": {
           "vi": {
             "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm và Tổng thống Thụy Sĩ Guy Parmelin cùng dạo bước quanh Hồ Gươm",
-            "summary": ""
-          }
-        }
-      },
-      {
-        "id": "ojTbjYfJvZQ",
-        "title": "Thật - Giả, Kiểm chứng: Mạo danh cơ quan quản lý lừa đảo nhà đầu tư chứng khoán | VTV24",
-        "channel": "VTV24",
-        "category": "vietnam",
-        "published_at": "2026-10-17T15:30:09+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/ojTbjYfJvZQ/hqdefault.jpg",
-        "popularity": 3824,
-        "provenance": "official_channel_api",
-        "source_lang": "vi",
-        "translations": {
-          "vi": {
-            "title": "Thật - Giả, Kiểm chứng: Mạo danh cơ quan quản lý lừa đảo nhà đầu tư chứng khoán | VTV24",
-            "summary": ""
-          }
-        }
-      },
-      {
-        "id": "fERk7S0IBpg",
-        "title": "Hun Sen Mua Sắm Tên Lửa Áp Sát Biên Giới: Nước Cờ Này Ẩn Chứa Điềm Gì?",
-        "channel": "La Bàn Thời Sự",
-        "category": "vietnam",
-        "published_at": "2026-10-17T15:30:03+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/fERk7S0IBpg/hqdefault.jpg",
-        "popularity": 226048,
-        "provenance": "youtube_popular",
-        "source_lang": "vi",
-        "translations": {
-          "vi": {
-            "title": "Hun Sen Mua Sắm Tên Lửa Áp Sát Biên Giới: Nước Cờ Này Ẩn Chứa Điềm Gì?",
-            "summary": ""
-          }
-        }
-      },
-      {
-        "id": "a8v50hbGj6k",
-        "title": "Miền Bắc bước vào cao điểm \"mùa ô nhiễm không khí\" | VTV24",
-        "channel": "VTV24",
-        "category": "vietnam",
-        "published_at": "2026-10-17T15:00:31+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/a8v50hbGj6k/hqdefault.jpg",
-        "popularity": 3488,
-        "provenance": "official_channel_api",
-        "source_lang": "vi",
-        "translations": {
-          "vi": {
-            "title": "Miền Bắc bước vào cao điểm \"mùa ô nhiễm không khí\" | VTV24",
-            "summary": ""
-          }
-        }
-      },
-      {
-        "id": "iN9XeQ0Yz30",
-        "title": "Thời sự toàn cảnh: Hơn 100 người dân ở Hưng Yên đứng trước nguy cơ mất trắng tiền vì chơi hụi, họ",
-        "channel": "VTV24",
-        "category": "vietnam",
-        "published_at": "2026-10-17T14:31:59+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/iN9XeQ0Yz30/hqdefault.jpg",
-        "popularity": 6603,
-        "provenance": "official_channel_api",
-        "source_lang": "vi",
-        "translations": {
-          "vi": {
-            "title": "Thời sự toàn cảnh: Hơn 100 người dân ở Hưng Yên đứng trước nguy cơ mất trắng tiền vì chơi hụi, họ",
-            "summary": ""
-          }
-        }
-      },
-      {
-        "id": "Y5h3hukAgMA",
-        "title": "Mỹ nới lỏng trừng phạt Nga | Cụm tin Quốc tế | VTV24",
-        "channel": "VTV24",
-        "category": "vietnam",
-        "published_at": "2026-10-17T14:30:22+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/Y5h3hukAgMA/hqdefault.jpg",
-        "popularity": 4735,
-        "provenance": "official_channel_api",
-        "source_lang": "vi",
-        "translations": {
-          "vi": {
-            "title": "Mỹ nới lỏng trừng phạt Nga | Cụm tin Quốc tế | VTV24",
-            "summary": ""
-          }
-        }
-      },
-      {
-        "id": "-nVQ32hfKBc",
-        "title": "Lợi dụng đêm tối, né chốt kiểm soát để chở quá tải bùn đất, vật liệu xây dựng | VTV24",
-        "channel": "VTV24",
-        "category": "vietnam",
-        "published_at": "2026-10-17T13:45:11+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/-nVQ32hfKBc/hqdefault.jpg",
-        "popularity": 5761,
-        "provenance": "official_channel_api",
-        "source_lang": "vi",
-        "translations": {
-          "vi": {
-            "title": "Lợi dụng đêm tối, né chốt kiểm soát để chở quá tải bùn đất, vật liệu xây dựng | VTV24",
-            "summary": ""
-          }
-        }
-      },
-      {
-        "id": "q5TGwSJTKCw",
-        "title": "Ba học sinh mắc bệnh não mô cầu, một ca tử vong: TP. Hồ Chí Minh truy vết ổ dịch | VTV24",
-        "channel": "VTV24",
-        "category": "vietnam",
-        "published_at": "2026-10-17T13:30:08+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/q5TGwSJTKCw/hqdefault.jpg",
-        "popularity": 3037,
-        "provenance": "official_channel_api",
-        "source_lang": "vi",
-        "translations": {
-          "vi": {
-            "title": "Ba học sinh mắc bệnh não mô cầu, một ca tử vong: TP. Hồ Chí Minh truy vết ổ dịch | VTV24",
             "summary": ""
           }
         }
@@ -2170,7 +2170,7 @@
         "category": "world",
         "published_at": "2026-10-18T00:00:07+00:00",
         "thumbnail": "https://i.ytimg.com/vi/MXUyUHwHl6g/hqdefault.jpg",
-        "popularity": 6,
+        "popularity": 473,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2187,7 +2187,7 @@
         "category": "world",
         "published_at": "2026-10-17T22:00:20+00:00",
         "thumbnail": "https://i.ytimg.com/vi/k9fdVjYTsbQ/hqdefault.jpg",
-        "popularity": 168,
+        "popularity": 342,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2204,7 +2204,7 @@
         "category": "world",
         "published_at": "2026-10-17T21:42:46+00:00",
         "thumbnail": "https://i.ytimg.com/vi/i89sZ4WQeWc/hqdefault.jpg",
-        "popularity": 39990,
+        "popularity": 192762,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2221,7 +2221,7 @@
         "category": "world",
         "published_at": "2026-10-17T20:30:14+00:00",
         "thumbnail": "https://i.ytimg.com/vi/-JXpomZH7FI/hqdefault.jpg",
-        "popularity": 23919,
+        "popularity": 45380,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2238,7 +2238,7 @@
         "category": "world",
         "published_at": "2026-10-17T20:00:25+00:00",
         "thumbnail": "https://i.ytimg.com/vi/JIvaN5oxV-0/hqdefault.jpg",
-        "popularity": 335,
+        "popularity": 699,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2255,7 +2255,7 @@
         "category": "world",
         "published_at": "2026-10-17T19:30:17+00:00",
         "thumbnail": "https://i.ytimg.com/vi/6xbiorDJRYM/hqdefault.jpg",
-        "popularity": 15780,
+        "popularity": 25305,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2272,7 +2272,7 @@
         "category": "world",
         "published_at": "2026-10-17T18:59:40+00:00",
         "thumbnail": "https://i.ytimg.com/vi/g-NG0CVANmw/hqdefault.jpg",
-        "popularity": 106619,
+        "popularity": 150898,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2289,7 +2289,7 @@
         "category": "world",
         "published_at": "2026-10-17T18:00:23+00:00",
         "thumbnail": "https://i.ytimg.com/vi/uGV6eaEKzUs/hqdefault.jpg",
-        "popularity": 635,
+        "popularity": 941,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2308,7 +2308,7 @@
         "category": "economy",
         "published_at": "2026-10-17T16:32:01+00:00",
         "thumbnail": "https://i.ytimg.com/vi/zoqBvldIoQk/hqdefault.jpg",
-        "popularity": 24257,
+        "popularity": 30716,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2325,7 +2325,7 @@
         "category": "economy",
         "published_at": "2026-10-17T14:37:48+00:00",
         "thumbnail": "https://i.ytimg.com/vi/sGiLuwJErTo/hqdefault.jpg",
-        "popularity": 4393,
+        "popularity": 5079,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2342,7 +2342,7 @@
         "category": "economy",
         "published_at": "2026-10-17T14:01:29+00:00",
         "thumbnail": "https://i.ytimg.com/vi/uG8rz3ot2Dk/hqdefault.jpg",
-        "popularity": 4478,
+        "popularity": 5119,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2359,7 +2359,7 @@
         "category": "economy",
         "published_at": "2026-10-17T14:00:31+00:00",
         "thumbnail": "https://i.ytimg.com/vi/9YJ0PW9dEfw/hqdefault.jpg",
-        "popularity": 9368,
+        "popularity": 12661,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2376,7 +2376,7 @@
         "category": "economy",
         "published_at": "2026-10-17T14:00:10+00:00",
         "thumbnail": "https://i.ytimg.com/vi/PNTnVNa69cI/hqdefault.jpg",
-        "popularity": 51242,
+        "popularity": 75396,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2393,7 +2393,7 @@
         "category": "economy",
         "published_at": "2026-10-17T13:43:09+00:00",
         "thumbnail": "https://i.ytimg.com/vi/g4PPOI6zcaI/hqdefault.jpg",
-        "popularity": 4687,
+        "popularity": 5313,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2410,7 +2410,7 @@
         "category": "economy",
         "published_at": "2026-10-17T13:19:31+00:00",
         "thumbnail": "https://i.ytimg.com/vi/rgkbxeFMpEo/hqdefault.jpg",
-        "popularity": 3767,
+        "popularity": 4330,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2427,7 +2427,7 @@
         "category": "economy",
         "published_at": "2026-10-17T13:04:22+00:00",
         "thumbnail": "https://i.ytimg.com/vi/IwwsTx0xNX0/hqdefault.jpg",
-        "popularity": 28489,
+        "popularity": 31991,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2446,7 +2446,7 @@
         "category": "technology",
         "published_at": "2026-10-17T15:00:19+00:00",
         "thumbnail": "https://i.ytimg.com/vi/mtiMk28wmAw/hqdefault.jpg",
-        "popularity": 4447,
+        "popularity": 5333,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2463,7 +2463,7 @@
         "category": "technology",
         "published_at": "2026-10-16T19:15:30+00:00",
         "thumbnail": "https://i.ytimg.com/vi/9h5naV9Ms4s/hqdefault.jpg",
-        "popularity": 13797,
+        "popularity": 14379,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2480,7 +2480,7 @@
         "category": "technology",
         "published_at": "2026-10-16T17:39:18+00:00",
         "thumbnail": "https://i.ytimg.com/vi/HTqc5fMitok/hqdefault.jpg",
-        "popularity": 10983,
+        "popularity": 11826,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2497,7 +2497,7 @@
         "category": "technology",
         "published_at": "2026-10-16T15:36:53+00:00",
         "thumbnail": "https://i.ytimg.com/vi/z00Lhm3CqAM/hqdefault.jpg",
-        "popularity": 41200,
+        "popularity": 42699,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2514,7 +2514,7 @@
         "category": "technology",
         "published_at": "2026-10-16T15:00:20+00:00",
         "thumbnail": "https://i.ytimg.com/vi/dWmEKM4_lKQ/hqdefault.jpg",
-        "popularity": 12557,
+        "popularity": 13755,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2531,7 +2531,7 @@
         "category": "technology",
         "published_at": "2026-10-16T13:49:43+00:00",
         "thumbnail": "https://i.ytimg.com/vi/_EW8O9SLSXs/hqdefault.jpg",
-        "popularity": 230057,
+        "popularity": 231140,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2548,7 +2548,7 @@
         "category": "technology",
         "published_at": "2026-10-16T10:55:14+00:00",
         "thumbnail": "https://i.ytimg.com/vi/BYWy6SyJRZo/hqdefault.jpg",
-        "popularity": 4727621,
+        "popularity": 4924664,
         "provenance": "youtube_popular",
         "source_lang": "en",
         "translations": {
@@ -2565,7 +2565,7 @@
         "category": "technology",
         "published_at": "2026-10-16T01:35:50+00:00",
         "thumbnail": "https://i.ytimg.com/vi/s-dZWcoLmRE/hqdefault.jpg",
-        "popularity": 435422,
+        "popularity": 437072,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2584,7 +2584,7 @@
         "category": "ai-trends",
         "published_at": "2026-10-17T05:06:11+00:00",
         "thumbnail": "https://i.ytimg.com/vi/6dR-RCSUgrM/hqdefault.jpg",
-        "popularity": 107553,
+        "popularity": 113822,
         "provenance": "youtube_popular",
         "source_lang": "en",
         "translations": {
@@ -2601,7 +2601,7 @@
         "category": "ai-trends",
         "published_at": "2026-10-16T21:00:00+00:00",
         "thumbnail": "https://i.ytimg.com/vi/LJ2v4-FvPcA/hqdefault.jpg",
-        "popularity": 2171,
+        "popularity": 2267,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2618,7 +2618,7 @@
         "category": "ai-trends",
         "published_at": "2026-10-16T16:00:00+00:00",
         "thumbnail": "https://i.ytimg.com/vi/-nmcYcO-EE8/hqdefault.jpg",
-        "popularity": 4047,
+        "popularity": 4255,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2635,7 +2635,7 @@
         "category": "ai-trends",
         "published_at": "2026-10-15T23:00:26+00:00",
         "thumbnail": "https://i.ytimg.com/vi/qJplHFjyv2A/hqdefault.jpg",
-        "popularity": 3854,
+        "popularity": 3947,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2652,7 +2652,7 @@
         "category": "ai-trends",
         "published_at": "2026-10-15T19:00:22+00:00",
         "thumbnail": "https://i.ytimg.com/vi/i3X7Fv0Z3Uc/hqdefault.jpg",
-        "popularity": 11724,
+        "popularity": 11916,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2669,7 +2669,7 @@
         "category": "ai-trends",
         "published_at": "2026-10-15T16:00:02+00:00",
         "thumbnail": "https://i.ytimg.com/vi/nSwmcs37Jd4/hqdefault.jpg",
-        "popularity": 24873,
+        "popularity": 25401,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2686,7 +2686,7 @@
         "category": "ai-trends",
         "published_at": "2026-10-14T17:01:36+00:00",
         "thumbnail": "https://i.ytimg.com/vi/Jh6mgf9M06M/hqdefault.jpg",
-        "popularity": 68582,
+        "popularity": 69099,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2703,7 +2703,7 @@
         "category": "ai-trends",
         "published_at": "2026-10-13T19:00:11+00:00",
         "thumbnail": "https://i.ytimg.com/vi/OYp5j2RihPE/hqdefault.jpg",
-        "popularity": 142185,
+        "popularity": 142829,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {

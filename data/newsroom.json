@@ -1,12 +1,12 @@
 {
   "version": 36,
   "translation_status": "not_configured",
-  "updated_at": "2026-10-18T22:56:54.653534+00:00",
-  "attempted_at": "2026-10-18T22:56:54.653534+00:00",
+  "updated_at": "2026-10-19T00:48:08.290957+00:00",
+  "attempted_at": "2026-10-19T00:48:08.290957+00:00",
   "status": "ok",
   "video_status": "fresh",
   "video_warning": "",
-  "video_last_success_at": "2026-10-18T22:56:54.653534+00:00",
+  "video_last_success_at": "2026-10-19T00:48:08.290957+00:00",
   "video_mode": "popular_and_channel",
   "video_api_note": "YouTube Data API v3 / verified embeddable public videos",
   "source_count": 22,
@@ -35,28 +35,244 @@
     "YouTube mostPopular / VN"
   ],
   "sources_failed": [
+    "Search Engine Land / marketing (HTTP Error 403: Forbidden)",
     "Tuổi Trẻ / world (empty or no recent records)",
     "Tuổi Trẻ / economy (empty or no recent records)",
     "Tuổi Trẻ / vietnam (empty or no recent records)",
-    "Search Engine Land / marketing (HTTP Error 403: Forbidden)",
     "VietnamPlus / vietnam (not well-formed (invalid token): line 1, column 0)"
   ],
   "news": [
     {
+      "id": "5223f447f7a1ab6eab",
+      "title": "People playing loud music on buses could face £100 fine",
+      "summary": "Antisocial behaviour on buses in England could lead to fines while a new campaign is also being launched for trains. A national campaign asking rail passengers \"share the carriage, not the noise\" is being launched.",
+      "source": "BBC News",
+      "category": "economy",
+      "url": "https://www.bbc.co.uk/news/articles/cm89z008x7xdo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db1b/live/55c58490-cb0c-11f1-8d4d-2553b65f173b.jpg",
+      "published_at": "2026-10-19T00:22:20+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "People playing loud music on buses could face £100 fine",
+          "summary": "Antisocial behaviour on buses in England could lead to fines while a new campaign is also being launched for trains. A national campaign asking rail passengers \"share the carriage, not the noise\" is being launched."
+        }
+      }
+    },
+    {
+      "id": "9da4344a7d02240d75",
+      "title": "Inside the shadowy world of anti-Putin sabotage from within Russia",
+      "summary": "Two men tell of the work they say they have been doing to support Ukrainian intelligence during the war.",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9f8/live/f9937b60-c943-11f1-a64c-550be9e3c66b.jpg",
+      "published_at": "2026-10-19T00:06:25+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Inside the shadowy world of anti-Putin sabotage from within Russia",
+          "summary": "Two men tell of the work they say they have been doing to support Ukrainian intelligence during the war."
+        }
+      }
+    },
+    {
       "id": "fe1da706fb4d295faa",
       "title": "Four people killed in ‘violent, fast-moving’ fire at Canadian military base",
-      "summary": "Prime minister Mark Carney describes blaze as ‘one of the worst tragedies for the forces on Canadian soil in peacetime’ Four people have been killed and dozens more seriously injured after a “violent, fast-moving” fire tore through one of Canada’s busiest military training bases in Alberta, Canada’s prime minister said on Sunday…",
+      "summary": "Prime minister Mark Carney describes blaze as ‘one of the worst tragedies for the forces on Canadian soil in peacetime’ Four people have been killed and dozens more seriously injured after a “violent, fast-moving” fire tore through one of Canada’s busiest military training bases in Alberta, the country’s prime minister said on S…",
       "source": "The Guardian",
       "category": "world",
       "url": "https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright",
       "image": "https://i.guim.co.uk/img/media/fd2fce9d5801c1379f2c9034bd7fd12e94a8a1be/1408_22_5652_4521/master/5652.jpg?width=140&quality=85&auto=format&fit=max&s=d0ae93ec314abf587a38476a01cc10a1",
-      "published_at": "2026-10-18T22:26:15+00:00",
+      "published_at": "2026-10-18T23:53:13+00:00",
       "kind": "source_brief",
       "source_lang": "en",
       "translations": {
         "en": {
           "title": "Four people killed in ‘violent, fast-moving’ fire at Canadian military base",
-          "summary": "Prime minister Mark Carney describes blaze as ‘one of the worst tragedies for the forces on Canadian soil in peacetime’ Four people have been killed and dozens more seriously injured after a “violent, fast-moving” fire tore through one of Canada’s busiest military training bases in Alberta, Canada’s prime minister said on Sunday…"
+          "summary": "Prime minister Mark Carney describes blaze as ‘one of the worst tragedies for the forces on Canadian soil in peacetime’ Four people have been killed and dozens more seriously injured after a “violent, fast-moving” fire tore through one of Canada’s busiest military training bases in Alberta, the country’s prime minister said on S…"
+        }
+      }
+    },
+    {
+      "id": "2064d808e1e7e05921",
+      "title": "EU tariffs aimed at China hitting Ukraine, steel boss says",
+      "summary": "The boss of one of Ukraine's biggest steel companies says the country has been \"bundled together\" in measures aimed at curbing cheap imports.",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/cwdd8z6gyy96o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29eb/live/c667f2d0-c96f-11f1-80fc-ab418b149008.jpg",
+      "published_at": "2026-10-18T23:28:45+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "EU tariffs aimed at China hitting Ukraine, steel boss says",
+          "summary": "The boss of one of Ukraine's biggest steel companies says the country has been \"bundled together\" in measures aimed at curbing cheap imports."
+        }
+      }
+    },
+    {
+      "id": "022ad7569a85a72f54",
+      "title": "Don't fall for this - how to protect yourself from AI scams",
+      "summary": "Trading standards officers say AI is \"super-charging\" existing scams through clones and fake websites.",
+      "source": "BBC News",
+      "category": "economy",
+      "url": "https://www.bbc.co.uk/news/articles/c60rl1xvjv89o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f70/live/9a6f8400-c98c-11f1-adc3-01d8629f0470.jpg",
+      "published_at": "2026-10-18T23:24:59+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Don't fall for this - how to protect yourself from AI scams",
+          "summary": "Trading standards officers say AI is \"super-charging\" existing scams through clones and fake websites."
+        }
+      }
+    },
+    {
+      "id": "aedafe535ac63bf5bb",
+      "title": "Labor promises $30 weekly cap for Victorian public transport amid push for free travel",
+      "summary": "Premier Ben Carroll says two-year limit will be in place on 1 January if re-elected, while Greens say there should be no fares Get our breaking news email , free app or daily news podcast Public transport fares in Victoria will be capped at $30 a week if the Labor government is re-elected next month. The premier, Ben Carroll, on…",
+      "source": "The Guardian",
+      "category": "politics",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/19/labor-promises-30-weekly-cap-for-victorian-public-transport-amid-push-for-free-travel",
+      "image": "https://i.guim.co.uk/img/media/ae0570ae286c81b6cc311a5870380886e20c27fb/420_0_2915_2333/master/2915.jpg?width=140&quality=85&auto=format&fit=max&s=6fd2bf81680f0784fe65dc814e54a356",
+      "published_at": "2026-10-18T23:20:22+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Labor promises $30 weekly cap for Victorian public transport amid push for free travel",
+          "summary": "Premier Ben Carroll says two-year limit will be in place on 1 January if re-elected, while Greens say there should be no fares Get our breaking news email , free app or daily news podcast Public transport fares in Victoria will be capped at $30 a week if the Labor government is re-elected next month. The premier, Ben Carroll, on…"
+        }
+      }
+    },
+    {
+      "id": "96a1d05f6574f4f54e",
+      "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
+      "summary": "The US president blocked numerous sanctions on Russia two days before they were due to take effect.",
+      "source": "BBC News",
+      "category": "politics",
+      "url": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4644/live/461bcc30-cb38-11f1-8a27-2de4c72fadc2.jpg",
+      "published_at": "2026-10-18T23:20:15+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
+          "summary": "The US president blocked numerous sanctions on Russia two days before they were due to take effect."
+        }
+      }
+    },
+    {
+      "id": "dbb8839714c73ba747",
+      "title": "Major fire at Canada military base leaves four dead, dozens injured",
+      "summary": "Prime Minister Carney said military and emergency crews fought the flames throughout the night in \"some of the worst conditions imaginable\".",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e891/live/86ce21f0-cb34-11f1-9a39-31b474234113.jpg",
+      "published_at": "2026-10-18T23:06:09+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Major fire at Canada military base leaves four dead, dozens injured",
+          "summary": "Prime Minister Carney said military and emergency crews fought the flames throughout the night in \"some of the worst conditions imaginable\"."
+        }
+      }
+    },
+    {
+      "id": "283dd0ba00822b1de1",
+      "title": "Jacqui Lambie condemns One Nation cartoon mocking her struggle with vaginal prolapse",
+      "summary": "Independent senator Monique Ryan throws her support behind fellow crossbencher after Pauline Hanson’s Please Explain episode Get our breaking news email , free app or daily news podcast Jacqui Lambie has criticised a One Nation cartoon mocking the Tasmanian senator’s health struggle with vaginal prolapse. The latest cartoon, par…",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/19/jacqui-lambie-one-nation-pauline-hanson-please-explain-ntwnfb",
+      "image": "https://i.guim.co.uk/img/media/db7395d21cfc2aa2ecaa9eec0401566507e7dad2/1484_581_5720_4576/master/5720.jpg?width=140&quality=85&auto=format&fit=max&s=d944a4ea9c1a0cb98ae6ead88cef2cc9",
+      "published_at": "2026-10-18T23:01:22+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Jacqui Lambie condemns One Nation cartoon mocking her struggle with vaginal prolapse",
+          "summary": "Independent senator Monique Ryan throws her support behind fellow crossbencher after Pauline Hanson’s Please Explain episode Get our breaking news email , free app or daily news podcast Jacqui Lambie has criticised a One Nation cartoon mocking the Tasmanian senator’s health struggle with vaginal prolapse. The latest cartoon, par…"
+        }
+      }
+    },
+    {
+      "id": "2af03e24dfa737edbb",
+      "title": "Electricity costs put UK steelmakers in worst position in three years against EU rivals",
+      "summary": "Premium paid over French counterparts has risen to almost £30 a megawatt hour, analysis by lobby group finds British steelmakers have been pushed further behind European rivals on electricity costs after the US-Israeli war on Iran caused a surge in global gas prices. The premium paid by the British industry over its French count…",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/business/2026/oct/19/electricity-costs-uk-steelmakers-worst-position-three-years-eu-rivals",
+      "image": "https://i.guim.co.uk/img/media/3e1770f8e84434c47a2dd4a86c78a42c8dac2876/1167_387_3487_2789/master/3487.jpg?width=140&quality=85&auto=format&fit=max&s=34e2f7800065d802ad24d4ccd5890a3b",
+      "published_at": "2026-10-18T23:01:12+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Electricity costs put UK steelmakers in worst position in three years against EU rivals",
+          "summary": "Premium paid over French counterparts has risen to almost £30 a megawatt hour, analysis by lobby group finds British steelmakers have been pushed further behind European rivals on electricity costs after the US-Israeli war on Iran caused a surge in global gas prices. The premium paid by the British industry over its French count…"
+        }
+      }
+    },
+    {
+      "id": "ceb85490656a3dea7a",
+      "title": "Home sellers cut asking prices on 3,000 properties a day",
+      "summary": "More property asking prices are being cut than at any time in 15 years, data shared with the BBC shows.",
+      "source": "BBC News",
+      "category": "economy",
+      "url": "https://www.bbc.co.uk/news/articles/c84g13z6xx4eo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8aed/live/7786ae90-c712-11f1-9a5a-91141f7a4b0e.jpg",
+      "published_at": "2026-10-18T23:00:45+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Home sellers cut asking prices on 3,000 properties a day",
+          "summary": "More property asking prices are being cut than at any time in 15 years, data shared with the BBC shows."
+        }
+      }
+    },
+    {
+      "id": "ee86d917ab191175a1",
+      "title": "Sydney man charged after alleged gunfire prompted Dulwich Hill lockdown",
+      "summary": "Police responding to reports of an alleged stolen car in Dulwich Hill were told a man was armed with a firearm Get our breaking news email , free app or daily news podcast An alleged gunman with “shaggy hair” has been arrested following reports of a confrontation about an allegedly stolen car which was set on fire prompting him…",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/19/man-charged-dulwich-hill-sydney-inner-west-alleged-gun-ntwnfb",
+      "image": "https://i.guim.co.uk/img/media/ad63b473fb5f5da33817b94700856e4be2b027b6/368_1087_5353_4282/master/5353.jpg?width=140&quality=85&auto=format&fit=max&s=2678fa90e8b944e5b652ce9f0134c552",
+      "published_at": "2026-10-18T22:48:26+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Sydney man charged after alleged gunfire prompted Dulwich Hill lockdown",
+          "summary": "Police responding to reports of an alleged stolen car in Dulwich Hill were told a man was armed with a firearm Get our breaking news email , free app or daily news podcast An alleged gunman with “shaggy hair” has been arrested following reports of a confrontation about an allegedly stolen car which was set on fire prompting him…"
+        }
+      }
+    },
+    {
+      "id": "6ef5628df05faefd58",
+      "title": "'Very upsetting': Residents in shock after historic French town hall set alight",
+      "summary": "A historic town hall in the French city of Limoges has been damaged in an apparent arson attack following a day of nationwide protests",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/videos/c9dr8kem27zeo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/185e/live/26c3d1c0-cb47-11f1-bc2e-018d645d8d21.jpg",
+      "published_at": "2026-10-18T22:22:51+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "'Very upsetting': Residents in shock after historic French town hall set alight",
+          "summary": "A historic town hall in the French city of Limoges has been damaged in an apparent arson attack following a day of nationwide protests"
         }
       }
     },
@@ -79,24 +295,6 @@
       }
     },
     {
-      "id": "96a1d05f6574f4f54e",
-      "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
-      "summary": "The US president blocked numerous sanctions on Russia two days before they were due to take effect.",
-      "source": "BBC News",
-      "category": "politics",
-      "url": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4644/live/461bcc30-cb38-11f1-8a27-2de4c72fadc2.jpg",
-      "published_at": "2026-10-18T22:10:45+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
-          "summary": "The US president blocked numerous sanctions on Russia two days before they were due to take effect."
-        }
-      }
-    },
-    {
       "id": "f5eb791716b403bfaa",
       "title": "Nở rộ công cụ 'tăng tính người' cho nội dung AI",
       "summary": "Hàng trăm công cụ \"nhân hóa\" văn bản AI đang xuất hiện nhằm giúp chỉnh sửa câu chữ tự nhiên hơn, bắt chước văn phong con người.",
@@ -111,42 +309,6 @@
         "vi": {
           "title": "Nở rộ công cụ 'tăng tính người' cho nội dung AI",
           "summary": "Hàng trăm công cụ \"nhân hóa\" văn bản AI đang xuất hiện nhằm giúp chỉnh sửa câu chữ tự nhiên hơn, bắt chước văn phong con người."
-        }
-      }
-    },
-    {
-      "id": "670c82a8c980467678",
-      "title": "What we know so far about deadly fire at Canadian military base",
-      "summary": "At least four people are confirmed to have died after a huge fire swept through the base.",
-      "source": "BBC News",
-      "category": "world",
-      "url": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d82/live/7fedb8b0-cb1a-11f1-a9ef-8b4e735f71f0.jpg",
-      "published_at": "2026-10-18T21:37:56+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "What we know so far about deadly fire at Canadian military base",
-          "summary": "At least four people are confirmed to have died after a huge fire swept through the base."
-        }
-      }
-    },
-    {
-      "id": "ee86d917ab191175a1",
-      "title": "Sydney man charged after alleged gunfire prompted Dulwich Hill lockdown",
-      "summary": "Police responding to reports of an alleged stolen car in Dulwich Hill were told a man was armed with a firearm Get our breaking news email , free app or daily news podcast A man has been charged with a slew of offences following an investigation into reports a man was allegedly seen with a firearm in Sydney’s inner west last wee…",
-      "source": "The Guardian",
-      "category": "world",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/19/man-charged-dulwich-hill-sydney-inner-west-alleged-gun-ntwnfb",
-      "image": "https://i.guim.co.uk/img/media/ad63b473fb5f5da33817b94700856e4be2b027b6/368_1087_5353_4282/master/5353.jpg?width=140&quality=85&auto=format&fit=max&s=2678fa90e8b944e5b652ce9f0134c552",
-      "published_at": "2026-10-18T21:22:51+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Sydney man charged after alleged gunfire prompted Dulwich Hill lockdown",
-          "summary": "Police responding to reports of an alleged stolen car in Dulwich Hill were told a man was armed with a firearm Get our breaking news email , free app or daily news podcast A man has been charged with a slew of offences following an investigation into reports a man was allegedly seen with a firearm in Sydney’s inner west last wee…"
         }
       }
     },
@@ -345,6 +507,24 @@
         "vi": {
           "title": "Kiếm triệu USD nhờ làm trang trại bí ngô",
           "summary": "Ông Kelly Schultz (74 tuổi) chỉ mở cửa trang trại bí ngô 7 tuần mỗi năm vào dịp Halloween, nhưng thu về 2 triệu USD năm ngoái."
+        }
+      }
+    },
+    {
+      "id": "6daa0f5d468cea7855",
+      "title": "Microsoft pulls out of UK's largest AI data centre",
+      "summary": "Tech firm Nscale says it is still committed to building the site in Essex.",
+      "source": "BBC News",
+      "category": "economy",
+      "url": "https://www.bbc.co.uk/news/articles/c9m26kl5y7epo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46c0/live/18b0c090-cb13-11f1-a9ef-8b4e735f71f0.jpg",
+      "published_at": "2026-10-18T16:46:42+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Microsoft pulls out of UK's largest AI data centre",
+          "summary": "Tech firm Nscale says it is still committed to building the site in Essex."
         }
       }
     },
@@ -763,42 +943,6 @@
       }
     },
     {
-      "id": "885bf00be80eecf56d",
-      "title": "Pope Leo XIV thanks wellwishers in first event after cancer surgery",
-      "summary": "The Pope's first event since his lung cancer diagnosis and surgery saw him recite the traditional Angelus prayer from the balcony of the Apostolic Palace.",
-      "source": "BBC News",
-      "category": "world",
-      "url": "https://www.bbc.co.uk/news/videos/cq70px6pjkg5o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21f0/live/4a3b0720-cae5-11f1-a64c-550be9e3c66b.jpg",
-      "published_at": "2026-10-18T11:09:32+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Pope Leo XIV thanks wellwishers in first event after cancer surgery",
-          "summary": "The Pope's first event since his lung cancer diagnosis and surgery saw him recite the traditional Angelus prayer from the balcony of the Apostolic Palace."
-        }
-      }
-    },
-    {
-      "id": "72af892fa8ca144a25",
-      "title": "‘We are suffocating’: protests spread to Lisbon and Milan as housing and living cost tensions intensify",
-      "summary": "Hundreds at Lisbon tent camp demand action, as Giorgia Meloni says march in Italy was exploited by ‘hooligans’ The angry protests that have convulsed Spain and France in recent weeks have spilled over to Italy and Portugal, with rioters clashing with police and setting property on fire in Milan, and a tent encampment springing u…",
-      "source": "The Guardian",
-      "category": "world",
-      "url": "https://www.theguardian.com/world/2026/oct/18/lisbon-milan-protests-housing-living-costs",
-      "image": "https://i.guim.co.uk/img/media/b9366422303470adccbb82a5bd27a617954c8f9b/80_0_5040_4032/master/5040.jpg?width=140&quality=85&auto=format&fit=max&s=e3c231c1d725f268db904b61d374782c",
-      "published_at": "2026-10-18T11:02:39+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "‘We are suffocating’: protests spread to Lisbon and Milan as housing and living cost tensions intensify",
-          "summary": "Hundreds at Lisbon tent camp demand action, as Giorgia Meloni says march in Italy was exploited by ‘hooligans’ The angry protests that have convulsed Spain and France in recent weeks have spilled over to Italy and Portugal, with rioters clashing with police and setting property on fire in Milan, and a tent encampment springing u…"
-        }
-      }
-    },
-    {
       "id": "0e1e268ab66185f5da",
       "title": "The best toys and gifts for eight-year-olds, tested by eight-year-olds",
       "summary": "From science kits to karaoke machines, shower sets to brain-boosting games, here are the presents our mini testers loved the most • The best gifts for seven-year-olds Eight is such a wonderful age. Kids are old enough to have their own interests and hobbies, but still young enough to get swept up in play and be absorbed for hour…",
@@ -1051,24 +1195,6 @@
       }
     },
     {
-      "id": "7bc7506bc1d648b8f1",
-      "title": "Số người tiêm vaccine não mô cầu tăng đột biến",
-      "summary": "Số lượng tiêm ngừa não mô cầu tăng vọt trong ba ngày qua, sau khi 4 học sinh mắc bệnh, trong đó một em tử vong.",
-      "source": "VnExpress",
-      "category": "vietnam",
-      "url": "https://vnexpress.net/so-nguoi-tiem-vaccine-nao-mo-cau-tang-dot-bien-5133828.html",
-      "image": "https://vcdn1-suckhoe.vnecdn.net/2026/10/18/thumb-vac-xin-na-mo-cau-179230-6936-6343-1792310010.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=P24nPadO45B20AIGehPyHg",
-      "published_at": "2026-10-18T08:00:00+00:00",
-      "kind": "source_brief",
-      "source_lang": "vi",
-      "translations": {
-        "vi": {
-          "title": "Số người tiêm vaccine não mô cầu tăng đột biến",
-          "summary": "Số lượng tiêm ngừa não mô cầu tăng vọt trong ba ngày qua, sau khi 4 học sinh mắc bệnh, trong đó một em tử vong."
-        }
-      }
-    },
-    {
       "id": "b96058820344f52e8b",
       "title": "Sai lầm khiến vết thương nhỏ ở trẻ dễ trở nặng",
       "summary": "Lạm dụng dung dịch sát khuẩn, không bảo đảm vệ sinh khi sơ cứu vết thương cho trẻ có thể gây tổn thương mô, nhiễm trùng và bỏ sót nguy cơ uốn ván.",
@@ -1142,7 +1268,7 @@
     },
     {
       "id": "80151a537980dcb7a1",
-      "title": "‘Many family stories’: Tim Winton’s Cloudstreet takes out ABC radio poll of top 100 Australian books",
+      "title": "‘Many family stories’: Tim Winton’s Cloudstreet heads ABC radio poll of top 100 Australian books",
       "summary": "Markus Zusak’s novel The Book Thief secures second place, while Trent Dalton’s Boy Swallows Universe rounds out podium dominated by men Cloudstreet, Tim Winton’s sprawling Australian family epic, has been voted Australia’s favourite book in a poll run by ABC Radio National. The broadcaster announced over the weekend the results…",
       "source": "The Guardian",
       "category": "world",
@@ -1153,7 +1279,7 @@
       "source_lang": "en",
       "translations": {
         "en": {
-          "title": "‘Many family stories’: Tim Winton’s Cloudstreet takes out ABC radio poll of top 100 Australian books",
+          "title": "‘Many family stories’: Tim Winton’s Cloudstreet heads ABC radio poll of top 100 Australian books",
           "summary": "Markus Zusak’s novel The Book Thief secures second place, while Trent Dalton’s Boy Swallows Universe rounds out podium dominated by men Cloudstreet, Tim Winton’s sprawling Australian family epic, has been voted Australia’s favourite book in a poll run by ABC Radio National. The broadcaster announced over the weekend the results…"
         }
       }
@@ -1591,24 +1717,6 @@
       }
     },
     {
-      "id": "240aec86200e8842e6",
-      "title": "Indigenous woman shackled to hospital bed while in labour in Queensland",
-      "summary": "Birth happens days before Labor and Coalition block bill to ban ‘barbaric practice’ of shackling incarcerated women during childbirth Get our new political email , free app or daily news podcast An incarcerated Indigenous woman was shackled to a hospital bed in Queensland while she was in labour last weekend, an advocacy group h…",
-      "source": "The Guardian",
-      "category": "world",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/18/indigenous-woman-shackled-during-labour-childbirth-queensland-ntwnfb",
-      "image": "https://i.guim.co.uk/img/media/eeaa78fab5bd670f07defe9f653fe7d43b508614/683_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=b521a96e84e2110db24800f8a5a57081",
-      "published_at": "2026-10-18T03:59:02+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Indigenous woman shackled to hospital bed while in labour in Queensland",
-          "summary": "Birth happens days before Labor and Coalition block bill to ban ‘barbaric practice’ of shackling incarcerated women during childbirth Get our new political email , free app or daily news podcast An incarcerated Indigenous woman was shackled to a hospital bed in Queensland while she was in labour last weekend, an advocacy group h…"
-        }
-      }
-    },
-    {
       "id": "3fa047b81ef29bb08f",
       "title": "Châu Âu muốn hạn chế thêm hàng nhập khẩu từ Trung Quốc",
       "summary": "EU sẽ đề xuất thêm nhiều biện pháp để giảm mức thâm hụt hàng hóa lên tới hơn 1 tỷ USD một ngày với Trung Quốc, theo Chủ tịch EC Ursula von der Leyen.",
@@ -1641,24 +1749,6 @@
         "vi": {
           "title": "Nhà máy giúp Subcom thống trị thị trường cáp quang biển",
           "summary": "Nhà máy Newington tại bang New Hampshire chuyên sản xuất hệ thống cáp quang biển để truyền dữ liệu qua hàng nghìn km đại dương với công suất 58.000 km cáp mỗi năm."
-        }
-      }
-    },
-    {
-      "id": "b677fdedabaf44798b",
-      "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-      "summary": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
-      "source": "BBC News",
-      "category": "politics",
-      "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c147/live/f608c860-c9cf-11f1-84c1-fd3c3266bb86.jpg",
-      "published_at": "2026-10-18T01:10:25+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-          "summary": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns."
         }
       }
     },
@@ -1713,24 +1803,6 @@
         "en": {
           "title": "There's a crackdown on sports piracy - but is it already out of control?",
           "summary": "The sports industry's lucrative business model is being undermined by dodgy TV sticks and illegal streaming links, writes Theo Leggett."
-        }
-      }
-    },
-    {
-      "id": "1a6e771cd129f9e1f0",
-      "title": "Ebike rider, 13, charged with sexual touching after girls and women allegedly harassed on northern beaches",
-      "summary": "Sydney teenager charged with offensive behaviour and sexual touching without consent in relation to incidents involving females aged 13 to 54 Get our breaking news email , free app or daily news podcast An ebike riding 13-year-old boy has been charged with multiple sexual offences allegedly committed against women on walking tra…",
-      "source": "The Guardian",
-      "category": "world",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/18/sydney-northern-beaches-teenage-ebike-rider-13-charged-sexual-touching-trails-ntwnfb",
-      "image": "https://i.guim.co.uk/img/media/5d3ef148a542eda1fba384c5304087747c009bd4/212_0_4294_3437/master/4294.jpg?width=140&quality=85&auto=format&fit=max&s=e3320d349437156e599cd5bac2c96a2a",
-      "published_at": "2026-10-17T23:53:08+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Ebike rider, 13, charged with sexual touching after girls and women allegedly harassed on northern beaches",
-          "summary": "Sydney teenager charged with offensive behaviour and sexual touching without consent in relation to incidents involving females aged 13 to 54 Get our breaking news email , free app or daily news podcast An ebike riding 13-year-old boy has been charged with multiple sexual offences allegedly committed against women on walking tra…"
         }
       }
     },
@@ -1861,42 +1933,6 @@
       }
     },
     {
-      "id": "5516c79abcf742544e",
-      "title": "Chủ tịch Vietcombank cam kết giảm tối thiểu 2% lãi suất cho vay",
-      "summary": "Chủ tịch Vietcombank Nguyễn Thanh Tùng cho biết ngân hàng này cam kết từ nay đến cuối năm giảm tối thiểu 2% lãi suất cho vay để hỗ trợ doanh nghiệp.",
-      "source": "VnExpress",
-      "category": "economy",
-      "url": "https://vnexpress.net/chu-tich-vietcombank-cam-ket-giam-toi-thieu-2-lai-suat-cho-vay-5133686.html",
-      "image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/17/171020260558-1792247948-4131-1792248067.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=CLbEHJsKxGNyX8Uf0Axs2A",
-      "published_at": "2026-10-17T17:05:03+00:00",
-      "kind": "source_brief",
-      "source_lang": "vi",
-      "translations": {
-        "vi": {
-          "title": "Chủ tịch Vietcombank cam kết giảm tối thiểu 2% lãi suất cho vay",
-          "summary": "Chủ tịch Vietcombank Nguyễn Thanh Tùng cho biết ngân hàng này cam kết từ nay đến cuối năm giảm tối thiểu 2% lãi suất cho vay để hỗ trợ doanh nghiệp."
-        }
-      }
-    },
-    {
-      "id": "aaa7f6fb9398c70293",
-      "title": "Chính phủ muốn nới điều kiện IPO",
-      "summary": "Chính phủ đề xuất giảm một số điều kiện chào bán cổ phiếu lần đầu ra công chúng (IPO) khi sửa đổi Luật Chứng khoán.",
-      "source": "VnExpress",
-      "category": "economy",
-      "url": "https://vnexpress.net/chinh-phu-muon-noi-dieu-kien-ipo-5133658.html",
-      "image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/17/202610171434046204-g7574298250-1911-4549-1792237073.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=G5HwGb1vpvmv4pwPdCUpkQ",
-      "published_at": "2026-10-17T17:01:42+00:00",
-      "kind": "source_brief",
-      "source_lang": "vi",
-      "translations": {
-        "vi": {
-          "title": "Chính phủ muốn nới điều kiện IPO",
-          "summary": "Chính phủ đề xuất giảm một số điều kiện chào bán cổ phiếu lần đầu ra công chúng (IPO) khi sửa đổi Luật Chứng khoán."
-        }
-      }
-    },
-    {
       "id": "cb9a74730732cb227d",
       "title": "Sau toán học, AI có thể chinh phục những đỉnh cao mới",
       "summary": "Các nhà nghiên cứu ở Viện Công nghệ Massacusetts dự đoán AI sẽ cách mạng hóa xác suất thống kê, lý thuyết kinh tế, vũ trụ học, vật lý lượng tử sau loạt thành tựu toán học gần đây.",
@@ -1911,60 +1947,6 @@
         "vi": {
           "title": "Sau toán học, AI có thể chinh phục những đỉnh cao mới",
           "summary": "Các nhà nghiên cứu ở Viện Công nghệ Massacusetts dự đoán AI sẽ cách mạng hóa xác suất thống kê, lý thuyết kinh tế, vũ trụ học, vật lý lượng tử sau loạt thành tựu toán học gần đây."
-        }
-      }
-    },
-    {
-      "id": "67d283c69f7b36ee18",
-      "title": "Mua bán vàng từ 5 triệu đồng một ngày phải thanh toán không tiền mặt",
-      "summary": "Từ 16/10, khách hàng mua, bán vàng có giá trị từ 5 triệu đồng trong ngày phải thanh toán không dùng tiền mặt, thay vì ngưỡng 20 triệu đồng như trước.",
-      "source": "VnExpress",
-      "category": "economy",
-      "url": "https://vnexpress.net/mua-ban-vang-tu-5-trieu-dong-mot-ngay-phai-thanh-toan-khong-tien-mat-5133676.html",
-      "image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/17/wm1-wm1-233a1222-1792242277-7758-1792242901.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=vS-kkIRjIFHG2qNd1_SETA",
-      "published_at": "2026-10-17T14:00:57+00:00",
-      "kind": "source_brief",
-      "source_lang": "vi",
-      "translations": {
-        "vi": {
-          "title": "Mua bán vàng từ 5 triệu đồng một ngày phải thanh toán không tiền mặt",
-          "summary": "Từ 16/10, khách hàng mua, bán vàng có giá trị từ 5 triệu đồng trong ngày phải thanh toán không dùng tiền mặt, thay vì ngưỡng 20 triệu đồng như trước."
-        }
-      }
-    },
-    {
-      "id": "8e2aa409f0824ff1d7",
-      "title": "Pope discharged from hospital days after lung cancer surgery",
-      "summary": "The pontiff will give the traditional Angelus prayer and blessing in St Peter's Square on Sunday.",
-      "source": "BBC News",
-      "category": "world",
-      "url": "https://www.bbc.co.uk/news/articles/c5x2vkddrkrko?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c6c/live/9aad8f70-ca31-11f1-9ab2-b325ce61f9d2.jpg",
-      "published_at": "2026-10-17T13:51:36+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Pope discharged from hospital days after lung cancer surgery",
-          "summary": "The pontiff will give the traditional Angelus prayer and blessing in St Peter's Square on Sunday."
-        }
-      }
-    },
-    {
-      "id": "cad51f70340e766d9d",
-      "title": "Hộ kinh doanh thu đến 10 tỷ đồng có thể được nộp thuế theo doanh thu",
-      "summary": "Chính phủ trình Quốc hội phương án cá nhân kinh doanh có doanh thu đến 10 tỷ đồng được chọn nộp thuế theo phương thức đơn giản là thuế suất (x) doanh thu tính thuế.",
-      "source": "VnExpress",
-      "category": "economy",
-      "url": "https://vnexpress.net/ho-kinh-doanh-thu-den-10-ty-dong-co-the-duoc-nop-thue-theo-doanh-thu-5133647.html",
-      "image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/17/wm1-wm1-losu3-1792231728-2711-1792232544.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=OIXepBLomKnh7sQFirq05A",
-      "published_at": "2026-10-17T11:49:11+00:00",
-      "kind": "source_brief",
-      "source_lang": "vi",
-      "translations": {
-        "vi": {
-          "title": "Hộ kinh doanh thu đến 10 tỷ đồng có thể được nộp thuế theo doanh thu",
-          "summary": "Chính phủ trình Quốc hội phương án cá nhân kinh doanh có doanh thu đến 10 tỷ đồng được chọn nộp thuế theo phương thức đơn giản là thuế suất (x) doanh thu tính thuế."
         }
       }
     },
@@ -2021,10 +2003,45 @@
           "summary": "FPT giới thiệu giải pháp FPT AI EOS, FPT Kubernetes Engine với GPU và FPT Token Factory, hướng tới giải quyết bài toán then chốt khi doanh nghiệp đưa AI từ thử nghiệm vào vận hành thực tế, ngày 17/10."
         }
       }
+    },
+    {
+      "id": "a1365c50f71f1cd7c3",
+      "title": "Brazil sees record fall in Amazon deforestation as key election looms",
+      "summary": "The Amazon rainforest is a crucial buffer against climate change - but deforestation had expanded under former president Jair Bolsonaro.",
+      "source": "BBC News",
+      "category": "politics",
+      "url": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43ab/live/8511edf0-c9be-11f1-ae9f-bf0ab88aba90.jpg",
+      "published_at": "2026-10-17T02:33:09+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Brazil sees record fall in Amazon deforestation as key election looms",
+          "summary": "The Amazon rainforest is a crucial buffer against climate change - but deforestation had expanded under former president Jair Bolsonaro."
+        }
+      }
     }
   ],
   "videos": {
     "vietnam": [
+      {
+        "id": "a7zh0-J0bCA",
+        "title": "El Nino làm mùa thu Hà Nội có ít ngày se lạnh, Nam Bộ mùa mưa dự báo kết thúc sớm | VTV24",
+        "channel": "VTV24",
+        "category": "vietnam",
+        "published_at": "2026-10-19T00:07:44+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/a7zh0-J0bCA/hqdefault.jpg",
+        "popularity": 1528,
+        "provenance": "official_channel_api",
+        "source_lang": "vi",
+        "translations": {
+          "vi": {
+            "title": "El Nino làm mùa thu Hà Nội có ít ngày se lạnh, Nam Bộ mùa mưa dự báo kết thúc sớm | VTV24",
+            "summary": ""
+          }
+        }
+      },
       {
         "id": "tfQ8s3iJkow",
         "title": "Việt Nam Bắn Đạn Thật Tại Đà Nẵng: Nước Cờ Bảo Vệ Yết Hầu Hoàng Sa!",
@@ -2032,7 +2049,7 @@
         "category": "vietnam",
         "published_at": "2026-10-18T16:22:26+00:00",
         "thumbnail": "https://i.ytimg.com/vi/tfQ8s3iJkow/hqdefault.jpg",
-        "popularity": 235766,
+        "popularity": 236038,
         "provenance": "youtube_popular",
         "source_lang": "vi",
         "translations": {
@@ -2049,7 +2066,7 @@
         "category": "vietnam",
         "published_at": "2026-10-18T16:00:26+00:00",
         "thumbnail": "https://i.ytimg.com/vi/mCuJYVTzfNA/hqdefault.jpg",
-        "popularity": 2428,
+        "popularity": 2862,
         "provenance": "official_channel_api",
         "source_lang": "vi",
         "translations": {
@@ -2066,7 +2083,7 @@
         "category": "vietnam",
         "published_at": "2026-10-18T15:30:18+00:00",
         "thumbnail": "https://i.ytimg.com/vi/6urHjVdDbIE/hqdefault.jpg",
-        "popularity": 3320,
+        "popularity": 3732,
         "provenance": "official_channel_api",
         "source_lang": "vi",
         "translations": {
@@ -2083,7 +2100,7 @@
         "category": "vietnam",
         "published_at": "2026-10-18T15:00:08+00:00",
         "thumbnail": "https://i.ytimg.com/vi/mFNUvMDm9lQ/hqdefault.jpg",
-        "popularity": 3036,
+        "popularity": 3445,
         "provenance": "official_channel_api",
         "source_lang": "vi",
         "translations": {
@@ -2100,7 +2117,7 @@
         "category": "vietnam",
         "published_at": "2026-10-18T14:30:14+00:00",
         "thumbnail": "https://i.ytimg.com/vi/EfQgIwGGRNM/hqdefault.jpg",
-        "popularity": 4831,
+        "popularity": 5090,
         "provenance": "official_channel_api",
         "source_lang": "vi",
         "translations": {
@@ -2117,7 +2134,7 @@
         "category": "vietnam",
         "published_at": "2026-10-18T14:00:15+00:00",
         "thumbnail": "https://i.ytimg.com/vi/JTilaGtj3OA/hqdefault.jpg",
-        "popularity": 9386,
+        "popularity": 11095,
         "provenance": "official_channel_api",
         "source_lang": "vi",
         "translations": {
@@ -2134,7 +2151,7 @@
         "category": "vietnam",
         "published_at": "2026-10-18T13:09:29+00:00",
         "thumbnail": "https://i.ytimg.com/vi/ZgjrhZzdEAA/hqdefault.jpg",
-        "popularity": 10960,
+        "popularity": 12849,
         "provenance": "official_channel_api",
         "source_lang": "vi",
         "translations": {
@@ -2143,39 +2160,90 @@
             "summary": ""
           }
         }
-      },
-      {
-        "id": "u-kUyJwvQ2A",
-        "title": "Quan điểm đối lập của Nga và Ucraina về sắc lệnh miễn trừ của Mỹ | Cụm tin Quốc tế | VTV24",
-        "channel": "VTV24",
-        "category": "vietnam",
-        "published_at": "2026-10-18T12:15:15+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/u-kUyJwvQ2A/hqdefault.jpg",
-        "popularity": 48269,
-        "provenance": "official_channel_api",
-        "source_lang": "vi",
-        "translations": {
-          "vi": {
-            "title": "Quan điểm đối lập của Nga và Ucraina về sắc lệnh miễn trừ của Mỹ | Cụm tin Quốc tế | VTV24",
-            "summary": ""
-          }
-        }
       }
     ],
     "world": [
       {
-        "id": "xhVv8I9j3KI",
-        "title": "2’400 arrests in France's worst street violence for decades | BBC News",
+        "id": "TxJ-uqNDqYY",
+        "title": "Macron addresses rioters after protests and disorder in France. #BBCNews",
         "channel": "BBC News",
         "category": "world",
-        "published_at": "2026-10-18T22:48:07+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/xhVv8I9j3KI/hqdefault.jpg",
-        "popularity": 601,
+        "published_at": "2026-10-19T00:30:12+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/TxJ-uqNDqYY/hqdefault.jpg",
+        "popularity": 748,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
           "en": {
-            "title": "2’400 arrests in France's worst street violence for decades | BBC News",
+            "title": "Macron addresses rioters after protests and disorder in France. #BBCNews",
+            "summary": ""
+          }
+        }
+      },
+      {
+        "id": "lhVE4tFen6c",
+        "title": "Four soldiers killed after major fire at Canadian military base | BBC News",
+        "channel": "BBC News",
+        "category": "world",
+        "published_at": "2026-10-19T00:00:22+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/lhVE4tFen6c/hqdefault.jpg",
+        "popularity": 2724,
+        "provenance": "official_channel_api",
+        "source_lang": "en",
+        "translations": {
+          "en": {
+            "title": "Four soldiers killed after major fire at Canadian military base | BBC News",
+            "summary": ""
+          }
+        }
+      },
+      {
+        "id": "_uKefkhswKQ",
+        "title": "The Making of Grand Theft Auto VI",
+        "channel": "Bloomberg News",
+        "category": "world",
+        "published_at": "2026-10-19T00:00:06+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/_uKefkhswKQ/hqdefault.jpg",
+        "popularity": 84,
+        "provenance": "official_channel_api",
+        "source_lang": "en",
+        "translations": {
+          "en": {
+            "title": "The Making of Grand Theft Auto VI",
+            "summary": ""
+          }
+        }
+      },
+      {
+        "id": "6AWNeNs8oIk",
+        "title": "Macron calls for 'calm and order' after weekend of protests and disorder in France | BBC News",
+        "channel": "BBC News",
+        "category": "world",
+        "published_at": "2026-10-18T23:00:14+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/6AWNeNs8oIk/hqdefault.jpg",
+        "popularity": 6509,
+        "provenance": "official_channel_api",
+        "source_lang": "en",
+        "translations": {
+          "en": {
+            "title": "Macron calls for 'calm and order' after weekend of protests and disorder in France | BBC News",
+            "summary": ""
+          }
+        }
+      },
+      {
+        "id": "xhVv8I9j3KI",
+        "title": "2,400 arrests in France's worst street violence for decades | BBC News",
+        "channel": "BBC News",
+        "category": "world",
+        "published_at": "2026-10-18T22:48:07+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/xhVv8I9j3KI/hqdefault.jpg",
+        "popularity": 11174,
+        "provenance": "official_channel_api",
+        "source_lang": "en",
+        "translations": {
+          "en": {
+            "title": "2,400 arrests in France's worst street violence for decades | BBC News",
             "summary": ""
           }
         }
@@ -2187,7 +2255,7 @@
         "category": "world",
         "published_at": "2026-10-18T22:00:26+00:00",
         "thumbnail": "https://i.ytimg.com/vi/erA-DIrAgTY/hqdefault.jpg",
-        "popularity": 158,
+        "popularity": 590,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2204,7 +2272,7 @@
         "category": "world",
         "published_at": "2026-10-18T21:49:34+00:00",
         "thumbnail": "https://i.ytimg.com/vi/jlejQVL_YD8/hqdefault.jpg",
-        "popularity": 1604,
+        "popularity": 12288,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2221,80 +2289,12 @@
         "category": "world",
         "published_at": "2026-10-18T20:00:12+00:00",
         "thumbnail": "https://i.ytimg.com/vi/CA7P1c8FYzA/hqdefault.jpg",
-        "popularity": 737,
+        "popularity": 1135,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
           "en": {
             "title": "Gas Prices Could Cost Trump the Midterms",
-            "summary": ""
-          }
-        }
-      },
-      {
-        "id": "zgXCOSgSVjo",
-        "title": "Why is Gen Z protesting around the world? #GenZ #BBCNews",
-        "channel": "BBC News",
-        "category": "world",
-        "published_at": "2026-10-18T19:20:07+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/zgXCOSgSVjo/hqdefault.jpg",
-        "popularity": 6663,
-        "provenance": "official_channel_api",
-        "source_lang": "en",
-        "translations": {
-          "en": {
-            "title": "Why is Gen Z protesting around the world? #GenZ #BBCNews",
-            "summary": ""
-          }
-        }
-      },
-      {
-        "id": "8-QqHaqLAsE",
-        "title": "Four killed and dozens seriously injured in major fire at Canadian military base - Carney. #BBCNews",
-        "channel": "BBC News",
-        "category": "world",
-        "published_at": "2026-10-18T18:24:11+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/8-QqHaqLAsE/hqdefault.jpg",
-        "popularity": 26913,
-        "provenance": "official_channel_api",
-        "source_lang": "en",
-        "translations": {
-          "en": {
-            "title": "Four killed and dozens seriously injured in major fire at Canadian military base - Carney. #BBCNews",
-            "summary": ""
-          }
-        }
-      },
-      {
-        "id": "-S1oSeORfhA",
-        "title": "Can smart glasses lose their ‘creepy’ reputation? | BBC News",
-        "channel": "BBC News",
-        "category": "world",
-        "published_at": "2026-10-18T18:15:01+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/-S1oSeORfhA/hqdefault.jpg",
-        "popularity": 29201,
-        "provenance": "official_channel_api",
-        "source_lang": "en",
-        "translations": {
-          "en": {
-            "title": "Can smart glasses lose their ‘creepy’ reputation? | BBC News",
-            "summary": ""
-          }
-        }
-      },
-      {
-        "id": "6UQrPIkclN4",
-        "title": "Will Brazil Turn Rightward and Elect Another Bolsonaro President?",
-        "channel": "Bloomberg News",
-        "category": "world",
-        "published_at": "2026-10-18T18:00:11+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/6UQrPIkclN4/hqdefault.jpg",
-        "popularity": 418,
-        "provenance": "official_channel_api",
-        "source_lang": "en",
-        "translations": {
-          "en": {
-            "title": "Will Brazil Turn Rightward and Elect Another Bolsonaro President?",
             "summary": ""
           }
         }
@@ -2308,7 +2308,7 @@
         "category": "economy",
         "published_at": "2026-10-18T16:18:24+00:00",
         "thumbnail": "https://i.ytimg.com/vi/vx0j3I7jPcI/hqdefault.jpg",
-        "popularity": 7790,
+        "popularity": 9838,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2325,7 +2325,7 @@
         "category": "economy",
         "published_at": "2026-10-18T15:19:14+00:00",
         "thumbnail": "https://i.ytimg.com/vi/Y5M8Gs7AS7I/hqdefault.jpg",
-        "popularity": 3899,
+        "popularity": 4459,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2342,7 +2342,7 @@
         "category": "economy",
         "published_at": "2026-10-18T15:04:10+00:00",
         "thumbnail": "https://i.ytimg.com/vi/hyDmuq7guqc/hqdefault.jpg",
-        "popularity": 5217,
+        "popularity": 5747,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2359,7 +2359,7 @@
         "category": "economy",
         "published_at": "2026-10-18T14:36:08+00:00",
         "thumbnail": "https://i.ytimg.com/vi/q--shB_2V2k/hqdefault.jpg",
-        "popularity": 11278,
+        "popularity": 12687,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2376,7 +2376,7 @@
         "category": "economy",
         "published_at": "2026-10-18T14:21:24+00:00",
         "thumbnail": "https://i.ytimg.com/vi/EqvkKSaE1X0/hqdefault.jpg",
-        "popularity": 7837,
+        "popularity": 8426,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2393,7 +2393,7 @@
         "category": "economy",
         "published_at": "2026-10-18T14:10:17+00:00",
         "thumbnail": "https://i.ytimg.com/vi/oKchaDHk3_Q/hqdefault.jpg",
-        "popularity": 3920,
+        "popularity": 4404,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2410,7 +2410,7 @@
         "category": "economy",
         "published_at": "2026-10-18T14:00:37+00:00",
         "thumbnail": "https://i.ytimg.com/vi/frhH6gRM3Pw/hqdefault.jpg",
-        "popularity": 107469,
+        "popularity": 117126,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2427,7 +2427,7 @@
         "category": "economy",
         "published_at": "2026-10-18T14:00:09+00:00",
         "thumbnail": "https://i.ytimg.com/vi/m9VblmOgeMc/hqdefault.jpg",
-        "popularity": 10664,
+        "popularity": 11426,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2446,7 +2446,7 @@
         "category": "technology",
         "published_at": "2026-10-17T15:00:27+00:00",
         "thumbnail": "https://i.ytimg.com/vi/5P0Xb3Y0hYg/hqdefault.jpg",
-        "popularity": 136159,
+        "popularity": 140062,
         "provenance": "youtube_popular",
         "source_lang": "en",
         "translations": {
@@ -2463,7 +2463,7 @@
         "category": "technology",
         "published_at": "2026-10-17T15:00:19+00:00",
         "thumbnail": "https://i.ytimg.com/vi/mtiMk28wmAw/hqdefault.jpg",
-        "popularity": 7932,
+        "popularity": 8070,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2480,7 +2480,7 @@
         "category": "technology",
         "published_at": "2026-10-16T19:15:30+00:00",
         "thumbnail": "https://i.ytimg.com/vi/9h5naV9Ms4s/hqdefault.jpg",
-        "popularity": 16964,
+        "popularity": 17220,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2497,7 +2497,7 @@
         "category": "technology",
         "published_at": "2026-10-16T17:39:18+00:00",
         "thumbnail": "https://i.ytimg.com/vi/HTqc5fMitok/hqdefault.jpg",
-        "popularity": 15831,
+        "popularity": 16197,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2514,7 +2514,7 @@
         "category": "technology",
         "published_at": "2026-10-16T15:36:53+00:00",
         "thumbnail": "https://i.ytimg.com/vi/z00Lhm3CqAM/hqdefault.jpg",
-        "popularity": 48801,
+        "popularity": 49415,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2531,7 +2531,7 @@
         "category": "technology",
         "published_at": "2026-10-16T15:00:20+00:00",
         "thumbnail": "https://i.ytimg.com/vi/dWmEKM4_lKQ/hqdefault.jpg",
-        "popularity": 16503,
+        "popularity": 16753,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2548,7 +2548,7 @@
         "category": "technology",
         "published_at": "2026-10-16T13:49:43+00:00",
         "thumbnail": "https://i.ytimg.com/vi/_EW8O9SLSXs/hqdefault.jpg",
-        "popularity": 236550,
+        "popularity": 236673,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2565,7 +2565,7 @@
         "category": "technology",
         "published_at": "2026-10-16T10:55:14+00:00",
         "thumbnail": "https://i.ytimg.com/vi/BYWy6SyJRZo/hqdefault.jpg",
-        "popularity": 5618421,
+        "popularity": 5690463,
         "provenance": "youtube_popular",
         "source_lang": "en",
         "translations": {
@@ -2584,7 +2584,7 @@
         "category": "ai-trends",
         "published_at": "2026-10-17T13:00:11+00:00",
         "thumbnail": "https://i.ytimg.com/vi/yAGGkDvbjAs/hqdefault.jpg",
-        "popularity": 2249869,
+        "popularity": 2316746,
         "provenance": "youtube_popular",
         "source_lang": "en",
         "translations": {
@@ -2601,7 +2601,7 @@
         "category": "ai-trends",
         "published_at": "2026-10-17T05:06:11+00:00",
         "thumbnail": "https://i.ytimg.com/vi/6dR-RCSUgrM/hqdefault.jpg",
-        "popularity": 135574,
+        "popularity": 136582,
         "provenance": "youtube_popular",
         "source_lang": "en",
         "translations": {
@@ -2635,7 +2635,7 @@
         "category": "ai-trends",
         "published_at": "2026-10-16T16:00:00+00:00",
         "thumbnail": "https://i.ytimg.com/vi/-nmcYcO-EE8/hqdefault.jpg",
-        "popularity": 6153,
+        "popularity": 6341,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2652,7 +2652,7 @@
         "category": "ai-trends",
         "published_at": "2026-10-15T23:00:26+00:00",
         "thumbnail": "https://i.ytimg.com/vi/qJplHFjyv2A/hqdefault.jpg",
-        "popularity": 4789,
+        "popularity": 4885,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2686,7 +2686,7 @@
         "category": "ai-trends",
         "published_at": "2026-10-15T16:00:02+00:00",
         "thumbnail": "https://i.ytimg.com/vi/nSwmcs37Jd4/hqdefault.jpg",
-        "popularity": 27990,
+        "popularity": 28138,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2703,7 +2703,7 @@
         "category": "ai-trends",
         "published_at": "2026-10-14T17:01:36+00:00",
         "thumbnail": "https://i.ytimg.com/vi/Jh6mgf9M06M/hqdefault.jpg",
-        "popularity": 71640,
+        "popularity": 71843,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {

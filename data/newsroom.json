@@ -1,12 +1,12 @@
 {
   "version": 36,
   "translation_status": "not_configured",
-  "updated_at": "2026-10-20T05:13:56.370697+00:00",
-  "attempted_at": "2026-10-20T05:13:56.370697+00:00",
+  "updated_at": "2026-10-20T10:03:30.722303+00:00",
+  "attempted_at": "2026-10-20T10:03:30.722303+00:00",
   "status": "ok",
   "video_status": "fresh",
   "video_warning": "",
-  "video_last_success_at": "2026-10-20T05:13:56.370697+00:00",
+  "video_last_success_at": "2026-10-20T10:03:30.722303+00:00",
   "video_mode": "popular_and_channel",
   "video_api_note": "YouTube Data API v3 / verified embeddable public videos",
   "source_count": 22,
@@ -35,46 +35,1036 @@
     "YouTube mostPopular / VN"
   ],
   "sources_failed": [
+    "Tuổi Trẻ / economy (empty or no recent records)",
     "VietnamPlus / vietnam (not well-formed (invalid token): line 1, column 0)",
     "Tuổi Trẻ / world (empty or no recent records)",
     "Tuổi Trẻ / vietnam (empty or no recent records)",
-    "Tuổi Trẻ / economy (empty or no recent records)",
     "Search Engine Land / marketing (HTTP Error 403: Forbidden)"
   ],
   "news": [
     {
-      "id": "57588f3c8519a4e4f3",
-      "title": "Helen Haines live updates: Helen Haines loses leg after alleged attack outside electorate office",
-      "summary": "A joint counter-terrorism taskforce is investigating the incident, which Anthony Albanese alleged ‘wasn’t an accident’ ‘Deeply appalled’: politicians condemn alleged attack after Helen Haines critically injured Helen Haines, the principled MP respected across parliament ‘It’s very clear that this was a deliberate act’, PM says T…",
+      "id": "57a6c2dc796e4df00e",
+      "title": "Google Cloud outage: Revolut suffers service disruption as bank customers report problems – business live",
+      "summary": "Rolling coverage of the latest economic and financial news The pound has rallied after Britain’s unemployment rate fell unexpectedly this morning to 4.7%. Sterling has gained half a cent against the US dollar to $1.3352, as the City welcomes the news that employment rose in the last quarter. “This data has caught the market on t…",
       "source": "The Guardian",
-      "category": "politics",
-      "url": "https://www.theguardian.com/australia-news/live/2026/oct/20/helen-haines-independent-mp-alleged-car-attack-wangaratta-melbourne-hospital-ntwnfb",
-      "image": "https://i.guim.co.uk/img/media/e095e9628412d9e77ce67e0af0ba05d71fc9eca9/464_0_5541_4435/master/5541.jpg?width=140&quality=85&auto=format&fit=max&s=69529824615a902110cb6a40346a52d3",
-      "published_at": "2026-10-20T04:59:02+00:00",
+      "category": "technology",
+      "url": "https://www.theguardian.com/business/live/2026/oct/20/uk-unemployment-rate-pre-budget-boost-wages-vacancies-latest-news-updates",
+      "image": "https://i.guim.co.uk/img/media/4abba6c5ea456b0e89fd05e658c5c6fa8a713ce7/430_0_3301_2641/master/3301.jpg?width=140&quality=85&auto=format&fit=max&s=98372603f749a5c16b34ef982356b0e1",
+      "published_at": "2026-10-20T09:51:33+00:00",
       "kind": "source_brief",
       "source_lang": "en",
       "translations": {
         "en": {
-          "title": "Helen Haines live updates: Helen Haines loses leg after alleged attack outside electorate office",
-          "summary": "A joint counter-terrorism taskforce is investigating the incident, which Anthony Albanese alleged ‘wasn’t an accident’ ‘Deeply appalled’: politicians condemn alleged attack after Helen Haines critically injured Helen Haines, the principled MP respected across parliament ‘It’s very clear that this was a deliberate act’, PM says T…"
+          "title": "Google Cloud outage: Revolut suffers service disruption as bank customers report problems – business live",
+          "summary": "Rolling coverage of the latest economic and financial news The pound has rallied after Britain’s unemployment rate fell unexpectedly this morning to 4.7%. Sterling has gained half a cent against the US dollar to $1.3352, as the City welcomes the news that employment rose in the last quarter. “This data has caught the market on t…"
         }
       }
     },
     {
-      "id": "bcb78bc5e6fdd613b2",
-      "title": "Mother of alleged Alan Jones victim ‘absolutely trusted’ the radio host, court told",
-      "summary": "Witness breaks down in tears, tells court ‘I was scared’ after son declined to report alleged kissing and touching by broadcaster Listen to the podcast Alan Jones on Trial Sign up for Guardian Australia’s free weekly media newsletter here The mother of the youngest alleged victim of Alan Jones has told a Sydney court she “truste…",
+      "id": "9ac9a053adc7308408",
+      "title": "French cities ‘calm overnight’ after targeted curfews, prime minister says – Europe live",
+      "summary": "Sébastien Lecornu suggests more curfews could be introduced to quell unrest after weekend protests Meanwhile, the EU’s trade commissioner Maroš Šefčovič said the bloc’s relationship with the UK is of “vital importance in the current geopolitical, security and economic context,” as he set out the bloc’s expectations ahead of next…",
       "source": "The Guardian",
       "category": "world",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/20/alan-jones-alleged-victim-mother-trusted-radio-host-ntwnfb",
-      "image": "https://i.guim.co.uk/img/media/9a14f73bf85c82ca8d5e453d06c96c43a6951725/250_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=879105fb0586cc009f4778c70fc63790",
-      "published_at": "2026-10-20T04:16:22+00:00",
+      "url": "https://www.theguardian.com/world/live/2026/oct/20/france-protests-paris-curfews-italy-europe-ukraine-latest-news-updates",
+      "image": "https://i.guim.co.uk/img/media/bf424beca965336e2ea4295706698a29ad62c043/301_0_5160_4128/master/5160.jpg?width=140&quality=85&auto=format&fit=max&s=126268fdfe2152b47e4b39d003ddbd57",
+      "published_at": "2026-10-20T09:45:40+00:00",
       "kind": "source_brief",
       "source_lang": "en",
       "translations": {
         "en": {
-          "title": "Mother of alleged Alan Jones victim ‘absolutely trusted’ the radio host, court told",
-          "summary": "Witness breaks down in tears, tells court ‘I was scared’ after son declined to report alleged kissing and touching by broadcaster Listen to the podcast Alan Jones on Trial Sign up for Guardian Australia’s free weekly media newsletter here The mother of the youngest alleged victim of Alan Jones has told a Sydney court she “truste…"
+          "title": "French cities ‘calm overnight’ after targeted curfews, prime minister says – Europe live",
+          "summary": "Sébastien Lecornu suggests more curfews could be introduced to quell unrest after weekend protests Meanwhile, the EU’s trade commissioner Maroš Šefčovič said the bloc’s relationship with the UK is of “vital importance in the current geopolitical, security and economic context,” as he set out the bloc’s expectations ahead of next…"
+        }
+      }
+    },
+    {
+      "id": "bd0c73bf7f7e0cc3f9",
+      "title": "Jobless rate falls but small firms cut back hiring",
+      "summary": "Small firms cite labour costs as a key factor in scaling back hiring, the Office for National Statistics says.",
+      "source": "BBC News",
+      "category": "politics",
+      "url": "https://www.bbc.co.uk/news/articles/c6eq327pzr53o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c778/live/bb751480-cc48-11f1-9a30-cb277859b43a.jpg",
+      "published_at": "2026-10-20T09:31:29+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Jobless rate falls but small firms cut back hiring",
+          "summary": "Small firms cite labour costs as a key factor in scaling back hiring, the Office for National Statistics says."
+        }
+      }
+    },
+    {
+      "id": "8603d94d8960ee90cb",
+      "title": "Nhật Bản phóng tàu lấy mẫu vật mặt trăng Sao Hỏa",
+      "summary": "Tàu vũ trụ của Nhật Bản cất cánh thành công, bắt đầu hành trình 10 tháng tới Sao Hỏa để lấy mẫu vật mặt trăng Phobos, mang về Trái Đất vào năm 2031.",
+      "source": "VnExpress",
+      "category": "technology",
+      "url": "https://vnexpress.net/nhat-ban-phong-tau-lay-mau-vat-mat-trang-sao-hoa-5134573.html",
+      "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/20/VNEJaxa2-1792483145-7381-1792483259.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=aCpKbfLAb4DnLQSIsWo1EQ",
+      "published_at": "2026-10-20T09:29:20+00:00",
+      "kind": "source_brief",
+      "source_lang": "vi",
+      "translations": {
+        "vi": {
+          "title": "Nhật Bản phóng tàu lấy mẫu vật mặt trăng Sao Hỏa",
+          "summary": "Tàu vũ trụ của Nhật Bản cất cánh thành công, bắt đầu hành trình 10 tháng tới Sao Hỏa để lấy mẫu vật mặt trăng Phobos, mang về Trái Đất vào năm 2031."
+        }
+      }
+    },
+    {
+      "id": "5edaae16d3505a343c",
+      "title": "Brendan Nugent facing three charges over alleged attack on MP Helen Haines",
+      "summary": "Victoria police arrested the 43-year-old Tarrawingee man on Monday afternoon after the incident in Wangaratta Who is Helen Haines, the MP allegedly attacked in Victoria? Brendan Nugent’s family say Haines has been their friend for more than 20 years Get our new political email , free app or daily news podcast Helen Haines’ alleg…",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/20/helen-haines-alleged-attacker-brendan-nugent-charged-ntwnfb",
+      "image": "https://i.guim.co.uk/img/media/e095e9628412d9e77ce67e0af0ba05d71fc9eca9/376_0_5541_4435/master/5541.jpg?width=140&quality=85&auto=format&fit=max&s=40aee7eac1e789d553bed812031ca089",
+      "published_at": "2026-10-20T09:18:58+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Brendan Nugent facing three charges over alleged attack on MP Helen Haines",
+          "summary": "Victoria police arrested the 43-year-old Tarrawingee man on Monday afternoon after the incident in Wangaratta Who is Helen Haines, the MP allegedly attacked in Victoria? Brendan Nugent’s family say Haines has been their friend for more than 20 years Get our new political email , free app or daily news podcast Helen Haines’ alleg…"
+        }
+      }
+    },
+    {
+      "id": "c5e8556d2f8aa01a58",
+      "title": "Helen Haines loses leg as surgeons fight to save the other after alleged attack in Wangaratta",
+      "summary": "Independent MP is in critical yet stable condition after man allegedly did U-turn to strike her twice with his car Brendan Nugent’s family say Helen Haines has been their friend for more than 20 years ‘I don’t want to be known as a hero’: barber who rushed to help Helen Haines praised by PM Get our new political email , free app…",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/20/helen-haines-mp-alleged-attack-wangaratta-surgery-ntwnfb",
+      "image": "https://i.guim.co.uk/img/media/fc5cfde7e2fb473869454a0afb7c782394d83bd7/464_0_4640_3712/master/4640.jpg?width=140&quality=85&auto=format&fit=max&s=41d848b5ca9a28d20a95c71469b1e8ef",
+      "published_at": "2026-10-20T09:13:34+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Helen Haines loses leg as surgeons fight to save the other after alleged attack in Wangaratta",
+          "summary": "Independent MP is in critical yet stable condition after man allegedly did U-turn to strike her twice with his car Brendan Nugent’s family say Helen Haines has been their friend for more than 20 years ‘I don’t want to be known as a hero’: barber who rushed to help Helen Haines praised by PM Get our new political email , free app…"
+        }
+      }
+    },
+    {
+      "id": "92bedab1ed7908840d",
+      "title": "Cổ phiếu PNJ 'dậy sóng' trước phiên họp cổ đông bất thường",
+      "summary": "PNJ tăng hết biên độ và dư mua hơn 4 triệu cổ phiếu chỉ một ngày trước phiên họp bất thường để bàn kế hoạch tái thiết sau sự cố kim cương.",
+      "source": "VnExpress",
+      "category": "economy",
+      "url": "https://vnexpress.net/co-phieu-pnj-day-song-truoc-phien-hop-co-dong-bat-thuong-5134706.html",
+      "image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/20/wm1-wm1-caothingocdung-pnj-jpg-179-9725-1146-1792486142.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=RhpgEWIHaj5vaWNhByhQfQ",
+      "published_at": "2026-10-20T09:04:46+00:00",
+      "kind": "source_brief",
+      "source_lang": "vi",
+      "translations": {
+        "vi": {
+          "title": "Cổ phiếu PNJ 'dậy sóng' trước phiên họp cổ đông bất thường",
+          "summary": "PNJ tăng hết biên độ và dư mua hơn 4 triệu cổ phiếu chỉ một ngày trước phiên họp bất thường để bàn kế hoạch tái thiết sau sự cố kim cương."
+        }
+      }
+    },
+    {
+      "id": "d84da803b99eceb4e5",
+      "title": "Alberta voters reject plan for referendum to leave Canada",
+      "summary": "Result is a victory for prime minister Mark Carney and supporters of Canadian unity Voters in Canada’s Alberta have overwhelmingly rejected a proposal to begin a process towards independence, delivering a victory for the prime minister, Mark Carney, and supporters of Canadian unity. With more than 1.5m votes counted, 76% support…",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum",
+      "image": "https://i.guim.co.uk/img/media/24436e30051721c8fa0489c283150fc4b439b60a/334_0_3331_2666/master/3331.jpg?width=140&quality=85&auto=format&fit=max&s=cb87d3a4c0464016bf02e71c83492916",
+      "published_at": "2026-10-20T09:02:43+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Alberta voters reject plan for referendum to leave Canada",
+          "summary": "Result is a victory for prime minister Mark Carney and supporters of Canadian unity Voters in Canada’s Alberta have overwhelmingly rejected a proposal to begin a process towards independence, delivering a victory for the prime minister, Mark Carney, and supporters of Canadian unity. With more than 1.5m votes counted, 76% support…"
+        }
+      }
+    },
+    {
+      "id": "65ae24e3caee786007",
+      "title": "Serbian prosecutor who investigated Belgrade Trump tower project ‘targeted with spyware’",
+      "summary": "Apparent attempt to hack Rade Bajić’s iPhone comes amid efforts to undermine landmark criminal case A Serbian prosecutor who investigated the authorities’ allegedly illegal scheme to help the Trumps build a tower in Belgrade has been targeted with advanced spyware, expert analysis indicates. The finding suggests a disturbing new…",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/world/2026/oct/20/serbia-prosecutor-belgrade-trump-tower-project-targeted-spyware",
+      "image": "https://i.guim.co.uk/img/media/b3480eaf2fc3c53720e0df5d1b99ce803c659f31/480_0_6623_5299/master/6623.jpg?width=140&quality=85&auto=format&fit=max&s=b2c5bf24e93bdb4ccfc776da2bb08887",
+      "published_at": "2026-10-20T09:00:21+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Serbian prosecutor who investigated Belgrade Trump tower project ‘targeted with spyware’",
+          "summary": "Apparent attempt to hack Rade Bajić’s iPhone comes amid efforts to undermine landmark criminal case A Serbian prosecutor who investigated the authorities’ allegedly illegal scheme to help the Trumps build a tower in Belgrade has been targeted with advanced spyware, expert analysis indicates. The finding suggests a disturbing new…"
+        }
+      }
+    },
+    {
+      "id": "50c67356a946906405",
+      "title": "Coteccons đổi hướng tăng trưởng khi ngành xây dựng thêm đối thủ lớn",
+      "summary": "Coteccons xem sự xuất hiện của VinCons và Tân Minh Nhân là động lực nâng chuẩn ngành, đồng thời chuyển hướng từ tăng trưởng về quy mô sang hiệu quả.",
+      "source": "VnExpress",
+      "category": "economy",
+      "url": "https://vnexpress.net/coteccons-doi-huong-tang-truong-khi-nganh-xay-dung-them-doi-thu-lon-5134650.html",
+      "image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/20/o-ng-bolat-duisenov-chu-ti-ch-7605-8078-1792481132.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=KfOA_TwOklZMFL-Nf8NVfw",
+      "published_at": "2026-10-20T09:00:01+00:00",
+      "kind": "source_brief",
+      "source_lang": "vi",
+      "translations": {
+        "vi": {
+          "title": "Coteccons đổi hướng tăng trưởng khi ngành xây dựng thêm đối thủ lớn",
+          "summary": "Coteccons xem sự xuất hiện của VinCons và Tân Minh Nhân là động lực nâng chuẩn ngành, đồng thời chuyển hướng từ tăng trưởng về quy mô sang hiệu quả."
+        }
+      }
+    },
+    {
+      "id": "e220103c9fc0ff58b1",
+      "title": "Thần đồng Terence Tao: AI khiến 'sự lãng mạn' của toán học kết thúc",
+      "summary": "GS Terence Tao của UCLA cho rằng \"kỷ nguyên lãng mạn\" toán học đang khép lại khi AI có thể giải những bài toán khó chỉ với vài gợi ý.",
+      "source": "VnExpress",
+      "category": "ai",
+      "url": "https://vnexpress.net/than-dong-terence-tao-ai-khien-su-lang-man-cua-toan-hoc-ket-thuc-5134468.html",
+      "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/20/tao-1792465890-6927-1792466082.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=RZFVr0bv0C1vyZYFXwamhw",
+      "published_at": "2026-10-20T09:00:00+00:00",
+      "kind": "source_brief",
+      "source_lang": "vi",
+      "translations": {
+        "vi": {
+          "title": "Thần đồng Terence Tao: AI khiến 'sự lãng mạn' của toán học kết thúc",
+          "summary": "GS Terence Tao của UCLA cho rằng \"kỷ nguyên lãng mạn\" toán học đang khép lại khi AI có thể giải những bài toán khó chỉ với vài gợi ý."
+        }
+      }
+    },
+    {
+      "id": "a8903642cc44d53a7d",
+      "title": "Suspect arrested after historic town hall set alight during disorder - French media",
+      "summary": "The spire of the clock tower at Limoges city hall dramatically collapsed as it was engulfed in flames on Saturday.",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4edf/live/fff77fe0-cc56-11f1-a64c-550be9e3c66b.jpg",
+      "published_at": "2026-10-20T08:58:26+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Suspect arrested after historic town hall set alight during disorder - French media",
+          "summary": "The spire of the clock tower at Limoges city hall dramatically collapsed as it was engulfed in flames on Saturday."
+        }
+      }
+    },
+    {
+      "id": "713828fff39602a3e1",
+      "title": "Burnham vows end to 'rip-off parking charges' under new rules",
+      "summary": "The changes come after concerns that penalties issued by private providers are too harsh and leave motorists unfairly punished.",
+      "source": "BBC News",
+      "category": "politics",
+      "url": "https://www.bbc.co.uk/news/articles/ck87ze7wl4qno?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a50c/live/322c6e70-cc62-11f1-9a39-31b474234113.jpg",
+      "published_at": "2026-10-20T08:55:02+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Burnham vows end to 'rip-off parking charges' under new rules",
+          "summary": "The changes come after concerns that penalties issued by private providers are too harsh and leave motorists unfairly punished."
+        }
+      }
+    },
+    {
+      "id": "8367a8c7af16bd5a3c",
+      "title": "Đề xuất cho tư nhân làm nhà máy điện hạt nhân module nhỏ",
+      "summary": "Chính phủ đề xuất tư nhân có thể tham gia đầu tư xây dựng và vận hành nhà máy điện hạt nhân sử dụng công nghệ lò phản ứng hạt nhân module nhỏ.",
+      "source": "VnExpress",
+      "category": "economy",
+      "url": "https://vnexpress.net/de-xuat-cho-tu-nhan-lam-nha-may-dien-hat-nhan-module-nho-5134664.html",
+      "image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/20/202610201425336612-g7574298250-6215-6684-1792483996.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=9HKWfGZMtxM0OE5GFar2cw",
+      "published_at": "2026-10-20T08:54:51+00:00",
+      "kind": "source_brief",
+      "source_lang": "vi",
+      "translations": {
+        "vi": {
+          "title": "Đề xuất cho tư nhân làm nhà máy điện hạt nhân module nhỏ",
+          "summary": "Chính phủ đề xuất tư nhân có thể tham gia đầu tư xây dựng và vận hành nhà máy điện hạt nhân sử dụng công nghệ lò phản ứng hạt nhân module nhỏ."
+        }
+      }
+    },
+    {
+      "id": "1a9bb903c0ede7207c",
+      "title": "Revolut outage hits 'multiple services' as thousands of users report app issues",
+      "summary": "Some users of the British neobank reported being unable to make some payments or access funds in its app on Tuesday.",
+      "source": "BBC News",
+      "category": "economy",
+      "url": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4333/live/71103e60-cc61-11f1-b1a3-5bda642ff934.jpg",
+      "published_at": "2026-10-20T08:46:00+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Revolut outage hits 'multiple services' as thousands of users report app issues",
+          "summary": "Some users of the British neobank reported being unable to make some payments or access funds in its app on Tuesday."
+        }
+      }
+    },
+    {
+      "id": "31e4d8425eb4ba87e2",
+      "title": "Chancellor rejects calls to raise Capital Gains Tax in Budget",
+      "summary": "Influential Labour figures had been pushing for equalising CGT and income tax, but critics have said this could drive wealthy people out of Britain.",
+      "source": "BBC News",
+      "category": "politics",
+      "url": "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95e7/live/6cd357a0-cc17-11f1-b7d0-7f346cefa9a9.jpg",
+      "published_at": "2026-10-20T08:44:56+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Chancellor rejects calls to raise Capital Gains Tax in Budget",
+          "summary": "Influential Labour figures had been pushing for equalising CGT and income tax, but critics have said this could drive wealthy people out of Britain."
+        }
+      }
+    },
+    {
+      "id": "7ce76d9833babb6d60",
+      "title": "What is the Budget and what could be in it?",
+      "summary": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
+      "source": "BBC News",
+      "category": "economy",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e2e/live/b81a2280-b8e8-11f1-ba42-19e1456ae537.jpg",
+      "published_at": "2026-10-20T08:31:36+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "What is the Budget and what could be in it?",
+          "summary": "Chancellor John Healey will set out his plans for UK taxes on 28 October."
+        }
+      }
+    },
+    {
+      "id": "14df427d5090067164",
+      "title": "Brendan Nugent’s family say Helen Haines has been their friend for more than 20 years",
+      "summary": "Father of 43-year-old Tarrawingee man who allegedly attacked the independent MP says incident is ‘devastating and unfathomable’ Who is Helen Haines, the MP allegedly attacked in Victoria? Get our new political email , free app or daily news podcast The father of a 43-year-old man accused of allegedly attacking Helen Haines has p…",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/20/brendan-nugent-driver-alleged-attack-helen-haines-ntwnfb",
+      "image": "https://i.guim.co.uk/img/media/28f00093038fc5f6a8d11e6e5f3b4a38356ca636/254_120_1198_958/master/1198.jpg?width=140&quality=85&auto=format&fit=max&s=0fb7fd9bdbc1c3a1db38b02172bad506",
+      "published_at": "2026-10-20T08:04:02+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Brendan Nugent’s family say Helen Haines has been their friend for more than 20 years",
+          "summary": "Father of 43-year-old Tarrawingee man who allegedly attacked the independent MP says incident is ‘devastating and unfathomable’ Who is Helen Haines, the MP allegedly attacked in Victoria? Get our new political email , free app or daily news podcast The father of a 43-year-old man accused of allegedly attacking Helen Haines has p…"
+        }
+      }
+    },
+    {
+      "id": "aea7156bb638bfb325",
+      "title": "Di chuyển 3 que diêm nào để được số lớn nhất?",
+      "summary": "Bài toán que diêm tưởng không khó nhưng lại khiến 99% người chơi chịu thua, bạn có tìm ra con số khổng lồ ẩn giấu trong 5 giây?",
+      "source": "VnExpress",
+      "category": "vietnam",
+      "url": "https://vnexpress.net/di-chuyen-3-que-diem-nao-de-duoc-so-lon-nhat-5133342.html",
+      "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/20/gemini-generated-image-shnduys-5825-4119-1792481720.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=HffAW3HLzTCjgwgnMF1hMA",
+      "published_at": "2026-10-20T08:00:00+00:00",
+      "kind": "source_brief",
+      "source_lang": "vi",
+      "translations": {
+        "vi": {
+          "title": "Di chuyển 3 que diêm nào để được số lớn nhất?",
+          "summary": "Bài toán que diêm tưởng không khó nhưng lại khiến 99% người chơi chịu thua, bạn có tìm ra con số khổng lồ ẩn giấu trong 5 giây?"
+        }
+      }
+    },
+    {
+      "id": "398126740eb9767381",
+      "title": "Phù toàn thân do hội chứng thận hư",
+      "summary": "Chị Lan, 39 tuổi, khó tiểu, phù toàn thân, tăng 7 kg trong một tháng, bác sĩ chẩn đoán mắc hội chứng thận hư thứ phát.",
+      "source": "VnExpress",
+      "category": "vietnam",
+      "url": "https://vnexpress.net/phu-toan-than-do-hoi-chung-than-hu-5134627.html",
+      "image": "https://vcdn1-suckhoe.vnecdn.net/2026/10/20/bao-1792479438-1448-1792479503.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=wh2BBGwkAJRpwhjHNL5y0A",
+      "published_at": "2026-10-20T08:00:00+00:00",
+      "kind": "source_brief",
+      "source_lang": "vi",
+      "translations": {
+        "vi": {
+          "title": "Phù toàn thân do hội chứng thận hư",
+          "summary": "Chị Lan, 39 tuổi, khó tiểu, phù toàn thân, tăng 7 kg trong một tháng, bác sĩ chẩn đoán mắc hội chứng thận hư thứ phát."
+        }
+      }
+    },
+    {
+      "id": "0f65dfa945e26d7c91",
+      "title": "Kho túi hiệu của hoa hậu Thanh Thủy",
+      "summary": "Hoa hậu Thanh Thủy tạo vẻ sang trọng bằng cách phối loạt túi xa xỉ của Chanel, Dior khi dạo phố hay dự sự kiện.",
+      "source": "VnExpress",
+      "category": "vietnam",
+      "url": "https://vnexpress.net/kho-tui-hieu-cua-hoa-hau-thanh-thuy-5134654.html",
+      "image": "https://vcdn1-giaitri.vnecdn.net/2026/10/20/tui-hieu-thanh-thuy-1792481397.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=830qWwu3Y6KpMnFadm-n1A",
+      "published_at": "2026-10-20T07:53:53+00:00",
+      "kind": "source_brief",
+      "source_lang": "vi",
+      "translations": {
+        "vi": {
+          "title": "Kho túi hiệu của hoa hậu Thanh Thủy",
+          "summary": "Hoa hậu Thanh Thủy tạo vẻ sang trọng bằng cách phối loạt túi xa xỉ của Chanel, Dior khi dạo phố hay dự sự kiện."
+        }
+      }
+    },
+    {
+      "id": "94d1bf3620c2dd6d0b",
+      "title": "Dự đoán cứ 3 người Bắc Kinh sẽ có 1 người già vào năm 2035",
+      "summary": "Bắc Kinh dự kiến bước vào giai đoạn xã hội siêu già vào năm 2035 khi cứ ba người dân lại có một người từ 60 tuổi trở lên.",
+      "source": "VnExpress",
+      "category": "vietnam",
+      "url": "https://vnexpress.net/du-doan-cu-3-nguoi-bac-kinh-se-co-1-nguoi-gia-vao-nam-2035-5134438.html",
+      "image": "https://vcdn1-suckhoe.vnecdn.net/2026/10/20/0-1792461078-3799-1792461689.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=0cuPXQngkQsYPVrqU8n7bA",
+      "published_at": "2026-10-20T07:48:31+00:00",
+      "kind": "source_brief",
+      "source_lang": "vi",
+      "translations": {
+        "vi": {
+          "title": "Dự đoán cứ 3 người Bắc Kinh sẽ có 1 người già vào năm 2035",
+          "summary": "Bắc Kinh dự kiến bước vào giai đoạn xã hội siêu già vào năm 2035 khi cứ ba người dân lại có một người từ 60 tuổi trở lên."
+        }
+      }
+    },
+    {
+      "id": "c70ab284564f4dc193",
+      "title": "Ronaldo viện dẫn 5 Quả Bóng Vàng để được giảm án",
+      "summary": "Cristiano Ronaldo dùng 5 Quả Bóng Vàng, những đóng góp cho bóng đá và việc thừa nhận sai phạm làm căn cứ xin giảm nhẹ hình phạt, qua đó chỉ bị treo giò 30 ngày thay vì đối diện án phạt lên tới sáu tháng.",
+      "source": "VnExpress",
+      "category": "vietnam",
+      "url": "https://vnexpress.net/ronaldo-vien-dan-5-qua-bong-vang-de-duoc-giam-an-5134648.html",
+      "image": "https://vcdn1-thethao.vnecdn.net/2026/10/20/643427315-n-1792482393-9054-1792482402.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=LC0bYMlDCulpL92gFL5M4w",
+      "published_at": "2026-10-20T07:42:52+00:00",
+      "kind": "source_brief",
+      "source_lang": "vi",
+      "translations": {
+        "vi": {
+          "title": "Ronaldo viện dẫn 5 Quả Bóng Vàng để được giảm án",
+          "summary": "Cristiano Ronaldo dùng 5 Quả Bóng Vàng, những đóng góp cho bóng đá và việc thừa nhận sai phạm làm căn cứ xin giảm nhẹ hình phạt, qua đó chỉ bị treo giò 30 ngày thay vì đối diện án phạt lên tới sáu tháng."
+        }
+      }
+    },
+    {
+      "id": "c97ee4b4ba3ba39cae",
+      "title": "Criminals detained in hospital set to lose benefits",
+      "summary": "The families of the victims of Nottingham killer Valdo Calocane had been campaigning for the change.",
+      "source": "BBC News",
+      "category": "politics",
+      "url": "https://www.bbc.co.uk/news/articles/cv62yzddy6dpo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d75/live/ae2ab570-cc5f-11f1-a64c-550be9e3c66b.jpg",
+      "published_at": "2026-10-20T07:35:38+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Criminals detained in hospital set to lose benefits",
+          "summary": "The families of the victims of Nottingham killer Valdo Calocane had been campaigning for the change."
+        }
+      }
+    },
+    {
+      "id": "f06792db2d8b6f0605",
+      "title": "Vừa chia tay tôi phát hiện có thai, anh 'phủi' luôn trách nhiệm",
+      "summary": "Anh có luôn người yêu mới, cô ấy là cả tương lai tươi đẹp, anh sợ khi tôi giữ thai lại sẽ cản trở cuộc hôn nhân của anh.",
+      "source": "VnExpress",
+      "category": "vietnam",
+      "url": "https://vnexpress.net/vua-chia-tay-toi-phat-hien-co-thai-anh-phui-luon-trach-nhiem-5134653.html",
+      "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/20/gemini-generated-imageo01fb9o0-6882-4596-1792481237.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=6qB0M_Ozj6YF59rRKCV7Ig",
+      "published_at": "2026-10-20T07:33:15+00:00",
+      "kind": "source_brief",
+      "source_lang": "vi",
+      "translations": {
+        "vi": {
+          "title": "Vừa chia tay tôi phát hiện có thai, anh 'phủi' luôn trách nhiệm",
+          "summary": "Anh có luôn người yêu mới, cô ấy là cả tương lai tươi đẹp, anh sợ khi tôi giữ thai lại sẽ cản trở cuộc hôn nhân của anh."
+        }
+      }
+    },
+    {
+      "id": "4fe0b42182fe5f49e1",
+      "title": "Honda muốn giữ ngôi 'vua xe máy' trước đối thủ Trung Quốc, Ấn Độ",
+      "summary": "Dù đang chiếm 40% thị phần xe máy toàn cầu, Honda vẫn dè chừng và đặt mục tiêu giữ vững ngôi vị trước các đối thủ Trung Quốc, Ấn Độ.",
+      "source": "VnExpress",
+      "category": "vietnam",
+      "url": "https://vnexpress.net/honda-muon-giu-ngoi-vua-xe-may-truoc-doi-thu-trung-quoc-an-do-5134554.html",
+      "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/20/HondaSuperCub1-1792479185-2864-1792479350.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=SSnPAORDiNRGBmFlRcJ7Cg",
+      "published_at": "2026-10-20T07:31:52+00:00",
+      "kind": "source_brief",
+      "source_lang": "vi",
+      "translations": {
+        "vi": {
+          "title": "Honda muốn giữ ngôi 'vua xe máy' trước đối thủ Trung Quốc, Ấn Độ",
+          "summary": "Dù đang chiếm 40% thị phần xe máy toàn cầu, Honda vẫn dè chừng và đặt mục tiêu giữ vững ngôi vị trước các đối thủ Trung Quốc, Ấn Độ."
+        }
+      }
+    },
+    {
+      "id": "f08ec64acad69495f5",
+      "title": "Người dân Alberta chọn ở lại với Canada",
+      "summary": "Kết quả trưng cầu dân ý sơ bộ cho thấy phần lớn người dân tỉnh Alberta chọn ở lại với Canada, khiến kế hoạch của phe ly khai thất bại.",
+      "source": "VnExpress",
+      "category": "vietnam",
+      "url": "https://vnexpress.net/nguoi-dan-alberta-chon-o-lai-voi-canada-5134612.html",
+      "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/20/2026t055849z-rc2t6oazwnm3-rtrm-6596-1369-1792479638.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=JjD3c_Pyyv3HjJLJcu7z5w",
+      "published_at": "2026-10-20T07:31:18+00:00",
+      "kind": "source_brief",
+      "source_lang": "vi",
+      "translations": {
+        "vi": {
+          "title": "Người dân Alberta chọn ở lại với Canada",
+          "summary": "Kết quả trưng cầu dân ý sơ bộ cho thấy phần lớn người dân tỉnh Alberta chọn ở lại với Canada, khiến kế hoạch của phe ly khai thất bại."
+        }
+      }
+    },
+    {
+      "id": "c5b810ff90b0027bfd",
+      "title": "Getting Ziggy with it: David Bowie’s alter egos inspire dance show that will transform his songs",
+      "summary": "Subject to Change: A Dance for David Bowie will explore how the musician ‘practised a form of artistic reincarnation’, says choreographer Marcos Morau ‘Let’s dance,” sang David Bowie in 1983, commanding: “Put on your red shoes and dance the blues.” That call is to be answered – with footwear TBC – by an international dance produ…",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/stage/2026/oct/20/david-bowie-dance-marcos-morau",
+      "image": "https://i.guim.co.uk/img/media/6a255623c184fd27d020432d510e9df3c086cdcb/460_434_3886_3109/master/3886.jpg?width=140&quality=85&auto=format&fit=max&s=5d413a9f1ebd2e6f90301b0f9374f0be",
+      "published_at": "2026-10-20T07:30:19+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Getting Ziggy with it: David Bowie’s alter egos inspire dance show that will transform his songs",
+          "summary": "Subject to Change: A Dance for David Bowie will explore how the musician ‘practised a form of artistic reincarnation’, says choreographer Marcos Morau ‘Let’s dance,” sang David Bowie in 1983, commanding: “Put on your red shoes and dance the blues.” That call is to be answered – with footwear TBC – by an international dance produ…"
+        }
+      }
+    },
+    {
+      "id": "2cc4a965ec3ceb049f",
+      "title": "Dùng AI 'độ' giao diện Smart TV",
+      "summary": "Không hài lòng với giao diện mặc định, một số người thử dùng AI để tự thay đổi giao diện Smart TV theo nhu cầu cá nhân.",
+      "source": "VnExpress",
+      "category": "ai",
+      "url": "https://vnexpress.net/dung-ai-do-giao-dien-smart-tv-5134574.html",
+      "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/20/TV2-1792473219-4243-1792473340.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=VejwYdhVK5n_do-RLsgNzw",
+      "published_at": "2026-10-20T07:30:00+00:00",
+      "kind": "source_brief",
+      "source_lang": "vi",
+      "translations": {
+        "vi": {
+          "title": "Dùng AI 'độ' giao diện Smart TV",
+          "summary": "Không hài lòng với giao diện mặc định, một số người thử dùng AI để tự thay đổi giao diện Smart TV theo nhu cầu cá nhân."
+        }
+      }
+    },
+    {
+      "id": "7c1b99431f1b38bba8",
+      "title": "Doanh nghiệp tổ chức công việc như thế nào khi có AI?",
+      "summary": "Ứng dụng AI buộc doanh nghiệp phân công lại công việc giữa người và máy, đồng thời đổi mới nhân lực, dữ liệu, quản trị và hạ tầng vận hành.",
+      "source": "VnExpress",
+      "category": "ai",
+      "url": "https://vnexpress.net/doanh-nghiep-to-chuc-cong-viec-nhu-the-nao-khi-co-ai-5134632.html",
+      "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/20/1792207417831-g811380179495712-8084-5519-1792480685.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=frN2ITBoUP3LRnMq7mjKeg",
+      "published_at": "2026-10-20T07:30:00+00:00",
+      "kind": "source_brief",
+      "source_lang": "vi",
+      "translations": {
+        "vi": {
+          "title": "Doanh nghiệp tổ chức công việc như thế nào khi có AI?",
+          "summary": "Ứng dụng AI buộc doanh nghiệp phân công lại công việc giữa người và máy, đồng thời đổi mới nhân lực, dữ liệu, quản trị và hạ tầng vận hành."
+        }
+      }
+    },
+    {
+      "id": "b0e052a086c911b096",
+      "title": "'Sinh viên Thế hệ mới 2026' lần đầu mở cuộc thi online",
+      "summary": "Cuộc thi nhận bài từ ngày 24/10 đến 24/11, dành cho sinh viên cả nước đề xuất giải pháp cho các vấn đề thực tế tại địa phương, trường học và cộng đồng.",
+      "source": "VnExpress",
+      "category": "vietnam",
+      "url": "https://vnexpress.net/sinh-vien-the-he-moi-2026-lan-dau-mo-cuoc-thi-online-5134625.html",
+      "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/20/kho-ng-co-tie-u-de-dcdcdcdw-17-1284-9832-1792479594.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=NwWd3gEtd8Gwplapfl5DXQ",
+      "published_at": "2026-10-20T07:30:00+00:00",
+      "kind": "source_brief",
+      "source_lang": "vi",
+      "translations": {
+        "vi": {
+          "title": "'Sinh viên Thế hệ mới 2026' lần đầu mở cuộc thi online",
+          "summary": "Cuộc thi nhận bài từ ngày 24/10 đến 24/11, dành cho sinh viên cả nước đề xuất giải pháp cho các vấn đề thực tế tại địa phương, trường học và cộng đồng."
+        }
+      }
+    },
+    {
+      "id": "b4a0842d1242093b25",
+      "title": "Lưu Khải Uy yêu người cùng sở thích pickleball",
+      "summary": "Tài tử Trung Quốc Lưu Khải Uy, 52 tuổi, bén duyên người mẫu kém anh 20 tuổi do cùng sở thích chơi pickleball.",
+      "source": "VnExpress",
+      "category": "vietnam",
+      "url": "https://vnexpress.net/luu-khai-uy-yeu-nguoi-cung-so-thich-pickleball-5134646.html",
+      "image": "https://vcdn1-giaitri.vnecdn.net/2026/10/20/top-uy-1792480729-8383-1792480746.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=afWBlEcFletBCbEcveMkOw",
+      "published_at": "2026-10-20T07:23:37+00:00",
+      "kind": "source_brief",
+      "source_lang": "vi",
+      "translations": {
+        "vi": {
+          "title": "Lưu Khải Uy yêu người cùng sở thích pickleball",
+          "summary": "Tài tử Trung Quốc Lưu Khải Uy, 52 tuổi, bén duyên người mẫu kém anh 20 tuổi do cùng sở thích chơi pickleball."
+        }
+      }
+    },
+    {
+      "id": "a5d065cd0fd6a093e1",
+      "title": "Bộ trưởng Quốc phòng Mỹ bất ngờ thăm Israel",
+      "summary": "Bộ trưởng Quốc phòng Hegseth bí mật tới Israel và gặp Thủ tướng Netanyahu, dường như để bày tỏ ủng hộ trước bầu cử.",
+      "source": "VnExpress",
+      "category": "politics",
+      "url": "https://vnexpress.net/bo-truong-quoc-phong-my-bat-ngo-tham-israel-5134482.html",
+      "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/20/20250206t011717z1930926690rc2j-1143-3164-1792466129.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=CRq_OPXdtoEPYmSqycuGtg",
+      "published_at": "2026-10-20T07:21:17+00:00",
+      "kind": "source_brief",
+      "source_lang": "vi",
+      "translations": {
+        "vi": {
+          "title": "Bộ trưởng Quốc phòng Mỹ bất ngờ thăm Israel",
+          "summary": "Bộ trưởng Quốc phòng Hegseth bí mật tới Israel và gặp Thủ tướng Netanyahu, dường như để bày tỏ ủng hộ trước bầu cử."
+        }
+      }
+    },
+    {
+      "id": "9fd760a5b267d2c2fb",
+      "title": "Đồng Lan hát về khát khao của phái đẹp",
+      "summary": "Ca sĩ Đồng Lan, từng được biết đến qua The Voice mùa đầu, ra MV \"ORCHID hoa lan\", tôn vinh cơ thể và những cảm xúc của nữ giới.",
+      "source": "VnExpress",
+      "category": "vietnam",
+      "url": "https://vnexpress.net/dong-lan-hat-ve-khat-khao-cua-phai-dep-5134514.html",
+      "image": "https://vcdn1-giaitri.vnecdn.net/2026/10/20/ca-si-dong-lan-1792466377-2177-1792466387.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=DaUuqI8MSm5laOeeIlGtCA",
+      "published_at": "2026-10-20T07:21:05+00:00",
+      "kind": "source_brief",
+      "source_lang": "vi",
+      "translations": {
+        "vi": {
+          "title": "Đồng Lan hát về khát khao của phái đẹp",
+          "summary": "Ca sĩ Đồng Lan, từng được biết đến qua The Voice mùa đầu, ra MV \"ORCHID hoa lan\", tôn vinh cơ thể và những cảm xúc của nữ giới."
+        }
+      }
+    },
+    {
+      "id": "b3efecfd094b49f4f7",
+      "title": "Bệnh viện Tim Hà Nội cơ sở 2 quy mô 300 giường hoạt động",
+      "summary": "Sau hơn hai năm xây dựng, Bệnh viện Tim Hà Nội cơ sở 2 hoàn thiện và đi vào hoạt động, bổ sung năng lực khám, chữa bệnh chuyên sâu cho hệ thống y tế Thủ đô.",
+      "source": "VnExpress",
+      "category": "vietnam",
+      "url": "https://vnexpress.net/benh-vien-tim-ha-noi-co-so-2-quy-mo-300-giuong-hoat-dong-5134584.html",
+      "image": "https://vcdn1-suckhoe.vnecdn.net/2026/10/20/anh-chup-man-hinh-luc-17924770-9991-9742-1792477582.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=4Kodt_n6_Ic53q-5m95Ztw",
+      "published_at": "2026-10-20T07:11:31+00:00",
+      "kind": "source_brief",
+      "source_lang": "vi",
+      "translations": {
+        "vi": {
+          "title": "Bệnh viện Tim Hà Nội cơ sở 2 quy mô 300 giường hoạt động",
+          "summary": "Sau hơn hai năm xây dựng, Bệnh viện Tim Hà Nội cơ sở 2 hoàn thiện và đi vào hoạt động, bổ sung năng lực khám, chữa bệnh chuyên sâu cho hệ thống y tế Thủ đô."
+        }
+      }
+    },
+    {
+      "id": "b12831ba472e977655",
+      "title": "Sun Group quảng bá du lịch MICE Phú Quốc tại ITB Asia 2026",
+      "summary": "Sun Group giới thiệu tiềm năng du lịch MICE của Phú Quốc cùng hệ sinh thái hàng không, nghỉ dưỡng, du lịch số, trong lần đầu tham gia ITB Asia, ngày 21-23/10.",
+      "source": "VnExpress",
+      "category": "vietnam",
+      "url": "https://vnexpress.net/sun-group-quang-ba-du-lich-mice-phu-quoc-tai-itb-asia-2026-5134568.html",
+      "image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/20/sunset-town-1792479632-3971-1792480007.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=sbooKmSm01V-sfEAKwN1rA",
+      "published_at": "2026-10-20T07:10:00+00:00",
+      "kind": "source_brief",
+      "source_lang": "vi",
+      "translations": {
+        "vi": {
+          "title": "Sun Group quảng bá du lịch MICE Phú Quốc tại ITB Asia 2026",
+          "summary": "Sun Group giới thiệu tiềm năng du lịch MICE của Phú Quốc cùng hệ sinh thái hàng không, nghỉ dưỡng, du lịch số, trong lần đầu tham gia ITB Asia, ngày 21-23/10."
+        }
+      }
+    },
+    {
+      "id": "76faeee63fa288008e",
+      "title": "Blackwall quadruples valuation to $2.2B as websites wrangle an increasingly crowded internet",
+      "summary": "Blackwall has raised $100M at a $2.2B valuation to continue building security and filtering tools that help websites grapple with growing bot and AI traffic.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/10/20/blackwall-quadruples-valuation-to-2-2b-as-websites-wrangle-an-increasingly-crowded-internet/",
+      "image": "",
+      "published_at": "2026-10-20T07:01:00+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Blackwall quadruples valuation to $2.2B as websites wrangle an increasingly crowded internet",
+          "summary": "Blackwall has raised $100M at a $2.2B valuation to continue building security and filtering tools that help websites grapple with growing bot and AI traffic."
+        }
+      }
+    },
+    {
+      "id": "a952132f67e2e0232c",
+      "title": "'Hà Nội không nên di chuyển hoa sữa hàng loạt'",
+      "summary": "Mức độ nhạy cảm với mùi ở mỗi người khác nhau, không thể chỉ dựa vào cảm nhận của một vài cá nhân để vội vàng xóa bỏ hoa sữa.",
+      "source": "VnExpress",
+      "category": "vietnam",
+      "url": "https://vnexpress.net/sai-lam-neu-xoa-so-hoa-sua-khoi-ha-noi-5134559.html",
+      "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/20/wm1wm1101792385950366617923859-6837-3706-1792470580.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=4G9yPMh-dvIbGs6Rjpbm-w",
+      "published_at": "2026-10-20T07:00:00+00:00",
+      "kind": "source_brief",
+      "source_lang": "vi",
+      "translations": {
+        "vi": {
+          "title": "'Hà Nội không nên di chuyển hoa sữa hàng loạt'",
+          "summary": "Mức độ nhạy cảm với mùi ở mỗi người khác nhau, không thể chỉ dựa vào cảm nhận của một vài cá nhân để vội vàng xóa bỏ hoa sữa."
+        }
+      }
+    },
+    {
+      "id": "f3c43f907ed6e576f4",
+      "title": "Rạng Đông ứng dụng AI, IoT vào hệ sinh thái công trình thông minh",
+      "summary": "Doanh nghiệp làm chủ 8 năng lực thiết kế lõi, ứng dụng AI và hệ thống vạn vật kết nối (IoT) để phát triển giải pháp đồng bộ cho các công trình xanh.",
+      "source": "VnExpress",
+      "category": "ai",
+      "url": "https://vnexpress.net/rang-dong-ung-dung-ai-iot-vao-he-sinh-thai-cong-trinh-thong-minh-5134583.html",
+      "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/20/1-1792475384-1212-1792475431.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=i3dryUqpTGQBk6LFT2sXpQ",
+      "published_at": "2026-10-20T07:00:00+00:00",
+      "kind": "source_brief",
+      "source_lang": "vi",
+      "translations": {
+        "vi": {
+          "title": "Rạng Đông ứng dụng AI, IoT vào hệ sinh thái công trình thông minh",
+          "summary": "Doanh nghiệp làm chủ 8 năng lực thiết kế lõi, ứng dụng AI và hệ thống vạn vật kết nối (IoT) để phát triển giải pháp đồng bộ cho các công trình xanh."
+        }
+      }
+    },
+    {
+      "id": "a58fab5bc378958702",
+      "title": "Dấu hiệu trẻ mắc tay chân miệng nặng",
+      "summary": "Trẻ bệnh tay chân miệng có thể trở nặng khi xuất hiện triệu chứng giật mình, lừ đừ, nôn ói nhiều, run chi, khó thở.",
+      "source": "VnExpress",
+      "category": "vietnam",
+      "url": "https://vnexpress.net/dau-hieu-tre-mac-tay-chan-mieng-nang-5134561.html",
+      "image": "https://vcdn1-suckhoe.vnecdn.net/2026/10/20/image001-1792469821-2443-1792470019.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=xTcGm7Cb08OZvP6aItpvsg",
+      "published_at": "2026-10-20T07:00:00+00:00",
+      "kind": "source_brief",
+      "source_lang": "vi",
+      "translations": {
+        "vi": {
+          "title": "Dấu hiệu trẻ mắc tay chân miệng nặng",
+          "summary": "Trẻ bệnh tay chân miệng có thể trở nặng khi xuất hiện triệu chứng giật mình, lừ đừ, nôn ói nhiều, run chi, khó thở."
+        }
+      }
+    },
+    {
+      "id": "dc9aeddf24ff79c2e6",
+      "title": "4 loại rau có lợi cho tiêu hóa hơn khi ăn sống",
+      "summary": "Dưa chuột, bông cải xanh, ớt chuông khi nấu ở nhiệt độ cao làm giảm một phần chất dinh dưỡng và chất xơ.",
+      "source": "VnExpress",
+      "category": "vietnam",
+      "url": "https://vnexpress.net/4-loai-rau-co-loi-cho-tieu-hoa-hon-khi-an-song-5134451.html",
+      "image": "https://vcdn1-suckhoe.vnecdn.net/2026/10/20/Anh-chup-Man-hinh-2024-05-05-luc-07-1714869676-1792459391.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=5tFRTZkVmKUnggpfFqufww",
+      "published_at": "2026-10-20T07:00:00+00:00",
+      "kind": "source_brief",
+      "source_lang": "vi",
+      "translations": {
+        "vi": {
+          "title": "4 loại rau có lợi cho tiêu hóa hơn khi ăn sống",
+          "summary": "Dưa chuột, bông cải xanh, ớt chuông khi nấu ở nhiệt độ cao làm giảm một phần chất dinh dưỡng và chất xơ."
+        }
+      }
+    },
+    {
+      "id": "6cbc26ded097d9a7e2",
+      "title": "Tiểu thư hoàng gia Anh bỏ tước hiệu, làm phụ bếp",
+      "summary": "Từ chối tước hiệu Công chúa khi tròn 18 tuổi, cháu gái cố Nữ hoàng Elizabeth II chọn cách đi làm thêm từ thu ngân đến phụ bếp để tự lập.",
+      "source": "VnExpress",
+      "category": "vietnam",
+      "url": "https://vnexpress.net/tieu-thu-hoang-gia-anh-bo-tuoc-hieu-lam-phu-bep-5134562.html",
+      "image": "https://vcdn1-giadinh.vnecdn.net/2026/10/20/a-nh-ma-n-hi-nh-lu-c-179247195-1866-6624-1792472018.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=Ru2PkeP-uu65GwmWR6cAHA",
+      "published_at": "2026-10-20T06:56:54+00:00",
+      "kind": "source_brief",
+      "source_lang": "vi",
+      "translations": {
+        "vi": {
+          "title": "Tiểu thư hoàng gia Anh bỏ tước hiệu, làm phụ bếp",
+          "summary": "Từ chối tước hiệu Công chúa khi tròn 18 tuổi, cháu gái cố Nữ hoàng Elizabeth II chọn cách đi làm thêm từ thu ngân đến phụ bếp để tự lập."
+        }
+      }
+    },
+    {
+      "id": "d7d1969bde383d7887",
+      "title": "Thủ tướng Pháp nói 'mạng lưới ngầm' gây bạo loạn để phá hoại bầu cử",
+      "summary": "Thủ tướng Pháp cáo buộc một \"mạng lưới ngầm\" cực tả kích động bạo loạn trong biểu tình cuối tuần qua nhằm gây hỗn loạn trước bầu cử tổng thống 2027.",
+      "source": "VnExpress",
+      "category": "politics",
+      "url": "https://vnexpress.net/thu-tuong-phap-noi-mang-luoi-ngam-gay-bao-loan-de-pha-hoai-bau-cu-5134533.html",
+      "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/20/ca-nh-sa-t-cho-ng-ba-o-do-ng-p-6779-3246-1792477917.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=yONhahl_QBFPDft58epEgQ",
+      "published_at": "2026-10-20T06:55:16+00:00",
+      "kind": "source_brief",
+      "source_lang": "vi",
+      "translations": {
+        "vi": {
+          "title": "Thủ tướng Pháp nói 'mạng lưới ngầm' gây bạo loạn để phá hoại bầu cử",
+          "summary": "Thủ tướng Pháp cáo buộc một \"mạng lưới ngầm\" cực tả kích động bạo loạn trong biểu tình cuối tuần qua nhằm gây hỗn loạn trước bầu cử tổng thống 2027."
+        }
+      }
+    },
+    {
+      "id": "203019682eb2101756",
+      "title": "Houthi tập kích thao trường quân đội Yemen, gần 60 người chết",
+      "summary": "Lực lượng Houthi tấn công trại huấn luyện của quân chính phủ Yemen tại tỉnh Shabwah, được cho là bằng tên lửa đạn đạo, khiến 58 người thiệt mạng.",
+      "source": "VnExpress",
+      "category": "politics",
+      "url": "https://vnexpress.net/houthi-tap-kich-thao-truong-quan-doi-yemen-gan-60-nguoi-chet-5134484.html",
+      "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/20/nh-1792467825-9914-1792468248.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=Wm9XVf3srLStbYLfZQzeug",
+      "published_at": "2026-10-20T06:55:06+00:00",
+      "kind": "source_brief",
+      "source_lang": "vi",
+      "translations": {
+        "vi": {
+          "title": "Houthi tập kích thao trường quân đội Yemen, gần 60 người chết",
+          "summary": "Lực lượng Houthi tấn công trại huấn luyện của quân chính phủ Yemen tại tỉnh Shabwah, được cho là bằng tên lửa đạn đạo, khiến 58 người thiệt mạng."
+        }
+      }
+    },
+    {
+      "id": "ae31b5317412101146",
+      "title": "Chồng tự ý ủng hộ số tiền lớn cho giải thể thao, vợ có quyền đòi lại?",
+      "summary": "Tôi lâu nay không can dự chuyện chồng dành hết thời gian rảnh rỗi cho thể thao thay vì chăm vợ con, nhưng đến giới hạn mang tiền nhà đi ủng hộ giải đấu thì tôi không chịu được.",
+      "source": "VnExpress",
+      "category": "vietnam",
+      "url": "https://vnexpress.net/chong-tu-y-ung-ho-so-tien-lon-cho-giai-the-thao-vo-co-quyen-doi-lai-5134550.html",
+      "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/20/pickleball-1792470206-7795-1792470384.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=IUI9d-WfrmpdF3eLJB3RJg",
+      "published_at": "2026-10-20T06:53:42+00:00",
+      "kind": "source_brief",
+      "source_lang": "vi",
+      "translations": {
+        "vi": {
+          "title": "Chồng tự ý ủng hộ số tiền lớn cho giải thể thao, vợ có quyền đòi lại?",
+          "summary": "Tôi lâu nay không can dự chuyện chồng dành hết thời gian rảnh rỗi cho thể thao thay vì chăm vợ con, nhưng đến giới hạn mang tiền nhà đi ủng hộ giải đấu thì tôi không chịu được."
+        }
+      }
+    },
+    {
+      "id": "39cc268fc347792e28",
+      "title": "Bộ đề thi bằng lái xe khó nhất thế giới",
+      "summary": "Thí sinh Hy Lạp phải học ít nhất 20 buổi, trả lời đúng 29/30 câu và xử lý ngân hàng 825 câu hỏi để vượt qua bài thi lý thuyết.",
+      "source": "VnExpress",
+      "category": "vietnam",
+      "url": "https://vnexpress.net/bo-de-thi-bang-lai-xe-kho-nhat-the-gioi-5134579.html",
+      "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/20/1764919577apply-for-1792477942-1232-1792479089.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=reQfDog8bO0LA4IEdwxVHQ",
+      "published_at": "2026-10-20T06:52:41+00:00",
+      "kind": "source_brief",
+      "source_lang": "vi",
+      "translations": {
+        "vi": {
+          "title": "Bộ đề thi bằng lái xe khó nhất thế giới",
+          "summary": "Thí sinh Hy Lạp phải học ít nhất 20 buổi, trả lời đúng 29/30 câu và xử lý ngân hàng 825 câu hỏi để vượt qua bài thi lý thuyết."
+        }
+      }
+    },
+    {
+      "id": "3a498495986c6656c7",
+      "title": "US gave us no warning of Russian strikes on Kyiv power plants, Zelenskyy says",
+      "summary": "Ukrainian president accuses Washington of ‘denial of reality’ in continuing row with Trump over apparent support for Moscow Ukraine did not receive a warning from the US about an impending Russian missile attack on Sunday evening, Volodymyr Zelenskyy has said, reviving concerns that Washington is withholding intelligence to bull…",
+      "source": "The Guardian",
+      "category": "politics",
+      "url": "https://www.theguardian.com/world/2026/oct/19/no-us-warning-russian-strikes-kyiv-power-plants-zelenskyy-ukraine-trump",
+      "image": "https://i.guim.co.uk/img/media/f0efe124ad4a75f1612be6e5eeb68f07d1ec3a34/629_0_4178_3342/master/4178.jpg?width=140&quality=85&auto=format&fit=max&s=329288f69496154dd455c7fd38620087",
+      "published_at": "2026-10-20T06:47:18+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "US gave us no warning of Russian strikes on Kyiv power plants, Zelenskyy says",
+          "summary": "Ukrainian president accuses Washington of ‘denial of reality’ in continuing row with Trump over apparent support for Moscow Ukraine did not receive a warning from the US about an impending Russian missile attack on Sunday evening, Volodymyr Zelenskyy has said, reviving concerns that Washington is withholding intelligence to bull…"
+        }
+      }
+    },
+    {
+      "id": "5840c61e6266574355",
+      "title": "TP HCM trả lương đến 100 triệu đồng cho chuyên gia nông nghiệp công nghệ cao",
+      "summary": "Ban Quản lý Khu nông nghiệp công nghệ cao TP HCM tuyển chuyên gia, nhà khoa học thu nhập 50-100 triệu đồng/tháng, khuyến khích nghiên cứu đến một tỷ đồng.",
+      "source": "VnExpress",
+      "category": "technology",
+      "url": "https://vnexpress.net/tp-hcm-tra-luong-den-100-trieu-dong-cho-chuyen-gia-nong-nghiep-cong-nghe-cao-5134566.html",
+      "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/20/1K5C1UFCP4IU7MF-1792480134-7746-1792480140.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=LlA6MUlovWft75uWxX733Q",
+      "published_at": "2026-10-20T06:32:39+00:00",
+      "kind": "source_brief",
+      "source_lang": "vi",
+      "translations": {
+        "vi": {
+          "title": "TP HCM trả lương đến 100 triệu đồng cho chuyên gia nông nghiệp công nghệ cao",
+          "summary": "Ban Quản lý Khu nông nghiệp công nghệ cao TP HCM tuyển chuyên gia, nhà khoa học thu nhập 50-100 triệu đồng/tháng, khuyến khích nghiên cứu đến một tỷ đồng."
+        }
+      }
+    },
+    {
+      "id": "3ebc6126ecc15c4f7d",
+      "title": "EVN khởi công nhà máy điện khí LNG hơn 40.000 tỷ đồng",
+      "summary": "Dự án điện LNG Quảng Trạch II có công suất gần 1.613 MW, tổng mức đầu tư hơn 40.000 tỷ đồng, dự kiến bổ sung sản lượng 9,5 tỷ kWh mỗi năm.",
+      "source": "VnExpress",
+      "category": "economy",
+      "url": "https://vnexpress.net/evn-khoi-cong-nha-may-dien-khi-lng-hon-40-000-ty-dong-5134576.html",
+      "image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/20/IMG2605-1792472910-5646-1792472975.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=GO0xoO1_5iiIE5rJnhtnEw",
+      "published_at": "2026-10-20T06:30:17+00:00",
+      "kind": "source_brief",
+      "source_lang": "vi",
+      "translations": {
+        "vi": {
+          "title": "EVN khởi công nhà máy điện khí LNG hơn 40.000 tỷ đồng",
+          "summary": "Dự án điện LNG Quảng Trạch II có công suất gần 1.613 MW, tổng mức đầu tư hơn 40.000 tỷ đồng, dự kiến bổ sung sản lượng 9,5 tỷ kWh mỗi năm."
+        }
+      }
+    },
+    {
+      "id": "57588f3c8519a4e4f3",
+      "title": "Human rights commission says ‘violence has no place in our society’ after alleged attack – as it happened",
+      "summary": "This blog is now closed ‘Deeply appalled’: politicians condemn alleged attack after Helen Haines critically injured Helen Haines, the principled MP respected across parliament ‘It’s very clear that this was a deliberate act’, PM says The prime minister, Anthony Albanese , said Haines’ alleged attacker “did a U-turn in order to g…",
+      "source": "The Guardian",
+      "category": "politics",
+      "url": "https://www.theguardian.com/australia-news/live/2026/oct/20/helen-haines-independent-mp-alleged-car-attack-wangaratta-melbourne-hospital-ntwnfb",
+      "image": "https://i.guim.co.uk/img/media/e095e9628412d9e77ce67e0af0ba05d71fc9eca9/464_0_5541_4435/master/5541.jpg?width=140&quality=85&auto=format&fit=max&s=69529824615a902110cb6a40346a52d3",
+      "published_at": "2026-10-20T06:30:03+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Human rights commission says ‘violence has no place in our society’ after alleged attack – as it happened",
+          "summary": "This blog is now closed ‘Deeply appalled’: politicians condemn alleged attack after Helen Haines critically injured Helen Haines, the principled MP respected across parliament ‘It’s very clear that this was a deliberate act’, PM says The prime minister, Anthony Albanese , said Haines’ alleged attacker “did a U-turn in order to g…"
+        }
+      }
+    },
+    {
+      "id": "84f43d60f6a0a9cf70",
+      "title": "A young life ‘dominated by gambling’: Victorian coroner delivers stinging findings on death of 22-year-old",
+      "summary": "Online betting was the ‘direct and paramount’ cause behind Kyle Hudson’s decision to take his own life, inquest finds Get our breaking news email , free app or daily news podcast Kyle Hudson was “a young man brimming with promise”, with a loving and supportive partner, family and friends, and prospects. “It was a near ideal pict…",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/20/kyle-hudson-inquest-victorian-coroner-gambling-online-betting-ntwnfb",
+      "image": "https://i.guim.co.uk/img/media/b6f1ba91d52b4b8415418b329ea58900eca313f5/698_0_3886_3109/master/3886.jpg?width=140&quality=85&auto=format&fit=max&s=cc3a4b50473ee6c42222089b3d6ee2db",
+      "published_at": "2026-10-20T06:29:05+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "A young life ‘dominated by gambling’: Victorian coroner delivers stinging findings on death of 22-year-old",
+          "summary": "Online betting was the ‘direct and paramount’ cause behind Kyle Hudson’s decision to take his own life, inquest finds Get our breaking news email , free app or daily news podcast Kyle Hudson was “a young man brimming with promise”, with a loving and supportive partner, family and friends, and prospects. “It was a near ideal pict…"
+        }
+      }
+    },
+    {
+      "id": "629cb57439f662dcaa",
+      "title": "Googlebook review: Google’s new laptops are woefully underbaked",
+      "summary": "Great hardware let down by software flaws on these pricey machines that combine ChromeOS with Android Google’s attempt to create a new type of laptop to compete with Windows and macOS machines is finally here, combining the best of ChromeOS and Android into the new Googlebook. With advanced links to Android phones and the best o…",
+      "source": "The Guardian",
+      "category": "technology",
+      "url": "https://www.theguardian.com/technology/2026/oct/20/googlebook-review-google-laptops-chromeos-android",
+      "image": "https://i.guim.co.uk/img/media/ee163d0f417072d3807edd7c97356a837cab552d/584_0_5840_4672/master/5840.jpg?width=140&quality=85&auto=format&fit=max&s=59d1eaf57c50629ea7031ac8a6d4f572",
+      "published_at": "2026-10-20T06:00:18+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Googlebook review: Google’s new laptops are woefully underbaked",
+          "summary": "Great hardware let down by software flaws on these pricey machines that combine ChromeOS with Android Google’s attempt to create a new type of laptop to compete with Windows and macOS machines is finally here, combining the best of ChromeOS and Android into the new Googlebook. With advanced links to Android phones and the best o…"
+        }
+      }
+    },
+    {
+      "id": "ddc8df7497bff0bbaa",
+      "title": "Hollywood AI-listers: is the technology ready to rival flesh-and-blood film stars?",
+      "summary": "As a freaky Val Kilmer doppelganger stars in a new western and faux starlet Tilly Norwood is set for her feature debut, experts are split on whether mainstream adoption is a long way down the line – or just around the corner ‘Don’t fear the dead – and don’t fear me.” An exact facsimile of a young Val Kilmer, not quite dead and n…",
+      "source": "The Guardian",
+      "category": "ai",
+      "url": "https://www.theguardian.com/film/2026/oct/20/ai-actors-val-kilmer-as-deep-as-the-grave-tilly-norwood",
+      "image": "https://i.guim.co.uk/img/media/69f15733860f5f7d23d5d775e35e0d3d293c3a18/187_0_906_725/master/906.jpg?width=140&quality=85&auto=format&fit=max&s=0b907620412ffbebb86f933c5971d7dd",
+      "published_at": "2026-10-20T06:00:18+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Hollywood AI-listers: is the technology ready to rival flesh-and-blood film stars?",
+          "summary": "As a freaky Val Kilmer doppelganger stars in a new western and faux starlet Tilly Norwood is set for her feature debut, experts are split on whether mainstream adoption is a long way down the line – or just around the corner ‘Don’t fear the dead – and don’t fear me.” An exact facsimile of a young Val Kilmer, not quite dead and n…"
+        }
+      }
+    },
+    {
+      "id": "f6e3170c2d58326aee",
+      "title": "Japan launches mission to bring home a piece of the Martian moon Phobos",
+      "summary": "The climax for MMX will come in 2029, when the spacecraft will attempt up to two landings on Phobos.",
+      "source": "Ars Technica",
+      "category": "technology",
+      "url": "https://arstechnica.com/space/2026/10/japan-launches-mission-to-bring-home-a-piece-of-the-martian-moon-phobos/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/52568167027_27ac36afb5_o-1152x648.jpg",
+      "published_at": "2026-10-20T05:59:56+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Japan launches mission to bring home a piece of the Martian moon Phobos",
+          "summary": "The climax for MMX will come in 2029, when the spacecraft will attempt up to two landings on Phobos."
+        }
+      }
+    },
+    {
+      "id": "5f5ed2da3fd0ea68d1",
+      "title": "How is the US economy really doing under President Trump?",
+      "summary": "Ahead of the midterms Trump has boasted about the performance of the US economy. BBC Verify looks at inflation, jobs and economic growth in the country.",
+      "source": "BBC News",
+      "category": "politics",
+      "url": "https://www.bbc.co.uk/news/articles/cv98ze40jz18o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/711c/live/8e797e10-cbd7-11f1-a64c-550be9e3c66b.jpg",
+      "published_at": "2026-10-20T05:00:45+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "How is the US economy really doing under President Trump?",
+          "summary": "Ahead of the midterms Trump has boasted about the performance of the US economy. BBC Verify looks at inflation, jobs and economic growth in the country."
+        }
+      }
+    },
+    {
+      "id": "500a4518841bf1e3e6",
+      "title": "Don’t be fooled. The AI that was supposed to save us time is doing just the opposite | Gaby Hinsliff",
+      "summary": "The government says it can transform the state with AI, but it is no match for the resulting stream of machine-generated slop. And we all pay the cost Another morning, another avalanche of emails. Even after a guilty cull, my inbox is sitting at well over 7,000, but lately I’ve started subscribing to the Quentin Crisp theory of…",
+      "source": "The Guardian",
+      "category": "ai",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/20/ai-supposed-to-save-time-opposite-government-uk",
+      "image": "https://i.guim.co.uk/img/media/55c4a8455eb4fa69029f5190872b3e993c3d18ed/1234_0_4623_3699/master/4623.jpg?width=140&quality=85&auto=format&fit=max&s=e9cab90ca4121e8da588f3d71a97d934",
+      "published_at": "2026-10-20T05:00:17+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Don’t be fooled. The AI that was supposed to save us time is doing just the opposite | Gaby Hinsliff",
+          "summary": "The government says it can transform the state with AI, but it is no match for the resulting stream of machine-generated slop. And we all pay the cost Another morning, another avalanche of emails. Even after a guilty cull, my inbox is sitting at well over 7,000, but lately I’ve started subscribing to the Quentin Crisp theory of…"
+        }
+      }
+    },
+    {
+      "id": "2e470c6cf06e685212",
+      "title": "Mỹ cấm dùng DeepSeek trong hệ thống cơ quan chính phủ",
+      "summary": "Các cơ quan dân sự Mỹ được yêu cầu loại bỏ và không được mua sản phẩm DeepSeek cũng như các dịch vụ bên thứ ba có sử dụng AI Trung Quốc này.",
+      "source": "VnExpress",
+      "category": "ai",
+      "url": "https://vnexpress.net/my-cam-dung-deepseek-trong-he-thong-co-quan-chinh-phu-5134558.html",
+      "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/20/dsc09975jpg-1792470055-1335-1792470216.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=0soP-fjL05LNceQCBqcE7A",
+      "published_at": "2026-10-20T04:41:52+00:00",
+      "kind": "source_brief",
+      "source_lang": "vi",
+      "translations": {
+        "vi": {
+          "title": "Mỹ cấm dùng DeepSeek trong hệ thống cơ quan chính phủ",
+          "summary": "Các cơ quan dân sự Mỹ được yêu cầu loại bỏ và không được mua sản phẩm DeepSeek cũng như các dịch vụ bên thứ ba có sử dụng AI Trung Quốc này."
         }
       }
     },
@@ -121,7 +1111,7 @@
       "source": "VnExpress",
       "category": "economy",
       "url": "https://vnexpress.net/nhan-vien-ngan-hang-san-khach-gui-tien-truoc-khi-ha-lai-suat-5134398.html",
-      "image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/19/wm1-wm1-lai-suat-jpg-1792424846-7456-1792424964.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=EgGo2U6RNStExni8gbpdpQ",
+      "image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/20/lsaee00d79-f572f9-b448dba9592d-7664-9746-1792486443.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=aWhHJVU9uGDpBlqglxIHuQ",
       "published_at": "2026-10-20T03:44:03+00:00",
       "kind": "source_brief",
       "source_lang": "vi",
@@ -151,6 +1141,24 @@
       }
     },
     {
+      "id": "a5adb4e1f5c543fc07",
+      "title": "Canadian tourist found guilty of animal cruelty after stealing Las Vegas flamingo from enclosure",
+      "summary": "The man testified that he snatched Peachy from its enclosure at the Flamingo hotel and casino after drinking 30 to 40 beers, but did not mean any harm.",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/cq398rjewd1jo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f1e/live/5b9b0010-cc2f-11f1-aeea-f9fa95687445.png",
+      "published_at": "2026-10-20T03:10:39+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Canadian tourist found guilty of animal cruelty after stealing Las Vegas flamingo from enclosure",
+          "summary": "The man testified that he snatched Peachy from its enclosure at the Flamingo hotel and casino after drinking 30 to 40 beers, but did not mean any harm."
+        }
+      }
+    },
+    {
       "id": "3f5788fc8ace3fa570",
       "title": "Tại sao các hãng công nghệ tự làm chip AI?",
       "summary": "Microsoft, Google một mặt hợp tác với hãng chip AI lớn nhất thế giới Nvidia, một mặt vẫn có dự án riêng, nhưng không phải để cạnh tranh trực tiếp.",
@@ -171,18 +1179,36 @@
     {
       "id": "f0874e305addfc882e",
       "title": "'Our worst nightmare': Threats to Australian politicians were rising before MP hit by car",
-      "summary": "In the wake of the apparent attack on MP Helen Haines, MPs have described locking their office doors, and scanning every crowd for potential threats.",
+      "summary": "In the wake of the apparent attack on Helen Haines, MPs have described locking their office doors, and scanning every crowd for potential threats.",
       "source": "BBC News",
       "category": "world",
       "url": "https://www.bbc.co.uk/news/articles/cq398rk4p3exo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ab1/live/7030b4a0-cc31-11f1-a64c-550be9e3c66b.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98d1/live/ef977c30-cc48-11f1-a64c-550be9e3c66b.jpg",
       "published_at": "2026-10-20T02:54:05+00:00",
       "kind": "source_brief",
       "source_lang": "en",
       "translations": {
         "en": {
           "title": "'Our worst nightmare': Threats to Australian politicians were rising before MP hit by car",
-          "summary": "In the wake of the apparent attack on MP Helen Haines, MPs have described locking their office doors, and scanning every crowd for potential threats."
+          "summary": "In the wake of the apparent attack on Helen Haines, MPs have described locking their office doors, and scanning every crowd for potential threats."
+        }
+      }
+    },
+    {
+      "id": "d553e1b9af4185c5b1",
+      "title": "Seventh day of violent clashes between Albanian protesters and police",
+      "summary": "Almost 300 people have been injured, more than half of them police, as violent anti-government demonstrations show no sign of easing.",
+      "source": "BBC News",
+      "category": "politics",
+      "url": "https://www.bbc.co.uk/news/articles/cmy4xjlpqgd3o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b732/live/2812da60-cc20-11f1-bc2e-018d645d8d21.jpg",
+      "published_at": "2026-10-20T02:45:05+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Seventh day of violent clashes between Albanian protesters and police",
+          "summary": "Almost 300 people have been injured, more than half of them police, as violent anti-government demonstrations show no sign of easing."
         }
       }
     },
@@ -201,6 +1227,24 @@
         "vi": {
           "title": "Giá vàng miếng xuống mức thấp nhất hơn hai tháng",
           "summary": "Theo đà đi xuống của quốc tế, các thương hiệu bán vàng miếng quanh 142 triệu đồng một lượng, cũng là mức thấp nhất kể từ ngày 5/8."
+        }
+      }
+    },
+    {
+      "id": "08cbee451f7ad0d0bb",
+      "title": "Is this the beginning of the end of the AI stock market boom?",
+      "summary": "After a wobble on the tech-heavy Nasdaq, some AI market observers think a reassessment of the potential value of various businesses may be under way Get our breaking news email , free app or daily news podcast The world is holding its breath as it waits to find out whether this year’s estimated $US1tn investment in artificial in…",
+      "source": "The Guardian",
+      "category": "ai",
+      "url": "https://www.theguardian.com/business/2026/oct/20/ai-stock-market-boom-beginning-of-the-end-imf-wallstreet-nasdaq",
+      "image": "https://i.guim.co.uk/img/media/ddfb561650f575c6123c0a9b57256c95a64a8ee8/182_0_3595_2877/master/3595.jpg?width=140&quality=85&auto=format&fit=max&s=2816d43ffd19b5b5453d3f54f7b4b10b",
+      "published_at": "2026-10-20T02:29:19+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Is this the beginning of the end of the AI stock market boom?",
+          "summary": "After a wobble on the tech-heavy Nasdaq, some AI market observers think a reassessment of the potential value of various businesses may be under way Get our breaking news email , free app or daily news podcast The world is holding its breath as it waits to find out whether this year’s estimated $US1tn investment in artificial in…"
         }
       }
     },
@@ -277,78 +1321,6 @@
       }
     },
     {
-      "id": "8a0afb7abc0e7edf1b",
-      "title": "Kumanjayi Little Baby: damning report finds ‘heartbreaking’ child protection failures before five-year-old’s death",
-      "summary": "Northern Territory government announced sweeping reforms of child protection sector in May, just days after the Warlpiri girl was found dead • Warning: This article contains images of and references to Indigenous Australians who have died Get our breaking news email , free app or daily news podcast A report on the Northern Terri…",
-      "source": "The Guardian",
-      "category": "politics",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/20/kumanjayi-little-baby-damning-report-finds-heartbreaking-child-protection-failures-before-five-year-olds-death-ntwnfb",
-      "image": "https://i.guim.co.uk/img/media/372ea1b2ce13adbf835ee67de609738e088051dc/114_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=0029f4a25a4b30afd1c8b32efda99d6f",
-      "published_at": "2026-10-20T01:50:49+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Kumanjayi Little Baby: damning report finds ‘heartbreaking’ child protection failures before five-year-old’s death",
-          "summary": "Northern Territory government announced sweeping reforms of child protection sector in May, just days after the Warlpiri girl was found dead • Warning: This article contains images of and references to Indigenous Australians who have died Get our breaking news email , free app or daily news podcast A report on the Northern Terri…"
-        }
-      }
-    },
-    {
-      "id": "c5e8556d2f8aa01a58",
-      "title": "Helen Haines loses leg after car allegedly did U-turn and struck her twice in Wangaratta",
-      "summary": "Independent MP is in critical yet stable condition, as police interview alleged attacker in Wangaratta incident Follow our Helen Haines live blog for latest updates Who is Helen Haines, the MP allegedly attacked in Victoria? Get our new political email , free app or daily news podcast The man accused of attacking Helen Haines al…",
-      "source": "The Guardian",
-      "category": "world",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/20/helen-haines-mp-alleged-attack-wangaratta-surgery-ntwnfb",
-      "image": "https://i.guim.co.uk/img/media/fc5cfde7e2fb473869454a0afb7c782394d83bd7/464_0_4640_3712/master/4640.jpg?width=140&quality=85&auto=format&fit=max&s=41d848b5ca9a28d20a95c71469b1e8ef",
-      "published_at": "2026-10-20T01:50:34+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Helen Haines loses leg after car allegedly did U-turn and struck her twice in Wangaratta",
-          "summary": "Independent MP is in critical yet stable condition, as police interview alleged attacker in Wangaratta incident Follow our Helen Haines live blog for latest updates Who is Helen Haines, the MP allegedly attacked in Victoria? Get our new political email , free app or daily news podcast The man accused of attacking Helen Haines al…"
-        }
-      }
-    },
-    {
-      "id": "0535b4428c45327439",
-      "title": "‘I don’t want to be known as a hero’: barber who rushed to help Helen Haines praised by PM",
-      "summary": "Ricky Jefferies says he had just finished cutting hair when he grabbed and held the driver who allegedly deliberately struck the Indi MP Follow our Helen Haines live blog for latest updates Who is Helen Haines, the MP allegedly attacked in Victoria? Get our new political email , free app or daily news podcast The Australian prim…",
-      "source": "The Guardian",
-      "category": "world",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/20/i-dont-want-to-be-known-as-a-hero-barber-who-rushed-to-help-helen-haines-praised-by-pm-ntwnfb",
-      "image": "https://i.guim.co.uk/img/media/19acb2e8bcd5fde990b3ba74a71e9f91b919fd1f/509_815_5609_4489/master/5609.jpg?width=140&quality=85&auto=format&fit=max&s=826b73f11c0cd503ae68045d8f8c168c",
-      "published_at": "2026-10-20T01:49:55+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "‘I don’t want to be known as a hero’: barber who rushed to help Helen Haines praised by PM",
-          "summary": "Ricky Jefferies says he had just finished cutting hair when he grabbed and held the driver who allegedly deliberately struck the Indi MP Follow our Helen Haines live blog for latest updates Who is Helen Haines, the MP allegedly attacked in Victoria? Get our new political email , free app or daily news podcast The Australian prim…"
-        }
-      }
-    },
-    {
-      "id": "31e4d8425eb4ba87e2",
-      "title": "Chancellor rejects calls to raise Capital Gains Tax in Budget",
-      "summary": "Influential Labour figures had been pushing for equalising CGT and income tax, but critics have said this could drive wealthy people out of Britain.",
-      "source": "BBC News",
-      "category": "economy",
-      "url": "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95e7/live/6cd357a0-cc17-11f1-b7d0-7f346cefa9a9.jpg",
-      "published_at": "2026-10-20T01:31:09+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Chancellor rejects calls to raise Capital Gains Tax in Budget",
-          "summary": "Influential Labour figures had been pushing for equalising CGT and income tax, but critics have said this could drive wealthy people out of Britain."
-        }
-      }
-    },
-    {
       "id": "a608b97bceb1e7261a",
       "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
       "summary": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.",
@@ -381,24 +1353,6 @@
         "vi": {
           "title": "Cách nào để quần áo từ thiện không thành rác?",
           "summary": "Bỏ thói quen \"dọn tủ làm từ thiện\", siết tiêu chí thu gom và buộc hãng thời trang chịu trách nhiệm tái chế là các giải pháp ngăn quần áo cũ thành rác, theo chuyên gia."
-        }
-      }
-    },
-    {
-      "id": "9be49e2f16c26bc0e3",
-      "title": "Milan luxury shops close as Italy prepares to deploy troops in the city after days of protests",
-      "summary": "Demonstrations over poor public services and rising costs spiralled over the weekend, with shops looted and property vandalised Why are people protesting across Europe? Italy’s government will dispatch 500 army troops to “defend Milan” after two days ⁠of unrest that saw demonstrators ⁠clash with police, ​loot shops and vandalise…",
-      "source": "The Guardian",
-      "category": "politics",
-      "url": "https://www.theguardian.com/world/2026/oct/20/milan-luxury-shops-close-italy-to-deploy-troops-youth-protests-europe",
-      "image": "https://i.guim.co.uk/img/media/1773b9db4a2794c82db8e03b1f005b6c490013de/134_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=3d0cd6ab123dbd060f57624f7cc3685c",
-      "published_at": "2026-10-20T00:08:07+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Milan luxury shops close as Italy prepares to deploy troops in the city after days of protests",
-          "summary": "Demonstrations over poor public services and rising costs spiralled over the weekend, with shops looted and property vandalised Why are people protesting across Europe? Italy’s government will dispatch 500 army troops to “defend Milan” after two days ⁠of unrest that saw demonstrators ⁠clash with police, ​loot shops and vandalise…"
         }
       }
     },
@@ -543,24 +1497,6 @@
         "en": {
           "title": "Five ways El Niño is affecting the weather around the world",
           "summary": "As the strongest El Niño on record continues to intensify, what impacts on weather patterns are already being felt across the globe? Sarah Keith-Lucas looks at the evidence."
-        }
-      }
-    },
-    {
-      "id": "5b65e4be446c3d2960",
-      "title": "In pictures: Dussehra celebrated across India as triumph of good over evil",
-      "summary": "The festival, which commemorates the triumph of good over evil, is celebrated with different rituals across India.",
-      "source": "BBC News",
-      "category": "world",
-      "url": "https://www.bbc.co.uk/news/articles/c98rzynj6e1yo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ecf1/live/af489e70-cbe4-11f1-a64c-550be9e3c66b.jpg",
-      "published_at": "2026-10-19T23:04:08+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "In pictures: Dussehra celebrated across India as triumph of good over evil",
-          "summary": "The festival, which commemorates the triumph of good over evil, is celebrated with different rituals across India."
         }
       }
     },
@@ -727,42 +1663,6 @@
       }
     },
     {
-      "id": "22a5987fad73cb6e4f",
-      "title": "Clean up begins after French riots but police remain",
-      "summary": "Outside of Paris, Marseille saw some of the worst damage, with shop owners reporting more than 600 premises having been looted.",
-      "source": "BBC News",
-      "category": "world",
-      "url": "https://www.bbc.co.uk/news/videos/cwr7y0e57r50o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6193/live/d6797140-cc02-11f1-bc2e-018d645d8d21.jpg",
-      "published_at": "2026-10-19T21:30:08+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Clean up begins after French riots but police remain",
-          "summary": "Outside of Paris, Marseille saw some of the worst damage, with shop owners reporting more than 600 premises having been looted."
-        }
-      }
-    },
-    {
-      "id": "713828fff39602a3e1",
-      "title": "Burnham vows end to 'rip-off parking charges' under new rules",
-      "summary": "Penalties are seen as too harsh on motorists who are penalised for parking on private land.",
-      "source": "BBC News",
-      "category": "politics",
-      "url": "https://www.bbc.co.uk/news/articles/ck87ze7wl4qno?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b840/live/85d53a60-cbe1-11f1-9a39-31b474234113.jpg",
-      "published_at": "2026-10-19T21:30:06+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Burnham vows end to 'rip-off parking charges' under new rules",
-          "summary": "Penalties are seen as too harsh on motorists who are penalised for parking on private land."
-        }
-      }
-    },
-    {
       "id": "85ed69736e92d20ff7",
       "title": "CoreWeave’s debt is becoming the whole AI industry’s problem",
       "summary": "CoreWeave had a bad week last week. Its bonds slipped into distressed territory by a common definition - when investors demand 1,000 basis points more in yield than they'd get from government bonds. Last Tuesady Chamath \"SPAC King\" Palihapitiya noticed the distressed debt, and also asked whether the AI buildout was a private cre…",
@@ -781,27 +1681,9 @@
       }
     },
     {
-      "id": "8bc9310d464c374060",
-      "title": "Curfew imposed in parts of central Paris and other cities after rioting across France",
-      "summary": "The country's interior minister admits that police \"lost control\" in some cities following a weekend of riots.",
-      "source": "BBC News",
-      "category": "world",
-      "url": "https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4a4/live/f9b4b1d0-cc1e-11f1-94fe-b94794c2a157.jpg",
-      "published_at": "2026-10-19T21:14:53+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Curfew imposed in parts of central Paris and other cities after rioting across France",
-          "summary": "The country's interior minister admits that police \"lost control\" in some cities following a weekend of riots."
-        }
-      }
-    },
-    {
       "id": "733cc19037e0170330",
-      "title": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
-      "summary": "The Saudi government did not immediately respond to BBC requests for comment.",
+      "title": "Ex-OpenAI worker accused of planting bug had Saudi support, claims prosecutors",
+      "summary": "Abdulrahman Alfozan, who is accused of planting a recording device, has been denied bail.",
       "source": "BBC News",
       "category": "ai",
       "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
@@ -811,8 +1693,8 @@
       "source_lang": "en",
       "translations": {
         "en": {
-          "title": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
-          "summary": "The Saudi government did not immediately respond to BBC requests for comment."
+          "title": "Ex-OpenAI worker accused of planting bug had Saudi support, claims prosecutors",
+          "summary": "Abdulrahman Alfozan, who is accused of planting a recording device, has been denied bail."
         }
       }
     },
@@ -943,24 +1825,6 @@
       }
     },
     {
-      "id": "45e9141fa3785d9417",
-      "title": "French authorities announce partial curfews as PM blames ‘ultra-left’ for exploiting protests – as it happened",
-      "summary": "This live blog is now closed. Macron criticises ‘unbridled violence’ after 2,400 arrests across France French PM Lecornu says he has asked prefects to implement “a number of partial curfews” in certain “localised” urban areas to stop further disorder, which he attributes to “the extreme-left” and some criminal elements. We will…",
-      "source": "The Guardian",
-      "category": "world",
-      "url": "https://www.theguardian.com/world/live/2026/oct/19/europe-france-protests-riots-macron-ukraine-russia-zelenskyy-sweden-latest-news-updates",
-      "image": "https://i.guim.co.uk/img/media/bec165ec556866931479ddde6d76d75109b97a5d/403_0_5568_4455/master/5568.jpg?width=140&quality=85&auto=format&fit=max&s=bd28a5b880ca484f4678afb93b0fc9a3",
-      "published_at": "2026-10-19T20:34:54+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "French authorities announce partial curfews as PM blames ‘ultra-left’ for exploiting protests – as it happened",
-          "summary": "This live blog is now closed. Macron criticises ‘unbridled violence’ after 2,400 arrests across France French PM Lecornu says he has asked prefects to implement “a number of partial curfews” in certain “localised” urban areas to stop further disorder, which he attributes to “the extreme-left” and some criminal elements. We will…"
-        }
-      }
-    },
-    {
       "id": "21dc8fc69ccc990a68",
       "title": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
       "summary": "US fears Saudi government will help ex-OpenAI engineer flee spying charges.",
@@ -1051,20 +1915,20 @@
       }
     },
     {
-      "id": "948e232c9f03e73172",
-      "title": "Ukraine says it carried out first drone airlift of wounded soldier from front line",
-      "summary": "The serviceman was surrounded by landmines and enemy drones so a ground rescue was not possible, Ukraine's military says.",
+      "id": "e76126b0ebbf01e0cf",
+      "title": "Mission blasts off for Mars to grab a piece of its moon",
+      "summary": "A spacecraft is set to launch on an ambitious mission to bring 10g of Martian moon dust back to Earth.",
       "source": "BBC News",
       "category": "world",
-      "url": "https://www.bbc.co.uk/news/videos/c3vgx05p149wo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ffd/live/9535d5d0-cbf7-11f1-9a39-31b474234113.jpg",
-      "published_at": "2026-10-19T20:00:43+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f0e/live/0a4e2af0-cbff-11f1-bc2e-018d645d8d21.jpg",
+      "published_at": "2026-10-19T19:45:46+00:00",
       "kind": "source_brief",
       "source_lang": "en",
       "translations": {
         "en": {
-          "title": "Ukraine says it carried out first drone airlift of wounded soldier from front line",
-          "summary": "The serviceman was surrounded by landmines and enemy drones so a ground rescue was not possible, Ukraine's military says."
+          "title": "Mission blasts off for Mars to grab a piece of its moon",
+          "summary": "A spacecraft is set to launch on an ambitious mission to bring 10g of Martian moon dust back to Earth."
         }
       }
     },
@@ -1087,24 +1951,6 @@
       }
     },
     {
-      "id": "f649037fa8e9c17ec2",
-      "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
-      "summary": "OpenCode is an open source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
-      "image": "",
-      "published_at": "2026-10-19T19:28:34+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
-          "summary": "OpenCode is an open source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code."
-        }
-      }
-    },
-    {
       "id": "f206d1912eabe30eef",
       "title": "Startup taps underwater volcano as energy source in \"proof point\" test",
       "summary": "Can undersea geothermal power help Pacific Rim nations cut down on oil imports?",
@@ -1123,42 +1969,6 @@
       }
     },
     {
-      "id": "7ab42e04cf3b71a360",
-      "title": "Tolan snags $30M for its AI companion that helps users navigate life",
-      "summary": "AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
-      "image": "",
-      "published_at": "2026-10-19T19:00:12+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Tolan snags $30M for its AI companion that helps users navigate life",
-          "summary": "AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users."
-        }
-      }
-    },
-    {
-      "id": "68fd1abc8d74016dc0",
-      "title": "‘Crucial opportunity to act’ as study finds most of Europe’s wild bee species in decline",
-      "summary": "As Cop17 kicks off, records since 1921 show more bee species declining than increasing in all parts of Europe except the Alps Most of Europe’s wild bee species and about half of its hover fly species have declined over the last century, a study has found, as a UN biodiversity summit begins in Armenia. Records since 1921 show mor…",
-      "source": "The Guardian",
-      "category": "world",
-      "url": "https://www.theguardian.com/environment/2026/oct/19/study-europe-wild-bee-species-decline-",
-      "image": "https://i.guim.co.uk/img/media/866c33745465d9af42c6e781c991b6d04313522e/289_77_1694_1356/master/1694.jpg?width=140&quality=85&auto=format&fit=max&s=50f6437930656074ca2609be41ee32ba",
-      "published_at": "2026-10-19T19:00:04+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "‘Crucial opportunity to act’ as study finds most of Europe’s wild bee species in decline",
-          "summary": "As Cop17 kicks off, records since 1921 show more bee species declining than increasing in all parts of Europe except the Alps Most of Europe’s wild bee species and about half of its hover fly species have declined over the last century, a study has found, as a UN biodiversity summit begins in Armenia. Records since 1921 show mor…"
-        }
-      }
-    },
-    {
       "id": "e6e234bc172dfbe94d",
       "title": "Sony’s best noise-canceling earbuds are nearly $100 off today only",
       "summary": "For a very limited time, Sony’s latest high-end noise-canceling earbuds are actually cheaper than their last-gen counterpart, the WF-1000XM5. B&H Photo is selling Sony’s latest WF-1000XM6 in black for an all-time low of $238 ($92 off) at checkout. Other retailers aren’t currently offering a discount on the XM6. The XM6 are a sol…",
@@ -1173,42 +1983,6 @@
         "en": {
           "title": "Sony’s best noise-canceling earbuds are nearly $100 off today only",
           "summary": "For a very limited time, Sony’s latest high-end noise-canceling earbuds are actually cheaper than their last-gen counterpart, the WF-1000XM5. B&H Photo is selling Sony’s latest WF-1000XM6 in black for an all-time low of $238 ($92 off) at checkout. Other retailers aren’t currently offering a discount on the XM6. The XM6 are a sol…"
-        }
-      }
-    },
-    {
-      "id": "347bd5ae4a1a313bb8",
-      "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
-      "summary": "Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago. Wabi offers a personal AI assistant with a twist, free and downloadable to anyone today.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
-      "image": "",
-      "published_at": "2026-10-19T18:49:04+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
-          "summary": "Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago. Wabi offers a personal AI assistant with a twist, free and downloadable to anyone today."
-        }
-      }
-    },
-    {
-      "id": "2b9227ae1c18986a2f",
-      "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
-      "summary": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
-      "image": "",
-      "published_at": "2026-10-19T18:37:27+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
-          "summary": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent."
         }
       }
     },
@@ -1232,8 +2006,8 @@
     },
     {
       "id": "c67da6c0eaa5eec18d",
-      "title": "US bans DeepSeek AI from government use as tech tension with China continues",
-      "summary": "DeepSeek is a powerful, popular and relatively inexpensive artificial intelligence model out of China.",
+      "title": "US bans China's DeepSeek from government in race for AI dominance",
+      "summary": "The Chinese technology is removed from most US government agencies as race for AI dominance steps up.",
       "source": "BBC News",
       "category": "economy",
       "url": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo?at_medium=RSS&at_campaign=rss",
@@ -1243,782 +2017,8 @@
       "source_lang": "en",
       "translations": {
         "en": {
-          "title": "US bans DeepSeek AI from government use as tech tension with China continues",
-          "summary": "DeepSeek is a powerful, popular and relatively inexpensive artificial intelligence model out of China."
-        }
-      }
-    },
-    {
-      "id": "df071996a89d24644b",
-      "title": "France imposes partial curfews in several cities, including parts of Paris",
-      "summary": "Interior minister concedes police ‘lost control’ of weekend protests as PM vows to restore public order Partial curfews have been issued for a number of French cities, including parts of Paris, after the government admitted police had “lost control” during violent weekend protests around the country. Sébastien Lecornu, the Frenc…",
-      "source": "The Guardian",
-      "category": "politics",
-      "url": "https://www.theguardian.com/world/2026/oct/19/french-police-lost-control-during-riots-concedes-interior-minister",
-      "image": "https://i.guim.co.uk/img/media/0d2a2c6f9adc8f2d27760b0c30c909669b5395c5/483_0_4827_3861/master/4827.jpg?width=140&quality=85&auto=format&fit=max&s=298de40c0ff7e30bf6824e57b07d857c",
-      "published_at": "2026-10-19T18:16:45+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "France imposes partial curfews in several cities, including parts of Paris",
-          "summary": "Interior minister concedes police ‘lost control’ of weekend protests as PM vows to restore public order Partial curfews have been issued for a number of French cities, including parts of Paris, after the government admitted police had “lost control” during violent weekend protests around the country. Sébastien Lecornu, the Frenc…"
-        }
-      }
-    },
-    {
-      "id": "a8462e481995398beb",
-      "title": "Troubles legacy bill is not an amnesty for soldiers - NI secretary",
-      "summary": "Amendments to the bill are being debated by MPs, as the long-awaited legislation returns to the House of Commons.",
-      "source": "BBC News",
-      "category": "politics",
-      "url": "https://www.bbc.co.uk/news/articles/cm93zkqj7z39o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96cc/live/9b83aa30-cb9c-11f1-bc2e-018d645d8d21.jpg",
-      "published_at": "2026-10-19T18:05:14+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Troubles legacy bill is not an amnesty for soldiers - NI secretary",
-          "summary": "Amendments to the bill are being debated by MPs, as the long-awaited legislation returns to the House of Commons."
-        }
-      }
-    },
-    {
-      "id": "e70124b979ff7a0504",
-      "title": "AI assistant startup Town nabs unicorn valuation 4 months after launch",
-      "summary": "AI assistant startup Town nabbed a unicorn valuation on Monday, announcing a $108 million Series B round co-led by Forerunner Ventures and Menlo Ventures.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/",
-      "image": "",
-      "published_at": "2026-10-19T18:00:39+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "AI assistant startup Town nabs unicorn valuation 4 months after launch",
-          "summary": "AI assistant startup Town nabbed a unicorn valuation on Monday, announcing a $108 million Series B round co-led by Forerunner Ventures and Menlo Ventures."
-        }
-      }
-    },
-    {
-      "id": "6e978770144a3f5698",
-      "title": "Rivian’s CEO says autonomy will enable ‘dramatically different’ vehicle designs",
-      "summary": "Founder and CEO RJ Scaringe said he thinks autonomy will allow his company to build radically different kinds of vehicles than the outdoorsy SUVs and trucks it currently makes.",
-      "source": "TechCrunch",
-      "category": "technology",
-      "url": "https://techcrunch.com/2026/10/19/rivians-ceo-says-autonomy-will-enable-dramatically-different-vehicle-designs/",
-      "image": "",
-      "published_at": "2026-10-19T17:39:51+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Rivian’s CEO says autonomy will enable ‘dramatically different’ vehicle designs",
-          "summary": "Founder and CEO RJ Scaringe said he thinks autonomy will allow his company to build radically different kinds of vehicles than the outdoorsy SUVs and trucks it currently makes."
-        }
-      }
-    },
-    {
-      "id": "e5ae4eaf6e61684dac",
-      "title": "Christiane Amanpour announces she’s leaving CNN after 43 years",
-      "summary": "Anchor’s departure not thought to be linked to company’s recent acquisition by David Ellison’s Skydance Media Christiane Amanpour, one of CNN’s most decorated and venerated journalists, is leaving the network after 43 years, she said in a statement on Monday. Amanpour, who began working for the then-fledging network as an assist…",
-      "source": "The Guardian",
-      "category": "economy",
-      "url": "https://www.theguardian.com/media/2026/oct/19/christiane-amanpour-leaving-cnn",
-      "image": "https://i.guim.co.uk/img/media/b406b3723fac75582a4c6440ec2df4a8cded91b3/268_0_3861_3088/master/3861.jpg?width=140&quality=85&auto=format&fit=max&s=f48a69437ddafd14b2a198112e4e17e2",
-      "published_at": "2026-10-19T17:21:59+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Christiane Amanpour announces she’s leaving CNN after 43 years",
-          "summary": "Anchor’s departure not thought to be linked to company’s recent acquisition by David Ellison’s Skydance Media Christiane Amanpour, one of CNN’s most decorated and venerated journalists, is leaving the network after 43 years, she said in a statement on Monday. Amanpour, who began working for the then-fledging network as an assist…"
-        }
-      }
-    },
-    {
-      "id": "0d1ca7925e7422f4d2",
-      "title": "Kenya cult leader who told parents to starve children guilty of 191 murders",
-      "summary": "Self-proclaimed pastor Paul Mackenzie was found guilty of 191 murder charges - all but one of them children.",
-      "source": "BBC News",
-      "category": "world",
-      "url": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d07e/live/02bf88b0-cbd7-11f1-bc2e-018d645d8d21.jpg",
-      "published_at": "2026-10-19T17:18:04+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Kenya cult leader who told parents to starve children guilty of 191 murders",
-          "summary": "Self-proclaimed pastor Paul Mackenzie was found guilty of 191 murder charges - all but one of them children."
-        }
-      }
-    },
-    {
-      "id": "fde8c8ad367b989d34",
-      "title": "Hàng xa xỉ phương Tây loay hoay giữ chỗ đứng tại Trung Quốc",
-      "summary": "Các hãng xa xỉ hàng đầu thế giới đang chịu sức ép khi khách Trung Quốc chuộng hàng hiệu secondhand (đã qua sử dụng) hoặc mua thương hiệu nội địa.",
-      "source": "VnExpress",
-      "category": "economy",
-      "url": "https://vnexpress.net/hang-xa-xi-phuong-tay-loay-hoay-giu-cho-dung-tai-trung-quoc-5134159.html",
-      "image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/19/afp-d38k9zt-v1-midres-chinalif-2366-1354-1792395467.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=62ia5P59KfJVcw5YNMVpWg",
-      "published_at": "2026-10-19T17:03:00+00:00",
-      "kind": "source_brief",
-      "source_lang": "vi",
-      "translations": {
-        "vi": {
-          "title": "Hàng xa xỉ phương Tây loay hoay giữ chỗ đứng tại Trung Quốc",
-          "summary": "Các hãng xa xỉ hàng đầu thế giới đang chịu sức ép khi khách Trung Quốc chuộng hàng hiệu secondhand (đã qua sử dụng) hoặc mua thương hiệu nội địa."
-        }
-      }
-    },
-    {
-      "id": "52617e21810898c12b",
-      "title": "How to shape your slides and videos with Gemini Notebook",
-      "summary": "Gemini Notebook is giving more creative control in the creation of Slide Decks and Video Overviews.",
-      "source": "Google Blog",
-      "category": "ai",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/co-create-slides-videos/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/blog_hero_cocreation_2784x1566.max-600x600.format-webp.webp",
-      "published_at": "2026-10-19T17:00:00+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "How to shape your slides and videos with Gemini Notebook",
-          "summary": "Gemini Notebook is giving more creative control in the creation of Slide Decks and Video Overviews."
-        }
-      }
-    },
-    {
-      "id": "4dc09b5df27368a730",
-      "title": "Thần đồng AI 17 tuổi bất ngờ rời công ty Trung Quốc",
-      "summary": "Nathan Chen, nhà nghiên cứu đứng sau thành công của mô hình Kimi K3, thông báo rời công ty Moonshot AI sau chưa đầy một năm làm việc, dấy lên nhiều suy đoán về bến đỗ tiếp theo của thần đồng tuổi teen này.",
-      "source": "VnExpress",
-      "category": "ai",
-      "url": "https://vnexpress.net/than-dong-ai-17-tuoi-bat-ngo-roi-cong-ty-trung-quoc-5133859.html",
-      "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/19/VNEProdigy-1792405084-7920-1792405419.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=GxbMdF8ukepH45ePRM_PFQ",
-      "published_at": "2026-10-19T17:00:00+00:00",
-      "kind": "source_brief",
-      "source_lang": "vi",
-      "translations": {
-        "vi": {
-          "title": "Thần đồng AI 17 tuổi bất ngờ rời công ty Trung Quốc",
-          "summary": "Nathan Chen, nhà nghiên cứu đứng sau thành công của mô hình Kimi K3, thông báo rời công ty Moonshot AI sau chưa đầy một năm làm việc, dấy lên nhiều suy đoán về bến đỗ tiếp theo của thần đồng tuổi teen này."
-        }
-      }
-    },
-    {
-      "id": "6e82abff5fff04afe2",
-      "title": "AI game clones are making indie developers afraid to show their work",
-      "summary": "Delayed Steam Next Fest demo is a sign of a growing problem for indie devs.",
-      "source": "Ars Technica",
-      "category": "ai",
-      "url": "https://arstechnica.com/gaming/2026/10/ai-game-clones-are-making-indie-developers-afraid-to-show-their-work/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ss_c6067e139d8dd2cbf79c41a9c4e41e3bb088c95a.1920x1080-1152x648.jpg",
-      "published_at": "2026-10-19T16:59:22+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "AI game clones are making indie developers afraid to show their work",
-          "summary": "Delayed Steam Next Fest demo is a sign of a growing problem for indie devs."
-        }
-      }
-    },
-    {
-      "id": "aeb3467d580527c46e",
-      "title": "Amazon to fund 12 small nuclear reactors at former Indiana coal plant",
-      "summary": "Amazon and X-energy have inked another deal to deploy nuclear power to the grid. This one will generate nearly 1 gigawatt of electricity.",
-      "source": "TechCrunch",
-      "category": "technology",
-      "url": "https://techcrunch.com/2026/10/19/amazon-to-fund-12-small-nuclear-reactors-at-former-indiana-coal-plant/",
-      "image": "",
-      "published_at": "2026-10-19T16:55:56+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Amazon to fund 12 small nuclear reactors at former Indiana coal plant",
-          "summary": "Amazon and X-energy have inked another deal to deploy nuclear power to the grid. This one will generate nearly 1 gigawatt of electricity."
-        }
-      }
-    },
-    {
-      "id": "e43025f9a3ce3ae984",
-      "title": "Vinted blocks French looters listing stolen goods for sale",
-      "summary": "The platform said since the weekend it had \"taken immediate action to idenitify and remove listings linked to looting\".",
-      "source": "BBC News",
-      "category": "economy",
-      "url": "https://www.bbc.co.uk/news/articles/cm8xzrljv72ro?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3138/live/44562b50-cbd0-11f1-aba9-2bb2608f11d9.jpg",
-      "published_at": "2026-10-19T16:46:35+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Vinted blocks French looters listing stolen goods for sale",
-          "summary": "The platform said since the weekend it had \"taken immediate action to idenitify and remove listings linked to looting\"."
-        }
-      }
-    },
-    {
-      "id": "e3d5ab0af1ce7ec503",
-      "title": "Florida DMV hacked after police dept insecurely stored login info",
-      "summary": "Florida issues alerts after statewide DMV data breach linked to ShinyHunters.",
-      "source": "Ars Technica",
-      "category": "technology",
-      "url": "https://arstechnica.com/tech-policy/2026/10/huge-dmv-data-breach-impacted-current-and-former-florida-residents/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1384284626-1152x648.jpg",
-      "published_at": "2026-10-19T16:38:13+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Florida DMV hacked after police dept insecurely stored login info",
-          "summary": "Florida issues alerts after statewide DMV data breach linked to ShinyHunters."
-        }
-      }
-    },
-    {
-      "id": "f69fb560f8dd4d8386",
-      "title": "Reform MSP quits party to sit as independent",
-      "summary": "Amanda Bland's decision relegates the party to the third-largest group at Holyrood, with one member fewer than Labour.",
-      "source": "BBC News",
-      "category": "politics",
-      "url": "https://www.bbc.co.uk/news/articles/cq398dgkdg8xo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/756b/live/81864d10-cba9-11f1-9a39-31b474234113.jpg",
-      "published_at": "2026-10-19T16:28:27+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Reform MSP quits party to sit as independent",
-          "summary": "Amanda Bland's decision relegates the party to the third-largest group at Holyrood, with one member fewer than Labour."
-        }
-      }
-    },
-    {
-      "id": "921087729326736c49",
-      "title": "Houthi missile strike on Yemen camp kills 50 security recruits, local authorities say",
-      "summary": "Three missiles hit a camp in government-controlled Shabwa province that officials say was being used as a training centre for new recruits.",
-      "source": "BBC News",
-      "category": "politics",
-      "url": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9320/live/759508d0-cbd5-11f1-aba9-2bb2608f11d9.jpg",
-      "published_at": "2026-10-19T16:20:51+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Houthi missile strike on Yemen camp kills 50 security recruits, local authorities say",
-          "summary": "Three missiles hit a camp in government-controlled Shabwa province that officials say was being used as a training centre for new recruits."
-        }
-      }
-    },
-    {
-      "id": "c0bd71ac7a37dfbbb8",
-      "title": "Obama blasts federal probe of congresswoman Ilhan Omar as 'so appalling'",
-      "summary": "Obama says federal agents' search of the Democrat's home was an effort to intimidate a Trump critic.",
-      "source": "BBC News",
-      "category": "world",
-      "url": "https://www.bbc.co.uk/news/articles/cr15jl7dd42vo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5592/live/e0f10480-cb2b-11f1-97d2-23d8daaba2e1.jpg",
-      "published_at": "2026-10-19T16:16:51+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Obama blasts federal probe of congresswoman Ilhan Omar as 'so appalling'",
-          "summary": "Obama says federal agents' search of the Democrat's home was an effort to intimidate a Trump critic."
-        }
-      }
-    },
-    {
-      "id": "d1fa3609444938bcd2",
-      "title": "People are using AI to make their smart TVs dumb again",
-      "summary": "Fed up with ads, tracking, and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
-      "image": "",
-      "published_at": "2026-10-19T16:13:22+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "People are using AI to make their smart TVs dumb again",
-          "summary": "Fed up with ads, tracking, and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs."
-        }
-      }
-    },
-    {
-      "id": "09f8398b85efcf6f20",
-      "title": "Kenyan starvation cult leader guilty of murder of 190 children and one adult",
-      "summary": "Paul Mackenzie and his church set up sect that ordered followers to starve themselves and their children, say prosecutors A Kenyan court has found the starvation cult leader Paul Mackenzie and about 30 others guilty of murder over the deaths of ⁠190 children and one adult in one of the world’s worst cult-related disasters in rec…",
-      "source": "The Guardian",
-      "category": "world",
-      "url": "https://www.theguardian.com/world/2026/oct/19/kenya-starvation-cult-leader-guilty-murder-190-children",
-      "image": "https://i.guim.co.uk/img/media/1fcb4211343f1e186853a25b4e44873a28588f33/124_21_4274_3420/master/4274.jpg?width=140&quality=85&auto=format&fit=max&s=cc8854a028b039b4861c34a8bb8679b9",
-      "published_at": "2026-10-19T16:08:14+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Kenyan starvation cult leader guilty of murder of 190 children and one adult",
-          "summary": "Paul Mackenzie and his church set up sect that ordered followers to starve themselves and their children, say prosecutors A Kenyan court has found the starvation cult leader Paul Mackenzie and about 30 others guilty of murder over the deaths of ⁠190 children and one adult in one of the world’s worst cult-related disasters in rec…"
-        }
-      }
-    },
-    {
-      "id": "8e8803bda3628fd46f",
-      "title": "Apple teases MacBook Pro event next week",
-      "summary": "Apple has sent invites to a second product launch this month, and it's scheduled for October 28th at 1PM ET in Los Angeles. At the event, Apple is set to announce new Macs and a refreshed iPad Mini, according to Bloomberg. The big announcement is expected to be a new MacBook Pro with an OLED […]",
-      "source": "The Verge",
-      "category": "technology",
-      "url": "https://www.theverge.com/tech/1013028/apple-second-october-product-launch-announcement",
-      "image": "",
-      "published_at": "2026-10-19T16:04:29+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Apple teases MacBook Pro event next week",
-          "summary": "Apple has sent invites to a second product launch this month, and it's scheduled for October 28th at 1PM ET in Los Angeles. At the event, Apple is set to announce new Macs and a refreshed iPad Mini, according to Bloomberg. The big announcement is expected to be a new MacBook Pro with an OLED […]"
-        }
-      }
-    },
-    {
-      "id": "9b6dde5b76af0fb4aa",
-      "title": "Bikes 'not for jousting,' says Lime after duel video",
-      "summary": "Footage emerged on social media of hundreds of people gathered in east London to watch a bike joust.",
-      "source": "BBC News",
-      "category": "economy",
-      "url": "https://www.bbc.co.uk/news/articles/c9zrdpg7256yo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14f2/live/5715c480-cbcb-11f1-bc2e-018d645d8d21.jpg",
-      "published_at": "2026-10-19T15:44:53+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Bikes 'not for jousting,' says Lime after duel video",
-          "summary": "Footage emerged on social media of hundreds of people gathered in east London to watch a bike joust."
-        }
-      }
-    },
-    {
-      "id": "b0ef1cc24d7131641e",
-      "title": "Amazon is funding a new nuclear plant in Indiana",
-      "summary": "Amazon has signed an agreement with X-energy and American Electric Power (AEP) to fund the building of a new nuclear energy facility in Indiana. The proposed plant, which would replace the now defunct coal-fueled Breed Generating Station in Fairbanks, Sullivan County, aims to provide up to 960 megawatts of carbon-free energy for…",
-      "source": "The Verge",
-      "category": "technology",
-      "url": "https://www.theverge.com/tech/1013735/amazon-x-energy-aep-nuclear-indiana",
-      "image": "",
-      "published_at": "2026-10-19T15:44:20+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Amazon is funding a new nuclear plant in Indiana",
-          "summary": "Amazon has signed an agreement with X-energy and American Electric Power (AEP) to fund the building of a new nuclear energy facility in Indiana. The proposed plant, which would replace the now defunct coal-fueled Breed Generating Station in Fairbanks, Sullivan County, aims to provide up to 960 megawatts of carbon-free energy for…"
-        }
-      }
-    },
-    {
-      "id": "329ea0e801f0cec329",
-      "title": "France hit by debt sell-off as violent protests unnerve investors",
-      "summary": "Difference between French and German borrowing costs widens after public buildings burned and shops looted France has been hit by a fresh wave of selling in its bond and stock markets after violent protests over the weekend led to thousands of arrests and left public buildings burned and hundreds of shops looted across the count…",
-      "source": "The Guardian",
-      "category": "economy",
-      "url": "https://www.theguardian.com/world/2026/oct/19/france-hit-by-debt-sell-off-as-protests-unnerve-investors",
-      "image": "https://i.guim.co.uk/img/media/ff2dc74cc6caff96ab8cb23e046cdf2ad57f24bc/404_72_1229_983/master/1229.jpg?width=140&quality=85&auto=format&fit=max&s=3167ef4b892b87cebb6ae8c3258006bb",
-      "published_at": "2026-10-19T15:23:54+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "France hit by debt sell-off as violent protests unnerve investors",
-          "summary": "Difference between French and German borrowing costs widens after public buildings burned and shops looted France has been hit by a fresh wave of selling in its bond and stock markets after violent protests over the weekend led to thousands of arrests and left public buildings burned and hundreds of shops looted across the count…"
-        }
-      }
-    },
-    {
-      "id": "a136a16e20411bfd09",
-      "title": "PM says youth unemployment is a 'catastrophe and a moral failure'",
-      "summary": "The UK faces \"economic catastrophe\" with one million young people not in work or training, the prime minister says.",
-      "source": "BBC News",
-      "category": "politics",
-      "url": "https://www.bbc.co.uk/news/articles/cq0melgpre23o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0573/live/b5b3f2d0-cbbe-11f1-9a39-31b474234113.jpg",
-      "published_at": "2026-10-19T14:59:32+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "PM says youth unemployment is a 'catastrophe and a moral failure'",
-          "summary": "The UK faces \"economic catastrophe\" with one million young people not in work or training, the prime minister says."
-        }
-      }
-    },
-    {
-      "id": "766a23e8525d3c02e7",
-      "title": "Drone attack near market kills 80 in Sudan",
-      "summary": "Witness says drone struck twice at transport hub in al-Dibab, in one of deadliest single attacks of war A drone strike near a market in southern Sudan on Sunday evening killed 80 people, mostly commuters catching rides home. Ahmed Wadi, a witness, said the attack in the town of al-Dibab in West Kordofan state left “50 bodies who…",
-      "source": "The Guardian",
-      "category": "world",
-      "url": "https://www.theguardian.com/world/2026/oct/19/drone-attack-market-al-dibab-west-kordofan-sudan",
-      "image": "https://i.guim.co.uk/img/media/eb787024a897682867056fc8aae201c7d3efbb92/584_0_5840_4672/master/5840.jpg?width=140&quality=85&auto=format&fit=max&s=ee1d55b879d72ff03f02e89388beac85",
-      "published_at": "2026-10-19T14:45:53+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Drone attack near market kills 80 in Sudan",
-          "summary": "Witness says drone struck twice at transport hub in al-Dibab, in one of deadliest single attacks of war A drone strike near a market in southern Sudan on Sunday evening killed 80 people, mostly commuters catching rides home. Ahmed Wadi, a witness, said the attack in the town of al-Dibab in West Kordofan state left “50 bodies who…"
-        }
-      }
-    },
-    {
-      "id": "4c14ea4cdc714e96e9",
-      "title": "Apple’s last-gen Mac Mini with the M4 is $150 off",
-      "summary": "Best Buy has a great deal for the rest of the day on the M4 Mac Mini base model that has 16GB RAM and a 256GB SSD. Normally, it doesn’t make a ton of sense to buy the M4 model for its usual $799 price given that the newer, faster M6 version has been available […]",
-      "source": "The Verge",
-      "category": "technology",
-      "url": "https://www.theverge.com/gadgets/1013645/apple-mac-mini-m4-lg-c6-oled-deal-sale",
-      "image": "",
-      "published_at": "2026-10-19T14:41:48+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Apple’s last-gen Mac Mini with the M4 is $150 off",
-          "summary": "Best Buy has a great deal for the rest of the day on the M4 Mac Mini base model that has 16GB RAM and a 256GB SSD. Normally, it doesn’t make a ton of sense to buy the M4 model for its usual $799 price given that the newer, faster M6 version has been available […]"
-        }
-      }
-    },
-    {
-      "id": "c5c44e772b1e9afa85",
-      "title": "A Chinese rocket deorbited over Minnesota and left this in a farmer's cornfield",
-      "summary": "All the evidence points to the debris being part of a Chinese Zhuque-2E rocket.",
-      "source": "Ars Technica",
-      "category": "technology",
-      "url": "https://arstechnica.com/space/2026/10/a-chinese-rocket-deorbited-over-minnesota-and-left-this-in-a-farmers-cornfield/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/848413061_1584132123754825_2260017497965151960_n-1152x648-1792421844.jpg",
-      "published_at": "2026-10-19T14:35:01+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "A Chinese rocket deorbited over Minnesota and left this in a farmer's cornfield",
-          "summary": "All the evidence points to the debris being part of a Chinese Zhuque-2E rocket."
-        }
-      }
-    },
-    {
-      "id": "9ea28a00d399ad4ee0",
-      "title": "Đà Nẵng thí điểm trao đổi bằng tài sản mã hóa tại nhiều tuyến phố",
-      "summary": "Đà Nẵng mở rộng trao đổi bằng tài sản mã hóa từ ba lên 10 khu vực, để người dùng quy đổi sang đồng Việt Nam khi giao dịch thông qua mã VietQR.",
-      "source": "VnExpress",
-      "category": "technology",
-      "url": "https://vnexpress.net/da-nang-thi-diem-trao-doi-bang-tai-san-ma-hoa-tai-nhieu-tuyen-pho-5134374.html",
-      "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/19/dji-d-1792414456-9930-1792414593.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Wb9HczRCBNgrViEMuWiw3Q",
-      "published_at": "2026-10-19T14:26:13+00:00",
-      "kind": "source_brief",
-      "source_lang": "vi",
-      "translations": {
-        "vi": {
-          "title": "Đà Nẵng thí điểm trao đổi bằng tài sản mã hóa tại nhiều tuyến phố",
-          "summary": "Đà Nẵng mở rộng trao đổi bằng tài sản mã hóa từ ba lên 10 khu vực, để người dùng quy đổi sang đồng Việt Nam khi giao dịch thông qua mã VietQR."
-        }
-      }
-    },
-    {
-      "id": "4e76560a44792de6ea",
-      "title": "US airman dies as daredevil descent goes wrong before Texas college football game",
-      "summary": "The game continued after the incident. The American Conference said the decision was made before his death was known.",
-      "source": "BBC News",
-      "category": "world",
-      "url": "https://www.bbc.co.uk/news/articles/crd6dn63j2xwo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d94/live/b7ee0580-cbd8-11f1-b139-f77a8b036d06.jpg",
-      "published_at": "2026-10-19T14:13:18+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "US airman dies as daredevil descent goes wrong before Texas college football game",
-          "summary": "The game continued after the incident. The American Conference said the decision was made before his death was known."
-        }
-      }
-    },
-    {
-      "id": "7d64c70b69146871ea",
-      "title": "Ebola cases in Kenya highlight US failures amid Trump cuts to key services",
-      "summary": "Opposition to US-led quarantine center in Kenya follows sweeping funding cuts and withdrawal from WHO An eighth person in Kenya has tested positive for the Bundibugyo strain of Ebola in the country’s first-ever cluster of cases of the virus, as the second-largest outbreak in history has killed more than 4,300 and sickened more t…",
-      "source": "The Guardian",
-      "category": "world",
-      "url": "https://www.theguardian.com/world/2026/oct/19/ebola-cases-kenya-us-quarantine",
-      "image": "https://i.guim.co.uk/img/media/121fe3d421149eeeeb2952b13cb999bdc527852e/499_0_5001_4000/master/5001.jpg?width=140&quality=85&auto=format&fit=max&s=0fdf8f6069692abee1ef39afeb50d7cb",
-      "published_at": "2026-10-19T14:11:08+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Ebola cases in Kenya highlight US failures amid Trump cuts to key services",
-          "summary": "Opposition to US-led quarantine center in Kenya follows sweeping funding cuts and withdrawal from WHO An eighth person in Kenya has tested positive for the Bundibugyo strain of Ebola in the country’s first-ever cluster of cases of the virus, as the second-largest outbreak in history has killed more than 4,300 and sickened more t…"
-        }
-      }
-    },
-    {
-      "id": "e9f9cfe38be1d3049c",
-      "title": "Catalonia's former rebel president can return to Spain, court rules",
-      "summary": "The court upholds a decision to lift an arrest warrant for Carles Puigdemont linked to the independence bid he led in 2017.",
-      "source": "BBC News",
-      "category": "politics",
-      "url": "https://www.bbc.co.uk/news/articles/cvp8gzg4e143o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae13/live/2d561f90-cba4-11f1-9ee2-f74dfb8e54e5.jpg",
-      "published_at": "2026-10-19T14:06:53+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Catalonia's former rebel president can return to Spain, court rules",
-          "summary": "The court upholds a decision to lift an arrest warrant for Carles Puigdemont linked to the independence bid he led in 2017."
-        }
-      }
-    },
-    {
-      "id": "b1fd16c8275afd9693",
-      "title": "Exiled critic of Rwandan president found beheaded",
-      "summary": "Former army sergeant major Robert Kabera was a popular YouTuber and singer, who had sought asylum in Uganda.",
-      "source": "BBC News",
-      "category": "politics",
-      "url": "https://www.bbc.co.uk/news/articles/c3lylj78777do?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6002/live/ca68a640-cbae-11f1-821f-c5d07d801cca.png",
-      "published_at": "2026-10-19T13:42:41+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Exiled critic of Rwandan president found beheaded",
-          "summary": "Former army sergeant major Robert Kabera was a popular YouTuber and singer, who had sought asylum in Uganda."
-        }
-      }
-    },
-    {
-      "id": "5cf3c3cac582d590a4",
-      "title": "Bầu Hiển xin cơ chế bù lỗ chuyến bay",
-      "summary": "Ông Đỗ Quang Hiển xin cơ chế nhà nước hỗ trợ các hãng hàng không bù lỗ giai đoạn đầu khai thác đường bay mới, nhằm thu hút chuyến đến Quảng Trị.",
-      "source": "VnExpress",
-      "category": "economy",
-      "url": "https://vnexpress.net/bau-hien-xin-co-che-bu-lo-chuyen-bay-5134373.html",
-      "image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/19/IMG2300-1792411807-4403-1792413238.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=JJd8LSbZf-GFFC7208eq5A",
-      "published_at": "2026-10-19T13:20:03+00:00",
-      "kind": "source_brief",
-      "source_lang": "vi",
-      "translations": {
-        "vi": {
-          "title": "Bầu Hiển xin cơ chế bù lỗ chuyến bay",
-          "summary": "Ông Đỗ Quang Hiển xin cơ chế nhà nước hỗ trợ các hãng hàng không bù lỗ giai đoạn đầu khai thác đường bay mới, nhằm thu hút chuyến đến Quảng Trị."
-        }
-      }
-    },
-    {
-      "id": "2405bd2edbc7b83841",
-      "title": "Nữ CEO Ford Việt Nam: 'Thành công từ thấu hiểu khách hàng'",
-      "summary": "Bà Annaliese Atina, tân Tổng giám đốc Ford Việt Nam, chia sẻ về định hướng phát triển tại thị trường Việt Nam, kinh nghiệm quản trị và quan điểm lãnh đạo của phụ nữ.",
-      "source": "VnExpress",
-      "category": "economy",
-      "url": "https://vnexpress.net/nu-ceo-ford-viet-nam-thanh-cong-tu-thau-hieu-khach-hang-5134375.html",
-      "image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/19/1-1792413167-7221-1792413232.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=zNMDllspR2kZKJam0wriNg",
-      "published_at": "2026-10-19T13:00:00+00:00",
-      "kind": "source_brief",
-      "source_lang": "vi",
-      "translations": {
-        "vi": {
-          "title": "Nữ CEO Ford Việt Nam: 'Thành công từ thấu hiểu khách hàng'",
-          "summary": "Bà Annaliese Atina, tân Tổng giám đốc Ford Việt Nam, chia sẻ về định hướng phát triển tại thị trường Việt Nam, kinh nghiệm quản trị và quan điểm lãnh đạo của phụ nữ."
-        }
-      }
-    },
-    {
-      "id": "ceb85490656a3dea7a",
-      "title": "Home sellers cut asking prices on 3,000 properties a day",
-      "summary": "More property asking prices are being cut than at any time in 15 years, data shared with the BBC shows.",
-      "source": "BBC News",
-      "category": "economy",
-      "url": "https://www.bbc.co.uk/news/articles/c84g13z6xx4eo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f3e/live/90ae7a90-cb97-11f1-9a39-31b474234113.jpg",
-      "published_at": "2026-10-19T12:54:03+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Home sellers cut asking prices on 3,000 properties a day",
-          "summary": "More property asking prices are being cut than at any time in 15 years, data shared with the BBC shows."
-        }
-      }
-    },
-    {
-      "id": "eddb5d017fd2cee911",
-      "title": "AI firm Anthropic to commit 5% of shares to fund for ‘public good’",
-      "summary": "The $48bn giveaway comes amid concerns about the tech and as the company prepares for a stock market listing Anthropic has said it will commit 5% of its shares to a fund for the “public good”, as the AI developer behind the Claude chatbot seeks to bolster its appeal before its stock market listing. The company announced it would…",
-      "source": "The Guardian",
-      "category": "economy",
-      "url": "https://www.theguardian.com/technology/2026/oct/19/ai-firm-anthropic-to-commit-shares-to-fund-for-public-good",
-      "image": "https://i.guim.co.uk/img/media/2790d74966de266025ee31e1975f1f2ce9024d36/387_0_2915_2333/master/2915.jpg?width=140&quality=85&auto=format&fit=max&s=16ba666f47897a1a79435713e2ff8af3",
-      "published_at": "2026-10-19T12:51:04+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "AI firm Anthropic to commit 5% of shares to fund for ‘public good’",
-          "summary": "The $48bn giveaway comes amid concerns about the tech and as the company prepares for a stock market listing Anthropic has said it will commit 5% of its shares to a fund for the “public good”, as the AI developer behind the Claude chatbot seeks to bolster its appeal before its stock market listing. The company announced it would…"
-        }
-      }
-    },
-    {
-      "id": "5ff1d2988ba2776831",
-      "title": "Bereaved families could face 'unjust' tax bill after civil service pension delays",
-      "summary": "The chairman of Parliament's Public Accounts Committee says families should not be taxed through no fault of their own.",
-      "source": "BBC News",
-      "category": "politics",
-      "url": "https://www.bbc.co.uk/news/articles/cq1m4zz9e44go?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1735/live/c618ad10-cbae-11f1-821f-c5d07d801cca.jpg",
-      "published_at": "2026-10-19T12:16:32+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Bereaved families could face 'unjust' tax bill after civil service pension delays",
-          "summary": "The chairman of Parliament's Public Accounts Committee says families should not be taxed through no fault of their own."
-        }
-      }
-    },
-    {
-      "id": "999faf7151b533752e",
-      "title": "Italy plans tougher security measures after violent protests",
-      "summary": "The government crackdown comes after protests over rising costs broke out into violent clashes.",
-      "source": "BBC News",
-      "category": "politics",
-      "url": "https://www.bbc.co.uk/news/articles/c6j9kwxxmxydo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16d1/live/3cdb5c00-cba4-11f1-9ee2-f74dfb8e54e5.jpg",
-      "published_at": "2026-10-19T11:23:36+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Italy plans tougher security measures after violent protests",
-          "summary": "The government crackdown comes after protests over rising costs broke out into violent clashes."
-        }
-      }
-    },
-    {
-      "id": "5223f447f7a1ab6eab",
-      "title": "People playing loud music on buses could face £100 fine",
-      "summary": "Antisocial behaviour on buses in England could lead to fines while a new campaign is also being launched for trains. A national campaign asking rail passengers \"share the carriage, not the noise\" is being launched.",
-      "source": "BBC News",
-      "category": "politics",
-      "url": "https://www.bbc.co.uk/news/articles/cm89z008x7xdo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1177/live/9c756160-cb95-11f1-a64c-550be9e3c66b.jpg",
-      "published_at": "2026-10-19T09:49:58+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "People playing loud music on buses could face £100 fine",
-          "summary": "Antisocial behaviour on buses in England could lead to fines while a new campaign is also being launched for trains. A national campaign asking rail passengers \"share the carriage, not the noise\" is being launched."
-        }
-      }
-    },
-    {
-      "id": "c51ff4746b816d1ba8",
-      "title": "Con gì đầu bò, thân bò, đuôi bò nhưng tên gọi lại không phải bò?",
-      "summary": "Thử thách đố vui tiếng Việt siêu lắt léo khiến cư dân mạng \"bó tay\" suy đoán, bạn có đủ nhanh trí để tìm ra đáp án trong 5 giây?",
-      "source": "VnExpress",
-      "category": "vietnam",
-      "url": "https://vnexpress.net/con-gi-dau-bo-than-bo-duoi-bo-nhung-ten-goi-lai-khong-phai-bo-5132569.html",
-      "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/15/1-1792032801-6472-1792033152.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=EmdpsoZXbzUeVrCNWKXO9Q",
-      "published_at": "2026-10-19T08:00:00+00:00",
-      "kind": "source_brief",
-      "source_lang": "vi",
-      "translations": {
-        "vi": {
-          "title": "Con gì đầu bò, thân bò, đuôi bò nhưng tên gọi lại không phải bò?",
-          "summary": "Thử thách đố vui tiếng Việt siêu lắt léo khiến cư dân mạng \"bó tay\" suy đoán, bạn có đủ nhanh trí để tìm ra đáp án trong 5 giây?"
-        }
-      }
-    },
-    {
-      "id": "6c67891627164751b0",
-      "title": "Vì sao phụ nữ tuổi 40 dễ cáu gắt, lo âu?",
-      "summary": "Lo âu, cáu gắt ở phụ nữ tuổi 40 có thể liên quan đến sụt giảm nội tiết tố thất thường trong cơ thể.",
-      "source": "VnExpress",
-      "category": "vietnam",
-      "url": "https://vnexpress.net/vi-sao-phu-nu-tuoi-40-de-cau-gat-lo-au-5134211.html",
-      "image": "https://vcdn1-suckhoe.vnecdn.net/2026/10/19/image001-1792394253-1919-1792394280.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=R0CdxzNcD3HT-m0XguHYvw",
-      "published_at": "2026-10-19T08:00:00+00:00",
-      "kind": "source_brief",
-      "source_lang": "vi",
-      "translations": {
-        "vi": {
-          "title": "Vì sao phụ nữ tuổi 40 dễ cáu gắt, lo âu?",
-          "summary": "Lo âu, cáu gắt ở phụ nữ tuổi 40 có thể liên quan đến sụt giảm nội tiết tố thất thường trong cơ thể."
-        }
-      }
-    },
-    {
-      "id": "a31355914ab7e2a086",
-      "title": "'Ruồi bay' trước mắt cảnh báo bệnh gì?",
-      "summary": "Mắt tôi thỉnh thoảng nhìn thấy các đốm đen lơ lửng phía trước, dụi mắt lại hết. Xin hỏi đây là dấu hiệu cảnh báo bệnh gì? (Hoàng Nam, Hà Nội)",
-      "source": "VnExpress",
-      "category": "vietnam",
-      "url": "https://vnexpress.net/ruoi-bay-truoc-mat-canh-bao-benh-gi-5134197.html",
-      "image": "https://vcdn1-suckhoe.vnecdn.net/2026/10/19/key-1792393506-6916-1792393531.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=AmezxkarLkApsc_07h1Dpg",
-      "published_at": "2026-10-19T08:00:00+00:00",
-      "kind": "source_brief",
-      "source_lang": "vi",
-      "translations": {
-        "vi": {
-          "title": "'Ruồi bay' trước mắt cảnh báo bệnh gì?",
-          "summary": "Mắt tôi thỉnh thoảng nhìn thấy các đốm đen lơ lửng phía trước, dụi mắt lại hết. Xin hỏi đây là dấu hiệu cảnh báo bệnh gì? (Hoàng Nam, Hà Nội)"
-        }
-      }
-    },
-    {
-      "id": "5abcd8e2728616a01f",
-      "title": "Ra mắt hơn 300 căn hộ M Riverside Danang ven sông Hàn",
-      "summary": "300 chuyên viên kinh doanh từ hơn 10 đại lý dự lễ ra mắt 312 căn hộ thương mại dịch vụ M Riverside Danang, ngày 14/10.",
-      "source": "VnExpress",
-      "category": "vietnam",
-      "url": "https://vnexpress.net/ra-mat-hon-300-can-ho-m-riverside-danang-ven-song-han-5134187.html",
-      "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/19/mriuv-1792389557-3420-1792389641.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=YhD_xf2_S5oAPR-92is2vg",
-      "published_at": "2026-10-19T08:00:00+00:00",
-      "kind": "source_brief",
-      "source_lang": "vi",
-      "translations": {
-        "vi": {
-          "title": "Ra mắt hơn 300 căn hộ M Riverside Danang ven sông Hàn",
-          "summary": "300 chuyên viên kinh doanh từ hơn 10 đại lý dự lễ ra mắt 312 căn hộ thương mại dịch vụ M Riverside Danang, ngày 14/10."
-        }
-      }
-    },
-    {
-      "id": "6248e848cec991b5ea",
-      "title": "ABBank kết nối giao dịch ngân hàng với trải nghiệm nghệ thuật",
-      "summary": "ABBank triển khai chương trình ưu đãi gắn với triển lãm Van Gogh Timeless, mang đến cơ hội nhận quà lưu niệm và các đặc quyền khi khách hàng giao dịch qua ngân hàng.",
-      "source": "VnExpress",
-      "category": "vietnam",
-      "url": "https://vnexpress.net/abbank-ket-noi-giao-dich-ngan-hang-voi-trai-nghiem-nghe-thuat-5133281.html",
-      "image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/19/image001-1792395335-5105-1792395354.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=XUl-f_jek0GyDRf8wpuslA",
-      "published_at": "2026-10-19T08:00:00+00:00",
-      "kind": "source_brief",
-      "source_lang": "vi",
-      "translations": {
-        "vi": {
-          "title": "ABBank kết nối giao dịch ngân hàng với trải nghiệm nghệ thuật",
-          "summary": "ABBank triển khai chương trình ưu đãi gắn với triển lãm Van Gogh Timeless, mang đến cơ hội nhận quà lưu niệm và các đặc quyền khi khách hàng giao dịch qua ngân hàng."
+          "title": "US bans China's DeepSeek from government in race for AI dominance",
+          "summary": "The Chinese technology is removed from most US government agencies as race for AI dominance steps up."
         }
       }
     }
@@ -2026,13 +2026,98 @@
   "videos": {
     "vietnam": [
       {
+        "id": "8u0nrm4Lnew",
+        "title": "Pháp áp đặt lệnh giới nghiêm, quản lý chặt thanh thiếu niên vào ban đêm | Cụm tin Quốc tế",
+        "channel": "VTV24",
+        "category": "vietnam",
+        "published_at": "2026-10-20T09:11:42+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/8u0nrm4Lnew/hqdefault.jpg",
+        "popularity": 673,
+        "provenance": "official_channel_api",
+        "source_lang": "vi",
+        "translations": {
+          "vi": {
+            "title": "Pháp áp đặt lệnh giới nghiêm, quản lý chặt thanh thiếu niên vào ban đêm | Cụm tin Quốc tế",
+            "summary": ""
+          }
+        }
+      },
+      {
+        "id": "zF9p8IdgC7M",
+        "title": "Bắt giữ đối tượng truy nã lẩn trốn tại Lào | Cụm tin | VTV24",
+        "channel": "VTV24",
+        "category": "vietnam",
+        "published_at": "2026-10-20T09:10:56+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/zF9p8IdgC7M/hqdefault.jpg",
+        "popularity": 212,
+        "provenance": "official_channel_api",
+        "source_lang": "vi",
+        "translations": {
+          "vi": {
+            "title": "Bắt giữ đối tượng truy nã lẩn trốn tại Lào | Cụm tin | VTV24",
+            "summary": ""
+          }
+        }
+      },
+      {
+        "id": "asO3fdErM7Q",
+        "title": "Người thợ khuyết tật vượt lên số phận, trao gửi yêu thương cho người có hoàn cảnh khó khăn | Cụm tin",
+        "channel": "VTV24",
+        "category": "vietnam",
+        "published_at": "2026-10-20T08:00:23+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/asO3fdErM7Q/hqdefault.jpg",
+        "popularity": 372,
+        "provenance": "official_channel_api",
+        "source_lang": "vi",
+        "translations": {
+          "vi": {
+            "title": "Người thợ khuyết tật vượt lên số phận, trao gửi yêu thương cho người có hoàn cảnh khó khăn | Cụm tin",
+            "summary": ""
+          }
+        }
+      },
+      {
+        "id": "YWs-6Le0mf8",
+        "title": "TSTC trưa 20/10: Bệnh viện Tim Hà Nội cơ sở 2 chính thức đi vào hoạt động với 300 giường bệnh",
+        "channel": "VTV24",
+        "category": "vietnam",
+        "published_at": "2026-10-20T07:00:10+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/YWs-6Le0mf8/hqdefault.jpg",
+        "popularity": 3374,
+        "provenance": "official_channel_api",
+        "source_lang": "vi",
+        "translations": {
+          "vi": {
+            "title": "TSTC trưa 20/10: Bệnh viện Tim Hà Nội cơ sở 2 chính thức đi vào hoạt động với 300 giường bệnh",
+            "summary": ""
+          }
+        }
+      },
+      {
+        "id": "vOqIQtx3Yp8",
+        "title": "Tin nóng 10 phút 20/10: Thu giữ 200 kg cà phê giả, trộn bột đậu nành và hương liệu | VTV24",
+        "channel": "VTV24",
+        "category": "vietnam",
+        "published_at": "2026-10-20T06:03:51+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/vOqIQtx3Yp8/hqdefault.jpg",
+        "popularity": 3047,
+        "provenance": "official_channel_api",
+        "source_lang": "vi",
+        "translations": {
+          "vi": {
+            "title": "Tin nóng 10 phút 20/10: Thu giữ 200 kg cà phê giả, trộn bột đậu nành và hương liệu | VTV24",
+            "summary": ""
+          }
+        }
+      },
+      {
         "id": "uaDHngArodI",
         "title": "Giải thưởng Phụ nữ Việt Nam 2026: Những người bền bỉ giành lại sự sống cho bệnh nhi ung thư | VTV24",
         "channel": "VTV24",
         "category": "vietnam",
         "published_at": "2026-10-20T05:00:00+00:00",
         "thumbnail": "https://i.ytimg.com/vi/uaDHngArodI/hqdefault.jpg",
-        "popularity": 26,
+        "popularity": 1801,
         "provenance": "official_channel_api",
         "source_lang": "vi",
         "translations": {
@@ -2049,7 +2134,7 @@
         "category": "vietnam",
         "published_at": "2026-10-20T04:15:02+00:00",
         "thumbnail": "https://i.ytimg.com/vi/xnDAT5zgz14/hqdefault.jpg",
-        "popularity": 930,
+        "popularity": 8495,
         "provenance": "official_channel_api",
         "source_lang": "vi",
         "translations": {
@@ -2066,7 +2151,7 @@
         "category": "vietnam",
         "published_at": "2026-10-20T03:30:05+00:00",
         "thumbnail": "https://i.ytimg.com/vi/usSj-QZ6Z_o/hqdefault.jpg",
-        "popularity": 339,
+        "popularity": 2735,
         "provenance": "official_channel_api",
         "source_lang": "vi",
         "translations": {
@@ -2075,226 +2160,141 @@
             "summary": ""
           }
         }
-      },
-      {
-        "id": "Lm4NQGTiLCk",
-        "title": "Bản tin sáng 20/10/2026 | Giải thưởng Phụ nữ Việt Nam năm 2026 | VTV24",
-        "channel": "VTV24",
-        "category": "vietnam",
-        "published_at": "2026-10-20T02:45:23+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/Lm4NQGTiLCk/hqdefault.jpg",
-        "popularity": 1013,
-        "provenance": "official_channel_api",
-        "source_lang": "vi",
-        "translations": {
-          "vi": {
-            "title": "Bản tin sáng 20/10/2026 | Giải thưởng Phụ nữ Việt Nam năm 2026 | VTV24",
-            "summary": ""
-          }
-        }
-      },
-      {
-        "id": "p71-NxTDWOQ",
-        "title": "Thế giới toàn cảnh 20/10: Pháp áp đặt lệnh giới nghiêm tại nhiều địa phương sau bạo loạn | VTV24",
-        "channel": "VTV24",
-        "category": "vietnam",
-        "published_at": "2026-10-20T02:17:33+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/p71-NxTDWOQ/hqdefault.jpg",
-        "popularity": 8951,
-        "provenance": "official_channel_api",
-        "source_lang": "vi",
-        "translations": {
-          "vi": {
-            "title": "Thế giới toàn cảnh 20/10: Pháp áp đặt lệnh giới nghiêm tại nhiều địa phương sau bạo loạn | VTV24",
-            "summary": ""
-          }
-        }
-      },
-      {
-        "id": "02_buYg3Mh4",
-        "title": "Mỹ và Iran cảnh báo nguy cơ xung đột leo thang tại Trung Đông | Cụm tin Quốc tế | VTV24",
-        "channel": "VTV24",
-        "category": "vietnam",
-        "published_at": "2026-10-20T01:15:36+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/02_buYg3Mh4/hqdefault.jpg",
-        "popularity": 5358,
-        "provenance": "official_channel_api",
-        "source_lang": "vi",
-        "translations": {
-          "vi": {
-            "title": "Mỹ và Iran cảnh báo nguy cơ xung đột leo thang tại Trung Đông | Cụm tin Quốc tế | VTV24",
-            "summary": ""
-          }
-        }
-      },
-      {
-        "id": "U3OanedzxjA",
-        "title": "Siêu bão Champi giật trên cấp 17, ít khả năng vào Biển Đông nhưng gây biển động mạnh | VTV24",
-        "channel": "VTV24",
-        "category": "vietnam",
-        "published_at": "2026-10-20T00:22:54+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/U3OanedzxjA/hqdefault.jpg",
-        "popularity": 14913,
-        "provenance": "official_channel_api",
-        "source_lang": "vi",
-        "translations": {
-          "vi": {
-            "title": "Siêu bão Champi giật trên cấp 17, ít khả năng vào Biển Đông nhưng gây biển động mạnh | VTV24",
-            "summary": ""
-          }
-        }
-      },
-      {
-        "id": "oS_nU62QPec",
-        "title": "Đưa làng gốm trăm năm vào kỷ nguyên số | VTV24",
-        "channel": "VTV24",
-        "category": "vietnam",
-        "published_at": "2026-10-19T15:30:35+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/oS_nU62QPec/hqdefault.jpg",
-        "popularity": 4273,
-        "provenance": "official_channel_api",
-        "source_lang": "vi",
-        "translations": {
-          "vi": {
-            "title": "Đưa làng gốm trăm năm vào kỷ nguyên số | VTV24",
-            "summary": ""
-          }
-        }
       }
     ],
     "world": [
       {
-        "id": "E3z6EgtqQtU",
-        "title": "Trump Says DC Golf Course Moving Ahead Despite Lawsuits",
-        "channel": "Bloomberg News",
-        "category": "world",
-        "published_at": "2026-10-20T00:00:21+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/E3z6EgtqQtU/hqdefault.jpg",
-        "popularity": 11276,
-        "provenance": "official_channel_api",
-        "source_lang": "en",
-        "translations": {
-          "en": {
-            "title": "Trump Says DC Golf Course Moving Ahead Despite Lawsuits",
-            "summary": ""
-          }
-        }
-      },
-      {
-        "id": "yLOtOLD5lMM",
-        "title": "Mission blasts off to Mars to grab a piece of its moon | BBC News",
+        "id": "Wh5X6jYIewk",
+        "title": "Targeted curfews help quell violence and rioting across French cities | BBC News",
         "channel": "BBC News",
         "category": "world",
-        "published_at": "2026-10-19T23:47:37+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/yLOtOLD5lMM/hqdefault.jpg",
-        "popularity": 55031,
+        "published_at": "2026-10-20T09:35:07+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/Wh5X6jYIewk/hqdefault.jpg",
+        "popularity": 2274,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
           "en": {
-            "title": "Mission blasts off to Mars to grab a piece of its moon | BBC News",
+            "title": "Targeted curfews help quell violence and rioting across French cities | BBC News",
             "summary": ""
           }
         }
       },
       {
-        "id": "kk47GksuY8U",
-        "title": "Is Netanyahu Losing His Grip on Israel?",
-        "channel": "Bloomberg News",
-        "category": "world",
-        "published_at": "2026-10-19T23:00:36+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/kk47GksuY8U/hqdefault.jpg",
-        "popularity": 807,
-        "provenance": "official_channel_api",
-        "source_lang": "en",
-        "translations": {
-          "en": {
-            "title": "Is Netanyahu Losing His Grip on Israel?",
-            "summary": ""
-          }
-        }
-      },
-      {
-        "id": "Z06EYcuQHGQ",
-        "title": "How did protests in France turn violent? #BBCNews",
+        "id": "3AKQcR0dilI",
+        "title": "Traitors stars surprise students and give them some tips #BBCTeenSummit #Traitors #BBCNews",
         "channel": "BBC News",
         "category": "world",
-        "published_at": "2026-10-19T22:45:35+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/Z06EYcuQHGQ/hqdefault.jpg",
-        "popularity": 21110,
+        "published_at": "2026-10-20T09:00:10+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/3AKQcR0dilI/hqdefault.jpg",
+        "popularity": 351,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
           "en": {
-            "title": "How did protests in France turn violent? #BBCNews",
+            "title": "Traitors stars surprise students and give them some tips #BBCTeenSummit #Traitors #BBCNews",
             "summary": ""
           }
         }
       },
       {
-        "id": "lQTkfMDZ00E",
-        "title": "Why has Japan sent a spacecraft to Mars' moon Phobos? #BBCNews",
+        "id": "bFpC5KiRjzU",
+        "title": "I crashed a speed-dating event to find out if they work | BBC News",
         "channel": "BBC News",
         "category": "world",
-        "published_at": "2026-10-19T22:15:10+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/lQTkfMDZ00E/hqdefault.jpg",
-        "popularity": 6390,
+        "published_at": "2026-10-20T08:30:37+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/bFpC5KiRjzU/hqdefault.jpg",
+        "popularity": 1706,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
           "en": {
-            "title": "Why has Japan sent a spacecraft to Mars' moon Phobos? #BBCNews",
+            "title": "I crashed a speed-dating event to find out if they work | BBC News",
             "summary": ""
           }
         }
       },
       {
-        "id": "NWQn6uxyvNc",
-        "title": "Trump Says He’s Open to Trilateral Meeting With Putin, Xi",
-        "channel": "Bloomberg News",
-        "category": "world",
-        "published_at": "2026-10-19T22:00:31+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/NWQn6uxyvNc/hqdefault.jpg",
-        "popularity": 120459,
-        "provenance": "official_channel_api",
-        "source_lang": "en",
-        "translations": {
-          "en": {
-            "title": "Trump Says He’s Open to Trilateral Meeting With Putin, Xi",
-            "summary": ""
-          }
-        }
-      },
-      {
-        "id": "q_jpLJ57Kig",
-        "title": "France riots latest - curfews imposed in Paris and other cities after days of violent disorder",
+        "id": "rjB-64ubODw",
+        "title": "Teens ask bosses what they're really looking for #BBCTeenSummit #Work #BBCNews",
         "channel": "BBC News",
         "category": "world",
-        "published_at": "2026-10-19T21:39:41+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/q_jpLJ57Kig/hqdefault.jpg",
-        "popularity": 139087,
+        "published_at": "2026-10-20T08:30:12+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/rjB-64ubODw/hqdefault.jpg",
+        "popularity": 603,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
           "en": {
-            "title": "France riots latest - curfews imposed in Paris and other cities after days of violent disorder",
+            "title": "Teens ask bosses what they're really looking for #BBCTeenSummit #Work #BBCNews",
             "summary": ""
           }
         }
       },
       {
-        "id": "bdaV-MRZk-c",
-        "title": "Overnight curfews announced in parts of Paris and other cities after riots across France. #BBCNews",
+        "id": "G5KBHF2ECT0",
+        "title": "Is school preparing you for the future? #BBCTeenSummit #School #BBCNews",
         "channel": "BBC News",
         "category": "world",
-        "published_at": "2026-10-19T21:00:20+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/bdaV-MRZk-c/hqdefault.jpg",
-        "popularity": 19751,
+        "published_at": "2026-10-20T08:15:33+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/G5KBHF2ECT0/hqdefault.jpg",
+        "popularity": 1408,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
           "en": {
-            "title": "Overnight curfews announced in parts of Paris and other cities after riots across France. #BBCNews",
+            "title": "Is school preparing you for the future? #BBCTeenSummit #School #BBCNews",
+            "summary": ""
+          }
+        }
+      },
+      {
+        "id": "pnZyThIWrZ0",
+        "title": "Funding shortages force World Food Programme to cut aid to Gaza. #Gaza #Aid #BBCNews",
+        "channel": "BBC News",
+        "category": "world",
+        "published_at": "2026-10-20T08:00:29+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/pnZyThIWrZ0/hqdefault.jpg",
+        "popularity": 893,
+        "provenance": "official_channel_api",
+        "source_lang": "en",
+        "translations": {
+          "en": {
+            "title": "Funding shortages force World Food Programme to cut aid to Gaza. #Gaza #Aid #BBCNews",
+            "summary": ""
+          }
+        }
+      },
+      {
+        "id": "W4w_K0EZBvQ",
+        "title": "‘My son has disappeared on the Russian frontline’ | BBC News",
+        "channel": "BBC News",
+        "category": "world",
+        "published_at": "2026-10-20T07:56:09+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/W4w_K0EZBvQ/hqdefault.jpg",
+        "popularity": 4114,
+        "provenance": "official_channel_api",
+        "source_lang": "en",
+        "translations": {
+          "en": {
+            "title": "‘My son has disappeared on the Russian frontline’ | BBC News",
+            "summary": ""
+          }
+        }
+      },
+      {
+        "id": "dU86NSxZ1Qk",
+        "title": "Barber says he pulled Australian MP attacker from car. #Australia #BBCNews",
+        "channel": "BBC News",
+        "category": "world",
+        "published_at": "2026-10-20T07:22:20+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/dU86NSxZ1Qk/hqdefault.jpg",
+        "popularity": 2855,
+        "provenance": "official_channel_api",
+        "source_lang": "en",
+        "translations": {
+          "en": {
+            "title": "Barber says he pulled Australian MP attacker from car. #Australia #BBCNews",
             "summary": ""
           }
         }
@@ -2302,137 +2302,137 @@
     ],
     "economy": [
       {
-        "id": "eJfKPH6mNDo",
-        "title": "US Tightens Federal Access to DeepSeek",
+        "id": "XizzOIcYKHM",
+        "title": "Saudi Arabia Delays Flagship Investment Summit to 2027 After Houthi Attacks",
         "channel": "Bloomberg Television",
         "category": "economy",
-        "published_at": "2026-10-20T05:00:46+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/eJfKPH6mNDo/hqdefault.jpg",
-        "popularity": 112,
+        "published_at": "2026-10-20T08:53:53+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/XizzOIcYKHM/hqdefault.jpg",
+        "popularity": 472,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
           "en": {
-            "title": "US Tightens Federal Access to DeepSeek",
+            "title": "Saudi Arabia Delays Flagship Investment Summit to 2027 After Houthi Attacks",
             "summary": ""
           }
         }
       },
       {
-        "id": "wO7jodKJAkw",
-        "title": "Traders on Edge as AI Jitters Continue",
+        "id": "CIp0s2KA1K0",
+        "title": "Is Netanyahu’s Grip on Israel Slipping?",
         "channel": "Bloomberg Television",
         "category": "economy",
-        "published_at": "2026-10-20T04:28:01+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/wO7jodKJAkw/hqdefault.jpg",
-        "popularity": 484,
+        "published_at": "2026-10-20T08:00:01+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/CIp0s2KA1K0/hqdefault.jpg",
+        "popularity": 1705,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
           "en": {
-            "title": "Traders on Edge as AI Jitters Continue",
+            "title": "Is Netanyahu’s Grip on Israel Slipping?",
             "summary": ""
           }
         }
       },
       {
-        "id": "tfO8n6jIBrE",
-        "title": "Australia's Gender Pay Gap Could Persist for Decades",
+        "id": "7Gm6kvRqzrs",
+        "title": "South Korean Data Center Firm Elice Plunges in Trading Debut",
         "channel": "Bloomberg Television",
         "category": "economy",
-        "published_at": "2026-10-20T03:54:41+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/tfO8n6jIBrE/hqdefault.jpg",
-        "popularity": 59,
+        "published_at": "2026-10-20T07:44:44+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/7Gm6kvRqzrs/hqdefault.jpg",
+        "popularity": 2865,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
           "en": {
-            "title": "Australia's Gender Pay Gap Could Persist for Decades",
+            "title": "South Korean Data Center Firm Elice Plunges in Trading Debut",
             "summary": ""
           }
         }
       },
       {
-        "id": "41CWwtFQ_no",
-        "title": "Trump Open to Putin-Xi Talks Without Zelenskyy, Early Voting Underway for Majority of US",
+        "id": "qUIFxEJdMQs",
+        "title": "Why Japan Bond Sale Drew Record Demand: Market Analysis",
         "channel": "Bloomberg Television",
         "category": "economy",
-        "published_at": "2026-10-19T23:51:56+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/41CWwtFQ_no/hqdefault.jpg",
-        "popularity": 14922,
+        "published_at": "2026-10-20T07:42:33+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/qUIFxEJdMQs/hqdefault.jpg",
+        "popularity": 3542,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
           "en": {
-            "title": "Trump Open to Putin-Xi Talks Without Zelenskyy, Early Voting Underway for Majority of US",
+            "title": "Why Japan Bond Sale Drew Record Demand: Market Analysis",
             "summary": ""
           }
         }
       },
       {
-        "id": "2qrX2aFebG0",
-        "title": "Harman: US Foreign Policy in 'Freefall'",
+        "id": "baa9mhj5_0A",
+        "title": "GCash Parent Mynt Debuts After Record Philippine IPO",
         "channel": "Bloomberg Television",
         "category": "economy",
-        "published_at": "2026-10-19T23:11:31+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/2qrX2aFebG0/hqdefault.jpg",
-        "popularity": 7750,
+        "published_at": "2026-10-20T07:33:21+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/baa9mhj5_0A/hqdefault.jpg",
+        "popularity": 1097,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
           "en": {
-            "title": "Harman: US Foreign Policy in 'Freefall'",
+            "title": "GCash Parent Mynt Debuts After Record Philippine IPO",
             "summary": ""
           }
         }
       },
       {
-        "id": "i9A8OH93enI",
-        "title": "Rep. Malliotakis Sees Diesel Prices in Trump’s Russia Shift",
+        "id": "0lRmQctFz1Q",
+        "title": "Stephen Roach: Xi May Be Using Trump Summits to Buy Time",
         "channel": "Bloomberg Television",
         "category": "economy",
-        "published_at": "2026-10-19T23:07:06+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/i9A8OH93enI/hqdefault.jpg",
-        "popularity": 3250,
+        "published_at": "2026-10-20T07:08:19+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/0lRmQctFz1Q/hqdefault.jpg",
+        "popularity": 3259,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
           "en": {
-            "title": "Rep. Malliotakis Sees Diesel Prices in Trump’s Russia Shift",
+            "title": "Stephen Roach: Xi May Be Using Trump Summits to Buy Time",
             "summary": ""
           }
         }
       },
       {
-        "id": "AnyfiwRNra0",
-        "title": "Zelenskyy Says Trump Is Pushing Ukraine to Yield",
+        "id": "YsQtLZEhJoM",
+        "title": "Data Center Firm Elice Flops on Debut & Merz's Russia Warning",
         "channel": "Bloomberg Television",
         "category": "economy",
-        "published_at": "2026-10-19T22:16:48+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/AnyfiwRNra0/hqdefault.jpg",
-        "popularity": 5295,
+        "published_at": "2026-10-20T07:08:00+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/YsQtLZEhJoM/hqdefault.jpg",
+        "popularity": 3512,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
           "en": {
-            "title": "Zelenskyy Says Trump Is Pushing Ukraine to Yield",
+            "title": "Data Center Firm Elice Flops on Debut & Merz's Russia Warning",
             "summary": ""
           }
         }
       },
       {
-        "id": "3AR5dskKi98",
-        "title": "Tech Stocks Rebound as Investors Reassess the AI Trade",
+        "id": "Imx-H0TIwd0",
+        "title": "French Unrest Tapers Off as Tougher Security Imposed",
         "channel": "Bloomberg Television",
         "category": "economy",
-        "published_at": "2026-10-19T22:12:50+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/3AR5dskKi98/hqdefault.jpg",
-        "popularity": 10301,
+        "published_at": "2026-10-20T05:57:14+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/Imx-H0TIwd0/hqdefault.jpg",
+        "popularity": 23492,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
           "en": {
-            "title": "Tech Stocks Rebound as Investors Reassess the AI Trade",
+            "title": "French Unrest Tapers Off as Tougher Security Imposed",
             "summary": ""
           }
         }
@@ -2446,7 +2446,7 @@
         "category": "technology",
         "published_at": "2026-10-19T21:52:27+00:00",
         "thumbnail": "https://i.ytimg.com/vi/pIjlGckgfdE/hqdefault.jpg",
-        "popularity": 3759,
+        "popularity": 5493,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2463,7 +2463,7 @@
         "category": "technology",
         "published_at": "2026-10-19T20:39:42+00:00",
         "thumbnail": "https://i.ytimg.com/vi/CBVODIUnPwc/hqdefault.jpg",
-        "popularity": 13720,
+        "popularity": 18394,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2480,7 +2480,7 @@
         "category": "technology",
         "published_at": "2026-10-17T15:00:19+00:00",
         "thumbnail": "https://i.ytimg.com/vi/mtiMk28wmAw/hqdefault.jpg",
-        "popularity": 10347,
+        "popularity": 10681,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2497,7 +2497,7 @@
         "category": "technology",
         "published_at": "2026-10-16T19:15:30+00:00",
         "thumbnail": "https://i.ytimg.com/vi/9h5naV9Ms4s/hqdefault.jpg",
-        "popularity": 20533,
+        "popularity": 20946,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2514,7 +2514,7 @@
         "category": "technology",
         "published_at": "2026-10-16T17:39:18+00:00",
         "thumbnail": "https://i.ytimg.com/vi/HTqc5fMitok/hqdefault.jpg",
-        "popularity": 22384,
+        "popularity": 22857,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2531,7 +2531,7 @@
         "category": "technology",
         "published_at": "2026-10-16T15:36:53+00:00",
         "thumbnail": "https://i.ytimg.com/vi/z00Lhm3CqAM/hqdefault.jpg",
-        "popularity": 55550,
+        "popularity": 56066,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2548,7 +2548,7 @@
         "category": "technology",
         "published_at": "2026-10-16T15:00:20+00:00",
         "thumbnail": "https://i.ytimg.com/vi/dWmEKM4_lKQ/hqdefault.jpg",
-        "popularity": 19264,
+        "popularity": 19630,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2565,7 +2565,7 @@
         "category": "technology",
         "published_at": "2026-10-16T13:49:43+00:00",
         "thumbnail": "https://i.ytimg.com/vi/_EW8O9SLSXs/hqdefault.jpg",
-        "popularity": 238138,
+        "popularity": 238188,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2584,7 +2584,7 @@
         "category": "ai-trends",
         "published_at": "2026-10-17T13:00:11+00:00",
         "thumbnail": "https://i.ytimg.com/vi/yAGGkDvbjAs/hqdefault.jpg",
-        "popularity": 3240136,
+        "popularity": 3289601,
         "provenance": "youtube_popular",
         "source_lang": "en",
         "translations": {
@@ -2601,7 +2601,7 @@
         "category": "ai-trends",
         "published_at": "2026-10-16T21:00:00+00:00",
         "thumbnail": "https://i.ytimg.com/vi/LJ2v4-FvPcA/hqdefault.jpg",
-        "popularity": 3082,
+        "popularity": 3108,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2618,7 +2618,7 @@
         "category": "ai-trends",
         "published_at": "2026-10-16T16:00:00+00:00",
         "thumbnail": "https://i.ytimg.com/vi/-nmcYcO-EE8/hqdefault.jpg",
-        "popularity": 7556,
+        "popularity": 7651,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2635,7 +2635,7 @@
         "category": "ai-trends",
         "published_at": "2026-10-15T23:00:26+00:00",
         "thumbnail": "https://i.ytimg.com/vi/qJplHFjyv2A/hqdefault.jpg",
-        "popularity": 5905,
+        "popularity": 6078,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2652,7 +2652,7 @@
         "category": "ai-trends",
         "published_at": "2026-10-15T19:00:22+00:00",
         "thumbnail": "https://i.ytimg.com/vi/i3X7Fv0Z3Uc/hqdefault.jpg",
-        "popularity": 13156,
+        "popularity": 13259,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2669,7 +2669,7 @@
         "category": "ai-trends",
         "published_at": "2026-10-15T16:00:02+00:00",
         "thumbnail": "https://i.ytimg.com/vi/nSwmcs37Jd4/hqdefault.jpg",
-        "popularity": 30028,
+        "popularity": 30158,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2686,7 +2686,7 @@
         "category": "ai-trends",
         "published_at": "2026-10-14T17:01:36+00:00",
         "thumbnail": "https://i.ytimg.com/vi/Jh6mgf9M06M/hqdefault.jpg",
-        "popularity": 74748,
+        "popularity": 75205,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2703,7 +2703,7 @@
         "category": "ai-trends",
         "published_at": "2026-10-13T19:00:11+00:00",
         "thumbnail": "https://i.ytimg.com/vi/OYp5j2RihPE/hqdefault.jpg",
-        "popularity": 151709,
+        "popularity": 152528,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {

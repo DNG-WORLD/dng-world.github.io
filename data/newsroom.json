@@ -1,12 +1,12 @@
 {
   "version": 36,
   "translation_status": "not_configured",
-  "updated_at": "2026-10-21T22:07:15.279631+00:00",
-  "attempted_at": "2026-10-21T22:07:15.279631+00:00",
+  "updated_at": "2026-10-22T00:39:19.479538+00:00",
+  "attempted_at": "2026-10-22T00:39:19.479538+00:00",
   "status": "ok",
   "video_status": "fresh",
   "video_warning": "",
-  "video_last_success_at": "2026-10-21T22:07:15.279631+00:00",
+  "video_last_success_at": "2026-10-22T00:39:19.479538+00:00",
   "video_mode": "popular_and_channel",
   "video_api_note": "YouTube Data API v3 / verified embeddable public videos",
   "source_count": 22,
@@ -35,13 +35,373 @@
     "YouTube mostPopular / VN"
   ],
   "sources_failed": [
-    "Tuổi Trẻ / world (empty or no recent records)",
-    "Tuổi Trẻ / economy (empty or no recent records)",
-    "Tuổi Trẻ / vietnam (empty or no recent records)",
     "Search Engine Land / marketing (HTTP Error 403: Forbidden)",
+    "Tuổi Trẻ / vietnam (empty or no recent records)",
+    "Tuổi Trẻ / economy (empty or no recent records)",
+    "Tuổi Trẻ / world (empty or no recent records)",
     "VietnamPlus / vietnam (not well-formed (invalid token): line 1, column 0)"
   ],
   "news": [
+    {
+      "id": "6bed19a8dcdd2f8e5f",
+      "title": "Tesla says it will start selling Cybercabs by end of year",
+      "summary": "Tesla said Wednesday it will start selling its Cybercab to customers by the end of the year, even as federal regulators investigate whether the vehicle meets vehicle safety standards. The gold-hued, autonomous two-seater lacks a steering wheel and other traditional controls. During the company’s third-quarter earnings call, Lars…",
+      "source": "TechCrunch",
+      "category": "technology",
+      "url": "https://techcrunch.com/2026/10/21/tesla-says-it-will-start-selling-cybercabs-by-end-of-year/",
+      "image": "",
+      "published_at": "2026-10-22T00:17:54+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Tesla says it will start selling Cybercabs by end of year",
+          "summary": "Tesla said Wednesday it will start selling its Cybercab to customers by the end of the year, even as federal regulators investigate whether the vehicle meets vehicle safety standards. The gold-hued, autonomous two-seater lacks a steering wheel and other traditional controls. During the company’s third-quarter earnings call, Lars…"
+        }
+      }
+    },
+    {
+      "id": "1a23f2bd44d0b65b45",
+      "title": "YouTube says it isn’t testing hiding the dislike button",
+      "summary": "On Tuesday, I published a story about how YouTube appeared to be testing hiding the dislike button on videos, with at least two users on X sharing screenshots of the dislike button moved into the three-dot menu. But a YouTube spokesperson, in a Wednesday statement to The Verge, confirmed that YouTube is \"not testing hiding […]",
+      "source": "The Verge",
+      "category": "technology",
+      "url": "https://www.theverge.com/streaming/1016206/youtube-dislike-button-videos",
+      "image": "",
+      "published_at": "2026-10-21T23:46:45+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "YouTube says it isn’t testing hiding the dislike button",
+          "summary": "On Tuesday, I published a story about how YouTube appeared to be testing hiding the dislike button on videos, with at least two users on X sharing screenshots of the dislike button moved into the three-dot menu. But a YouTube spokesperson, in a Wednesday statement to The Verge, confirmed that YouTube is \"not testing hiding […]"
+        }
+      }
+    },
+    {
+      "id": "e49b804aa4fbcb2135",
+      "title": "Tesla says customers can add their own vehicles to the robotaxi fleet next year — will it happen?",
+      "summary": "For years, Elon Musk has been making big promises to Tesla owners about unsupervised autonomous driving and the ability to add their own vehicles to the company's robotaxi fleet. During today's third-quarter earnings call, the company finally gave itself a deadline. According to Tesla VP for Autonomous Driving Ashok Elluswamy, T…",
+      "source": "The Verge",
+      "category": "technology",
+      "url": "https://www.theverge.com/transportation/1016118/tesla-robotaxi-customer-owned-vehicle-fleet-network-q3-2026-earnings",
+      "image": "",
+      "published_at": "2026-10-21T23:36:31+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Tesla says customers can add their own vehicles to the robotaxi fleet next year — will it happen?",
+          "summary": "For years, Elon Musk has been making big promises to Tesla owners about unsupervised autonomous driving and the ability to add their own vehicles to the company's robotaxi fleet. During today's third-quarter earnings call, the company finally gave itself a deadline. According to Tesla VP for Autonomous Driving Ashok Elluswamy, T…"
+        }
+      }
+    },
+    {
+      "id": "eabfdab6b5261ba0c2",
+      "title": "The \"trillion pound\" oil fund the government believes Britain could have built",
+      "summary": "For the first time, the Treasury calculates how much the UK could have raised by investing North Sea proceeds.",
+      "source": "BBC News",
+      "category": "economy",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g1zrl2nrqo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/219e/live/8e724170-cda0-11f1-9a39-31b474234113.jpg",
+      "published_at": "2026-10-21T23:27:05+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "The \"trillion pound\" oil fund the government believes Britain could have built",
+          "summary": "For the first time, the Treasury calculates how much the UK could have raised by investing North Sea proceeds."
+        }
+      }
+    },
+    {
+      "id": "3b5588db0db1c6fcd4",
+      "title": "The grads ditching the UK for a fresh start abroad",
+      "summary": "With graduate jobs hard to come by, more young adults are reported to be considering emigrating.",
+      "source": "BBC News",
+      "category": "economy",
+      "url": "https://www.bbc.co.uk/news/articles/cmzxj4e8w44vo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a70c/live/920779f0-cd4f-11f1-a64c-550be9e3c66b.png",
+      "published_at": "2026-10-21T23:12:06+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "The grads ditching the UK for a fresh start abroad",
+          "summary": "With graduate jobs hard to come by, more young adults are reported to be considering emigrating."
+        }
+      }
+    },
+    {
+      "id": "311600481802d0b4ca",
+      "title": "Macron accuses Trump and other foreign leaders of ‘stupid comments’ about France unrest",
+      "summary": "Leaders criticised for spreading misleading information as France prepares for further protests this weekend Emmanuel Macron has accused Donald Trump and other foreign leaders of making “stupid comments” about France’s street unrest for political gain, as the country prepared for more protests this weekend. Speaking during a vis…",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/world/2026/oct/21/macron-trump-foreign-leaders-stupid-comments-france-unrest",
+      "image": "https://i.guim.co.uk/img/media/20bf50463dc49ff68be61020ce2ce0c7149770dc/0_0_4201_3361/master/4201.jpg?width=140&quality=85&auto=format&fit=max&s=38fbd5cbf3703fe16596a94f0b9b3ad8",
+      "published_at": "2026-10-21T23:06:36+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Macron accuses Trump and other foreign leaders of ‘stupid comments’ about France unrest",
+          "summary": "Leaders criticised for spreading misleading information as France prepares for further protests this weekend Emmanuel Macron has accused Donald Trump and other foreign leaders of making “stupid comments” about France’s street unrest for political gain, as the country prepared for more protests this weekend. Speaking during a vis…"
+        }
+      }
+    },
+    {
+      "id": "6126b62233ef37ccb1",
+      "title": "Labor, Coalition and crossbench MPs afraid at home and work after alleged attack on Helen Haines",
+      "summary": "Home and office safety a common concern in Australian federal police and Asio safety briefings with politicians following alleged attack on MP Helen Haines Get our new political email , free app or daily news podcast Security agencies will review safety precautions for MPs’ homes and offices after numerous federal politicians to…",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/22/politicians-say-they-are-paying-thousands-for-own-security-upgrades-amid-rising-threats-ntwnfb",
+      "image": "https://i.guim.co.uk/img/media/38a1cb8826750230c1b0427be62a4322ad2af700/672_0_6718_5375/master/6718.jpg?width=140&quality=85&auto=format&fit=max&s=5880e8b2a9319799383d98421cc1babd",
+      "published_at": "2026-10-21T23:04:49+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Labor, Coalition and crossbench MPs afraid at home and work after alleged attack on Helen Haines",
+          "summary": "Home and office safety a common concern in Australian federal police and Asio safety briefings with politicians following alleged attack on MP Helen Haines Get our new political email , free app or daily news podcast Security agencies will review safety precautions for MPs’ homes and offices after numerous federal politicians to…"
+        }
+      }
+    },
+    {
+      "id": "8d22fc4debd39ff363",
+      "title": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
+      "summary": "Musk says there's \"a lot to be gained\" by combining the firms in what would be the biggest merger in history.",
+      "source": "BBC News",
+      "category": "economy",
+      "url": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a691/live/0777e580-cd28-11f1-bc2e-018d645d8d21.png",
+      "published_at": "2026-10-21T23:04:03+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
+          "summary": "Musk says there's \"a lot to be gained\" by combining the firms in what would be the biggest merger in history."
+        }
+      }
+    },
+    {
+      "id": "c9017f41900263e0e3",
+      "title": "Nhiều ngân hàng cho vay bình quân trên 11% trước đợt hạ lãi suất",
+      "summary": "Techcombank, OCB, TPBank, BVBank… cho khách hàng cá nhân vay lãi suất hơn 11% mỗi năm trước đợt điều chỉnh theo yêu cầu của Ngân hàng Nhà nước.",
+      "source": "VnExpress",
+      "category": "economy",
+      "url": "https://vnexpress.net/nhieu-ngan-hang-cho-vay-binh-quan-tren-11-truoc-dot-ha-lai-suat-5135336.html",
+      "image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/21/VPBank-ThanhTung10-5679-1792596241.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=DEpFII5_akM80ca9pWzSFQ",
+      "published_at": "2026-10-21T23:00:00+00:00",
+      "kind": "source_brief",
+      "source_lang": "vi",
+      "translations": {
+        "vi": {
+          "title": "Nhiều ngân hàng cho vay bình quân trên 11% trước đợt hạ lãi suất",
+          "summary": "Techcombank, OCB, TPBank, BVBank… cho khách hàng cá nhân vay lãi suất hơn 11% mỗi năm trước đợt điều chỉnh theo yêu cầu của Ngân hàng Nhà nước."
+        }
+      }
+    },
+    {
+      "id": "521c08b4e08c0d6954",
+      "title": "Vance tells Republicans to 'stop whining' about controversial Ohio attack ad",
+      "summary": "The ad by Ohio Republican Vivek Ramaswamy features his Democratic rival's estranged mother, who she has not seen since her stepfather was charged with sexual abuse in her childhood.",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/cm98zn3l2rn7o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4fc8/live/64f8e290-cda0-11f1-96a8-11b361e3c25f.jpg",
+      "published_at": "2026-10-21T22:59:18+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Vance tells Republicans to 'stop whining' about controversial Ohio attack ad",
+          "summary": "The ad by Ohio Republican Vivek Ramaswamy features his Democratic rival's estranged mother, who she has not seen since her stepfather was charged with sexual abuse in her childhood."
+        }
+      }
+    },
+    {
+      "id": "f916c70ecbb544ff64",
+      "title": "Airbnb hosts can no longer make guests strip beds and wash dishes under new rules",
+      "summary": "The updated policy will apply to all reservations booked on the accommodation site on or after 20 November.",
+      "source": "BBC News",
+      "category": "economy",
+      "url": "https://www.bbc.co.uk/news/articles/c6n049gg75r4o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5a8/live/221cd660-cda1-11f1-96a8-11b361e3c25f.jpg",
+      "published_at": "2026-10-21T22:54:58+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Airbnb hosts can no longer make guests strip beds and wash dishes under new rules",
+          "summary": "The updated policy will apply to all reservations booked on the accommodation site on or after 20 November."
+        }
+      }
+    },
+    {
+      "id": "8d2d0448075e63e8ff",
+      "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
+      "summary": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
+      "image": "",
+      "published_at": "2026-10-21T22:51:22+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
+          "summary": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters."
+        }
+      }
+    },
+    {
+      "id": "c456f043e53d43f8fd",
+      "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
+      "summary": "The social media giant is planning a new stock strategy to help power its broad investments in AI models and services.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
+      "image": "",
+      "published_at": "2026-10-21T22:45:34+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
+          "summary": "The social media giant is planning a new stock strategy to help power its broad investments in AI models and services."
+        }
+      }
+    },
+    {
+      "id": "5fda1e1adb27276c57",
+      "title": "Data centers could erase decades of air quality gains",
+      "summary": "A rush of new data centers could bring air pollution roaring back to levels not seen since the 2000s in Texas, which has become ground zero for the physical infrastructure behind generative AI. New and proposed data centers are demanding a tremendous amount of electricity. How developers and utilities meet that demand - with gas…",
+      "source": "The Verge",
+      "category": "ai",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report",
+      "image": "",
+      "published_at": "2026-10-21T22:33:44+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Data centers could erase decades of air quality gains",
+          "summary": "A rush of new data centers could bring air pollution roaring back to levels not seen since the 2000s in Texas, which has become ground zero for the physical infrastructure behind generative AI. New and proposed data centers are demanding a tremendous amount of electricity. How developers and utilities meet that demand - with gas…"
+        }
+      }
+    },
+    {
+      "id": "f8a386616265130f87",
+      "title": "FCC chair warns media not to run the \"fake polls\" Trump keeps complaining about",
+      "summary": "Ex-FCC chairs say Brendan Carr aims to scare broadcasters into self-censorship.",
+      "source": "Ars Technica",
+      "category": "technology",
+      "url": "https://arstechnica.com/tech-policy/2026/10/fcc-chair-warns-media-not-to-run-the-fake-polls-trump-keeps-complaining-about/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/12/trump-carr-1152x648-1734382746.jpg",
+      "published_at": "2026-10-21T22:17:50+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "FCC chair warns media not to run the \"fake polls\" Trump keeps complaining about",
+          "summary": "Ex-FCC chairs say Brendan Carr aims to scare broadcasters into self-censorship."
+        }
+      }
+    },
+    {
+      "id": "c3b61a30c86bd7541a",
+      "title": "Airbnb limits chores for guests, sparking backlash from hosts",
+      "summary": "Hosts are threatening to leave the platform after Airbnb says that they can no longer require guests to strip beds or do other time-consuming cleaning chores.",
+      "source": "TechCrunch",
+      "category": "technology",
+      "url": "https://techcrunch.com/2026/10/21/airbnb-limits-chores-for-guests-sparking-backlash-from-hosts/",
+      "image": "",
+      "published_at": "2026-10-21T22:16:05+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Airbnb limits chores for guests, sparking backlash from hosts",
+          "summary": "Hosts are threatening to leave the platform after Airbnb says that they can no longer require guests to strip beds or do other time-consuming cleaning chores."
+        }
+      }
+    },
+    {
+      "id": "050546a5bfa26223a4",
+      "title": "Xbox wants you to pay 24 to 40 cents per hour to stream games you already bought",
+      "summary": "Time-based a la carte charges come on top of the purchase price for the games themselves.",
+      "source": "Ars Technica",
+      "category": "technology",
+      "url": "https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/xcloud3-1152x648.jpg",
+      "published_at": "2026-10-21T22:06:07+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Xbox wants you to pay 24 to 40 cents per hour to stream games you already bought",
+          "summary": "Time-based a la carte charges come on top of the purchase price for the games themselves."
+        }
+      }
+    },
+    {
+      "id": "e5379409c2cf239dc9",
+      "title": "Khi AI khiến người dùng từ bỏ dịch vụ",
+      "summary": "Vào website một thương hiệu quen để mua giày, Thu Hà nhíu mày khi video giới thiệu được tạo từ AI chứ không phải tự quay như trước.",
+      "source": "VnExpress",
+      "category": "ai",
+      "url": "https://vnexpress.net/khi-ai-khien-nguoi-dung-tu-bo-dich-vu-5134567.html",
+      "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/21/lq-1792544056-9764-1792544861.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=DkFvo_aktznW1As70_m9Ww",
+      "published_at": "2026-10-21T22:00:00+00:00",
+      "kind": "source_brief",
+      "source_lang": "vi",
+      "translations": {
+        "vi": {
+          "title": "Khi AI khiến người dùng từ bỏ dịch vụ",
+          "summary": "Vào website một thương hiệu quen để mua giày, Thu Hà nhíu mày khi video giới thiệu được tạo từ AI chứ không phải tự quay như trước."
+        }
+      }
+    },
+    {
+      "id": "0d1eed757005d929f6",
+      "title": "Điều gì xảy ra nếu tác nhân AI 'nói' ngôn ngữ riêng?",
+      "summary": "Nếu tác nhân AI tự hình thành ngôn ngữ riêng, chúng có thể trao đổi thông tin hiệu quả hơn, nhưng gây khó cho khả năng giám sát của con người.",
+      "source": "VnExpress",
+      "category": "ai",
+      "url": "https://vnexpress.net/dieu-gi-xay-ra-neu-tac-nhan-ai-noi-ngon-ngu-rieng-5134247.html",
+      "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/19/robotu-pokalbis-neoniniame-duo-6740-4080-1792409107.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=TmSEYkJqGum9qlwtjuWozA",
+      "published_at": "2026-10-21T22:00:00+00:00",
+      "kind": "source_brief",
+      "source_lang": "vi",
+      "translations": {
+        "vi": {
+          "title": "Điều gì xảy ra nếu tác nhân AI 'nói' ngôn ngữ riêng?",
+          "summary": "Nếu tác nhân AI tự hình thành ngôn ngữ riêng, chúng có thể trao đổi thông tin hiệu quả hơn, nhưng gây khó cho khả năng giám sát của con người."
+        }
+      }
+    },
+    {
+      "id": "faae23bae9e080d4ad",
+      "title": "House prices falling in every Australian capital city for first time in 15 years",
+      "summary": "House prices in Sydney are at a two-year low after falling 4.7% in the September quarter to $1.66m, according to Domain report Get our breaking news email , free app or daily news podcast House prices are falling across every capital city for the first time in 15 years and the second time on record, according to figures from Dom…",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/22/house-prices-fall-sydney-melbourne-perth-brisbane-adelaide-hobart-darwin",
+      "image": "https://i.guim.co.uk/img/media/5d4dfd9405f5779ad4e6153e0c2e4d42646e4d45/479_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=4689ca4f08ba53a9f502b58bc1d9ad6c",
+      "published_at": "2026-10-21T21:56:27+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "House prices falling in every Australian capital city for first time in 15 years",
+          "summary": "House prices in Sydney are at a two-year low after falling 4.7% in the September quarter to $1.66m, according to Domain report Get our breaking news email , free app or daily news podcast House prices are falling across every capital city for the first time in 15 years and the second time on record, according to figures from Dom…"
+        }
+      }
+    },
     {
       "id": "2f964328fd1393fd1c",
       "title": "Meta fined $25bn for 'lies' over user data privacy",
@@ -57,6 +417,42 @@
         "en": {
           "title": "Meta fined $25bn for 'lies' over user data privacy",
           "summary": "The fine is the largest to date against Facebook's owner, larger than an $18bn deal with California."
+        }
+      }
+    },
+    {
+      "id": "f07cf8fa2350865b55",
+      "title": "Enterprises keep buying software upgrades that IT thinks will make things worse",
+      "summary": "Survey of 2,018 IT heads at big firms points to a lack of leverage.",
+      "source": "Ars Technica",
+      "category": "technology",
+      "url": "https://arstechnica.com/information-technology/2026/10/survey-enterprises-waste-28-percent-of-software-budgets-on-unwanted-upgrades/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-832621336-1024x648.jpg",
+      "published_at": "2026-10-21T21:48:52+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Enterprises keep buying software upgrades that IT thinks will make things worse",
+          "summary": "Survey of 2,018 IT heads at big firms points to a lack of leverage."
+        }
+      }
+    },
+    {
+      "id": "5c0529d51668a42218",
+      "title": "Tesla profits drop 43% in Q3",
+      "summary": "Tesla’s once-booming energy storage business also shrunk in Q3 2026.",
+      "source": "Ars Technica",
+      "category": "technology",
+      "url": "https://arstechnica.com/cars/2026/10/tesla-profits-drop-43-in-q3/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2019/10/tesla-polarizing.jpg",
+      "published_at": "2026-10-21T21:35:07+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Tesla profits drop 43% in Q3",
+          "summary": "Tesla’s once-booming energy storage business also shrunk in Q3 2026."
         }
       }
     },
@@ -81,7 +477,7 @@
     {
       "id": "3222098e24245dc24d",
       "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
-      "summary": "Russia says it is \"ready in principle\" to resume peace talks and US President Donald Trump says the world is \"the closest we've been\" to ending the war.",
+      "summary": "Moscow says it is \"ready in principle\" to resume peace talks and US President Donald Trump says the world is \"the closest we've been\" to ending the war.",
       "source": "BBC News",
       "category": "politics",
       "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
@@ -92,7 +488,7 @@
       "translations": {
         "en": {
           "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
-          "summary": "Russia says it is \"ready in principle\" to resume peace talks and US President Donald Trump says the world is \"the closest we've been\" to ending the war."
+          "summary": "Moscow says it is \"ready in principle\" to resume peace talks and US President Donald Trump says the world is \"the closest we've been\" to ending the war."
         }
       }
     },
@@ -387,7 +783,7 @@
     {
       "id": "cb0db03c0b0da96db9",
       "title": "Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace",
-      "summary": "Russia's President Putin does not feel under pressure right now to end the war.",
+      "summary": "President Vladimir Putin does not feel under pressure right now to end the war, the BBC's Russia Editor writes.",
       "source": "BBC News",
       "category": "politics",
       "url": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss",
@@ -398,7 +794,25 @@
       "translations": {
         "en": {
           "title": "Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace",
-          "summary": "Russia's President Putin does not feel under pressure right now to end the war."
+          "summary": "President Vladimir Putin does not feel under pressure right now to end the war, the BBC's Russia Editor writes."
+        }
+      }
+    },
+    {
+      "id": "23d28394e263a1d43b",
+      "title": "Websites taken down worldwide as critical cyber-security update issued",
+      "summary": "The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI.",
+      "source": "BBC News",
+      "category": "economy",
+      "url": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6136/live/b103d880-cd90-11f1-b1e7-39558e114359.jpg",
+      "published_at": "2026-10-21T19:54:57+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Websites taken down worldwide as critical cyber-security update issued",
+          "summary": "The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI."
         }
       }
     },
@@ -417,24 +831,6 @@
         "en": {
           "title": "Airbnb bans making guests do dishes and take out the trash",
           "summary": "Checking out of your next Airbnb might be less of a hassle now that the company is banning hosts from including time-consuming chores in their house rules. Airbnb's updated house rules policy, which starts with reservations booked on or after November 20th, says hosts can't ask guests to \"complete tasks that require significant…"
-        }
-      }
-    },
-    {
-      "id": "258d5ff776fa8f139d",
-      "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
-      "summary": "Anthropic just announced an AI agent competitor to Meta's Muse and OpenAI's Dots: Claude Duet. The new agent, designed for professionals and small business owners, is launching as a \"research preview,\" according to Anthropic, and it's available as a standalone app on iOS and Android and through Claude on the web. The AI agent is…",
-      "source": "The Verge",
-      "category": "ai",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
-      "image": "",
-      "published_at": "2026-10-21T19:53:20+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
-          "summary": "Anthropic just announced an AI agent competitor to Meta's Muse and OpenAI's Dots: Claude Duet. The new agent, designed for professionals and small business owners, is launching as a \"research preview,\" according to Anthropic, and it's available as a standalone app on iOS and Android and through Claude on the web. The AI agent is…"
         }
       }
     },
@@ -476,7 +872,7 @@
     },
     {
       "id": "34727e2ab12c1dbded",
-      "title": "Meta ordered to pay $25 billion in case related to Cambridge Analytica scandal",
+      "title": "Meta ordered to pay $25B in case related to Cambridge Analytica scandal",
       "summary": "The payout is related to a recent trial involving the social media giant that revolved around its data privacy practices.",
       "source": "TechCrunch",
       "category": "technology",
@@ -487,26 +883,8 @@
       "source_lang": "en",
       "translations": {
         "en": {
-          "title": "Meta ordered to pay $25 billion in case related to Cambridge Analytica scandal",
+          "title": "Meta ordered to pay $25B in case related to Cambridge Analytica scandal",
           "summary": "The payout is related to a recent trial involving the social media giant that revolved around its data privacy practices."
-        }
-      }
-    },
-    {
-      "id": "311600481802d0b4ca",
-      "title": "Macron accuses Trump and other foreign leaders of ‘stupid comments’ about France unrest",
-      "summary": "Leaders criticised for spreading misleading information as France prepares for further protests this weekend Emmanuel Macron has accused Donald Trump and other foreign leaders of making “stupid comments” about France’s street unrest for political gain, as the country prepared for more protests this weekend. Speaking during a vis…",
-      "source": "The Guardian",
-      "category": "world",
-      "url": "https://www.theguardian.com/world/2026/oct/21/macron-trump-foreign-leaders-stupid-comments-france-unrest",
-      "image": "https://i.guim.co.uk/img/media/20bf50463dc49ff68be61020ce2ce0c7149770dc/0_0_4201_3361/master/4201.jpg?width=140&quality=85&auto=format&fit=max&s=38fbd5cbf3703fe16596a94f0b9b3ad8",
-      "published_at": "2026-10-21T19:40:56+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Macron accuses Trump and other foreign leaders of ‘stupid comments’ about France unrest",
-          "summary": "Leaders criticised for spreading misleading information as France prepares for further protests this weekend Emmanuel Macron has accused Donald Trump and other foreign leaders of making “stupid comments” about France’s street unrest for political gain, as the country prepared for more protests this weekend. Speaking during a vis…"
         }
       }
     },
@@ -543,24 +921,6 @@
         "en": {
           "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
           "summary": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transaction approvals."
-        }
-      }
-    },
-    {
-      "id": "20d01956fcee92e766",
-      "title": "Walmart is inviting AI agents to shop for you",
-      "summary": "Walmart will soon let AI agents shop on its website for you. Next month, the retail giant will allow you to use an AI agent on the site, with systems in place to let you approve and review purchases and set spending limits. The embrace of AI agents stands in stark contrast to Amazon, which […]",
-      "source": "The Verge",
-      "category": "ai",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents",
-      "image": "",
-      "published_at": "2026-10-21T19:30:00+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Walmart is inviting AI agents to shop for you",
-          "summary": "Walmart will soon let AI agents shop on its website for you. Next month, the retail giant will allow you to use an AI agent on the site, with systems in place to let you approve and review purchases and set spending limits. The embrace of AI agents stands in stark contrast to Amazon, which […]"
         }
       }
     },
@@ -615,24 +975,6 @@
         "en": {
           "title": "The internet is having a very bad cybersecurity day",
           "summary": "From AI-discovered PHP vulnerabilities to flaws in Node.js and popular AI tool LiteLLM, cybersecurity teams have plenty to worry about this week."
-        }
-      }
-    },
-    {
-      "id": "986dfb3f67a1f9879d",
-      "title": "Meta ordered to pay $25 billion in penalties over the Cambridge Analytica scandal",
-      "summary": "The Cambridge Analytica scandal has come back to haunt Meta after a New Mexico judge ordered it to pay $25 billion in penalties for more than 43 million violations of the state's unfair practices law. The ruling marks the biggest legal hit Meta has taken this year, even as it's faced several other losses or […]",
-      "source": "The Verge",
-      "category": "technology",
-      "url": "https://www.theverge.com/policy/1015782/meta-new-mexico-cambridge-analytica-penalty",
-      "image": "",
-      "published_at": "2026-10-21T19:02:49+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Meta ordered to pay $25 billion in penalties over the Cambridge Analytica scandal",
-          "summary": "The Cambridge Analytica scandal has come back to haunt Meta after a New Mexico judge ordered it to pay $25 billion in penalties for more than 43 million violations of the state's unfair practices law. The ruling marks the biggest legal hit Meta has taken this year, even as it's faced several other losses or […]"
         }
       }
     },
@@ -782,7 +1124,7 @@
     },
     {
       "id": "9f2c544ee9306da05b",
-      "title": "PHP armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
+      "title": "PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
       "summary": "This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI.",
       "source": "TechCrunch",
       "category": "ai",
@@ -793,7 +1135,7 @@
       "source_lang": "en",
       "translations": {
         "en": {
-          "title": "PHP armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
+          "title": "PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
           "summary": "This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI."
         }
       }
@@ -925,6 +1267,24 @@
       }
     },
     {
+      "id": "686a391ecfec514d75",
+      "title": "Just Eat apologises for AI food mistakes after social media ridicule",
+      "summary": "A spokesperson said it was removing inaccurate AI images and pausing the rollout of the tool.",
+      "source": "BBC News",
+      "category": "economy",
+      "url": "https://www.bbc.co.uk/news/articles/crz981p0klvgo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f80b/live/ce035410-cd6d-11f1-bc2e-018d645d8d21.png",
+      "published_at": "2026-10-21T17:04:13+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Just Eat apologises for AI food mistakes after social media ridicule",
+          "summary": "A spokesperson said it was removing inaccurate AI images and pausing the rollout of the tool."
+        }
+      }
+    },
+    {
       "id": "d0476c8c8d0cc2212c",
       "title": "Liên Hợp Quốc nâng dự báo nóng lên toàn cầu",
       "summary": "Liên Hợp Quốc nâng kịch bản nóng lên toàn cầu thêm 0,1 độ C so với dự báo năm ngoái, một phần nguyên nhân do Mỹ gia tăng phát thải.",
@@ -963,7 +1323,7 @@
     {
       "id": "fed1bd4386c88ac736",
       "title": "Waymo starts offering rides at the Las Vegas airport",
-      "summary": "Pickups and dropoffs will happen at dedicated \"autonomous vehicle zones\" at Terminal 1 and Terminal 3.",
+      "summary": "Waymo only just started offering rides to the public in Las Vegas in September but is already serving a 24-square-mile area in the city.",
       "source": "TechCrunch",
       "category": "technology",
       "url": "https://techcrunch.com/2026/10/21/waymo-starts-offering-rides-at-the-las-vegas-airport/",
@@ -974,7 +1334,7 @@
       "translations": {
         "en": {
           "title": "Waymo starts offering rides at the Las Vegas airport",
-          "summary": "Pickups and dropoffs will happen at dedicated \"autonomous vehicle zones\" at Terminal 1 and Terminal 3."
+          "summary": "Waymo only just started offering rides to the public in Las Vegas in September but is already serving a 24-square-mile area in the city."
         }
       }
     },
@@ -993,24 +1353,6 @@
         "en": {
           "title": "Family of prison officer killed by IRA receives state apology",
           "summary": "Brian Stack was crossing a street in Dublin in 1983 when he was shot in the back of the neck and died 18 months later."
-        }
-      }
-    },
-    {
-      "id": "b9cc9712c5189f90ab",
-      "title": "SpaceX to attempt Starship catch on next flight, with eye on rapid cadence increase",
-      "summary": "\"We have had significant constructive engagement with the FAA.\"",
-      "source": "Ars Technica",
-      "category": "technology",
-      "url": "https://arstechnica.com/space/2026/10/spacex-will-attempt-to-reach-weekly-starship-launches-by-early-2027/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/HTU8ja-XgAE6GwQ-1152x648.jpg",
-      "published_at": "2026-10-21T16:46:19+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "SpaceX to attempt Starship catch on next flight, with eye on rapid cadence increase",
-          "summary": "\"We have had significant constructive engagement with the FAA.\""
         }
       }
     },
@@ -1141,24 +1483,6 @@
       }
     },
     {
-      "id": "703a2d222678a803c8",
-      "title": "‘I’m always being real’: what on earth persuades disgraced people like Elizabeth Holmes to let the cameras in?",
-      "summary": "With You Can See Everything, Holmes joins other such high-profile subjects as Lance Armstrong, Imelda Marcos and Anthony Weiner to allow film-makers to document their lives. But do they ever come out well? In You Can See Everything, convicted fraudster Elizabeth Holmes invites film-makers Nathan Fielder and Lance Oppenheim into…",
-      "source": "The Guardian",
-      "category": "technology",
-      "url": "https://www.theguardian.com/film/2026/oct/21/elizabeth-holmes-you-can-see-everything-disgrace-documentary",
-      "image": "https://i.guim.co.uk/img/media/13db4dc3f0dea8e3662995e85e5388a8d1bc7412/433_0_1853_1484/master/1853.jpg?width=140&quality=85&auto=format&fit=max&s=f722bb903838b6f47bd70728bbadf69f",
-      "published_at": "2026-10-21T15:02:28+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "‘I’m always being real’: what on earth persuades disgraced people like Elizabeth Holmes to let the cameras in?",
-          "summary": "With You Can See Everything, Holmes joins other such high-profile subjects as Lance Armstrong, Imelda Marcos and Anthony Weiner to allow film-makers to document their lives. But do they ever come out well? In You Can See Everything, convicted fraudster Elizabeth Holmes invites film-makers Nathan Fielder and Lance Oppenheim into…"
-        }
-      }
-    },
-    {
       "id": "693d4ff367742ea72d",
       "title": "Poland’s parliament votes to ease abortion ban but faces likely veto from president",
       "summary": "Measures would remove some penalties for those helping women access abortion but are ‘small-scale step’, say campaigners Poland’s lower house of parliament has approved two bills aimed at loosening a near-total ban on abortions, in what campaigners have described as a “small-scale step” ahead of protests calling on the governmen…",
@@ -1249,78 +1573,6 @@
       }
     },
     {
-      "id": "76db7ee704f574f068",
-      "title": "Foursquare co-founder says equity holders saw no returns from the company’s acquisition",
-      "summary": "Foursquare raised $411 million in funding according to PitchBook data, but its equity holders saw no returns from its final acquisition.",
-      "source": "TechCrunch",
-      "category": "technology",
-      "url": "https://techcrunch.com/2026/10/21/foursquare-co-founder-says-equity-holders-saw-no-returns-from-the-companys-acquisition/",
-      "image": "",
-      "published_at": "2026-10-21T14:03:11+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Foursquare co-founder says equity holders saw no returns from the company’s acquisition",
-          "summary": "Foursquare raised $411 million in funding according to PitchBook data, but its equity holders saw no returns from its final acquisition."
-        }
-      }
-    },
-    {
-      "id": "36efafe455c2b80ce6",
-      "title": "Nỗi lo bảo mật tại Việt Nam khi Q-Day đến sớm",
-      "summary": "Dự báo về thời gian máy tính lượng tử có thể phá vỡ các hệ mật mã hiện nay đang dịch chuyển gần hơn, trong khi quá trình thay thế công nghệ bảo mật có thể kéo dài nhiều năm.",
-      "source": "VnExpress",
-      "category": "technology",
-      "url": "https://vnexpress.net/noi-lo-bao-mat-tai-viet-nam-khi-q-day-den-som-5135283.html",
-      "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/21/mpr07749-1792585754-3718-1792585760.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=_qPu1LdSVLE0Eyax8WxKYw",
-      "published_at": "2026-10-21T14:01:44+00:00",
-      "kind": "source_brief",
-      "source_lang": "vi",
-      "translations": {
-        "vi": {
-          "title": "Nỗi lo bảo mật tại Việt Nam khi Q-Day đến sớm",
-          "summary": "Dự báo về thời gian máy tính lượng tử có thể phá vỡ các hệ mật mã hiện nay đang dịch chuyển gần hơn, trong khi quá trình thay thế công nghệ bảo mật có thể kéo dài nhiều năm."
-        }
-      }
-    },
-    {
-      "id": "f57d2f2209a5f3491b",
-      "title": "‘The audience gets to be in on it’: How narrative-led gameplay is Call of Duty’s greatest weapon",
-      "summary": "As video games chase spectacle, Modern Warfare 4 makes a case for putting character and consequence at the heart of its biggest battles • Don’t get Pushing Buttons delivered to your inbox? Sign up here In these strange, subdued weeks before the much-anticipated release of Grand Theft Auto VI, there have still been some welcome s…",
-      "source": "The Guardian",
-      "category": "technology",
-      "url": "https://www.theguardian.com/games/2026/oct/21/pushing-buttons-call-of-duty-modern-warfare-4",
-      "image": "https://i.guim.co.uk/img/media/aadca8b8e8a16323ad37c7be1f9c2e7e409cc7c9/493_0_2700_2160/master/2700.jpg?width=140&quality=85&auto=format&fit=max&s=6528f6e4b81becc50fc0bb9261f97b41",
-      "published_at": "2026-10-21T14:00:21+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "‘The audience gets to be in on it’: How narrative-led gameplay is Call of Duty’s greatest weapon",
-          "summary": "As video games chase spectacle, Modern Warfare 4 makes a case for putting character and consequence at the heart of its biggest battles • Don’t get Pushing Buttons delivered to your inbox? Sign up here In these strange, subdued weeks before the much-anticipated release of Grand Theft Auto VI, there have still been some welcome s…"
-        }
-      }
-    },
-    {
-      "id": "6126b62233ef37ccb1",
-      "title": "Australian politicians say they are paying thousands for their own security upgrades amid rising threats",
-      "summary": "Home and office safety a common concern in Australian federal police and Asio safety briefings with politicians following alleged attack on MP Helen Haines Get our new political email , free app or daily news podcast Security agencies will review safety precautions for MPs’ homes and offices after numerous federal politicians to…",
-      "source": "The Guardian",
-      "category": "world",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/22/politicians-say-they-are-paying-thousands-for-own-security-upgrades-amid-rising-threats-ntwnfb",
-      "image": "https://i.guim.co.uk/img/media/2c1620ea6466a418bd47d03c09bf1fdab610c52f/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=6863be5e86e5bfe4a2b750f0eff5dbaa",
-      "published_at": "2026-10-21T14:00:20+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Australian politicians say they are paying thousands for their own security upgrades amid rising threats",
-          "summary": "Home and office safety a common concern in Australian federal police and Asio safety briefings with politicians following alleged attack on MP Helen Haines Get our new political email , free app or daily news podcast Security agencies will review safety precautions for MPs’ homes and offices after numerous federal politicians to…"
-        }
-      }
-    },
-    {
       "id": "a68d6b43f3ce653bcf",
       "title": "Majority of Australians who report penicillin allergy not truly allergic",
       "summary": "Peak body for immunologists changes guidelines as evidence shows up to 90% of those reporting allergy don’t have one Get our breaking news email , free app or daily news podcast The majority of Australians who report a penicillin allergy are not truly allergic, prompting the peak body for immunologists to change its guidelines i…",
@@ -1335,60 +1587,6 @@
         "en": {
           "title": "Majority of Australians who report penicillin allergy not truly allergic",
           "summary": "Peak body for immunologists changes guidelines as evidence shows up to 90% of those reporting allergy don’t have one Get our breaking news email , free app or daily news podcast The majority of Australians who report a penicillin allergy are not truly allergic, prompting the peak body for immunologists to change its guidelines i…"
-        }
-      }
-    },
-    {
-      "id": "83bf2d24fc278140b0",
-      "title": "The best Kindles in the UK for every bookworm and budget – tested",
-      "summary": "Whether you want a colour screen, somewhere to scribble notes or a child-friendly model, here’s what we recommend from Amazon’s e-reader range • The best e-readers From that fresh paperback smell to the wrinkles in the spine, nothing beats a real book. But if you’re sick of the space they take up in your home, or the weight they…",
-      "source": "The Guardian",
-      "category": "technology",
-      "url": "https://www.theguardian.com/thefilter/2026/oct/21/best-kindles-tested-uk",
-      "image": "https://i.guim.co.uk/img/media/592239c2bb1dd67d8d31dc53080abc1b4cc9e21a/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=939bee4243d318dbf8f09fa5d4390776",
-      "published_at": "2026-10-21T14:00:20+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "The best Kindles in the UK for every bookworm and budget – tested",
-          "summary": "Whether you want a colour screen, somewhere to scribble notes or a child-friendly model, here’s what we recommend from Amazon’s e-reader range • The best e-readers From that fresh paperback smell to the wrinkles in the spine, nothing beats a real book. But if you’re sick of the space they take up in your home, or the weight they…"
-        }
-      }
-    },
-    {
-      "id": "a61adc6e1acb139db6",
-      "title": "AI promises productivity, but for managers, it’s mostly a headache for now",
-      "summary": "More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
-      "image": "",
-      "published_at": "2026-10-21T14:00:00+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "AI promises productivity, but for managers, it’s mostly a headache for now",
-          "summary": "More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey."
-        }
-      }
-    },
-    {
-      "id": "bc70ac2dbf779ff88a",
-      "title": "Recreating the lost studios of women sculptors with Prune Nourry",
-      "summary": "Google partnered with experts to recreate the workspaces of 19th-century sculptors, bringing their legacies back into focus.",
-      "source": "Google Blog",
-      "category": "ai",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/visionaries-petit-palais-art-basel-paris-prune-nourry/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Prune_Nourry_Hero.max-600x600.format-webp.webp",
-      "published_at": "2026-10-21T14:00:00+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Recreating the lost studios of women sculptors with Prune Nourry",
-          "summary": "Google partnered with experts to recreate the workspaces of 19th-century sculptors, bringing their legacies back into focus."
         }
       }
     },
@@ -1411,24 +1609,6 @@
       }
     },
     {
-      "id": "f96aeaefdb93651d7d",
-      "title": "Heat pump tech is 170 years old — Pascal thinks it’s time for an update",
-      "summary": "Refrigerants startup Pascal has a new take on heat pump and cooling tech using a sponge-like material that promises to be 20% more efficient.",
-      "source": "TechCrunch",
-      "category": "technology",
-      "url": "https://techcrunch.com/2026/10/21/heat-pump-tech-is-170-years-old-pascal-thinks-its-time-for-an-update/",
-      "image": "",
-      "published_at": "2026-10-21T13:30:00+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Heat pump tech is 170 years old — Pascal thinks it’s time for an update",
-          "summary": "Refrigerants startup Pascal has a new take on heat pump and cooling tech using a sponge-like material that promises to be 20% more efficient."
-        }
-      }
-    },
-    {
       "id": "d14a7527f12d215910",
       "title": "French borrowing costs hit 24-year high as civil unrest and budget fears spook markets",
       "summary": "Yield on 10-year government bonds passes 5% amid failure to pass budget and fallout from violent street protests France’s borrowing costs have climbed above 5% for the first time in 24 years as political concerns and the government’s failure to agree a much-delayed budget spook the financial markets. With some civic buildings st…",
@@ -1443,24 +1623,6 @@
         "en": {
           "title": "French borrowing costs hit 24-year high as civil unrest and budget fears spook markets",
           "summary": "Yield on 10-year government bonds passes 5% amid failure to pass budget and fallout from violent street protests France’s borrowing costs have climbed above 5% for the first time in 24 years as political concerns and the government’s failure to agree a much-delayed budget spook the financial markets. With some civic buildings st…"
-        }
-      }
-    },
-    {
-      "id": "cc0b2a0696c1ca5121",
-      "title": "Mach9 raises $34M after pivoting to AI CAD software",
-      "summary": "The startup initially set out to build better, faster, and cheaper surveying hardware in 2021.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/10/21/mach9-raises-34m-after-pivoting-to-ai-cad-software/",
-      "image": "",
-      "published_at": "2026-10-21T13:00:00+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Mach9 raises $34M after pivoting to AI CAD software",
-          "summary": "The startup initially set out to build better, faster, and cheaper surveying hardware in 2021."
         }
       }
     },
@@ -1699,24 +1861,6 @@
       }
     },
     {
-      "id": "6b626aa04a30aa63c4",
-      "title": "Tự cân từng bữa ăn, ông bố 37 tuổi giảm 21 kg rồi lấn sân thể hình",
-      "summary": "Kỷ luật tự cân đo từng khẩu phần ăn giúp Muhammad Aidil Mohamed Sis giảm thành công 21 kg từ 92 kg xuống 71 kg, tạo nền tảng thể lực để tự tin bước lên sàn đấu thể hình.",
-      "source": "VnExpress",
-      "category": "vietnam",
-      "url": "https://vnexpress.net/tu-can-tung-bua-an-ong-bo-37-tuoi-giam-21-kg-roi-lan-san-the-hinh-5135094.html",
-      "image": "https://vcdn1-suckhoe.vnecdn.net/2026/10/21/screenshot-at-1792570678-4033-1792571154.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=BxgVfDwaV-FqXWi26DXvqA",
-      "published_at": "2026-10-21T08:30:37+00:00",
-      "kind": "source_brief",
-      "source_lang": "vi",
-      "translations": {
-        "vi": {
-          "title": "Tự cân từng bữa ăn, ông bố 37 tuổi giảm 21 kg rồi lấn sân thể hình",
-          "summary": "Kỷ luật tự cân đo từng khẩu phần ăn giúp Muhammad Aidil Mohamed Sis giảm thành công 21 kg từ 92 kg xuống 71 kg, tạo nền tảng thể lực để tự tin bước lên sàn đấu thể hình."
-        }
-      }
-    },
-    {
       "id": "b2692b10ab932b68e3",
       "title": "Bố bị bắt vì la mắng, đánh hai con gái trong thời gian dài",
       "summary": "Bùi Văn Tuấn bị bắt giam với cáo buộc đánh đập, hành hạ, chửi bới hai con gái 9-11 tuổi trong thời gian dài.",
@@ -1877,154 +2021,27 @@
           "summary": "Nếu thấy con bất ngờ xin tiền đóng học hay có số lạ gọi điện, tự xưng là công an, phụ huynh nên cảnh giác vì đây là dấu hiệu của \"bắt cóc online\"."
         }
       }
-    },
-    {
-      "id": "84aaa2a18cd5852db9",
-      "title": "300.000 tài xế Green SM được đào tạo sơ cấp cứu",
-      "summary": "Green SM phối hợp hệ thống y tế Vinmec, đại học VinUni đào tạo kiến thức, kỹ năng sơ cấp cứu cho hàng trăm nghìn tài xế trên toàn quốc, từ 21/10.",
-      "source": "VnExpress",
-      "category": "economy",
-      "url": "https://vnexpress.net/300-000-tai-xe-green-sm-duoc-dao-tao-so-cap-cuu-5135114.html",
-      "image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/21/1-1792566933-2419-1792567033.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=DkmYaLVp4PNKwnGX9C4-Yw",
-      "published_at": "2026-10-21T08:00:00+00:00",
-      "kind": "source_brief",
-      "source_lang": "vi",
-      "translations": {
-        "vi": {
-          "title": "300.000 tài xế Green SM được đào tạo sơ cấp cứu",
-          "summary": "Green SM phối hợp hệ thống y tế Vinmec, đại học VinUni đào tạo kiến thức, kỹ năng sơ cấp cứu cho hàng trăm nghìn tài xế trên toàn quốc, từ 21/10."
-        }
-      }
-    },
-    {
-      "id": "e57c7f3db61676c4d4",
-      "title": "SHB lần đầu công bố khung tài chính bền vững",
-      "summary": "SHB xây dựng khung tài chính bền vững theo các nguyên tắc quốc tế về tài chính xanh và xã hội, làm cơ sở lựa chọn dự án, quản lý nguồn vốn và phát triển sản phẩm.",
-      "source": "VnExpress",
-      "category": "economy",
-      "url": "https://vnexpress.net/shb-lan-dau-cong-bo-khung-tai-chinh-ben-vung-5135111.html",
-      "image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/21/Khung-TCBV-1792569531-9735-1792569652.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=q1EiGSis-D3QgZl6yT_IfQ",
-      "published_at": "2026-10-21T08:00:00+00:00",
-      "kind": "source_brief",
-      "source_lang": "vi",
-      "translations": {
-        "vi": {
-          "title": "SHB lần đầu công bố khung tài chính bền vững",
-          "summary": "SHB xây dựng khung tài chính bền vững theo các nguyên tắc quốc tế về tài chính xanh và xã hội, làm cơ sở lựa chọn dự án, quản lý nguồn vốn và phát triển sản phẩm."
-        }
-      }
-    },
-    {
-      "id": "1f91fcc14af34c7bff",
-      "title": "Chồng hát hò, tặng quà 20/10 đồng nghiệp nữ, vợ chẳng được lời chúc nào",
-      "summary": "Chiều tối về, thấy tôi mệt mỏi, ít nói, mặt không vui, anh lại tỏ thái độ.",
-      "source": "VnExpress",
-      "category": "vietnam",
-      "url": "https://vnexpress.net/chong-hat-ho-tang-qua-20-10-dong-nghiep-nu-vo-chang-duoc-loi-chuc-nao-5135098.html",
-      "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/21/GeminiGeneratedImagen2ie7xn2ie-9722-3047-1792569856.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=4x6dAeirh827NRrBBSWqLw",
-      "published_at": "2026-10-21T08:00:00+00:00",
-      "kind": "source_brief",
-      "source_lang": "vi",
-      "translations": {
-        "vi": {
-          "title": "Chồng hát hò, tặng quà 20/10 đồng nghiệp nữ, vợ chẳng được lời chúc nào",
-          "summary": "Chiều tối về, thấy tôi mệt mỏi, ít nói, mặt không vui, anh lại tỏ thái độ."
-        }
-      }
-    },
-    {
-      "id": "59dfe240c5d417ccca",
-      "title": "Đố bạn phân biệt được cá hú, cá vồ đém, cá dứa?",
-      "summary": "Đều là đặc sản sông nước quen thuộc nhưng cá hú, cá vồ đém và cá dứa lại khiến không ít người nhầm lẫn, bạn có chỉ ra chính xác?",
-      "source": "VnExpress",
-      "category": "vietnam",
-      "url": "https://vnexpress.net/do-ban-phan-biet-duoc-ca-hu-ca-vo-dem-ca-dua-5133185.html",
-      "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/16/cau-hoi-1792135369-4705-1792135716.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=EF3JqrGWrjjTxEsgLca2MQ",
-      "published_at": "2026-10-21T08:00:00+00:00",
-      "kind": "source_brief",
-      "source_lang": "vi",
-      "translations": {
-        "vi": {
-          "title": "Đố bạn phân biệt được cá hú, cá vồ đém, cá dứa?",
-          "summary": "Đều là đặc sản sông nước quen thuộc nhưng cá hú, cá vồ đém và cá dứa lại khiến không ít người nhầm lẫn, bạn có chỉ ra chính xác?"
-        }
-      }
-    },
-    {
-      "id": "9ade1f6f65f877be0e",
-      "title": "Bình chọn quạt trần công nghệ nổi bật được yêu thích",
-      "summary": "Số bình chọn thứ 5 của Sản phẩm tôi yêu 2026 có chủ đề quạt trần công nghệ nổi bật được yêu thích nhất, bắt đầu từ 12h ngày 21/10.",
-      "source": "VnExpress",
-      "category": "vietnam",
-      "url": "https://vnexpress.net/binh-chon-quat-tran-cong-nghe-noi-bat-duoc-yeu-thich-5135070.html",
-      "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/21/45bf9bc4cce24cbc15f3-179256241-5587-2236-1792562476.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=HofI2dc3kSMaLHKriD99dQ",
-      "published_at": "2026-10-21T08:00:00+00:00",
-      "kind": "source_brief",
-      "source_lang": "vi",
-      "translations": {
-        "vi": {
-          "title": "Bình chọn quạt trần công nghệ nổi bật được yêu thích",
-          "summary": "Số bình chọn thứ 5 của Sản phẩm tôi yêu 2026 có chủ đề quạt trần công nghệ nổi bật được yêu thích nhất, bắt đầu từ 12h ngày 21/10."
-        }
-      }
-    },
-    {
-      "id": "f725f6eb1734ff0f5c",
-      "title": "FPT cất nóc dự án tổ hợp giáo dục tại Hà Tĩnh",
-      "summary": "Tập đoàn FPT cất nóc tổ hợp Giáo dục FPT trên diện tích hơn 5,6 ha, quy mô đào tạo khoảng 4.400 người học, dự kiến đi vào hoạt động từ năm học 2027-2028.",
-      "source": "VnExpress",
-      "category": "vietnam",
-      "url": "https://vnexpress.net/fpt-cat-noc-du-an-to-hop-giao-duc-tai-ha-tinh-5135143.html",
-      "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/21/anh-1792568759-5548-1792568859.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=JABBc2vcXwZber72IMNu0Q",
-      "published_at": "2026-10-21T08:00:00+00:00",
-      "kind": "source_brief",
-      "source_lang": "vi",
-      "translations": {
-        "vi": {
-          "title": "FPT cất nóc dự án tổ hợp giáo dục tại Hà Tĩnh",
-          "summary": "Tập đoàn FPT cất nóc tổ hợp Giáo dục FPT trên diện tích hơn 5,6 ha, quy mô đào tạo khoảng 4.400 người học, dự kiến đi vào hoạt động từ năm học 2027-2028."
-        }
-      }
-    },
-    {
-      "id": "3927eb27656067deca",
-      "title": "Techcombank lập kỷ lục lợi nhuận trong quý III",
-      "summary": "Techcombank ghi nhận lợi nhuận trước thuế quý III đạt 10.400 tỷ đồng, cao nhất từ trước đến nay, đưa lợi nhuận lũy kế 9 tháng lên 28.900 tỷ đồng, tăng 23,7% so với cùng kỳ.",
-      "source": "VnExpress",
-      "category": "vietnam",
-      "url": "https://vnexpress.net/techcombank-lap-ky-luc-loi-nhuan-trong-quy-iii-5135130.html",
-      "image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/21/giaodich-1792568997-3281-1792569060.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=yGIcERm_lrcmEBc-Ym_E-Q",
-      "published_at": "2026-10-21T08:00:00+00:00",
-      "kind": "source_brief",
-      "source_lang": "vi",
-      "translations": {
-        "vi": {
-          "title": "Techcombank lập kỷ lục lợi nhuận trong quý III",
-          "summary": "Techcombank ghi nhận lợi nhuận trước thuế quý III đạt 10.400 tỷ đồng, cao nhất từ trước đến nay, đưa lợi nhuận lũy kế 9 tháng lên 28.900 tỷ đồng, tăng 23,7% so với cùng kỳ."
-        }
-      }
-    },
-    {
-      "id": "c847db7bd199493223",
-      "title": "Bốn thói quen của dân văn phòng không tốt cho thận",
-      "summary": "Ngồi lâu, uống ít nước hoặc nhịn tiểu là những thói quen thường gặp ở dân văn phòng nhưng không có lợi cho thận.",
-      "source": "VnExpress",
-      "category": "vietnam",
-      "url": "https://vnexpress.net/bon-thoi-quen-cua-dan-van-phong-khong-tot-cho-than-5135129.html",
-      "image": "https://vcdn1-suckhoe.vnecdn.net/2026/10/21/key-logo-vne-1792568067-7607-1792568099.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=N5LxCKVckvu27EEBfAhchw",
-      "published_at": "2026-10-21T08:00:00+00:00",
-      "kind": "source_brief",
-      "source_lang": "vi",
-      "translations": {
-        "vi": {
-          "title": "Bốn thói quen của dân văn phòng không tốt cho thận",
-          "summary": "Ngồi lâu, uống ít nước hoặc nhịn tiểu là những thói quen thường gặp ở dân văn phòng nhưng không có lợi cho thận."
-        }
-      }
     }
   ],
   "videos": {
     "vietnam": [
+      {
+        "id": "NDETUKyb-oI",
+        "title": "Dự báo thời tiết 22/10: Sóng lạnh yếu tác động, một số nơi ở Bắc Bộ giảm nhiệt | VTV24",
+        "channel": "VTV24",
+        "category": "vietnam",
+        "published_at": "2026-10-22T00:21:07+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/NDETUKyb-oI/hqdefault.jpg",
+        "popularity": 832,
+        "provenance": "official_channel_api",
+        "source_lang": "vi",
+        "translations": {
+          "vi": {
+            "title": "Dự báo thời tiết 22/10: Sóng lạnh yếu tác động, một số nơi ở Bắc Bộ giảm nhiệt | VTV24",
+            "summary": ""
+          }
+        }
+      },
       {
         "id": "V42JG1l771o",
         "title": "Công nghệ giúp công trình xanh tối ưu hiệu quả sử dụng tài nguyên | VTV24",
@@ -2032,7 +2049,7 @@
         "category": "vietnam",
         "published_at": "2026-10-21T15:30:38+00:00",
         "thumbnail": "https://i.ytimg.com/vi/V42JG1l771o/hqdefault.jpg",
-        "popularity": 3537,
+        "popularity": 4074,
         "provenance": "official_channel_api",
         "source_lang": "vi",
         "translations": {
@@ -2049,7 +2066,7 @@
         "category": "vietnam",
         "published_at": "2026-10-21T15:00:02+00:00",
         "thumbnail": "https://i.ytimg.com/vi/S2n_bzdvQaU/hqdefault.jpg",
-        "popularity": 4275,
+        "popularity": 4779,
         "provenance": "official_channel_api",
         "source_lang": "vi",
         "translations": {
@@ -2066,12 +2083,29 @@
         "category": "vietnam",
         "published_at": "2026-10-21T14:11:16+00:00",
         "thumbnail": "https://i.ytimg.com/vi/F5GBCyPnYvQ/hqdefault.jpg",
-        "popularity": 15175,
+        "popularity": 18276,
         "provenance": "official_channel_api",
         "source_lang": "vi",
         "translations": {
           "vi": {
             "title": "Thời sự toàn cảnh tối 21/10: Việt Nam - Đan Mạch nâng cấp quan hệ lên Đối tác Chiến lược Toàn diện",
+            "summary": ""
+          }
+        }
+      },
+      {
+        "id": "ZLSi-zM5Ty0",
+        "title": "Khởi tố, bắt tạm giam nam sinh lớp 12 đấm cô giáo ở Hà Nội #shorts #antv #danhcogiao",
+        "channel": "ANTV - Truyền hình Công an Nhân dân",
+        "category": "vietnam",
+        "published_at": "2026-10-21T14:11:06+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/ZLSi-zM5Ty0/hqdefault.jpg",
+        "popularity": 52725,
+        "provenance": "youtube_popular",
+        "source_lang": "vi",
+        "translations": {
+          "vi": {
+            "title": "Khởi tố, bắt tạm giam nam sinh lớp 12 đấm cô giáo ở Hà Nội #shorts #antv #danhcogiao",
             "summary": ""
           }
         }
@@ -2083,7 +2117,7 @@
         "category": "vietnam",
         "published_at": "2026-10-21T13:15:27+00:00",
         "thumbnail": "https://i.ytimg.com/vi/9rXAIRGATUs/hqdefault.jpg",
-        "popularity": 8252,
+        "popularity": 8738,
         "provenance": "official_channel_api",
         "source_lang": "vi",
         "translations": {
@@ -2100,7 +2134,7 @@
         "category": "vietnam",
         "published_at": "2026-10-21T12:30:31+00:00",
         "thumbnail": "https://i.ytimg.com/vi/6Txd86TrWMY/hqdefault.jpg",
-        "popularity": 34618,
+        "popularity": 38548,
         "provenance": "official_channel_api",
         "source_lang": "vi",
         "translations": {
@@ -2117,7 +2151,7 @@
         "category": "vietnam",
         "published_at": "2026-10-21T11:58:43+00:00",
         "thumbnail": "https://i.ytimg.com/vi/cHT0wVARNYI/hqdefault.jpg",
-        "popularity": 122225,
+        "popularity": 151341,
         "provenance": "youtube_popular",
         "source_lang": "vi",
         "translations": {
@@ -2126,43 +2160,26 @@
             "summary": ""
           }
         }
-      },
-      {
-        "id": "DRk98TBgVug",
-        "title": "Thông tin Việt Nam lọt vào top 4 điểm đến mùa thu hấp dẫn nhất thế giới thu hút cộng đồng mạng",
-        "channel": "VTV24",
-        "category": "vietnam",
-        "published_at": "2026-10-21T11:55:58+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/DRk98TBgVug/hqdefault.jpg",
-        "popularity": 4545,
-        "provenance": "official_channel_api",
-        "source_lang": "vi",
-        "translations": {
-          "vi": {
-            "title": "Thông tin Việt Nam lọt vào top 4 điểm đến mùa thu hấp dẫn nhất thế giới thu hút cộng đồng mạng",
-            "summary": ""
-          }
-        }
-      },
-      {
-        "id": "AxERnSwGsUU",
-        "title": "Gia Lai lên phương án di dời 228 hộ dân vùng sạt lở núi Một | Cụm tin | VTV24",
-        "channel": "VTV24",
-        "category": "vietnam",
-        "published_at": "2026-10-21T11:06:07+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/AxERnSwGsUU/hqdefault.jpg",
-        "popularity": 3905,
-        "provenance": "official_channel_api",
-        "source_lang": "vi",
-        "translations": {
-          "vi": {
-            "title": "Gia Lai lên phương án di dời 228 hộ dân vùng sạt lở núi Một | Cụm tin | VTV24",
-            "summary": ""
-          }
-        }
       }
     ],
     "world": [
+      {
+        "id": "6MzY8cFwD5k",
+        "title": "Glee reboot set to return on Hulu and Disney+. #Glee #BBCNews",
+        "channel": "BBC News",
+        "category": "world",
+        "published_at": "2026-10-21T22:30:23+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/6MzY8cFwD5k/hqdefault.jpg",
+        "popularity": 714,
+        "provenance": "official_channel_api",
+        "source_lang": "en",
+        "translations": {
+          "en": {
+            "title": "Glee reboot set to return on Hulu and Disney+. #Glee #BBCNews",
+            "summary": ""
+          }
+        }
+      },
       {
         "id": "moy3waNDQa8",
         "title": "Websites taken down worldwide as AI reveals critical cyber-security threat | BBC News",
@@ -2170,7 +2187,7 @@
         "category": "world",
         "published_at": "2026-10-21T21:56:12+00:00",
         "thumbnail": "https://i.ytimg.com/vi/moy3waNDQa8/hqdefault.jpg",
-        "popularity": 2136,
+        "popularity": 114800,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2187,7 +2204,7 @@
         "category": "world",
         "published_at": "2026-10-21T21:45:20+00:00",
         "thumbnail": "https://i.ytimg.com/vi/BAkY6gyq5q4/hqdefault.jpg",
-        "popularity": 604,
+        "popularity": 8458,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2204,7 +2221,7 @@
         "category": "world",
         "published_at": "2026-10-21T21:32:49+00:00",
         "thumbnail": "https://i.ytimg.com/vi/jzXwVNUbyR8/hqdefault.jpg",
-        "popularity": 3587,
+        "popularity": 20226,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2221,7 +2238,7 @@
         "category": "world",
         "published_at": "2026-10-21T21:00:30+00:00",
         "thumbnail": "https://i.ytimg.com/vi/hVln5puVrMw/hqdefault.jpg",
-        "popularity": 5181,
+        "popularity": 35355,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2238,7 +2255,7 @@
         "category": "world",
         "published_at": "2026-10-21T21:00:28+00:00",
         "thumbnail": "https://i.ytimg.com/vi/oT9kgd0Huws/hqdefault.jpg",
-        "popularity": 1295,
+        "popularity": 4415,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2255,7 +2272,7 @@
         "category": "world",
         "published_at": "2026-10-21T20:15:37+00:00",
         "thumbnail": "https://i.ytimg.com/vi/u4ersrrs03o/hqdefault.jpg",
-        "popularity": 32,
+        "popularity": 452,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2272,7 +2289,7 @@
         "category": "world",
         "published_at": "2026-10-21T20:15:00+00:00",
         "thumbnail": "https://i.ytimg.com/vi/hu1v8SRwoc4/hqdefault.jpg",
-        "popularity": 5676,
+        "popularity": 33006,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2281,26 +2298,77 @@
             "summary": ""
           }
         }
-      },
+      }
+    ],
+    "economy": [
       {
-        "id": "dt-uCfoNnfA",
-        "title": "Can China Demand Offset Soybean Harvest Pressure? | Presented by CME Group",
-        "channel": "Bloomberg News",
-        "category": "world",
-        "published_at": "2026-10-21T20:13:38+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/dt-uCfoNnfA/hqdefault.jpg",
-        "popularity": 17,
+        "id": "wXVdlO3npqw",
+        "title": "Putin Releases Hostage, Earns US Praise as Humanitarian",
+        "channel": "Bloomberg Television",
+        "category": "economy",
+        "published_at": "2026-10-21T23:26:10+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/wXVdlO3npqw/hqdefault.jpg",
+        "popularity": 590,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
           "en": {
-            "title": "Can China Demand Offset Soybean Harvest Pressure? | Presented by CME Group",
+            "title": "Putin Releases Hostage, Earns US Praise as Humanitarian",
             "summary": ""
           }
         }
-      }
-    ],
-    "economy": [
+      },
+      {
+        "id": "lloJiNAPZdQ",
+        "title": "Rep. Kamlager-Dove Says She Would Back Hegseth Impeachment",
+        "channel": "Bloomberg Television",
+        "category": "economy",
+        "published_at": "2026-10-21T22:47:43+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/lloJiNAPZdQ/hqdefault.jpg",
+        "popularity": 327,
+        "provenance": "official_channel_api",
+        "source_lang": "en",
+        "translations": {
+          "en": {
+            "title": "Rep. Kamlager-Dove Says She Would Back Hegseth Impeachment",
+            "summary": ""
+          }
+        }
+      },
+      {
+        "id": "8HilONcPxZ4",
+        "title": "Gilmore: US Has Made a ‘180 Degree’ Shift on Ukraine",
+        "channel": "Bloomberg Television",
+        "category": "economy",
+        "published_at": "2026-10-21T22:42:17+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/8HilONcPxZ4/hqdefault.jpg",
+        "popularity": 1063,
+        "provenance": "official_channel_api",
+        "source_lang": "en",
+        "translations": {
+          "en": {
+            "title": "Gilmore: US Has Made a ‘180 Degree’ Shift on Ukraine",
+            "summary": ""
+          }
+        }
+      },
+      {
+        "id": "-pNlUhBs1Yk",
+        "title": "El-Sayed's Final Test in Michigan Is Here",
+        "channel": "Bloomberg Television",
+        "category": "economy",
+        "published_at": "2026-10-21T22:35:21+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/-pNlUhBs1Yk/hqdefault.jpg",
+        "popularity": 705,
+        "provenance": "official_channel_api",
+        "source_lang": "en",
+        "translations": {
+          "en": {
+            "title": "El-Sayed's Final Test in Michigan Is Here",
+            "summary": ""
+          }
+        }
+      },
       {
         "id": "T8brA63WlgU",
         "title": "Tesla, IBM & Meta Report Earnings as AI Takes Center Stage",
@@ -2308,7 +2376,7 @@
         "category": "economy",
         "published_at": "2026-10-21T22:01:31+00:00",
         "thumbnail": "https://i.ytimg.com/vi/T8brA63WlgU/hqdefault.jpg",
-        "popularity": 53,
+        "popularity": 3858,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2325,7 +2393,7 @@
         "category": "economy",
         "published_at": "2026-10-21T21:14:03+00:00",
         "thumbnail": "https://i.ytimg.com/vi/QiRBaSExqOY/hqdefault.jpg",
-        "popularity": 809,
+        "popularity": 6973,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2342,7 +2410,7 @@
         "category": "economy",
         "published_at": "2026-10-21T21:13:52+00:00",
         "thumbnail": "https://i.ytimg.com/vi/bbBaJCFyLs0/hqdefault.jpg",
-        "popularity": 102,
+        "popularity": 1579,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2359,80 +2427,12 @@
         "category": "economy",
         "published_at": "2026-10-21T21:13:20+00:00",
         "thumbnail": "https://i.ytimg.com/vi/5E73Lwf1f7s/hqdefault.jpg",
-        "popularity": 145,
+        "popularity": 1837,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
           "en": {
             "title": "UK Will Send Air Force Jets to Defend Saudi Arabia",
-            "summary": ""
-          }
-        }
-      },
-      {
-        "id": "093sWJwRbSg",
-        "title": "Rubio Says Ukraine Wouldn’t Exist Without US Support",
-        "channel": "Bloomberg Television",
-        "category": "economy",
-        "published_at": "2026-10-21T21:10:40+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/093sWJwRbSg/hqdefault.jpg",
-        "popularity": 243,
-        "provenance": "official_channel_api",
-        "source_lang": "en",
-        "translations": {
-          "en": {
-            "title": "Rubio Says Ukraine Wouldn’t Exist Without US Support",
-            "summary": ""
-          }
-        }
-      },
-      {
-        "id": "qxvf0kKg4zM",
-        "title": "BofA’s Cabana Asks Fed on Rate Hikes ‘Why Wait Now?’",
-        "channel": "Bloomberg Television",
-        "category": "economy",
-        "published_at": "2026-10-21T21:10:12+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/qxvf0kKg4zM/hqdefault.jpg",
-        "popularity": 493,
-        "provenance": "official_channel_api",
-        "source_lang": "en",
-        "translations": {
-          "en": {
-            "title": "BofA’s Cabana Asks Fed on Rate Hikes ‘Why Wait Now?’",
-            "summary": ""
-          }
-        }
-      },
-      {
-        "id": "bg2krTXKrpI",
-        "title": "United ‘Still Solidly Profitable’ as Fuels Costs Rise, CEO Kirby Says",
-        "channel": "Bloomberg Television",
-        "category": "economy",
-        "published_at": "2026-10-21T21:09:52+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/bg2krTXKrpI/hqdefault.jpg",
-        "popularity": 72,
-        "provenance": "official_channel_api",
-        "source_lang": "en",
-        "translations": {
-          "en": {
-            "title": "United ‘Still Solidly Profitable’ as Fuels Costs Rise, CEO Kirby Says",
-            "summary": ""
-          }
-        }
-      },
-      {
-        "id": "r6iTT65iMXk",
-        "title": "United CEO Kirby on Why he supports a wealth tax",
-        "channel": "Bloomberg Television",
-        "category": "economy",
-        "published_at": "2026-10-21T21:09:39+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/r6iTT65iMXk/hqdefault.jpg",
-        "popularity": 70,
-        "provenance": "official_channel_api",
-        "source_lang": "en",
-        "translations": {
-          "en": {
-            "title": "United CEO Kirby on Why he supports a wealth tax",
             "summary": ""
           }
         }
@@ -2446,7 +2446,7 @@
         "category": "technology",
         "published_at": "2026-10-21T20:02:00+00:00",
         "thumbnail": "https://i.ytimg.com/vi/oqowGcFrF1A/hqdefault.jpg",
-        "popularity": 5373,
+        "popularity": 12902,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2463,7 +2463,7 @@
         "category": "technology",
         "published_at": "2026-10-21T19:07:26+00:00",
         "thumbnail": "https://i.ytimg.com/vi/tuN5h65fhBk/hqdefault.jpg",
-        "popularity": 24038,
+        "popularity": 33518,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2480,7 +2480,7 @@
         "category": "technology",
         "published_at": "2026-10-21T18:23:31+00:00",
         "thumbnail": "https://i.ytimg.com/vi/_JEYlZUf_ps/hqdefault.jpg",
-        "popularity": 11404,
+        "popularity": 28891,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2497,7 +2497,7 @@
         "category": "technology",
         "published_at": "2026-10-21T12:00:11+00:00",
         "thumbnail": "https://i.ytimg.com/vi/g5gptFkgBlI/hqdefault.jpg",
-        "popularity": 106508,
+        "popularity": 134570,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2514,7 +2514,7 @@
         "category": "technology",
         "published_at": "2026-10-21T12:00:08+00:00",
         "thumbnail": "https://i.ytimg.com/vi/-f4mAjpuJpc/hqdefault.jpg",
-        "popularity": 47190,
+        "popularity": 56891,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2531,7 +2531,7 @@
         "category": "technology",
         "published_at": "2026-10-20T20:36:01+00:00",
         "thumbnail": "https://i.ytimg.com/vi/9cGk0tnX68Q/hqdefault.jpg",
-        "popularity": 5732,
+        "popularity": 6076,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2548,7 +2548,7 @@
         "category": "technology",
         "published_at": "2026-10-20T18:48:00+00:00",
         "thumbnail": "https://i.ytimg.com/vi/Om3ySjFtnrA/hqdefault.jpg",
-        "popularity": 25663,
+        "popularity": 26292,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2565,7 +2565,7 @@
         "category": "technology",
         "published_at": "2026-10-20T15:06:23+00:00",
         "thumbnail": "https://i.ytimg.com/vi/gLnaodBRzRo/hqdefault.jpg",
-        "popularity": 8134,
+        "popularity": 8478,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2578,13 +2578,30 @@
     ],
     "ai-trends": [
       {
+        "id": "CsF5oqVV5YE",
+        "title": "🔊 Voice design and voice replication with Gemini 3.8 Flash TTS",
+        "channel": "Google for Developers",
+        "category": "ai-trends",
+        "published_at": "2026-10-21T23:00:08+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/CsF5oqVV5YE/hqdefault.jpg",
+        "popularity": 334,
+        "provenance": "official_channel_api",
+        "source_lang": "en",
+        "translations": {
+          "en": {
+            "title": "🔊 Voice design and voice replication with Gemini 3.8 Flash TTS",
+            "summary": ""
+          }
+        }
+      },
+      {
         "id": "SOF3_evPje8",
         "title": "Design and replicate voices with Gemini 3.8 Flash TTS",
         "channel": "Google for Developers",
         "category": "ai-trends",
         "published_at": "2026-10-21T19:00:23+00:00",
         "thumbnail": "https://i.ytimg.com/vi/SOF3_evPje8/hqdefault.jpg",
-        "popularity": 1800,
+        "popularity": 4248,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2601,7 +2618,7 @@
         "category": "ai-trends",
         "published_at": "2026-10-19T10:48:15+00:00",
         "thumbnail": "https://i.ytimg.com/vi/_DHAMLq5XG4/hqdefault.jpg",
-        "popularity": 268355,
+        "popularity": 270125,
         "provenance": "youtube_popular",
         "source_lang": "en",
         "translations": {
@@ -2618,7 +2635,7 @@
         "category": "ai-trends",
         "published_at": "2026-10-16T21:00:00+00:00",
         "thumbnail": "https://i.ytimg.com/vi/LJ2v4-FvPcA/hqdefault.jpg",
-        "popularity": 3273,
+        "popularity": 3278,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2652,7 +2669,7 @@
         "category": "ai-trends",
         "published_at": "2026-10-15T23:00:26+00:00",
         "thumbnail": "https://i.ytimg.com/vi/qJplHFjyv2A/hqdefault.jpg",
-        "popularity": 6667,
+        "popularity": 6691,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2669,7 +2686,7 @@
         "category": "ai-trends",
         "published_at": "2026-10-15T19:00:22+00:00",
         "thumbnail": "https://i.ytimg.com/vi/i3X7Fv0Z3Uc/hqdefault.jpg",
-        "popularity": 13621,
+        "popularity": 13647,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2686,29 +2703,12 @@
         "category": "ai-trends",
         "published_at": "2026-10-15T16:00:02+00:00",
         "thumbnail": "https://i.ytimg.com/vi/nSwmcs37Jd4/hqdefault.jpg",
-        "popularity": 32088,
+        "popularity": 32196,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
           "en": {
             "title": "Gemini 4 Argon in Antigravity",
-            "summary": ""
-          }
-        }
-      },
-      {
-        "id": "Jh6mgf9M06M",
-        "title": "Gemini 4 Argon: What’s new and what’s next",
-        "channel": "Google for Developers",
-        "category": "ai-trends",
-        "published_at": "2026-10-14T17:01:36+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/Jh6mgf9M06M/hqdefault.jpg",
-        "popularity": 78037,
-        "provenance": "official_channel_api",
-        "source_lang": "en",
-        "translations": {
-          "en": {
-            "title": "Gemini 4 Argon: What’s new and what’s next",
             "summary": ""
           }
         }

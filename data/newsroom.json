@@ -1,12 +1,12 @@
 {
   "version": 36,
   "translation_status": "not_configured",
-  "updated_at": "2026-10-23T22:05:32.311731+00:00",
-  "attempted_at": "2026-10-23T22:05:32.311731+00:00",
+  "updated_at": "2026-10-24T00:35:58.141443+00:00",
+  "attempted_at": "2026-10-24T00:35:58.141443+00:00",
   "status": "ok",
   "video_status": "fresh",
   "video_warning": "",
-  "video_last_success_at": "2026-10-23T22:05:32.311731+00:00",
+  "video_last_success_at": "2026-10-24T00:35:58.141443+00:00",
   "video_mode": "popular_and_channel",
   "video_api_note": "YouTube Data API v3 / verified embeddable public videos",
   "source_count": 22,
@@ -36,16 +36,214 @@
   ],
   "sources_failed": [
     "Search Engine Land / marketing (HTTP Error 403: Forbidden)",
-    "VietnamPlus / vietnam (not well-formed (invalid token): line 1, column 0)",
+    "Tuổi Trẻ / vietnam (empty or no recent records)",
     "Tuổi Trẻ / world (empty or no recent records)",
     "Tuổi Trẻ / economy (empty or no recent records)",
-    "Tuổi Trẻ / vietnam (empty or no recent records)"
+    "VietnamPlus / vietnam (not well-formed (invalid token): line 1, column 0)"
   ],
   "news": [
     {
+      "id": "e74c44b14e60bf338f",
+      "title": "Rubio tells Cubans ‘now is the time’ to act to see political change",
+      "summary": "US secretary of state makes comments after Trump tells US rally warships could intervene on return from Iran Marco Rubio urged Cubans seeking political change in their country to act, saying “now is the time” moments after Donald Trump told a Friday rally for candidates in south Florida that US warships could intervene in Cuba o…",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/us-news/2026/oct/23/marco-rubio-cuba-trump",
+      "image": "https://i.guim.co.uk/img/media/487ad4f76ab73ebceb246949eff4ed204b9cf7c9/405_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=5ce055ddb3540bb2e5e9c9fd3a78179e",
+      "published_at": "2026-10-24T00:30:02+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Rubio tells Cubans ‘now is the time’ to act to see political change",
+          "summary": "US secretary of state makes comments after Trump tells US rally warships could intervene on return from Iran Marco Rubio urged Cubans seeking political change in their country to act, saying “now is the time” moments after Donald Trump told a Friday rally for candidates in south Florida that US warships could intervene in Cuba o…"
+        }
+      }
+    },
+    {
+      "id": "21afcc8b6327ab9fa4",
+      "title": "How does the UK state pension compare with other countries?",
+      "summary": "Do British pensioners have it better or worse than those in other countries?",
+      "source": "BBC News",
+      "category": "economy",
+      "url": "https://www.bbc.co.uk/news/articles/c3gr84w85glyo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a29/live/b390e000-ce14-11f1-9f55-cdc56e9c248c.jpg",
+      "published_at": "2026-10-24T00:09:12+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "How does the UK state pension compare with other countries?",
+          "summary": "Do British pensioners have it better or worse than those in other countries?"
+        }
+      }
+    },
+    {
+      "id": "3a411ea5e3414a5be7",
+      "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
+      "summary": "The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget.",
+      "source": "BBC News",
+      "category": "politics",
+      "url": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43e7/live/343404d0-cf00-11f1-accf-3309656ad0bb.jpg",
+      "published_at": "2026-10-24T00:05:45+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
+          "summary": "The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget."
+        }
+      }
+    },
+    {
+      "id": "fdf271095940d4a812",
+      "title": "Thunderstorms, heavy rain and flash flooding predicted for much of Australia",
+      "summary": "Parts of Queensland, Victoria and South Australia can expect severe storms on Saturday, moving into NSW and Tasmania by Sunday Get our breaking news email , free app or daily news podcast Severe thunderstorms and heavy rain will sweep across most Australian states this weekend, adding to the deluge in an already drenched Queensl…",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/24/thunderstorms-heavy-rain-and-flash-flooding-predicted-for-much-of-australia",
+      "image": "https://i.guim.co.uk/img/media/559129ca49d22e95b5248f9ae804833a6fd6b9bf/469_283_1995_1595/master/1995.jpg?width=140&quality=85&auto=format&fit=max&s=1bf8c6fb6a15e736ff04391632d1240e",
+      "published_at": "2026-10-23T23:26:05+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Thunderstorms, heavy rain and flash flooding predicted for much of Australia",
+          "summary": "Parts of Queensland, Victoria and South Australia can expect severe storms on Saturday, moving into NSW and Tasmania by Sunday Get our breaking news email , free app or daily news podcast Severe thunderstorms and heavy rain will sweep across most Australian states this weekend, adding to the deluge in an already drenched Queensl…"
+        }
+      }
+    },
+    {
+      "id": "8f96b86f1e56f5acc2",
+      "title": "Startups don’t need to go viral to win customers",
+      "summary": "At TechCrunch Disrupt last week, two founders and a VC discussed how to not just gain an early following but keep one.",
+      "source": "TechCrunch",
+      "category": "technology",
+      "url": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
+      "image": "",
+      "published_at": "2026-10-23T23:07:45+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Startups don’t need to go viral to win customers",
+          "summary": "At TechCrunch Disrupt last week, two founders and a VC discussed how to not just gain an early following but keep one."
+        }
+      }
+    },
+    {
+      "id": "dfe5fb536ca517ba2b",
+      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+      "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+      "image": "",
+      "published_at": "2026-10-23T23:05:49+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+          "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work."
+        }
+      }
+    },
+    {
+      "id": "e45695b3f53c0136a1",
+      "title": "Vì sao hãng bay giá rẻ thành công ở châu Âu hơn Mỹ?",
+      "summary": "Quy trình vận hành, thiết kế sân bay và quan điểm của hành khách châu Âu giúp các hãng bay giá rẻ ở đây phát triển hơn so với Mỹ.",
+      "source": "VnExpress",
+      "category": "economy",
+      "url": "https://vnexpress.net/vi-sao-hang-bay-gia-re-thanh-cong-o-chau-au-hon-my-5136127.html",
+      "image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/23/screenshot-1792747475-7743-1792747771.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=pjBJEK8AC1oporwpuLz58A",
+      "published_at": "2026-10-23T23:00:00+00:00",
+      "kind": "source_brief",
+      "source_lang": "vi",
+      "translations": {
+        "vi": {
+          "title": "Vì sao hãng bay giá rẻ thành công ở châu Âu hơn Mỹ?",
+          "summary": "Quy trình vận hành, thiết kế sân bay và quan điểm của hành khách châu Âu giúp các hãng bay giá rẻ ở đây phát triển hơn so với Mỹ."
+        }
+      }
+    },
+    {
+      "id": "97c227bfaa08472768",
+      "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
+      "summary": "From 30 October, tariffs will be eased on some products, including certain machinery, and placed on others, such as carpets.",
+      "source": "BBC News",
+      "category": "economy",
+      "url": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1860/live/f6b62750-cf1d-11f1-9796-954775b3a434.jpg",
+      "published_at": "2026-10-23T22:54:57+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
+          "summary": "From 30 October, tariffs will be eased on some products, including certain machinery, and placed on others, such as carpets."
+        }
+      }
+    },
+    {
+      "id": "94538d593663829e11",
+      "title": "NASA updates lander plans for Moon landings, finally solves long-festering Orion issue",
+      "summary": "\"We have the mandate, we have the resources, and the support from our stakeholders.\"",
+      "source": "Ars Technica",
+      "category": "technology",
+      "url": "https://arstechnica.com/space/2026/10/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/centaur-1002x648.jpg",
+      "published_at": "2026-10-23T22:48:25+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "NASA updates lander plans for Moon landings, finally solves long-festering Orion issue",
+          "summary": "\"We have the mandate, we have the resources, and the support from our stakeholders.\""
+        }
+      }
+    },
+    {
+      "id": "2778505a40c3561433",
+      "title": "Jordon Steele-John’s position remains in limbo as Greens prepare for moment in spotlight",
+      "summary": "David Shoebridge’s newly-minted leadership under pressure over handling of misconduct allegations as Senate estimates looms Get our new political email , free app or daily news podcast More than a week after allegations that Greens senator Jordon Steele-John had behaved inappropriately towards women made headlines, his position…",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/23/jordan-steele-john-in-limbo-greens-misconduct-allegations-ntwnfb",
+      "image": "https://i.guim.co.uk/img/media/bb974d706976903f7cd52427fedbf3da4ecd08d1/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=bc2600a4ff06b5aefd4a4b66553715c2",
+      "published_at": "2026-10-23T22:41:46+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Jordon Steele-John’s position remains in limbo as Greens prepare for moment in spotlight",
+          "summary": "David Shoebridge’s newly-minted leadership under pressure over handling of misconduct allegations as Senate estimates looms Get our new political email , free app or daily news podcast More than a week after allegations that Greens senator Jordon Steele-John had behaved inappropriately towards women made headlines, his position…"
+        }
+      }
+    },
+    {
+      "id": "fd32ce4d6894cdde5b",
+      "title": "Trump drops some Canada tariffs in bid to boost embattled Susan Collins in Maine",
+      "summary": "Republican senator faces critical re-election battle in state where president’s trade war has outraged voters Donald Trump dropped some of the US’s tariffs on Canada on Friday to “better serve the public interest” the White House said, handing a win to Susan Collins, the embattled Republican senator for Maine, as she faces a tig…",
+      "source": "The Guardian",
+      "category": "economy",
+      "url": "https://www.theguardian.com/us-news/2026/oct/23/susan-collins-maine-trump-tariffs-canada",
+      "image": "https://i.guim.co.uk/img/media/a656adaa305948099a0698f8410031bd96ebf2ff/261_0_2655_2125/master/2655.jpg?width=140&quality=85&auto=format&fit=max&s=4d9cc435fff3980f6d247bc8abe9a63f",
+      "published_at": "2026-10-23T22:03:07+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Trump drops some Canada tariffs in bid to boost embattled Susan Collins in Maine",
+          "summary": "Republican senator faces critical re-election battle in state where president’s trade war has outraged voters Donald Trump dropped some of the US’s tariffs on Canada on Friday to “better serve the public interest” the White House said, handing a win to Susan Collins, the embattled Republican senator for Maine, as she faces a tig…"
+        }
+      }
+    },
+    {
       "id": "739797ca19c060e4a9",
       "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
-      "summary": "The robots, stomping their little feet and making tiny R2D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
+      "summary": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
       "source": "TechCrunch",
       "category": "technology",
       "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
@@ -56,7 +254,7 @@
       "translations": {
         "en": {
           "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
-          "summary": "The robots, stomping their little feet and making tiny R2D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command."
+          "summary": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command."
         }
       }
     },
@@ -81,7 +279,7 @@
     {
       "id": "7bee3a3c9519ed80c3",
       "title": "Xbox’s first chief operating officer is out after just a few months",
-      "summary": "Xbox is losing its first chief operating officer (COO) after creating the new role just a few months ago. Helen Chiang is leaving Microsoft today, according to an internal Xbox memo seen by The Verge. Chiang has been at Microsoft for 21 years, serving as the head of Minecraft before being promoted to Xbox chief […]",
+      "summary": "Xbox's first chief operating officer (COO) is leaving after the new role was created just a few months ago. Helen Chiang is leaving Microsoft today, according to an internal Xbox memo seen by The Verge. Chiang has been at Microsoft for 21 years, serving as the head of Minecraft before being promoted to Xbox chief […]",
       "source": "The Verge",
       "category": "technology",
       "url": "https://www.theverge.com/news/1018037/xbox-chief-operating-officer-helen-chiang-departure",
@@ -92,7 +290,7 @@
       "translations": {
         "en": {
           "title": "Xbox’s first chief operating officer is out after just a few months",
-          "summary": "Xbox is losing its first chief operating officer (COO) after creating the new role just a few months ago. Helen Chiang is leaving Microsoft today, according to an internal Xbox memo seen by The Verge. Chiang has been at Microsoft for 21 years, serving as the head of Minecraft before being promoted to Xbox chief […]"
+          "summary": "Xbox's first chief operating officer (COO) is leaving after the new role was created just a few months ago. Helen Chiang is leaving Microsoft today, according to an internal Xbox memo seen by The Verge. Chiang has been at Microsoft for 21 years, serving as the head of Minecraft before being promoted to Xbox chief […]"
         }
       }
     },
@@ -147,42 +345,6 @@
         "en": {
           "title": "VCs, Superhuman Mail founder share red flags about product-market fit",
           "summary": "Top investors from Iconiq and Sapphire Ventures, along with Rahul Vohra, the founder of Superhuman Mail, share the do's and don'ts for building hit products."
-        }
-      }
-    },
-    {
-      "id": "97c227bfaa08472768",
-      "title": "White House says the US is lifting tariffs on some Canadian goods",
-      "summary": "Susan Collins, a Republican in a tight race to keep her senate seat in next month's elections, said she had been working with the White House on tariff relief.",
-      "source": "BBC News",
-      "category": "economy",
-      "url": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1860/live/f6b62750-cf1d-11f1-9796-954775b3a434.jpg",
-      "published_at": "2026-10-23T20:39:39+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "White House says the US is lifting tariffs on some Canadian goods",
-          "summary": "Susan Collins, a Republican in a tight race to keep her senate seat in next month's elections, said she had been working with the White House on tariff relief."
-        }
-      }
-    },
-    {
-      "id": "fd32ce4d6894cdde5b",
-      "title": "Trump drops some Canada tariffs in bid to boost embattled Susan Collins in Maine",
-      "summary": "Republican senator faces critical re-election battle in state where president’s trade war has outraged voters Donald Trump dropped some of the US’s tariffs on Canada on Friday to “better serve the public interest” the White House said, handing a win to Susan Collins, the embattled Republican senator for Maine, as she faces a tig…",
-      "source": "The Guardian",
-      "category": "economy",
-      "url": "https://www.theguardian.com/us-news/2026/oct/23/susan-collins-maine-trump-tariffs-canada",
-      "image": "https://i.guim.co.uk/img/media/a656adaa305948099a0698f8410031bd96ebf2ff/261_0_2655_2125/master/2655.jpg?width=140&quality=85&auto=format&fit=max&s=4d9cc435fff3980f6d247bc8abe9a63f",
-      "published_at": "2026-10-23T20:36:12+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Trump drops some Canada tariffs in bid to boost embattled Susan Collins in Maine",
-          "summary": "Republican senator faces critical re-election battle in state where president’s trade war has outraged voters Donald Trump dropped some of the US’s tariffs on Canada on Friday to “better serve the public interest” the White House said, handing a win to Susan Collins, the embattled Republican senator for Maine, as she faces a tig…"
         }
       }
     },
@@ -297,7 +459,7 @@
     {
       "id": "e097ac388c0ec7ecba",
       "title": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
-      "summary": "One person is killed and five wounded in a series of attacks and the suspected gunman has been apprehended.",
+      "summary": "One person is killed and five wounded in a series of attacks. The suspected gunman has been apprehended.",
       "source": "BBC News",
       "category": "world",
       "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
@@ -308,7 +470,7 @@
       "translations": {
         "en": {
           "title": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
-          "summary": "One person is killed and five wounded in a series of attacks and the suspected gunman has been apprehended."
+          "summary": "One person is killed and five wounded in a series of attacks. The suspected gunman has been apprehended."
         }
       }
     },
@@ -453,6 +615,24 @@
         "en": {
           "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
           "summary": "The network is used by the Ukrainian military, sources say, and Trump says \"if there is a problem, I'll get it straightened out\"."
+        }
+      }
+    },
+    {
+      "id": "c501a531f3bdbbc423",
+      "title": "‘Black October’: cybersecurity experts sound the alarm over new era of AI-enabled hacking",
+      "summary": "After discovery of severe bug in the PHP programming language, executives warn of ‘vulnerability tsunami’ Leaders in cybersecurity are sounding the alarm after the discovery of a major vulnerability this week. They are predicting that artificial intelligence tools will expose more fundamental weaknesses in global internet infras…",
+      "source": "The Guardian",
+      "category": "ai",
+      "url": "https://www.theguardian.com/technology/2026/oct/23/cybersecurity-ai-hacking-php-vulnerability",
+      "image": "https://i.guim.co.uk/img/media/cb4c18c4ae3df1d687b8488dfb57058ade00d1a7/731_0_3659_2927/master/3659.jpg?width=140&quality=85&auto=format&fit=max&s=22240fd63146e88296ce67fe0124324c",
+      "published_at": "2026-10-23T18:48:48+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "‘Black October’: cybersecurity experts sound the alarm over new era of AI-enabled hacking",
+          "summary": "After discovery of severe bug in the PHP programming language, executives warn of ‘vulnerability tsunami’ Leaders in cybersecurity are sounding the alarm after the discovery of a major vulnerability this week. They are predicting that artificial intelligence tools will expose more fundamental weaknesses in global internet infras…"
         }
       }
     },
@@ -871,42 +1051,6 @@
       }
     },
     {
-      "id": "6fa4559ee3ac375dcc",
-      "title": "Everybody panic: A Valve developer said \"HLX\" in public",
-      "summary": "Sound designer lets Half Life-related codename slip at a conference.",
-      "source": "Ars Technica",
-      "category": "technology",
-      "url": "https://arstechnica.com/gaming/2026/10/everybody-panic-a-valve-developer-said-hlx-in-public/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2017/08/024-1152x648-1740609184.jpg",
-      "published_at": "2026-10-23T16:35:00+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Everybody panic: A Valve developer said \"HLX\" in public",
-          "summary": "Sound designer lets Half Life-related codename slip at a conference."
-        }
-      }
-    },
-    {
-      "id": "df0e399b41113039c3",
-      "title": "Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels",
-      "summary": "Daytona is building a cloud for agents that's like giving every agent its own computer. It has attracted founders of Stripe, Perplextity, Datadog, Mercor, and others as angels, it says.",
-      "source": "TechCrunch",
-      "category": "technology",
-      "url": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/",
-      "image": "",
-      "published_at": "2026-10-23T16:26:29+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels",
-          "summary": "Daytona is building a cloud for agents that's like giving every agent its own computer. It has attracted founders of Stripe, Perplextity, Datadog, Mercor, and others as angels, it says."
-        }
-      }
-    },
-    {
       "id": "44dd36b0bc69137731",
       "title": "Russia and Ukraine agree to local ceasefire in Oleshky amid deepening humanitarian crisis",
       "summary": "People in Russian-occupied city facing severe shortages of food, water and electricity, with some reportedly surviving on weeds The White House has said that Russia and Ukraine have agreed to a ceasefire in the Russian-occupied city of Oleshky, where a deepening humanitarian crisis has left thousands of civilians struggling to s…",
@@ -926,7 +1070,7 @@
     },
     {
       "id": "13ef21511e7bb2c5b8",
-      "title": "What some of Anthropic’s backers are reportedly worth before its IPO",
+      "title": "What some of Anthropic’s backers are worth before its IPO",
       "summary": "Early-stage and follow-on investors in the AI lab are already sitting on major paper returns.",
       "source": "TechCrunch",
       "category": "ai",
@@ -937,7 +1081,7 @@
       "source_lang": "en",
       "translations": {
         "en": {
-          "title": "What some of Anthropic’s backers are reportedly worth before its IPO",
+          "title": "What some of Anthropic’s backers are worth before its IPO",
           "summary": "Early-stage and follow-on investors in the AI lab are already sitting on major paper returns."
         }
       }
@@ -1505,7 +1649,7 @@
       "title": "Dòng tiền đổ vào cổ phiếu ngân hàng",
       "summary": "STB tăng trần, ACB dẫn đầu thanh khoản, sắc xanh cổ phiếu ngân hàng chiếm phần lớn bảng điện khiến nhóm này thành động lực chính kéo chứng khoán tăng hơn 13 điểm.",
       "source": "VnExpress",
-      "category": "economy",
+      "category": "vietnam",
       "url": "https://vnexpress.net/dong-tien-do-vao-co-phieu-ngan-hang-5136071.html",
       "image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/23/td5-1792743384-6873-1792743449.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=uWnT7BWT_47KEXb4lWdxWA",
       "published_at": "2026-10-23T08:58:09+00:00",
@@ -1605,24 +1749,6 @@
         "vi": {
           "title": "Bánh xèo củi trong hẻm sâu hút khách tại TP HCM",
           "summary": "Quán bánh xèo phong cách Quảng Ngãi thu hút thực khách nhờ cách đổ bánh bằng củi, gợi không khí hoài niệm của những thập niên trước."
-        }
-      }
-    },
-    {
-      "id": "7ce76d9833babb6d60",
-      "title": "What is the Budget and what could be in it?",
-      "summary": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
-      "source": "BBC News",
-      "category": "economy",
-      "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e2e/live/b81a2280-b8e8-11f1-ba42-19e1456ae537.jpg",
-      "published_at": "2026-10-23T08:14:04+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "What is the Budget and what could be in it?",
-          "summary": "Chancellor John Healey will set out his plans for UK taxes on 28 October."
         }
       }
     },
@@ -1753,24 +1879,6 @@
       }
     },
     {
-      "id": "1ab816be79cf2b5bf3",
-      "title": "Magnitude-7 earthquake hits Tibet, killing at least 16 and destroying hundreds of homes",
-      "summary": "Search and rescue efforts under way after quake strikes region’s north, with at least seven aftershocks recorded A magnitude-7 earthquake has hit Tibet, killing at least 16 people, injuring 54 and destroying hundreds of homes in the northern regional city of Nagqu, official media have said. Search and rescue efforts continued af…",
-      "source": "The Guardian",
-      "category": "world",
-      "url": "https://www.theguardian.com/world/2026/oct/23/magnitude-7-earthquake-hits-china-tibet",
-      "image": "https://i.guim.co.uk/img/media/2b752e0d59c4399c02caaf09d97ac8759514aa0f/147_95_1010_808/master/1010.jpg?width=140&quality=85&auto=format&fit=max&s=7dd284d7b4fb72fc6bbe41c3995ce0a6",
-      "published_at": "2026-10-23T07:53:58+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Magnitude-7 earthquake hits Tibet, killing at least 16 and destroying hundreds of homes",
-          "summary": "Search and rescue efforts under way after quake strikes region’s north, with at least seven aftershocks recorded A magnitude-7 earthquake has hit Tibet, killing at least 16 people, injuring 54 and destroying hundreds of homes in the northern regional city of Nagqu, official media have said. Search and rescue efforts continued af…"
-        }
-      }
-    },
-    {
       "id": "9b9458b131a00b543a",
       "title": "Rò rỉ bồn hóa chất tại Mỹ, hàng chục người nhập viện",
       "summary": "Bồn chứa hóa chất công nghiệp tại thành phố Toledo gặp sự cố rò rỉ, khiến gần 1.000 người sơ tán và hàng chục người nhập viện.",
@@ -1847,7 +1955,7 @@
       "title": "Công ty bầu Đức chốt hợp đồng bán 1.000 tấn cà phê sang Trung Quốc",
       "summary": "Gần 3.000 ha cà phê HAG sắp thu hoạch của bầu Đức vừa chốt hợp đồng xuất khẩu 1.000 tấn sang Trung Quốc với giá 182.000 đồng một kg.",
       "source": "VnExpress",
-      "category": "economy",
+      "category": "vietnam",
       "url": "https://vnexpress.net/cong-ty-bau-duc-chot-hop-dong-ban-1-000-tan-ca-phe-sang-trung-quoc-5135978.html",
       "image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/23/screen-shot-at-pm-1792734989-2232-1792735430.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=xXD9BCirOoiwgiHGVMtS_g",
       "published_at": "2026-10-23T07:49:13+00:00",
@@ -1897,47 +2005,11 @@
       }
     },
     {
-      "id": "9dec33d3c204a8475f",
-      "title": "Dự báo số ca ung thư ở phụ nữ Việt tăng 50% vào năm 2050",
-      "summary": "Số ca ung thư mới ở phụ nữ Việt Nam được dự báo tăng 50% và số ca tử vong tăng 60% vào năm 2050 nếu xu hướng mắc bệnh tiếp tục duy trì như hiện nay.",
-      "source": "VnExpress",
-      "category": "vietnam",
-      "url": "https://vnexpress.net/du-bao-so-ca-ung-thu-o-phu-nu-viet-tang-50-vao-nam-2050-5135967.html",
-      "image": "https://vcdn1-suckhoe.vnecdn.net/2026/10/23/wm1-wm1-233a9827-1792734722-4382-1792735083.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=9rJ496MMufrt_apMPdeMXQ",
-      "published_at": "2026-10-23T07:37:10+00:00",
-      "kind": "source_brief",
-      "source_lang": "vi",
-      "translations": {
-        "vi": {
-          "title": "Dự báo số ca ung thư ở phụ nữ Việt tăng 50% vào năm 2050",
-          "summary": "Số ca ung thư mới ở phụ nữ Việt Nam được dự báo tăng 50% và số ca tử vong tăng 60% vào năm 2050 nếu xu hướng mắc bệnh tiếp tục duy trì như hiện nay."
-        }
-      }
-    },
-    {
-      "id": "9315f55f0e242da004",
-      "title": "Cách ông Putin hóa giải sức ép trừng phạt từ Mỹ",
-      "summary": "Nhờ tách biệt hợp tác kinh tế với chiến sự Ukraine và tận dụng quan hệ cá nhân với ông Trump, ông Putin đã giải tỏa được áp lực trừng phạt từ Mỹ.",
-      "source": "VnExpress",
-      "category": "vietnam",
-      "url": "https://vnexpress.net/cach-ong-putin-hoa-giai-suc-ep-trung-phat-tu-my-5135841.html",
-      "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/23/afpnj8f9-v2-highre-1792742104-2754-1792742110.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=NwIwaidgZz-WKPLtUnADNg",
-      "published_at": "2026-10-23T07:34:32+00:00",
-      "kind": "source_brief",
-      "source_lang": "vi",
-      "translations": {
-        "vi": {
-          "title": "Cách ông Putin hóa giải sức ép trừng phạt từ Mỹ",
-          "summary": "Nhờ tách biệt hợp tác kinh tế với chiến sự Ukraine và tận dụng quan hệ cá nhân với ông Trump, ông Putin đã giải tỏa được áp lực trừng phạt từ Mỹ."
-        }
-      }
-    },
-    {
       "id": "f9ae148386b3571b82",
       "title": "TS Phạm Hy Hiếu nêu điều kiện đưa AI vào y tế từ xa",
       "summary": "TS Phạm Hy Hiếu, CEO One Nexus, cho rằng xây dựng hạ tầng công nghệ đồng bộ để mở rộng ứng dụng AI trong y tế từ xa, tại ATS 2026 ngày 16/10.",
       "source": "VnExpress",
-      "category": "economy",
+      "category": "ai",
       "url": "https://vnexpress.net/ts-pham-hy-hieu-neu-dieu-kien-dua-ai-vao-y-te-tu-xa-5136028.html",
       "image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/23/ts-phh-1792739154-9243-1792739252.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=VNZmgCTqLfR5x_DAqoJxDQ",
       "published_at": "2026-10-23T07:30:00+00:00",
@@ -1947,78 +2019,6 @@
         "vi": {
           "title": "TS Phạm Hy Hiếu nêu điều kiện đưa AI vào y tế từ xa",
           "summary": "TS Phạm Hy Hiếu, CEO One Nexus, cho rằng xây dựng hạ tầng công nghệ đồng bộ để mở rộng ứng dụng AI trong y tế từ xa, tại ATS 2026 ngày 16/10."
-        }
-      }
-    },
-    {
-      "id": "4ae8de252b8db866ea",
-      "title": "India slashes cost of cancer drugs after court rules mark-ups are ‘extortion’",
-      "summary": "Case filed in 2022 by patient unable to afford medicine leads to cap on drug prices for millions who face ruin if diagnosed The Indian government has moved to reduce the price of cancer drugs after a retired bank clerk took her case to the supreme court. From next month, 137 cancer drugs in India will be cheaper as the governmen…",
-      "source": "The Guardian",
-      "category": "economy",
-      "url": "https://www.theguardian.com/global-development/2026/oct/23/india-cuts-cost-cancer-drugs",
-      "image": "https://i.guim.co.uk/img/media/5949b37784145f170b9a40cdf06c532b40e2925d/10_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=908a51257bc2a6e05a22c3330d7e9d29",
-      "published_at": "2026-10-23T07:00:03+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "India slashes cost of cancer drugs after court rules mark-ups are ‘extortion’",
-          "summary": "Case filed in 2022 by patient unable to afford medicine leads to cap on drug prices for millions who face ruin if diagnosed The Indian government has moved to reduce the price of cancer drugs after a retired bank clerk took her case to the supreme court. From next month, 137 cancer drugs in India will be cheaper as the governmen…"
-        }
-      }
-    },
-    {
-      "id": "d1bc4ec43274abafeb",
-      "title": "Tác nhân OpenAI nói dối, tự tắt hệ thống giám sát",
-      "summary": "OpenAI hé lộ, tác nhân AI của công ty vô hiệu hóa hoặc làm suy yếu hệ thống giám sát trong lúc thực hiện nhiệm vụ và sau đó phủ nhận hành vi.",
-      "source": "VnExpress",
-      "category": "ai",
-      "url": "https://vnexpress.net/tac-nhan-openai-noi-doi-tu-tat-he-thong-giam-sat-5135673.html",
-      "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/22/dsc00717jpg-1792660374-8226-1792660477.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=mhL7l7uW1KztV70I3cMA8g",
-      "published_at": "2026-10-23T07:00:00+00:00",
-      "kind": "source_brief",
-      "source_lang": "vi",
-      "translations": {
-        "vi": {
-          "title": "Tác nhân OpenAI nói dối, tự tắt hệ thống giám sát",
-          "summary": "OpenAI hé lộ, tác nhân AI của công ty vô hiệu hóa hoặc làm suy yếu hệ thống giám sát trong lúc thực hiện nhiệm vụ và sau đó phủ nhận hành vi."
-        }
-      }
-    },
-    {
-      "id": "98539dff715e3cb153",
-      "title": "Lights will stay on this winter, grid operator says after concerns",
-      "summary": "The assurance from the National Energy System Operator comes amid concern from its engineers about their ability to ensure adequate supply.",
-      "source": "BBC News",
-      "category": "economy",
-      "url": "https://www.bbc.co.uk/news/articles/cmy56q2n1veqo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4ec/live/bd0928a0-ce22-11f1-9f18-490cec60aa0f.jpg",
-      "published_at": "2026-10-23T06:47:10+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Lights will stay on this winter, grid operator says after concerns",
-          "summary": "The assurance from the National Energy System Operator comes amid concern from its engineers about their ability to ensure adequate supply."
-        }
-      }
-    },
-    {
-      "id": "2778505a40c3561433",
-      "title": "Jordon Steele-John’s position remains in limbo as Greens prepare for moment in spotlight",
-      "summary": "David Shoebridge’s newly-minted leadership under pressure over handling of misconduct allegations as Senate estimates looms Get our new political email , free app or daily news podcast More than a week after allegations that Greens senator Jordon Steele-John had behaved inappropriately towards women made headlines, his position…",
-      "source": "The Guardian",
-      "category": "world",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/23/jordan-steele-john-in-limbo-greens-misconduct-allegations-ntwnfb",
-      "image": "https://i.guim.co.uk/img/media/bb974d706976903f7cd52427fedbf3da4ecd08d1/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=bc2600a4ff06b5aefd4a4b66553715c2",
-      "published_at": "2026-10-23T06:22:10+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Jordon Steele-John’s position remains in limbo as Greens prepare for moment in spotlight",
-          "summary": "David Shoebridge’s newly-minted leadership under pressure over handling of misconduct allegations as Senate estimates looms Get our new political email , free app or daily news podcast More than a week after allegations that Greens senator Jordon Steele-John had behaved inappropriately towards women made headlines, his position…"
         }
       }
     }
@@ -2032,7 +2032,7 @@
         "category": "vietnam",
         "published_at": "2026-10-23T15:30:14+00:00",
         "thumbnail": "https://i.ytimg.com/vi/cmakXJvf84E/hqdefault.jpg",
-        "popularity": 4128,
+        "popularity": 4692,
         "provenance": "official_channel_api",
         "source_lang": "vi",
         "translations": {
@@ -2049,7 +2049,7 @@
         "category": "vietnam",
         "published_at": "2026-10-23T14:33:27+00:00",
         "thumbnail": "https://i.ytimg.com/vi/cGbDNamlph0/hqdefault.jpg",
-        "popularity": 4734,
+        "popularity": 5056,
         "provenance": "official_channel_api",
         "source_lang": "vi",
         "translations": {
@@ -2066,7 +2066,7 @@
         "category": "vietnam",
         "published_at": "2026-10-23T14:30:07+00:00",
         "thumbnail": "https://i.ytimg.com/vi/hCWxK-I3keo/hqdefault.jpg",
-        "popularity": 5385,
+        "popularity": 6706,
         "provenance": "official_channel_api",
         "source_lang": "vi",
         "translations": {
@@ -2083,7 +2083,7 @@
         "category": "vietnam",
         "published_at": "2026-10-23T14:13:30+00:00",
         "thumbnail": "https://i.ytimg.com/vi/SUdlcI5i7vI/hqdefault.jpg",
-        "popularity": 7702,
+        "popularity": 9758,
         "provenance": "official_channel_api",
         "source_lang": "vi",
         "translations": {
@@ -2100,7 +2100,7 @@
         "category": "vietnam",
         "published_at": "2026-10-23T13:47:47+00:00",
         "thumbnail": "https://i.ytimg.com/vi/IIvsV5h8u7o/hqdefault.jpg",
-        "popularity": 3828,
+        "popularity": 4116,
         "provenance": "official_channel_api",
         "source_lang": "vi",
         "translations": {
@@ -2117,7 +2117,7 @@
         "category": "vietnam",
         "published_at": "2026-10-23T13:45:32+00:00",
         "thumbnail": "https://i.ytimg.com/vi/0UA9LzurkWY/hqdefault.jpg",
-        "popularity": 4172,
+        "popularity": 4275,
         "provenance": "official_channel_api",
         "source_lang": "vi",
         "translations": {
@@ -2134,7 +2134,7 @@
         "category": "vietnam",
         "published_at": "2026-10-23T12:46:08+00:00",
         "thumbnail": "https://i.ytimg.com/vi/aM21TpfjCbc/hqdefault.jpg",
-        "popularity": 8389,
+        "popularity": 8917,
         "provenance": "official_channel_api",
         "source_lang": "vi",
         "translations": {
@@ -2151,7 +2151,7 @@
         "category": "vietnam",
         "published_at": "2026-10-23T12:45:18+00:00",
         "thumbnail": "https://i.ytimg.com/vi/8NpsmBrSjQc/hqdefault.jpg",
-        "popularity": 1061,
+        "popularity": 2461,
         "provenance": "official_channel_api",
         "source_lang": "vi",
         "translations": {
@@ -2164,13 +2164,81 @@
     ],
     "world": [
       {
+        "id": "KF4DWhkugTM",
+        "title": "Modern Warfare 4 cast on the 'epic conclusion' of the saga | BBC News",
+        "channel": "BBC News",
+        "category": "world",
+        "published_at": "2026-10-24T00:30:07+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/KF4DWhkugTM/hqdefault.jpg",
+        "popularity": 27,
+        "provenance": "official_channel_api",
+        "source_lang": "en",
+        "translations": {
+          "en": {
+            "title": "Modern Warfare 4 cast on the 'epic conclusion' of the saga | BBC News",
+            "summary": ""
+          }
+        }
+      },
+      {
+        "id": "Fu4KVwUlc_E",
+        "title": "Police Block Delhi March Over India’s Voter-Roll Overhaul",
+        "channel": "Bloomberg News",
+        "category": "world",
+        "published_at": "2026-10-24T00:00:33+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/Fu4KVwUlc_E/hqdefault.jpg",
+        "popularity": 32,
+        "provenance": "official_channel_api",
+        "source_lang": "en",
+        "translations": {
+          "en": {
+            "title": "Police Block Delhi March Over India’s Voter-Roll Overhaul",
+            "summary": ""
+          }
+        }
+      },
+      {
+        "id": "7sAITRqU90o",
+        "title": "Iranian media is defiant as hardliners brace for war | BBC News",
+        "channel": "BBC News",
+        "category": "world",
+        "published_at": "2026-10-23T23:30:01+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/7sAITRqU90o/hqdefault.jpg",
+        "popularity": 8458,
+        "provenance": "official_channel_api",
+        "source_lang": "en",
+        "translations": {
+          "en": {
+            "title": "Iranian media is defiant as hardliners brace for war | BBC News",
+            "summary": ""
+          }
+        }
+      },
+      {
+        "id": "DS7KnX9mXHU",
+        "title": "What happened to missing journalist Austin Tice?",
+        "channel": "BBC News",
+        "category": "world",
+        "published_at": "2026-10-23T22:31:21+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/DS7KnX9mXHU/hqdefault.jpg",
+        "popularity": 1740,
+        "provenance": "official_channel_api",
+        "source_lang": "en",
+        "translations": {
+          "en": {
+            "title": "What happened to missing journalist Austin Tice?",
+            "summary": ""
+          }
+        }
+      },
+      {
         "id": "VsKPJP7eiLs",
         "title": "Israel Elections: Netanyahu’s Referendum Has Finally Arrived",
         "channel": "Bloomberg News",
         "category": "world",
         "published_at": "2026-10-23T22:00:29+00:00",
         "thumbnail": "https://i.ytimg.com/vi/VsKPJP7eiLs/hqdefault.jpg",
-        "popularity": 4,
+        "popularity": 282,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2187,7 +2255,7 @@
         "category": "world",
         "published_at": "2026-10-23T21:33:50+00:00",
         "thumbnail": "https://i.ytimg.com/vi/rxn-NJHbzaI/hqdefault.jpg",
-        "popularity": 2336,
+        "popularity": 16484,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2204,7 +2272,7 @@
         "category": "world",
         "published_at": "2026-10-23T21:05:41+00:00",
         "thumbnail": "https://i.ytimg.com/vi/wUGFsjjH_II/hqdefault.jpg",
-        "popularity": 1684,
+        "popularity": 14381,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2221,7 +2289,7 @@
         "category": "world",
         "published_at": "2026-10-23T20:53:57+00:00",
         "thumbnail": "https://i.ytimg.com/vi/OYG4SOnjY8I/hqdefault.jpg",
-        "popularity": 159,
+        "popularity": 504,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2230,209 +2298,141 @@
             "summary": ""
           }
         }
-      },
-      {
-        "id": "SGCMqyQ-UyU",
-        "title": "What Do Widening French-German Bond Spreads Mean for the Euro? | Presented by CME Group",
-        "channel": "Bloomberg News",
-        "category": "world",
-        "published_at": "2026-10-23T20:37:06+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/SGCMqyQ-UyU/hqdefault.jpg",
-        "popularity": 365,
-        "provenance": "official_channel_api",
-        "source_lang": "en",
-        "translations": {
-          "en": {
-            "title": "What Do Widening French-German Bond Spreads Mean for the Euro? | Presented by CME Group",
-            "summary": ""
-          }
-        }
-      },
-      {
-        "id": "kolOjI1K6jE",
-        "title": "White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster' | BBC News",
-        "channel": "BBC News",
-        "category": "world",
-        "published_at": "2026-10-23T20:05:47+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/kolOjI1K6jE/hqdefault.jpg",
-        "popularity": 8839,
-        "provenance": "official_channel_api",
-        "source_lang": "en",
-        "translations": {
-          "en": {
-            "title": "White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster' | BBC News",
-            "summary": ""
-          }
-        }
-      },
-      {
-        "id": "oaa4lp0iQrM",
-        "title": "Could Brazil be about to swing back to the right? | BBC News",
-        "channel": "BBC News",
-        "category": "world",
-        "published_at": "2026-10-23T19:03:53+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/oaa4lp0iQrM/hqdefault.jpg",
-        "popularity": 16724,
-        "provenance": "official_channel_api",
-        "source_lang": "en",
-        "translations": {
-          "en": {
-            "title": "Could Brazil be about to swing back to the right? | BBC News",
-            "summary": ""
-          }
-        }
-      },
-      {
-        "id": "GxPSdgPcdrs",
-        "title": "How gerrymandering, stump speeches and Super Pacs could affect the US midterms | Global News Podcast",
-        "channel": "BBC News",
-        "category": "world",
-        "published_at": "2026-10-23T18:30:06+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/GxPSdgPcdrs/hqdefault.jpg",
-        "popularity": 6751,
-        "provenance": "official_channel_api",
-        "source_lang": "en",
-        "translations": {
-          "en": {
-            "title": "How gerrymandering, stump speeches and Super Pacs could affect the US midterms | Global News Podcast",
-            "summary": ""
-          }
-        }
       }
     ],
     "economy": [
       {
-        "id": "iYmoXYDv6AY",
-        "title": "AI Jitters, Oil & Big Tech",
+        "id": "RfNb_DvR1QM",
+        "title": "How to Retire Rich in India",
         "channel": "Bloomberg Television",
         "category": "economy",
-        "published_at": "2026-10-23T22:04:36+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/iYmoXYDv6AY/hqdefault.jpg",
-        "popularity": 0,
+        "published_at": "2026-10-24T00:00:39+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/RfNb_DvR1QM/hqdefault.jpg",
+        "popularity": 70,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
           "en": {
-            "title": "AI Jitters, Oil & Big Tech",
+            "title": "How to Retire Rich in India",
             "summary": ""
           }
         }
       },
       {
-        "id": "70cSwgCTMfc",
-        "title": "DIGI: John Tozzi on Healthcare Costs",
+        "id": "269Yu1UgYn8",
+        "title": "Trump Pushes DOJ Lawsuit Over Alaska Senate Race",
         "channel": "Bloomberg Television",
         "category": "economy",
-        "published_at": "2026-10-23T21:59:50+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/70cSwgCTMfc/hqdefault.jpg",
-        "popularity": 4,
+        "published_at": "2026-10-23T23:05:12+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/269Yu1UgYn8/hqdefault.jpg",
+        "popularity": 1085,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
           "en": {
-            "title": "DIGI: John Tozzi on Healthcare Costs",
+            "title": "Trump Pushes DOJ Lawsuit Over Alaska Senate Race",
             "summary": ""
           }
         }
       },
       {
-        "id": "6ITsBRX0kEQ",
-        "title": "Investors Figuring Out Agentic AI: Robinhood's Guild",
+        "id": "9sL1WZsSeB0",
+        "title": "Wall Street Week | Europe’s AI Player, Argentina’s Two Economies",
         "channel": "Bloomberg Television",
         "category": "economy",
-        "published_at": "2026-10-23T21:54:45+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/6ITsBRX0kEQ/hqdefault.jpg",
-        "popularity": 122,
+        "published_at": "2026-10-23T23:00:14+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/9sL1WZsSeB0/hqdefault.jpg",
+        "popularity": 476,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
           "en": {
-            "title": "Investors Figuring Out Agentic AI: Robinhood's Guild",
+            "title": "Wall Street Week | Europe’s AI Player, Argentina’s Two Economies",
             "summary": ""
           }
         }
       },
       {
-        "id": "zWTMGXqYNOY",
-        "title": "Gen Z Investors Trim Portfolio Risks Ahead of Midterm Elections",
+        "id": "-nwjUI1U070",
+        "title": "Wealth Tax Debate, Midterm Investing, AI Anxiety",
         "channel": "Bloomberg Television",
         "category": "economy",
-        "published_at": "2026-10-23T21:48:34+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/zWTMGXqYNOY/hqdefault.jpg",
-        "popularity": 61,
+        "published_at": "2026-10-23T22:46:33+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/-nwjUI1U070/hqdefault.jpg",
+        "popularity": 420,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
           "en": {
-            "title": "Gen Z Investors Trim Portfolio Risks Ahead of Midterm Elections",
+            "title": "Wealth Tax Debate, Midterm Investing, AI Anxiety",
             "summary": ""
           }
         }
       },
       {
-        "id": "WByUyPdT_bY",
-        "title": "Buying Index Funds, Equal-Weight ETF: Tilson",
+        "id": "iaw6C36l2wQ",
+        "title": "Gutierrez: US Has Gone Too Far With Tariffs",
         "channel": "Bloomberg Television",
         "category": "economy",
-        "published_at": "2026-10-23T21:40:46+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/WByUyPdT_bY/hqdefault.jpg",
-        "popularity": 114,
+        "published_at": "2026-10-23T22:28:27+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/iaw6C36l2wQ/hqdefault.jpg",
+        "popularity": 592,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
           "en": {
-            "title": "Buying Index Funds, Equal-Weight ETF: Tilson",
+            "title": "Gutierrez: US Has Gone Too Far With Tariffs",
             "summary": ""
           }
         }
       },
       {
-        "id": "g6PJ0WD0smY",
-        "title": "National Wealth Tax Could Work: Tilson",
+        "id": "G0uOXddu6Pk",
+        "title": "Gen. Hodges (Ret.) Says Trump Actions Help Russia's War",
         "channel": "Bloomberg Television",
         "category": "economy",
-        "published_at": "2026-10-23T21:36:46+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/g6PJ0WD0smY/hqdefault.jpg",
-        "popularity": 242,
+        "published_at": "2026-10-23T22:19:54+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/G0uOXddu6Pk/hqdefault.jpg",
+        "popularity": 1021,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
           "en": {
-            "title": "National Wealth Tax Could Work: Tilson",
+            "title": "Gen. Hodges (Ret.) Says Trump Actions Help Russia's War",
             "summary": ""
           }
         }
       },
       {
-        "id": "KqwaUv0Og_U",
-        "title": "Why Are India’s Truckers Avoiding New Expressways?",
+        "id": "Bsz-hcTYfA0",
+        "title": "$1,999 New iPhone 'Unfolds' During Affordability Crisis",
         "channel": "Bloomberg Television",
         "category": "economy",
-        "published_at": "2026-10-23T21:00:43+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/KqwaUv0Og_U/hqdefault.jpg",
-        "popularity": 477,
+        "published_at": "2026-10-23T22:18:42+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/Bsz-hcTYfA0/hqdefault.jpg",
+        "popularity": 1556,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
           "en": {
-            "title": "Why Are India’s Truckers Avoiding New Expressways?",
+            "title": "$1,999 New iPhone 'Unfolds' During Affordability Crisis",
             "summary": ""
           }
         }
       },
       {
-        "id": "SbuC2YNbPyA",
-        "title": "Everybody’s Business: The Political Beef Shaping the Midterms",
+        "id": "MipgtpyrPqQ",
+        "title": "'Notes on Being a Man', 'The Invisible Hand'",
         "channel": "Bloomberg Television",
         "category": "economy",
-        "published_at": "2026-10-23T20:56:03+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/SbuC2YNbPyA/hqdefault.jpg",
-        "popularity": 131,
+        "published_at": "2026-10-23T22:06:32+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/MipgtpyrPqQ/hqdefault.jpg",
+        "popularity": 663,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
           "en": {
-            "title": "Everybody’s Business: The Political Beef Shaping the Midterms",
+            "title": "'Notes on Being a Man', 'The Invisible Hand'",
             "summary": ""
           }
         }
@@ -2441,17 +2441,17 @@
     "technology": [
       {
         "id": "pT-x3cJMvKQ",
-        "title": "Massive PHP security flaw",
+        "title": "Massive PHP security flaw #Vergecast",
         "channel": "The Verge",
         "category": "technology",
         "published_at": "2026-10-23T19:30:11+00:00",
         "thumbnail": "https://i.ytimg.com/vi/pT-x3cJMvKQ/hqdefault.jpg",
-        "popularity": 1693,
+        "popularity": 3579,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
           "en": {
-            "title": "Massive PHP security flaw",
+            "title": "Massive PHP security flaw #Vergecast",
             "summary": ""
           }
         }
@@ -2463,7 +2463,7 @@
         "category": "technology",
         "published_at": "2026-10-23T18:45:32+00:00",
         "thumbnail": "https://i.ytimg.com/vi/kStnjnWXzXs/hqdefault.jpg",
-        "popularity": 4467,
+        "popularity": 8664,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2480,7 +2480,7 @@
         "category": "technology",
         "published_at": "2026-10-23T17:49:53+00:00",
         "thumbnail": "https://i.ytimg.com/vi/6IxqUNr8gcQ/hqdefault.jpg",
-        "popularity": 2967,
+        "popularity": 5574,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2497,7 +2497,7 @@
         "category": "technology",
         "published_at": "2026-10-23T17:15:30+00:00",
         "thumbnail": "https://i.ytimg.com/vi/6qvs8SJPtIc/hqdefault.jpg",
-        "popularity": 8068,
+        "popularity": 12733,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2514,7 +2514,7 @@
         "category": "technology",
         "published_at": "2026-10-23T16:57:19+00:00",
         "thumbnail": "https://i.ytimg.com/vi/HqxRJft0_4I/hqdefault.jpg",
-        "popularity": 14591,
+        "popularity": 22414,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2531,7 +2531,7 @@
         "category": "technology",
         "published_at": "2026-10-23T14:00:32+00:00",
         "thumbnail": "https://i.ytimg.com/vi/1wcErA5JquM/hqdefault.jpg",
-        "popularity": 6616,
+        "popularity": 8244,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2548,7 +2548,7 @@
         "category": "technology",
         "published_at": "2026-10-23T13:00:05+00:00",
         "thumbnail": "https://i.ytimg.com/vi/YYhJYOoqBp8/hqdefault.jpg",
-        "popularity": 20899,
+        "popularity": 25741,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2565,7 +2565,7 @@
         "category": "technology",
         "published_at": "2026-10-23T12:00:25+00:00",
         "thumbnail": "https://i.ytimg.com/vi/lCCa5ntnfAo/hqdefault.jpg",
-        "popularity": 52278,
+        "popularity": 56663,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2584,7 +2584,7 @@
         "category": "ai-trends",
         "published_at": "2026-10-23T05:13:07+00:00",
         "thumbnail": "https://i.ytimg.com/vi/UTBuWWbFjRI/hqdefault.jpg",
-        "popularity": 172245,
+        "popularity": 174420,
         "provenance": "youtube_popular",
         "source_lang": "en",
         "translations": {
@@ -2601,7 +2601,7 @@
         "category": "ai-trends",
         "published_at": "2026-10-21T23:00:08+00:00",
         "thumbnail": "https://i.ytimg.com/vi/CsF5oqVV5YE/hqdefault.jpg",
-        "popularity": 6078,
+        "popularity": 6270,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2618,7 +2618,7 @@
         "category": "ai-trends",
         "published_at": "2026-10-21T19:00:23+00:00",
         "thumbnail": "https://i.ytimg.com/vi/SOF3_evPje8/hqdefault.jpg",
-        "popularity": 25049,
+        "popularity": 25548,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2635,7 +2635,7 @@
         "category": "ai-trends",
         "published_at": "2026-10-21T18:41:29+00:00",
         "thumbnail": "https://i.ytimg.com/vi/fmodf-lNGEE/hqdefault.jpg",
-        "popularity": 1145125,
+        "popularity": 1174863,
         "provenance": "youtube_popular",
         "source_lang": "en",
         "translations": {
@@ -2652,7 +2652,7 @@
         "category": "ai-trends",
         "published_at": "2026-10-16T21:00:00+00:00",
         "thumbnail": "https://i.ytimg.com/vi/LJ2v4-FvPcA/hqdefault.jpg",
-        "popularity": 3402,
+        "popularity": 3406,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2669,7 +2669,7 @@
         "category": "ai-trends",
         "published_at": "2026-10-16T16:00:00+00:00",
         "thumbnail": "https://i.ytimg.com/vi/-nmcYcO-EE8/hqdefault.jpg",
-        "popularity": 8313,
+        "popularity": 8337,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2686,7 +2686,7 @@
         "category": "ai-trends",
         "published_at": "2026-10-15T23:00:26+00:00",
         "thumbnail": "https://i.ytimg.com/vi/qJplHFjyv2A/hqdefault.jpg",
-        "popularity": 7028,
+        "popularity": 7031,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2703,7 +2703,7 @@
         "category": "ai-trends",
         "published_at": "2026-10-15T19:00:22+00:00",
         "thumbnail": "https://i.ytimg.com/vi/i3X7Fv0Z3Uc/hqdefault.jpg",
-        "popularity": 13894,
+        "popularity": 13926,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {

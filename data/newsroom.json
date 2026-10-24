@@ -1,12 +1,12 @@
 {
   "version": 36,
   "translation_status": "not_configured",
-  "updated_at": "2026-10-24T00:35:58.141443+00:00",
-  "attempted_at": "2026-10-24T00:35:58.141443+00:00",
+  "updated_at": "2026-10-24T05:00:02.883521+00:00",
+  "attempted_at": "2026-10-24T05:00:02.883521+00:00",
   "status": "ok",
   "video_status": "fresh",
   "video_warning": "",
-  "video_last_success_at": "2026-10-24T00:35:58.141443+00:00",
+  "video_last_success_at": "2026-10-24T05:00:02.883521+00:00",
   "video_mode": "popular_and_channel",
   "video_api_note": "YouTube Data API v3 / verified embeddable public videos",
   "source_count": 22,
@@ -36,12 +36,318 @@
   ],
   "sources_failed": [
     "Search Engine Land / marketing (HTTP Error 403: Forbidden)",
-    "Tuổi Trẻ / vietnam (empty or no recent records)",
+    "VietnamPlus / vietnam (not well-formed (invalid token): line 1, column 0)",
     "Tuổi Trẻ / world (empty or no recent records)",
     "Tuổi Trẻ / economy (empty or no recent records)",
-    "VietnamPlus / vietnam (not well-formed (invalid token): line 1, column 0)"
+    "Tuổi Trẻ / vietnam (empty or no recent records)"
   ],
   "news": [
+    {
+      "id": "0bf50eafeb31c4a118",
+      "title": "Giá thành điện năm 2025 gần 2.093 đồng một kWh",
+      "summary": "Năm 2025, giá thành sản xuất kinh doanh điện của EVN đạt 2.092,7 đồng mỗi kWh, thấp hơn khoảng 5% so với giá bán lẻ bình quân.",
+      "source": "VnExpress",
+      "category": "economy",
+      "url": "https://vnexpress.net/gia-thanh-dien-nam-2025-gan-2-093-dong-mot-kwh-5136347.html",
+      "image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/24/wm1-wm1-pham3202-jpg-1792814023-1561-1792815439.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ucu5eckj44tzotxyQG2BWQ",
+      "published_at": "2026-10-24T04:26:32+00:00",
+      "kind": "source_brief",
+      "source_lang": "vi",
+      "translations": {
+        "vi": {
+          "title": "Giá thành điện năm 2025 gần 2.093 đồng một kWh",
+          "summary": "Năm 2025, giá thành sản xuất kinh doanh điện của EVN đạt 2.092,7 đồng mỗi kWh, thấp hơn khoảng 5% so với giá bán lẻ bình quân."
+        }
+      }
+    },
+    {
+      "id": "a16392919788b46ac0",
+      "title": "France prepares for day of protest a week after nationwide riots",
+      "summary": "More than 70,000 police officers are to be deployed over fears protesters will defy restrictions on demonstrations.",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6313/live/f6761da0-cf08-11f1-b95c-310d5f3c558a.jpg",
+      "published_at": "2026-10-24T04:03:46+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "France prepares for day of protest a week after nationwide riots",
+          "summary": "More than 70,000 police officers are to be deployed over fears protesters will defy restrictions on demonstrations."
+        }
+      }
+    },
+    {
+      "id": "b63a73bec91ba1d8c6",
+      "title": "Arrest made after fire at Hitler's Eagle's Nest retreat",
+      "summary": "Around 200 emergency personnel are deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/89c2/live/dded51c0-cf5a-11f1-b46b-8fe3882d26eb.jpg",
+      "published_at": "2026-10-24T03:51:25+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Arrest made after fire at Hitler's Eagle's Nest retreat",
+          "summary": "Around 200 emergency personnel are deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany."
+        }
+      }
+    },
+    {
+      "id": "3f53f37e0170f41629",
+      "title": "Cơ hội nhận 30.000 đồng khi mua Vietlott SMS qua VCB Digibank",
+      "summary": "Người dùng lần đầu đăng ký Vietlott SMS trên VCB Digibank có cơ hội nhận mã quà 30.000 đồng, áp dụng đến ngày 11/11.",
+      "source": "VnExpress",
+      "category": "economy",
+      "url": "https://vnexpress.net/co-hoi-nhan-30-000-dong-khi-mua-vietlott-sms-qua-vcb-digibank-5136342.html",
+      "image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/24/ot-1792812401-3262-1792812455.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=SglzeT-T26bZ6kDzmaB6Ng",
+      "published_at": "2026-10-24T03:30:00+00:00",
+      "kind": "source_brief",
+      "source_lang": "vi",
+      "translations": {
+        "vi": {
+          "title": "Cơ hội nhận 30.000 đồng khi mua Vietlott SMS qua VCB Digibank",
+          "summary": "Người dùng lần đầu đăng ký Vietlott SMS trên VCB Digibank có cơ hội nhận mã quà 30.000 đồng, áp dụng đến ngày 11/11."
+        }
+      }
+    },
+    {
+      "id": "25ef56185cda2bafe5",
+      "title": "Giá vàng miếng về dưới 142 triệu đồng một lượng",
+      "summary": "Các thương hiệu hiện bán ra vàng miếng quanh mức 141,7 triệu đồng một lượng, thấp nhất hơn hai tháng.",
+      "source": "VnExpress",
+      "category": "economy",
+      "url": "https://vnexpress.net/gia-vang-moi-nhat-hom-nay-ngay-24-10-5136327.html",
+      "image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/24/233A0964-2138-1792810784.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=nlAnjZIYXHIZlkcR_pBPKg",
+      "published_at": "2026-10-24T03:09:29+00:00",
+      "kind": "source_brief",
+      "source_lang": "vi",
+      "translations": {
+        "vi": {
+          "title": "Giá vàng miếng về dưới 142 triệu đồng một lượng",
+          "summary": "Các thương hiệu hiện bán ra vàng miếng quanh mức 141,7 triệu đồng một lượng, thấp nhất hơn hai tháng."
+        }
+      }
+    },
+    {
+      "id": "1b6020e29649cf6a71",
+      "title": "Khoảng trống Face ID trên iPhone Duo",
+      "summary": "iPhone Duo đem đến nhiều trải nghiệm mới mẻ nhưng thiếu vắng nhận dạng khuôn mặt Face ID, ảnh hưởng đến thói quen của người dùng iPhone lâu năm.",
+      "source": "VnExpress",
+      "category": "technology",
+      "url": "https://vnexpress.net/khoang-trong-face-id-tren-iphone-duo-5136129.html",
+      "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/23/DSCF0873-1792746989.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=piZZssnQ-ZuqmTlbsZFPdQ",
+      "published_at": "2026-10-24T03:00:00+00:00",
+      "kind": "source_brief",
+      "source_lang": "vi",
+      "translations": {
+        "vi": {
+          "title": "Khoảng trống Face ID trên iPhone Duo",
+          "summary": "iPhone Duo đem đến nhiều trải nghiệm mới mẻ nhưng thiếu vắng nhận dạng khuôn mặt Face ID, ảnh hưởng đến thói quen của người dùng iPhone lâu năm."
+        }
+      }
+    },
+    {
+      "id": "1a7ce57467d5e72e40",
+      "title": "Đề xuất bỏ 18 thủ tục về sở hữu trí tuệ",
+      "summary": "Chính phủ đề xuất luật hóa việc bãi bỏ 18 thủ tục hành chính, cắt giảm 5 điều kiện kinh doanh, nhằm đơn giản hóa việc chuyển nhượng quyền sở hữu công nghiệp và bảo hộ giống cây trồng.",
+      "source": "VnExpress",
+      "category": "technology",
+      "url": "https://vnexpress.net/de-xuat-bo-18-thu-tuc-ve-so-huu-tri-tue-5136315.html",
+      "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/24/202610240845157135-g7574298250-9867-3484-1792809310.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Txw_KQ_m-_BPSonaYghKIw",
+      "published_at": "2026-10-24T02:57:28+00:00",
+      "kind": "source_brief",
+      "source_lang": "vi",
+      "translations": {
+        "vi": {
+          "title": "Đề xuất bỏ 18 thủ tục về sở hữu trí tuệ",
+          "summary": "Chính phủ đề xuất luật hóa việc bãi bỏ 18 thủ tục hành chính, cắt giảm 5 điều kiện kinh doanh, nhằm đơn giản hóa việc chuyển nhượng quyền sở hữu công nghiệp và bảo hộ giống cây trồng."
+        }
+      }
+    },
+    {
+      "id": "fd42e6fec782caf9e3",
+      "title": "Tory activist in 'contract killing broker' claim had worked for party HQ",
+      "summary": "Jack Ross was contracted to do social media work for the party until earlier this year, the BBC has been told.",
+      "source": "BBC News",
+      "category": "politics",
+      "url": "https://www.bbc.co.uk/news/articles/c63r5779vyl9o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1ff/live/3a2fbbf0-cf31-11f1-9f96-7f17b236547a.jpg",
+      "published_at": "2026-10-24T02:52:10+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Tory activist in 'contract killing broker' claim had worked for party HQ",
+          "summary": "Jack Ross was contracted to do social media work for the party until earlier this year, the BBC has been told."
+        }
+      }
+    },
+    {
+      "id": "5f8523b8794ddaa066",
+      "title": "Hơn 2.000 chuyên gia giải bài toán nhân sự thời AI",
+      "summary": "Hội thảo Holistic Excellence - S-DNA 2026 do CareerViet tổ chức tại TP HCM và Hà Nội quy tụ hơn 2.000 lãnh đạo, chuyên gia nhân sự, ghi nhận quy mô lớn nhất từ trước đến nay của diễn đàn.",
+      "source": "VnExpress",
+      "category": "economy",
+      "url": "https://vnexpress.net/hon-2-000-chuyen-gia-giai-bai-toan-nhan-su-thoi-ai-5135971.html",
+      "image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/24/vv3-1792807990-6721-1792808182.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=_1hrrej8sU3tbAJ8yCNk3g",
+      "published_at": "2026-10-24T02:30:00+00:00",
+      "kind": "source_brief",
+      "source_lang": "vi",
+      "translations": {
+        "vi": {
+          "title": "Hơn 2.000 chuyên gia giải bài toán nhân sự thời AI",
+          "summary": "Hội thảo Holistic Excellence - S-DNA 2026 do CareerViet tổ chức tại TP HCM và Hà Nội quy tụ hơn 2.000 lãnh đạo, chuyên gia nhân sự, ghi nhận quy mô lớn nhất từ trước đến nay của diễn đàn."
+        }
+      }
+    },
+    {
+      "id": "235b5642d43137126b",
+      "title": "Typhoon Champi kills one and injures more than 500 in Taiwan as it heads to China",
+      "summary": "Super typhoon weakening but large parts of Taiwan, including Taipei, still mostly closed and flights cancelled Typhoon Champi swept past Taiwan on Saturday killing one person, injuring more than 500, and uprooting trees and severing power as it weakened and ⁠headed north toward ⁠the ​Chinese coast. Earlier classified as a super…",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/world/2026/oct/24/typhoon-champi-kills-one-and-injures-more-than-500-in-taiwan-as-it-heads-to-china",
+      "image": "https://i.guim.co.uk/img/media/ef90d32836e051ec70630f8c26f1745009515247/589_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=71c6a707179b0ef711ce3814e4c20947",
+      "published_at": "2026-10-24T02:22:32+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Typhoon Champi kills one and injures more than 500 in Taiwan as it heads to China",
+          "summary": "Super typhoon weakening but large parts of Taiwan, including Taipei, still mostly closed and flights cancelled Typhoon Champi swept past Taiwan on Saturday killing one person, injuring more than 500, and uprooting trees and severing power as it weakened and ⁠headed north toward ⁠the ​Chinese coast. Earlier classified as a super…"
+        }
+      }
+    },
+    {
+      "id": "06c9309238102b2123",
+      "title": "Australian MP's condition improves after alleged car attack",
+      "summary": "The Independent MP is now in a serious but stable condition, according to the Melbourne hospital.",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/c670pr1ryxyno?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e656/live/f2bfb570-cf41-11f1-81c6-53f66e190efd.jpg",
+      "published_at": "2026-10-24T01:55:15+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Australian MP's condition improves after alleged car attack",
+          "summary": "The Independent MP is now in a serious but stable condition, according to the Melbourne hospital."
+        }
+      }
+    },
+    {
+      "id": "860847c79ab8f8a47e",
+      "title": "Giá vàng thế giới tiếp tục giảm, xuống thấp nhất 3 tháng",
+      "summary": "Mỗi ounce vàng mất mốc 4.000 USD lần đầu tiên kể từ tháng 7, do giá dầu thô tăng cao.",
+      "source": "VnExpress",
+      "category": "economy",
+      "url": "https://vnexpress.net/gia-vang-the-gioi-tiep-tuc-giam-xuong-thap-nhat-3-thang-5136287.html",
+      "image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/24/silvergold-1792803055-7689-1792803064.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=_krmOu4WpauIy9DWbDXIgA",
+      "published_at": "2026-10-24T01:23:40+00:00",
+      "kind": "source_brief",
+      "source_lang": "vi",
+      "translations": {
+        "vi": {
+          "title": "Giá vàng thế giới tiếp tục giảm, xuống thấp nhất 3 tháng",
+          "summary": "Mỗi ounce vàng mất mốc 4.000 USD lần đầu tiên kể từ tháng 7, do giá dầu thô tăng cao."
+        }
+      }
+    },
+    {
+      "id": "18031fb22edea1533d",
+      "title": "Agribank giảm lãi suất cho vay hỗ trợ phát triển sản xuất kinh doanh",
+      "summary": "Agribank giảm lãi suất cho vay đến 2,5% mỗi năm đối với dư nợ hiện hữu, đồng thời điều chỉnh lãi suất các khoản vay mới nhằm hỗ trợ khách hàng sản xuất kinh doanh.",
+      "source": "VnExpress",
+      "category": "economy",
+      "url": "https://vnexpress.net/agribank-giam-lai-suat-cho-vay-ho-tro-phat-trien-san-xuat-kinh-doanh-5136224.html",
+      "image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/23/z2498633600051b2bd45db5a3d7d60-5720-3668-1792768222.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=RDev2MSW8c_3mLNlHk2gBQ",
+      "published_at": "2026-10-24T01:00:00+00:00",
+      "kind": "source_brief",
+      "source_lang": "vi",
+      "translations": {
+        "vi": {
+          "title": "Agribank giảm lãi suất cho vay hỗ trợ phát triển sản xuất kinh doanh",
+          "summary": "Agribank giảm lãi suất cho vay đến 2,5% mỗi năm đối với dư nợ hiện hữu, đồng thời điều chỉnh lãi suất các khoản vay mới nhằm hỗ trợ khách hàng sản xuất kinh doanh."
+        }
+      }
+    },
+    {
+      "id": "9e4d0d6e1f8708cf54",
+      "title": "48 tiếng không ngủ của giới an ninh mạng",
+      "summary": "Nhiều chuyên gia bảo mật đang chạy đua, thậm chí thức trắng hai ngày qua để cập nhật bản vá lỗ hổng ẩn trong ngôn ngữ lập trình PHP trước khi tin tặc gây ra những cuộc tấn công diện rộng.",
+      "source": "VnExpress",
+      "category": "technology",
+      "url": "https://vnexpress.net/48-tieng-khong-ngu-cua-gioi-an-ninh-mang-5136169.html",
+      "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/23/DSC00480-JPG-7763-1792752110.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=AkXUJuwLysRPkYtgJDGrGw",
+      "published_at": "2026-10-24T01:00:00+00:00",
+      "kind": "source_brief",
+      "source_lang": "vi",
+      "translations": {
+        "vi": {
+          "title": "48 tiếng không ngủ của giới an ninh mạng",
+          "summary": "Nhiều chuyên gia bảo mật đang chạy đua, thậm chí thức trắng hai ngày qua để cập nhật bản vá lỗ hổng ẩn trong ngôn ngữ lập trình PHP trước khi tin tặc gây ra những cuộc tấn công diện rộng."
+        }
+      }
+    },
+    {
+      "id": "ef486b88d6eb6260c0",
+      "title": "Embattled Greens senator Jordon Steele-John confirms leave from parliament after allegations against him made public",
+      "summary": "WA politician says he considered attending Senate estimates virtually but was told it would be ‘unacceptable’ Get our new political email , free app or daily news podcast Jordon Steele-John has confirmed he will not attend parliament next week as the embattled Greens senator releases a letter detailing the allegations against hi…",
+      "source": "The Guardian",
+      "category": "politics",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/24/greens-senator-jordon-steele-john-confirms-leave-from-parliament-ntwnfb",
+      "image": "https://i.guim.co.uk/img/media/6889b934839e3b0948a6f6e3a87911e0a1e2e260/267_0_5608_4489/master/5608.jpg?width=140&quality=85&auto=format&fit=max&s=39223363ec4ebb190f4d4d106772f068",
+      "published_at": "2026-10-24T00:52:33+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Embattled Greens senator Jordon Steele-John confirms leave from parliament after allegations against him made public",
+          "summary": "WA politician says he considered attending Senate estimates virtually but was told it would be ‘unacceptable’ Get our new political email , free app or daily news podcast Jordon Steele-John has confirmed he will not attend parliament next week as the embattled Greens senator releases a letter detailing the allegations against hi…"
+        }
+      }
+    },
+    {
+      "id": "b1ce173818dfcae13c",
+      "title": "Helen Haines’s condition improves days after losing both legs from alleged attack",
+      "summary": "Independent MP now serious but stable, according to update from Melbourne’s Alfred hospital Get our breaking news email , free app or daily news podcast Independent MP Helen Haines’s condition has been downgraded to serious but stable after she lost both legs following an alleged attack near her electorate office in north-east V…",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/24/helen-hainess-condition-improves-days-after-losing-both-legs-from-alleged-attack-ntwnfb",
+      "image": "https://i.guim.co.uk/img/media/768f5c9fcf542715c45f1710e374d1ee4a41482b/648_0_2109_1688/master/2109.jpg?width=140&quality=85&auto=format&fit=max&s=3ec1d90ff0c930960d4fff670a902d63",
+      "published_at": "2026-10-24T00:41:29+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Helen Haines’s condition improves days after losing both legs from alleged attack",
+          "summary": "Independent MP now serious but stable, according to update from Melbourne’s Alfred hospital Get our breaking news email , free app or daily news podcast Independent MP Helen Haines’s condition has been downgraded to serious but stable after she lost both legs following an alleged attack near her electorate office in north-east V…"
+        }
+      }
+    },
+    {
+      "id": "97c227bfaa08472768",
+      "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
+      "summary": "From 30 October, tariffs will be eased on some products, including certain machinery, and placed on others, such as carpets.",
+      "source": "BBC News",
+      "category": "economy",
+      "url": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1860/live/f6b62750-cf1d-11f1-9796-954775b3a434.jpg",
+      "published_at": "2026-10-24T00:36:47+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
+          "summary": "From 30 October, tariffs will be eased on some products, including certain machinery, and placed on others, such as carpets."
+        }
+      }
+    },
     {
       "id": "e74c44b14e60bf338f",
       "title": "Rubio tells Cubans ‘now is the time’ to act to see political change",
@@ -97,6 +403,24 @@
       }
     },
     {
+      "id": "fc2568292034cd4579",
+      "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
+      "summary": "She was a close family member of the first victim, a man who had travelled from the Democratic Republic of Congo.",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d0b/live/15946bd0-cf39-11f1-a003-d5e5a8cb108b.jpg",
+      "published_at": "2026-10-24T00:05:43+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
+          "summary": "She was a close family member of the first victim, a man who had travelled from the Democratic Republic of Congo."
+        }
+      }
+    },
+    {
       "id": "fdf271095940d4a812",
       "title": "Thunderstorms, heavy rain and flash flooding predicted for much of Australia",
       "summary": "Parts of Queensland, Victoria and South Australia can expect severe storms on Saturday, moving into NSW and Tasmania by Sunday Get our breaking news email , free app or daily news podcast Severe thunderstorms and heavy rain will sweep across most Australian states this weekend, adding to the deluge in an already drenched Queensl…",
@@ -111,6 +435,60 @@
         "en": {
           "title": "Thunderstorms, heavy rain and flash flooding predicted for much of Australia",
           "summary": "Parts of Queensland, Victoria and South Australia can expect severe storms on Saturday, moving into NSW and Tasmania by Sunday Get our breaking news email , free app or daily news podcast Severe thunderstorms and heavy rain will sweep across most Australian states this weekend, adding to the deluge in an already drenched Queensl…"
+        }
+      }
+    },
+    {
+      "id": "5fa3062d63800b1a37",
+      "title": "Are California voters about to impose world's first 'tax on billionaires'?",
+      "summary": "Voters are about to decide if the mega-rich among them should hand over billions of dollars to pay for improvements to healthcare.",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/ck4g1jg4n9dno?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b0f/live/ff750910-ce7d-11f1-bc2e-018d645d8d21.jpg",
+      "published_at": "2026-10-23T23:11:31+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Are California voters about to impose world's first 'tax on billionaires'?",
+          "summary": "Voters are about to decide if the mega-rich among them should hand over billions of dollars to pay for improvements to healthcare."
+        }
+      }
+    },
+    {
+      "id": "2d6ad3e7edc9cef1d6",
+      "title": "Ruins of Limoges city hall a symbol of France divided by national protests",
+      "summary": "Younger Limoges residents see the destruction of their town hall as unfortunate collateral damage in a wider movement. For others, the fire was an unacceptable tragedy.",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/cxyvrged14d0o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2145/live/2966bce0-ced9-11f1-8507-45cb00a1c41c.jpg",
+      "published_at": "2026-10-23T23:09:16+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Ruins of Limoges city hall a symbol of France divided by national protests",
+          "summary": "Younger Limoges residents see the destruction of their town hall as unfortunate collateral damage in a wider movement. For others, the fire was an unacceptable tragedy."
+        }
+      }
+    },
+    {
+      "id": "03a27aa845611eb59f",
+      "title": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
+      "summary": "The Student List has emerged from almost two years of anti-corruption protests to form the biggest challenge to Vučić's rule.",
+      "source": "BBC News",
+      "category": "politics",
+      "url": "https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7667/live/b6bb68f0-cef9-11f1-b441-2b33b063138f.jpg",
+      "published_at": "2026-10-23T23:08:23+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
+          "summary": "The Student List has emerged from almost two years of anti-corruption protests to form the biggest challenge to Vučić's rule."
         }
       }
     },
@@ -165,24 +543,6 @@
         "vi": {
           "title": "Vì sao hãng bay giá rẻ thành công ở châu Âu hơn Mỹ?",
           "summary": "Quy trình vận hành, thiết kế sân bay và quan điểm của hành khách châu Âu giúp các hãng bay giá rẻ ở đây phát triển hơn so với Mỹ."
-        }
-      }
-    },
-    {
-      "id": "97c227bfaa08472768",
-      "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
-      "summary": "From 30 October, tariffs will be eased on some products, including certain machinery, and placed on others, such as carpets.",
-      "source": "BBC News",
-      "category": "economy",
-      "url": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1860/live/f6b62750-cf1d-11f1-9796-954775b3a434.jpg",
-      "published_at": "2026-10-23T22:54:57+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
-          "summary": "From 30 October, tariffs will be eased on some products, including certain machinery, and placed on others, such as carpets."
         }
       }
     },
@@ -619,6 +979,24 @@
       }
     },
     {
+      "id": "55af3acdc0c6edbdea",
+      "title": "Trump administration sues to block certification of upcoming Alaska election",
+      "summary": "The justice department has filed a lawsuit arguing that the inclusion of two candidates named Dan Sullivan could confuse voters.",
+      "source": "BBC News",
+      "category": "politics",
+      "url": "https://www.bbc.co.uk/news/articles/c678pv4krx37o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/056d/live/ef958c50-cef9-11f1-a7ee-733e71112503.jpg",
+      "published_at": "2026-10-23T18:49:14+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Trump administration sues to block certification of upcoming Alaska election",
+          "summary": "The justice department has filed a lawsuit arguing that the inclusion of two candidates named Dan Sullivan could confuse voters."
+        }
+      }
+    },
+    {
       "id": "c501a531f3bdbbc423",
       "title": "‘Black October’: cybersecurity experts sound the alarm over new era of AI-enabled hacking",
       "summary": "After discovery of severe bug in the PHP programming language, executives warn of ‘vulnerability tsunami’ Leaders in cybersecurity are sounding the alarm after the discovery of a major vulnerability this week. They are predicting that artificial intelligence tools will expose more fundamental weaknesses in global internet infras…",
@@ -889,24 +1267,6 @@
       }
     },
     {
-      "id": "a93a5fce988fba3a75",
-      "title": "RFK Jr.’s vaccine injury clinic could damage NIH hospital, board warns",
-      "summary": "\"Trust is slow to build and quick to lose,\" board chair Jack Leslie said.",
-      "source": "Ars Technica",
-      "category": "technology",
-      "url": "https://arstechnica.com/health/2026/10/rfk-jr-s-vaccine-injury-clinic-could-damage-nih-hospital-board-warns/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2298718210-1152x648.jpg",
-      "published_at": "2026-10-23T16:58:39+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "RFK Jr.’s vaccine injury clinic could damage NIH hospital, board warns",
-          "summary": "\"Trust is slow to build and quick to lose,\" board chair Jack Leslie said."
-        }
-      }
-    },
-    {
       "id": "ab5cacc4e8be7a38cc",
       "title": "Ex-Tory campaign chief and his wife receive suspended sentences over election bets",
       "summary": "Anthony Lee passed confidential information to his wife Laura Lee about when the 2024 general election would be held.",
@@ -939,24 +1299,6 @@
         "en": {
           "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
           "summary": "Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features. The update, spotted by Android Authority, adds an exception to its promise about not using your Drive, Gmail, or Google Photos for personalized ads. While the previ…"
-        }
-      }
-    },
-    {
-      "id": "8b0b484a58d8b4ae42",
-      "title": "Knicks sent employees fake offer of championship rings in phishing test: Report",
-      "summary": "Corporate phishing tests are common, but this one was especially cruel.",
-      "source": "Ars Technica",
-      "category": "technology",
-      "url": "https://arstechnica.com/tech-policy/2026/10/knicks-sent-employees-fake-offer-of-championship-rings-in-phishing-test-report/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/james-dolan-knicks-championship-1152x648-1792772606.jpg",
-      "published_at": "2026-10-23T16:51:59+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Knicks sent employees fake offer of championship rings in phishing test: Report",
-          "summary": "Corporate phishing tests are common, but this one was especially cruel."
         }
       }
     },
@@ -1011,24 +1353,6 @@
         "en": {
           "title": "Wales plans to ban steel pylons as government launches consultation",
           "summary": "The Welsh government says it is consulting on an \"undergrounding-first approach\" to electricity lines."
-        }
-      }
-    },
-    {
-      "id": "78beb7d4f0fc9b713a",
-      "title": "The first broken iPhone Duos are here",
-      "summary": "The iPhone Duo officially goes on sale today, but a few units already have broken screens. According to posts on Reddit about the affected units, the issue appears to be happening at a similar spot on all of them: Some kind of problem shows up on the inner screen along the hinge and a strange […]",
-      "source": "The Verge",
-      "category": "technology",
-      "url": "https://www.theverge.com/tech/1017623/iphone-duo-broken-cracked-screen",
-      "image": "",
-      "published_at": "2026-10-23T16:37:03+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "The first broken iPhone Duos are here",
-          "summary": "The iPhone Duo officially goes on sale today, but a few units already have broken screens. According to posts on Reddit about the affected units, the issue appears to be happening at a similar spot on all of them: Some kind of problem shows up on the inner screen along the hinge and a strange […]"
         }
       }
     },
@@ -1123,42 +1447,6 @@
       }
     },
     {
-      "id": "69507617ea9517a68e",
-      "title": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
-      "summary": "The soldiers were killed in an attack by two Palestinian gunmen at a checkpoint outside the West Bank city on Friday morning.",
-      "source": "BBC News",
-      "category": "world",
-      "url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbd8/live/36f17b50-cef9-11f1-accf-3309656ad0bb.jpg",
-      "published_at": "2026-10-23T15:37:07+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
-          "summary": "The soldiers were killed in an attack by two Palestinian gunmen at a checkpoint outside the West Bank city on Friday morning."
-        }
-      }
-    },
-    {
-      "id": "709eed1c6dd0bdcc38",
-      "title": "Oil spill washes up on UAE beaches after tanker strike",
-      "summary": "Satellite images show oil spreading for miles along the coastline, threatening local marine wildlife",
-      "source": "BBC News",
-      "category": "world",
-      "url": "https://www.bbc.co.uk/news/articles/c6rey3n974g5o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6926/live/c5f26d10-cef3-11f1-93e1-3b657b665bcf.png",
-      "published_at": "2026-10-23T15:30:47+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Oil spill washes up on UAE beaches after tanker strike",
-          "summary": "Satellite images show oil spreading for miles along the coastline, threatening local marine wildlife"
-        }
-      }
-    },
-    {
       "id": "2f2ae99120e4452443",
       "title": "Civil servant who juggled five jobs says he was 'surprised' to be charged with fraud",
       "summary": "Kashim Chowdhury denied being dishonest when not telling employers he had other jobs.",
@@ -1173,24 +1461,6 @@
         "en": {
           "title": "Civil servant who juggled five jobs says he was 'surprised' to be charged with fraud",
           "summary": "Kashim Chowdhury denied being dishonest when not telling employers he had other jobs."
-        }
-      }
-    },
-    {
-      "id": "2c18588beec585bbff",
-      "title": "PSG v Lyon moved as Paris prepares for more protests",
-      "summary": "Paris St-Germain's Ligue 1 match against Lyon at the Parc des Princes is pushed back 24 hours as the French capital prepares for another weekend of protests.",
-      "source": "BBC News",
-      "category": "world",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cw8rz3eyn26po?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e74/live/35aca470-cee7-11f1-bdca-23c64447299f.jpg",
-      "published_at": "2026-10-23T14:18:41+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "PSG v Lyon moved as Paris prepares for more protests",
-          "summary": "Paris St-Germain's Ligue 1 match against Lyon at the Parc des Princes is pushed back 24 hours as the French capital prepares for another weekend of protests."
         }
       }
     },
@@ -1227,24 +1497,6 @@
         "en": {
           "title": "Experts cast doubt on Anthropic report detailing how AI has altered work at the company",
           "summary": "Anthropic claims AI will shift how work gets done and labor demand – but some experts are skeptical of the vision Last year, the Anthropic CEO, Dario Amodei, warned that artificial intelligence could eliminate half of entry-level white-collar jobs and that in six months it would be writing 90% of code . Neither of those predicti…"
-        }
-      }
-    },
-    {
-      "id": "40bd1140205dc2a7bb",
-      "title": "Mystery over source of Ebola infection in Nigeria fuels concern about spread of virus",
-      "summary": "Switzerland says patient is wife of Swiss diplomat and believed to have contracted virus while travelling in Uganda Health officials across Africa are racing to determine how Nigeria’s first Ebola patient ⁠in more than a decade ⁠became infected, amid fears ​the outbreak could spread further after reaching a fourth African countr…",
-      "source": "The Guardian",
-      "category": "world",
-      "url": "https://www.theguardian.com/world/2026/oct/23/ebola-swiss-patient-nigeria-dr-congo-concerns-virus-spread",
-      "image": "https://i.guim.co.uk/img/media/795089c147661c73d9d1db1fbfb3b77cf917034c/296_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=142c318d5db7611f6fefeefc27c3e9af",
-      "published_at": "2026-10-23T13:57:11+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Mystery over source of Ebola infection in Nigeria fuels concern about spread of virus",
-          "summary": "Switzerland says patient is wife of Swiss diplomat and believed to have contracted virus while travelling in Uganda Health officials across Africa are racing to determine how Nigeria’s first Ebola patient ⁠in more than a decade ⁠became infected, amid fears ​the outbreak could spread further after reaching a fourth African countr…"
         }
       }
     },
@@ -1321,24 +1573,6 @@
       }
     },
     {
-      "id": "2b1ee56484e4781999",
-      "title": "Denmark to ban mink farming in government U-turn",
-      "summary": "Once the world's largest producer of mink pelts, the nation's industry has declined in recent years.",
-      "source": "BBC News",
-      "category": "politics",
-      "url": "https://www.bbc.co.uk/news/articles/c59vzjm118j1o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f055/live/ed7c2b60-cebb-11f1-ae9c-0303957c36f8.jpg",
-      "published_at": "2026-10-23T12:17:45+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Denmark to ban mink farming in government U-turn",
-          "summary": "Once the world's largest producer of mink pelts, the nation's industry has declined in recent years."
-        }
-      }
-    },
-    {
       "id": "e2243cf8564bc23d95",
       "title": "Jensen Huang: 'Tận thế AI là nỗ lực gây chú ý rẻ tiền'",
       "summary": "Jensen Huang, CEO Nvidia, cho rằng những cảnh báo về việc AI xóa sổ loài người không chính xác mà chỉ nhằm thu hút sự chú ý của dư luận.",
@@ -1393,24 +1627,6 @@
       }
     },
     {
-      "id": "ece4dc9e3d2a67fae6",
-      "title": "Doctors tell the BBC about the targeting of Sudanese hospitals by paramilitary fighters",
-      "summary": "A BBC investigation has found evidence that Sudanese paramilitary fighters systematically destroyed el-Fasher's healthcare system.",
-      "source": "BBC News",
-      "category": "world",
-      "url": "https://www.bbc.co.uk/news/videos/c8x23gegwz34o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d87e/live/57440ff0-ceca-11f1-93e1-3b657b665bcf.jpg",
-      "published_at": "2026-10-23T11:30:32+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Doctors tell the BBC about the targeting of Sudanese hospitals by paramilitary fighters",
-          "summary": "A BBC investigation has found evidence that Sudanese paramilitary fighters systematically destroyed el-Fasher's healthcare system."
-        }
-      }
-    },
-    {
       "id": "2b62f0b988efa07980",
       "title": "The young Americans choosing Y2K cars over shiny new SUVs: ‘I get so much crap from people’",
       "summary": "People under 35 are hunting for no-frills rides they can pay for in cash and fix themselves – defying expectations to take on steep loans Jack Price joined the marines in fall 2021 knowing he would need a car to get around base and that he couldn’t afford a new one. A joyless, month-long search through dealer classifieds and Fac…",
@@ -1461,42 +1677,6 @@
         "vi": {
           "title": "Đại biểu Quốc hội: Cần rõ tiêu chí, thời điểm tính thuế đất bỏ hoang 0,2%",
           "summary": "Phó bí thư Lạng Sơn Đoàn Thu Hà đề nghị làm rõ tiêu chí xác định và thời điểm thu thuế 0,2%, từ lúc đất bị bỏ hoang hay khi nhà quản lý xác nhận tình trạng đất."
-        }
-      }
-    },
-    {
-      "id": "47a139a5c1cd507bd3",
-      "title": "Cyprus police open investigation into financial affairs of Roman Abramovich",
-      "summary": "Questions about the integrity of some of Abramovich's professional advisers, were raised earlier this month.",
-      "source": "BBC News",
-      "category": "world",
-      "url": "https://www.bbc.co.uk/news/articles/c875p1yy90ryo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0d1/live/72654850-ce28-11f1-9a39-31b474234113.jpg",
-      "published_at": "2026-10-23T10:14:37+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Cyprus police open investigation into financial affairs of Roman Abramovich",
-          "summary": "Questions about the integrity of some of Abramovich's professional advisers, were raised earlier this month."
-        }
-      }
-    },
-    {
-      "id": "3350b81653d6dc7139",
-      "title": "Woman with Ebola in Nigeria confirmed as wife of Swiss diplomat",
-      "summary": "Her husband is currently in isolation but has not developed any symptoms, Swiss officials say.",
-      "source": "BBC News",
-      "category": "world",
-      "url": "https://www.bbc.co.uk/news/articles/cmwy4wlzqz3zo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc0c/live/cdfdf700-ce98-11f1-a6ca-3fa3d92134e2.jpg",
-      "published_at": "2026-10-23T10:14:33+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Woman with Ebola in Nigeria confirmed as wife of Swiss diplomat",
-          "summary": "Her husband is currently in isolation but has not developed any symptoms, Swiss officials say."
         }
       }
     },
@@ -1681,24 +1861,6 @@
       }
     },
     {
-      "id": "994427281c92bb67a8",
-      "title": "Rubio turns to small Indian town as US faces high oil prices",
-      "summary": "US Secretary of State Marco Rubio pushed a business and energy agenda over diplomacy on his second trip to India this year.",
-      "source": "BBC News",
-      "category": "world",
-      "url": "https://www.bbc.co.uk/news/articles/c3x2wnk8ejq5o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4816/live/10dcbb60-ce21-11f1-906e-e3128518d85d.jpg",
-      "published_at": "2026-10-23T08:39:42+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Rubio turns to small Indian town as US faces high oil prices",
-          "summary": "US Secretary of State Marco Rubio pushed a business and energy agenda over diplomacy on his second trip to India this year."
-        }
-      }
-    },
-    {
       "id": "e1718940a09fee506a",
       "title": "TP HCM chuyển đổi khu công nghiệp gần 110 ha làm nhà ở xã hội",
       "summary": "TP HCM sẽ chuyển đổi Khu công nghiệp Lê Minh Xuân mở rộng thuộc huyện Bình Chánh cũ, diện tích gần 110 ha, sang phát triển nhà xã hội, dự kiến hoàn thành thủ tục đầu năm sau.",
@@ -1859,172 +2021,95 @@
           "summary": "Công nghệ cần chuyển thành giá trị sử dụng thực tế, giúp xe điện đến gần hơn với cuộc sống của nhiều người, theo lãnh đạo Wuling tại Việt Nam."
         }
       }
-    },
-    {
-      "id": "f6108b3178e0f1d191",
-      "title": "Ukraine tuyên bố mở chiến dịch luồn ống, tập hậu lực lượng Nga",
-      "summary": "Ukraine dùng đường ống ngầm để tấn công lực lượng Nga tại Kupyansk, tuyên bố đây là chiến dịch phản công đầu tiên trên thế giới theo phương thức này.",
-      "source": "VnExpress",
-      "category": "vietnam",
-      "url": "https://vnexpress.net/ukraine-tuyen-bo-mo-chien-dich-luon-ong-tap-hau-luc-luong-nga-5135922.html",
-      "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/23/Settop-1792731809-5102-1792732437.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=vUCBT5b2ZM5HI132LuzEOg",
-      "published_at": "2026-10-23T07:59:02+00:00",
-      "kind": "source_brief",
-      "source_lang": "vi",
-      "translations": {
-        "vi": {
-          "title": "Ukraine tuyên bố mở chiến dịch luồn ống, tập hậu lực lượng Nga",
-          "summary": "Ukraine dùng đường ống ngầm để tấn công lực lượng Nga tại Kupyansk, tuyên bố đây là chiến dịch phản công đầu tiên trên thế giới theo phương thức này."
-        }
-      }
-    },
-    {
-      "id": "9b9458b131a00b543a",
-      "title": "Rò rỉ bồn hóa chất tại Mỹ, hàng chục người nhập viện",
-      "summary": "Bồn chứa hóa chất công nghiệp tại thành phố Toledo gặp sự cố rò rỉ, khiến gần 1.000 người sơ tán và hàng chục người nhập viện.",
-      "source": "VnExpress",
-      "category": "vietnam",
-      "url": "https://vnexpress.net/ro-ri-bon-hoa-chat-tai-my-hang-chuc-nguoi-nhap-vien-5135986.html",
-      "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/23/ro-ri-ho-a-cha-t-1792738771-6704-1792739136.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=cfalaW7yxLIRWgsgABCpKQ",
-      "published_at": "2026-10-23T07:53:39+00:00",
-      "kind": "source_brief",
-      "source_lang": "vi",
-      "translations": {
-        "vi": {
-          "title": "Rò rỉ bồn hóa chất tại Mỹ, hàng chục người nhập viện",
-          "summary": "Bồn chứa hóa chất công nghiệp tại thành phố Toledo gặp sự cố rò rỉ, khiến gần 1.000 người sơ tán và hàng chục người nhập viện."
-        }
-      }
-    },
-    {
-      "id": "df1dd9d23f6ed15a22",
-      "title": "Em thích vun vén cho những điều mình yêu quý",
-      "summary": "Em là người cẩn thận, nhẹ nhàng, biết quan sát và khá để ý đến những điều nhỏ trong cách cư xử.",
-      "source": "VnExpress",
-      "category": "vietnam",
-      "url": "https://vnexpress.net/em-thich-vun-ven-cho-nhung-dieu-minh-yeu-quy-5134085.html",
-      "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/23/GeminiGeneratedImagedzeltadzel-6994-9591-1792712844.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=EGL_HBec6lXVLGQSQcZaVw",
-      "published_at": "2026-10-23T07:50:58+00:00",
-      "kind": "source_brief",
-      "source_lang": "vi",
-      "translations": {
-        "vi": {
-          "title": "Em thích vun vén cho những điều mình yêu quý",
-          "summary": "Em là người cẩn thận, nhẹ nhàng, biết quan sát và khá để ý đến những điều nhỏ trong cách cư xử."
-        }
-      }
-    },
-    {
-      "id": "267b194b8c0870a2e8",
-      "title": "Tôi bỏ việc lương cao sau 6 tháng bị sếp giao việc ngoài giờ",
-      "summary": "Mỗi lần gọi giao việc ngoài giờ, sếp chưa một lần hỏi xem tôi có đang bận không, hay cảm ơn sau khi tôi hoàn thành.",
-      "source": "VnExpress",
-      "category": "vietnam",
-      "url": "https://vnexpress.net/toi-bo-viec-luong-cao-sau-6-thang-bi-sep-giao-viec-ngoai-gio-5136042.html",
-      "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/23/pexelsoliliao88383667428155053-4498-6683-1792741137.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=RkCWxrhGtZ9AtGh4atKyxw",
-      "published_at": "2026-10-23T07:50:18+00:00",
-      "kind": "source_brief",
-      "source_lang": "vi",
-      "translations": {
-        "vi": {
-          "title": "Tôi bỏ việc lương cao sau 6 tháng bị sếp giao việc ngoài giờ",
-          "summary": "Mỗi lần gọi giao việc ngoài giờ, sếp chưa một lần hỏi xem tôi có đang bận không, hay cảm ơn sau khi tôi hoàn thành."
-        }
-      }
-    },
-    {
-      "id": "6a36b7df1a4c3a2463",
-      "title": "Khánh thành cụm 11 công trình vệ sinh đạt chuẩn ở Sơn La",
-      "summary": "Sáng 22/10, Quỹ Hy vọng cùng Opella Việt Nam và BW Industrial bàn giao cụm 11 công trình vệ sinh học đường tại 6 xã, tổng tài trợ gần 3 tỷ đồng.",
-      "source": "VnExpress",
-      "category": "vietnam",
-      "url": "https://vnexpress.net/khanh-thanh-cum-11-cong-trinh-ve-sinh-dat-chuan-o-son-la-5135815.html",
-      "image": "https://vcdn1-giadinh.vnecdn.net/2026/10/23/a-nh-ma-n-hi-nh-lu-1792723424-5626-1792741740.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=naf6matW5kifidq6opJveQ",
-      "published_at": "2026-10-23T07:49:48+00:00",
-      "kind": "source_brief",
-      "source_lang": "vi",
-      "translations": {
-        "vi": {
-          "title": "Khánh thành cụm 11 công trình vệ sinh đạt chuẩn ở Sơn La",
-          "summary": "Sáng 22/10, Quỹ Hy vọng cùng Opella Việt Nam và BW Industrial bàn giao cụm 11 công trình vệ sinh học đường tại 6 xã, tổng tài trợ gần 3 tỷ đồng."
-        }
-      }
-    },
-    {
-      "id": "caca089ccfb76f736b",
-      "title": "Công ty bầu Đức chốt hợp đồng bán 1.000 tấn cà phê sang Trung Quốc",
-      "summary": "Gần 3.000 ha cà phê HAG sắp thu hoạch của bầu Đức vừa chốt hợp đồng xuất khẩu 1.000 tấn sang Trung Quốc với giá 182.000 đồng một kg.",
-      "source": "VnExpress",
-      "category": "vietnam",
-      "url": "https://vnexpress.net/cong-ty-bau-duc-chot-hop-dong-ban-1-000-tan-ca-phe-sang-trung-quoc-5135978.html",
-      "image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/23/screen-shot-at-pm-1792734989-2232-1792735430.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=xXD9BCirOoiwgiHGVMtS_g",
-      "published_at": "2026-10-23T07:49:13+00:00",
-      "kind": "source_brief",
-      "source_lang": "vi",
-      "translations": {
-        "vi": {
-          "title": "Công ty bầu Đức chốt hợp đồng bán 1.000 tấn cà phê sang Trung Quốc",
-          "summary": "Gần 3.000 ha cà phê HAG sắp thu hoạch của bầu Đức vừa chốt hợp đồng xuất khẩu 1.000 tấn sang Trung Quốc với giá 182.000 đồng một kg."
-        }
-      }
-    },
-    {
-      "id": "81105dfecce626c748",
-      "title": "Phút ngỡ ngàng của tù nhân Mỹ khi được Nga phóng thích",
-      "summary": "Stephen Hubbard, công dân Mỹ được Nga phóng thích sau hơn 4 năm giam giữ, chỉ nhận ra mình được tự do khi bước lên máy bay và nhìn thấy lá cờ quê hương.",
-      "source": "VnExpress",
-      "category": "vietnam",
-      "url": "https://vnexpress.net/phut-ngo-ngang-cua-tu-nhan-my-khi-duoc-nga-phong-thich-5135959.html",
-      "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/23/ap2629435297286964731792580318-1766-4617-1792730371.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=yGyczfK5r-YMBNHLTH_VZA",
-      "published_at": "2026-10-23T07:46:54+00:00",
-      "kind": "source_brief",
-      "source_lang": "vi",
-      "translations": {
-        "vi": {
-          "title": "Phút ngỡ ngàng của tù nhân Mỹ khi được Nga phóng thích",
-          "summary": "Stephen Hubbard, công dân Mỹ được Nga phóng thích sau hơn 4 năm giam giữ, chỉ nhận ra mình được tự do khi bước lên máy bay và nhìn thấy lá cờ quê hương."
-        }
-      }
-    },
-    {
-      "id": "5b8c97a15277065bf5",
-      "title": "Phải trả nợ đến 95 tuổi vì tiêu tiền nhặt được",
-      "summary": "Cho rằng túi tiền 22 triệu yen nhặt được là \"quà của trời\" khi mắc ung thư, Takuya Suenaga đã tiêu xài phần lớn trước khi bị bắt.",
-      "source": "VnExpress",
-      "category": "vietnam",
-      "url": "https://vnexpress.net/phai-tra-no-den-95-tuoi-vi-tieu-tien-nhat-duoc-5135940.html",
-      "image": "https://vcdn1-giadinh.vnecdn.net/2026/10/23/a-nh-ma-n-hi-nh-lu-c-179272783-6578-4120-1792727906.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=2XyvxUZe2Be9DjqoR3SvmA",
-      "published_at": "2026-10-23T07:43:33+00:00",
-      "kind": "source_brief",
-      "source_lang": "vi",
-      "translations": {
-        "vi": {
-          "title": "Phải trả nợ đến 95 tuổi vì tiêu tiền nhặt được",
-          "summary": "Cho rằng túi tiền 22 triệu yen nhặt được là \"quà của trời\" khi mắc ung thư, Takuya Suenaga đã tiêu xài phần lớn trước khi bị bắt."
-        }
-      }
-    },
-    {
-      "id": "f9ae148386b3571b82",
-      "title": "TS Phạm Hy Hiếu nêu điều kiện đưa AI vào y tế từ xa",
-      "summary": "TS Phạm Hy Hiếu, CEO One Nexus, cho rằng xây dựng hạ tầng công nghệ đồng bộ để mở rộng ứng dụng AI trong y tế từ xa, tại ATS 2026 ngày 16/10.",
-      "source": "VnExpress",
-      "category": "ai",
-      "url": "https://vnexpress.net/ts-pham-hy-hieu-neu-dieu-kien-dua-ai-vao-y-te-tu-xa-5136028.html",
-      "image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/23/ts-phh-1792739154-9243-1792739252.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=VNZmgCTqLfR5x_DAqoJxDQ",
-      "published_at": "2026-10-23T07:30:00+00:00",
-      "kind": "source_brief",
-      "source_lang": "vi",
-      "translations": {
-        "vi": {
-          "title": "TS Phạm Hy Hiếu nêu điều kiện đưa AI vào y tế từ xa",
-          "summary": "TS Phạm Hy Hiếu, CEO One Nexus, cho rằng xây dựng hạ tầng công nghệ đồng bộ để mở rộng ứng dụng AI trong y tế từ xa, tại ATS 2026 ngày 16/10."
-        }
-      }
     }
   ],
   "videos": {
     "vietnam": [
+      {
+        "id": "XXmNXEC1Dc0",
+        "title": "Sửa đổi Luật An toàn thực phẩm: Đổi mới tư duy quản lý, nâng cao hiệu quả kiểm soát | VTV24",
+        "channel": "VTV24",
+        "category": "vietnam",
+        "published_at": "2026-10-24T03:55:54+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/XXmNXEC1Dc0/hqdefault.jpg",
+        "popularity": 323,
+        "provenance": "official_channel_api",
+        "source_lang": "vi",
+        "translations": {
+          "vi": {
+            "title": "Sửa đổi Luật An toàn thực phẩm: Đổi mới tư duy quản lý, nâng cao hiệu quả kiểm soát | VTV24",
+            "summary": ""
+          }
+        }
+      },
+      {
+        "id": "_QvzNvBCNEc",
+        "title": "Bản tin sáng 24/10/2026: Lô dầu diesel đầu tiên của Nga đang trên đường tới Mỹ | VTV24",
+        "channel": "VTV24",
+        "category": "vietnam",
+        "published_at": "2026-10-24T02:54:10+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/_QvzNvBCNEc/hqdefault.jpg",
+        "popularity": 1795,
+        "provenance": "official_channel_api",
+        "source_lang": "vi",
+        "translations": {
+          "vi": {
+            "title": "Bản tin sáng 24/10/2026: Lô dầu diesel đầu tiên của Nga đang trên đường tới Mỹ | VTV24",
+            "summary": ""
+          }
+        }
+      },
+      {
+        "id": "IZFx56JVpGw",
+        "title": "Thế giới toàn cảnh 24/10: Pháp triển khai 70.000 cảnh sát đối phó biểu tình | VTV24",
+        "channel": "VTV24",
+        "category": "vietnam",
+        "published_at": "2026-10-24T02:26:02+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/IZFx56JVpGw/hqdefault.jpg",
+        "popularity": 6504,
+        "provenance": "official_channel_api",
+        "source_lang": "vi",
+        "translations": {
+          "vi": {
+            "title": "Thế giới toàn cảnh 24/10: Pháp triển khai 70.000 cảnh sát đối phó biểu tình | VTV24",
+            "summary": ""
+          }
+        }
+      },
+      {
+        "id": "_971q4VPnKU",
+        "title": "Gia Lai ghi nhận ca bệnh Whitmore | Cụm tin | VTV24",
+        "channel": "VTV24",
+        "category": "vietnam",
+        "published_at": "2026-10-24T01:34:35+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/_971q4VPnKU/hqdefault.jpg",
+        "popularity": 2760,
+        "provenance": "official_channel_api",
+        "source_lang": "vi",
+        "translations": {
+          "vi": {
+            "title": "Gia Lai ghi nhận ca bệnh Whitmore | Cụm tin | VTV24",
+            "summary": ""
+          }
+        }
+      },
+      {
+        "id": "tKNKvxtJLoc",
+        "title": "Thời tiết ngày 24/10: Bắc Bộ, Trung Bộ nắng nóng, có nơi lên đến 35 độ C | VTV24",
+        "channel": "VTV24",
+        "category": "vietnam",
+        "published_at": "2026-10-24T01:23:06+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/tKNKvxtJLoc/hqdefault.jpg",
+        "popularity": 3668,
+        "provenance": "official_channel_api",
+        "source_lang": "vi",
+        "translations": {
+          "vi": {
+            "title": "Thời tiết ngày 24/10: Bắc Bộ, Trung Bộ nắng nóng, có nơi lên đến 35 độ C | VTV24",
+            "summary": ""
+          }
+        }
+      },
       {
         "id": "cmakXJvf84E",
         "title": "Thật - Giả, Kiểm chứng: Cảnh giác bẫy lừa đảo \"xem phim ngắn A.I kiếm tiền triệu\" | VTV24",
@@ -2032,7 +2117,7 @@
         "category": "vietnam",
         "published_at": "2026-10-23T15:30:14+00:00",
         "thumbnail": "https://i.ytimg.com/vi/cmakXJvf84E/hqdefault.jpg",
-        "popularity": 4692,
+        "popularity": 6644,
         "provenance": "official_channel_api",
         "source_lang": "vi",
         "translations": {
@@ -2049,7 +2134,7 @@
         "category": "vietnam",
         "published_at": "2026-10-23T14:33:27+00:00",
         "thumbnail": "https://i.ytimg.com/vi/cGbDNamlph0/hqdefault.jpg",
-        "popularity": 5056,
+        "popularity": 6397,
         "provenance": "official_channel_api",
         "source_lang": "vi",
         "translations": {
@@ -2066,97 +2151,12 @@
         "category": "vietnam",
         "published_at": "2026-10-23T14:30:07+00:00",
         "thumbnail": "https://i.ytimg.com/vi/hCWxK-I3keo/hqdefault.jpg",
-        "popularity": 6706,
+        "popularity": 12197,
         "provenance": "official_channel_api",
         "source_lang": "vi",
         "translations": {
           "vi": {
             "title": "Mùa thu miền Bắc nắng nóng kỷ lục, nền nhiệt duy trì mức cao | VTV24",
-            "summary": ""
-          }
-        }
-      },
-      {
-        "id": "SUdlcI5i7vI",
-        "title": "Thời sự toàn cảnh tối 23/10: Thông cáo báo chí chung Việt Nam - EU | VTV24",
-        "channel": "VTV24",
-        "category": "vietnam",
-        "published_at": "2026-10-23T14:13:30+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/SUdlcI5i7vI/hqdefault.jpg",
-        "popularity": 9758,
-        "provenance": "official_channel_api",
-        "source_lang": "vi",
-        "translations": {
-          "vi": {
-            "title": "Thời sự toàn cảnh tối 23/10: Thông cáo báo chí chung Việt Nam - EU | VTV24",
-            "summary": ""
-          }
-        }
-      },
-      {
-        "id": "IIvsV5h8u7o",
-        "title": "Cảnh giác với cạm bẫy mua bán người qua mạng xã hội | VTV24",
-        "channel": "VTV24",
-        "category": "vietnam",
-        "published_at": "2026-10-23T13:47:47+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/IIvsV5h8u7o/hqdefault.jpg",
-        "popularity": 4116,
-        "provenance": "official_channel_api",
-        "source_lang": "vi",
-        "translations": {
-          "vi": {
-            "title": "Cảnh giác với cạm bẫy mua bán người qua mạng xã hội | VTV24",
-            "summary": ""
-          }
-        }
-      },
-      {
-        "id": "0UA9LzurkWY",
-        "title": "Công nghệ biến rác thải thành tài nguyên: Bước chuyển dịch xanh trong quản lý đô thị | VTV24",
-        "channel": "VTV24",
-        "category": "vietnam",
-        "published_at": "2026-10-23T13:45:32+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/0UA9LzurkWY/hqdefault.jpg",
-        "popularity": 4275,
-        "provenance": "official_channel_api",
-        "source_lang": "vi",
-        "translations": {
-          "vi": {
-            "title": "Công nghệ biến rác thải thành tài nguyên: Bước chuyển dịch xanh trong quản lý đô thị | VTV24",
-            "summary": ""
-          }
-        }
-      },
-      {
-        "id": "aM21TpfjCbc",
-        "title": "Cuộc đua nguồn cung đất hiếm toàn cầu | Cụm tin Quốc tế | VTV24",
-        "channel": "VTV24",
-        "category": "vietnam",
-        "published_at": "2026-10-23T12:46:08+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/aM21TpfjCbc/hqdefault.jpg",
-        "popularity": 8917,
-        "provenance": "official_channel_api",
-        "source_lang": "vi",
-        "translations": {
-          "vi": {
-            "title": "Cuộc đua nguồn cung đất hiếm toàn cầu | Cụm tin Quốc tế | VTV24",
-            "summary": ""
-          }
-        }
-      },
-      {
-        "id": "8NpsmBrSjQc",
-        "title": "Việt Nam tự chủ sản xuất robot chữa cháy | VTV24",
-        "channel": "VTV24",
-        "category": "vietnam",
-        "published_at": "2026-10-23T12:45:18+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/8NpsmBrSjQc/hqdefault.jpg",
-        "popularity": 2461,
-        "provenance": "official_channel_api",
-        "source_lang": "vi",
-        "translations": {
-          "vi": {
-            "title": "Việt Nam tự chủ sản xuất robot chữa cháy | VTV24",
             "summary": ""
           }
         }
@@ -2170,7 +2170,7 @@
         "category": "world",
         "published_at": "2026-10-24T00:30:07+00:00",
         "thumbnail": "https://i.ytimg.com/vi/KF4DWhkugTM/hqdefault.jpg",
-        "popularity": 27,
+        "popularity": 10214,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2187,7 +2187,7 @@
         "category": "world",
         "published_at": "2026-10-24T00:00:33+00:00",
         "thumbnail": "https://i.ytimg.com/vi/Fu4KVwUlc_E/hqdefault.jpg",
-        "popularity": 32,
+        "popularity": 637,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2204,7 +2204,7 @@
         "category": "world",
         "published_at": "2026-10-23T23:30:01+00:00",
         "thumbnail": "https://i.ytimg.com/vi/7sAITRqU90o/hqdefault.jpg",
-        "popularity": 8458,
+        "popularity": 85287,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2221,7 +2221,7 @@
         "category": "world",
         "published_at": "2026-10-23T22:31:21+00:00",
         "thumbnail": "https://i.ytimg.com/vi/DS7KnX9mXHU/hqdefault.jpg",
-        "popularity": 1740,
+        "popularity": 12850,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2238,7 +2238,7 @@
         "category": "world",
         "published_at": "2026-10-23T22:00:29+00:00",
         "thumbnail": "https://i.ytimg.com/vi/VsKPJP7eiLs/hqdefault.jpg",
-        "popularity": 282,
+        "popularity": 691,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2255,7 +2255,7 @@
         "category": "world",
         "published_at": "2026-10-23T21:33:50+00:00",
         "thumbnail": "https://i.ytimg.com/vi/rxn-NJHbzaI/hqdefault.jpg",
-        "popularity": 16484,
+        "popularity": 40527,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2272,7 +2272,7 @@
         "category": "world",
         "published_at": "2026-10-23T21:05:41+00:00",
         "thumbnail": "https://i.ytimg.com/vi/wUGFsjjH_II/hqdefault.jpg",
-        "popularity": 14381,
+        "popularity": 35621,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2289,7 +2289,7 @@
         "category": "world",
         "published_at": "2026-10-23T20:53:57+00:00",
         "thumbnail": "https://i.ytimg.com/vi/OYG4SOnjY8I/hqdefault.jpg",
-        "popularity": 504,
+        "popularity": 1317,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2302,13 +2302,30 @@
     ],
     "economy": [
       {
+        "id": "yiKknSMnKQc",
+        "title": "Michael Palin on Still Traveling the World at 83",
+        "channel": "Bloomberg Television",
+        "category": "economy",
+        "published_at": "2026-10-24T04:00:20+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/yiKknSMnKQc/hqdefault.jpg",
+        "popularity": 75,
+        "provenance": "official_channel_api",
+        "source_lang": "en",
+        "translations": {
+          "en": {
+            "title": "Michael Palin on Still Traveling the World at 83",
+            "summary": ""
+          }
+        }
+      },
+      {
         "id": "RfNb_DvR1QM",
         "title": "How to Retire Rich in India",
         "channel": "Bloomberg Television",
         "category": "economy",
         "published_at": "2026-10-24T00:00:39+00:00",
         "thumbnail": "https://i.ytimg.com/vi/RfNb_DvR1QM/hqdefault.jpg",
-        "popularity": 70,
+        "popularity": 928,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2325,7 +2342,7 @@
         "category": "economy",
         "published_at": "2026-10-23T23:05:12+00:00",
         "thumbnail": "https://i.ytimg.com/vi/269Yu1UgYn8/hqdefault.jpg",
-        "popularity": 1085,
+        "popularity": 11069,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2342,7 +2359,7 @@
         "category": "economy",
         "published_at": "2026-10-23T23:00:14+00:00",
         "thumbnail": "https://i.ytimg.com/vi/9sL1WZsSeB0/hqdefault.jpg",
-        "popularity": 476,
+        "popularity": 5742,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2359,7 +2376,7 @@
         "category": "economy",
         "published_at": "2026-10-23T22:46:33+00:00",
         "thumbnail": "https://i.ytimg.com/vi/-nwjUI1U070/hqdefault.jpg",
-        "popularity": 420,
+        "popularity": 4022,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2376,7 +2393,7 @@
         "category": "economy",
         "published_at": "2026-10-23T22:28:27+00:00",
         "thumbnail": "https://i.ytimg.com/vi/iaw6C36l2wQ/hqdefault.jpg",
-        "popularity": 592,
+        "popularity": 2968,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2393,7 +2410,7 @@
         "category": "economy",
         "published_at": "2026-10-23T22:19:54+00:00",
         "thumbnail": "https://i.ytimg.com/vi/G0uOXddu6Pk/hqdefault.jpg",
-        "popularity": 1021,
+        "popularity": 4156,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2410,29 +2427,12 @@
         "category": "economy",
         "published_at": "2026-10-23T22:18:42+00:00",
         "thumbnail": "https://i.ytimg.com/vi/Bsz-hcTYfA0/hqdefault.jpg",
-        "popularity": 1556,
+        "popularity": 8523,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
           "en": {
             "title": "$1,999 New iPhone 'Unfolds' During Affordability Crisis",
-            "summary": ""
-          }
-        }
-      },
-      {
-        "id": "MipgtpyrPqQ",
-        "title": "'Notes on Being a Man', 'The Invisible Hand'",
-        "channel": "Bloomberg Television",
-        "category": "economy",
-        "published_at": "2026-10-23T22:06:32+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/MipgtpyrPqQ/hqdefault.jpg",
-        "popularity": 663,
-        "provenance": "official_channel_api",
-        "source_lang": "en",
-        "translations": {
-          "en": {
-            "title": "'Notes on Being a Man', 'The Invisible Hand'",
             "summary": ""
           }
         }
@@ -2446,7 +2446,7 @@
         "category": "technology",
         "published_at": "2026-10-23T19:30:11+00:00",
         "thumbnail": "https://i.ytimg.com/vi/pT-x3cJMvKQ/hqdefault.jpg",
-        "popularity": 3579,
+        "popularity": 6306,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2463,7 +2463,7 @@
         "category": "technology",
         "published_at": "2026-10-23T18:45:32+00:00",
         "thumbnail": "https://i.ytimg.com/vi/kStnjnWXzXs/hqdefault.jpg",
-        "popularity": 8664,
+        "popularity": 16895,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2480,7 +2480,7 @@
         "category": "technology",
         "published_at": "2026-10-23T17:49:53+00:00",
         "thumbnail": "https://i.ytimg.com/vi/6IxqUNr8gcQ/hqdefault.jpg",
-        "popularity": 5574,
+        "popularity": 10203,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2497,7 +2497,7 @@
         "category": "technology",
         "published_at": "2026-10-23T17:15:30+00:00",
         "thumbnail": "https://i.ytimg.com/vi/6qvs8SJPtIc/hqdefault.jpg",
-        "popularity": 12733,
+        "popularity": 18363,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2514,7 +2514,7 @@
         "category": "technology",
         "published_at": "2026-10-23T16:57:19+00:00",
         "thumbnail": "https://i.ytimg.com/vi/HqxRJft0_4I/hqdefault.jpg",
-        "popularity": 22414,
+        "popularity": 29233,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2531,7 +2531,7 @@
         "category": "technology",
         "published_at": "2026-10-23T14:00:32+00:00",
         "thumbnail": "https://i.ytimg.com/vi/1wcErA5JquM/hqdefault.jpg",
-        "popularity": 8244,
+        "popularity": 11235,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2548,7 +2548,7 @@
         "category": "technology",
         "published_at": "2026-10-23T13:00:05+00:00",
         "thumbnail": "https://i.ytimg.com/vi/YYhJYOoqBp8/hqdefault.jpg",
-        "popularity": 25741,
+        "popularity": 29969,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2565,7 +2565,7 @@
         "category": "technology",
         "published_at": "2026-10-23T12:00:25+00:00",
         "thumbnail": "https://i.ytimg.com/vi/lCCa5ntnfAo/hqdefault.jpg",
-        "popularity": 56663,
+        "popularity": 60716,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2584,7 +2584,7 @@
         "category": "ai-trends",
         "published_at": "2026-10-23T05:13:07+00:00",
         "thumbnail": "https://i.ytimg.com/vi/UTBuWWbFjRI/hqdefault.jpg",
-        "popularity": 174420,
+        "popularity": 179202,
         "provenance": "youtube_popular",
         "source_lang": "en",
         "translations": {
@@ -2601,7 +2601,7 @@
         "category": "ai-trends",
         "published_at": "2026-10-21T23:00:08+00:00",
         "thumbnail": "https://i.ytimg.com/vi/CsF5oqVV5YE/hqdefault.jpg",
-        "popularity": 6270,
+        "popularity": 6564,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2618,7 +2618,7 @@
         "category": "ai-trends",
         "published_at": "2026-10-21T19:00:23+00:00",
         "thumbnail": "https://i.ytimg.com/vi/SOF3_evPje8/hqdefault.jpg",
-        "popularity": 25548,
+        "popularity": 26036,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2635,7 +2635,7 @@
         "category": "ai-trends",
         "published_at": "2026-10-21T18:41:29+00:00",
         "thumbnail": "https://i.ytimg.com/vi/fmodf-lNGEE/hqdefault.jpg",
-        "popularity": 1174863,
+        "popularity": 1215120,
         "provenance": "youtube_popular",
         "source_lang": "en",
         "translations": {
@@ -2652,7 +2652,7 @@
         "category": "ai-trends",
         "published_at": "2026-10-16T21:00:00+00:00",
         "thumbnail": "https://i.ytimg.com/vi/LJ2v4-FvPcA/hqdefault.jpg",
-        "popularity": 3406,
+        "popularity": 3412,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2669,7 +2669,7 @@
         "category": "ai-trends",
         "published_at": "2026-10-16T16:00:00+00:00",
         "thumbnail": "https://i.ytimg.com/vi/-nmcYcO-EE8/hqdefault.jpg",
-        "popularity": 8337,
+        "popularity": 8336,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2686,7 +2686,7 @@
         "category": "ai-trends",
         "published_at": "2026-10-15T23:00:26+00:00",
         "thumbnail": "https://i.ytimg.com/vi/qJplHFjyv2A/hqdefault.jpg",
-        "popularity": 7031,
+        "popularity": 7039,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2703,7 +2703,7 @@
         "category": "ai-trends",
         "published_at": "2026-10-15T19:00:22+00:00",
         "thumbnail": "https://i.ytimg.com/vi/i3X7Fv0Z3Uc/hqdefault.jpg",
-        "popularity": 13926,
+        "popularity": 13932,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {

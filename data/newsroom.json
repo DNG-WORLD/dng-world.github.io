@@ -1,12 +1,12 @@
 {
   "version": 36,
   "translation_status": "not_configured",
-  "updated_at": "2026-10-24T09:19:21.086777+00:00",
-  "attempted_at": "2026-10-24T09:19:21.086777+00:00",
+  "updated_at": "2026-10-24T13:23:13.597649+00:00",
+  "attempted_at": "2026-10-24T13:23:13.597649+00:00",
   "status": "ok",
   "video_status": "fresh",
   "video_warning": "",
-  "video_last_success_at": "2026-10-24T09:19:21.086777+00:00",
+  "video_last_success_at": "2026-10-24T13:23:13.597649+00:00",
   "video_mode": "popular_and_channel",
   "video_api_note": "YouTube Data API v3 / verified embeddable public videos",
   "source_count": 22,
@@ -38,25 +38,349 @@
     "Tuổi Trẻ / world (empty or no recent records)",
     "Tuổi Trẻ / economy (empty or no recent records)",
     "Tuổi Trẻ / vietnam (empty or no recent records)",
-    "VietnamPlus / vietnam (not well-formed (invalid token): line 1, column 0)",
-    "Search Engine Land / marketing (HTTP Error 403: Forbidden)"
+    "Search Engine Land / marketing (HTTP Error 403: Forbidden)",
+    "VietnamPlus / vietnam (not well-formed (invalid token): line 1, column 0)"
   ],
   "news": [
     {
       "id": "7c2eaa95742e889dfc",
-      "title": "Hundreds of protests expected across France, with shops, businesses and tourist sites closed – Europe live",
-      "summary": "France will deploy 70,000 officers around the country. Protests are also expected in Italy, Spain, Austria, Portugal, Albania and Ireland The mood in Paris was heightened by fear and horror after what the government said was “racist, terrorist attack” in two towns west of the city on Friday. A 26-year-old, well-respected martial…",
+      "title": "Thousands march in Paris as protests take place across Europe – Europe live",
+      "summary": "French police have made 135 arrests, while Italian officers have raided homes in Milan, with protests also taking place in Spain and Albania Jesse, 40, a charity worker from the north of Paris, had turned out for the street march. She said: “I’m so angry. I’m here to support schoolchildren’s demands for better conditions. I’m so…",
       "source": "The Guardian",
-      "category": "politics",
+      "category": "world",
       "url": "https://www.theguardian.com/world/live/2026/oct/24/france-demonstrations-police-macron-italy-albania-belgium-spain-ukraine-russia-europe-latest-news",
-      "image": "https://i.guim.co.uk/img/media/1111ad1f06c69cdf7ce8235534500674b9bdc4a4/443_0_4520_3616/master/4520.jpg?width=140&quality=85&auto=format&fit=max&s=1386dde663d911d37d3d91735cf74d44",
-      "published_at": "2026-10-24T09:13:44+00:00",
+      "image": "https://i.guim.co.uk/img/media/b9d1673289d94e533d01027c01add44084ff4198/805_0_6162_4929/master/6162.jpg?width=140&quality=85&auto=format&fit=max&s=1ac5e910992d123ad426003922e42667",
+      "published_at": "2026-10-24T13:13:33+00:00",
       "kind": "source_brief",
       "source_lang": "en",
       "translations": {
         "en": {
-          "title": "Hundreds of protests expected across France, with shops, businesses and tourist sites closed – Europe live",
-          "summary": "France will deploy 70,000 officers around the country. Protests are also expected in Italy, Spain, Austria, Portugal, Albania and Ireland The mood in Paris was heightened by fear and horror after what the government said was “racist, terrorist attack” in two towns west of the city on Friday. A 26-year-old, well-respected martial…"
+          "title": "Thousands march in Paris as protests take place across Europe – Europe live",
+          "summary": "French police have made 135 arrests, while Italian officers have raided homes in Milan, with protests also taking place in Spain and Albania Jesse, 40, a charity worker from the north of Paris, had turned out for the street march. She said: “I’m so angry. I’m here to support schoolchildren’s demands for better conditions. I’m so…"
+        }
+      }
+    },
+    {
+      "id": "4d5e52cf2ccc8bf7c6",
+      "title": "Kim Jong-un crosses newly opened bridge into China",
+      "summary": "North Korean leader travels over New Yalu River Bridge to meet senior Communist party member Kim Jong-un has visited China, inaugurating a bridge that connects the two countries and saying he hopes to expand cooperation with his neighbour. The North Korean leader arrived in the Chinese border city of Dandong on Saturday after cr…",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/world/2026/oct/24/kim-jong-un-crosses-newly-opened-bridge-into-china",
+      "image": "https://i.guim.co.uk/img/media/70aba9653c376fb7740a63f99ee1a6474668c259/44_0_3934_3148/master/3934.jpg?width=140&quality=85&auto=format&fit=max&s=056c22a8ea5c8ffc7eb9fdd0db37331c",
+      "published_at": "2026-10-24T12:54:33+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Kim Jong-un crosses newly opened bridge into China",
+          "summary": "North Korean leader travels over New Yalu River Bridge to meet senior Communist party member Kim Jong-un has visited China, inaugurating a bridge that connects the two countries and saying he hopes to expand cooperation with his neighbour. The North Korean leader arrived in the Chinese border city of Dandong on Saturday after cr…"
+        }
+      }
+    },
+    {
+      "id": "b49e55ffc4ac708251",
+      "title": "Jackpot gần 200 tỷ đồng có người trúng thưởng",
+      "summary": "Tối 24/10, Vietlott xác định được một khách hàng trúng giải cao nhất của sản phẩm Power 6/55 trị giá gần 200 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "economy",
+      "url": "https://vnexpress.net/jackpot-gan-200-ty-dong-co-nguoi-trung-thuong-5136482.html",
+      "image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/24/wm1-wm1-cg2a7362-1792845230-6531-1792845263.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=CmvBlirl9TaBpL7IkuzbGA",
+      "published_at": "2026-10-24T12:34:23+00:00",
+      "kind": "source_brief",
+      "source_lang": "vi",
+      "translations": {
+        "vi": {
+          "title": "Jackpot gần 200 tỷ đồng có người trúng thưởng",
+          "summary": "Tối 24/10, Vietlott xác định được một khách hàng trúng giải cao nhất của sản phẩm Power 6/55 trị giá gần 200 tỷ đồng."
+        }
+      }
+    },
+    {
+      "id": "1a7ddd20c143c34d1a",
+      "title": "Lee Chang Dong ponders the ethics of the camera",
+      "summary": "Lee Chang Dong's seventh feature film, Possible Love, is inspired by true events from 2009, when a Korean conglomerate fired a third of its staff - 2,600 employees - after which many died by suicide. Possible Love is the latest in a long line of Lee movies that engage with themes of class or labor […]",
+      "source": "The Verge",
+      "category": "technology",
+      "url": "https://www.theverge.com/entertainment/1017888/possible-love-lee-chang-dong-director-interview",
+      "image": "",
+      "published_at": "2026-10-24T12:30:00+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Lee Chang Dong ponders the ethics of the camera",
+          "summary": "Lee Chang Dong's seventh feature film, Possible Love, is inspired by true events from 2009, when a Korean conglomerate fired a third of its staff - 2,600 employees - after which many died by suicide. Possible Love is the latest in a long line of Lee movies that engage with themes of class or labor […]"
+        }
+      }
+    },
+    {
+      "id": "af154c8b7028fa6b06",
+      "title": "Ukraine says Starlink connection 'now stable' after network limits",
+      "summary": "The slowed Starlink connections had affected the Ukraine's military and drone operations for a week.",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6049/live/9c0d0c10-cf9a-11f1-b441-2b33b063138f.jpg",
+      "published_at": "2026-10-24T12:12:40+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Ukraine says Starlink connection 'now stable' after network limits",
+          "summary": "The slowed Starlink connections had affected the Ukraine's military and drone operations for a week."
+        }
+      }
+    },
+    {
+      "id": "d7892e3bcefec72b9e",
+      "title": "Laika has spent 20 years building up to Wildwood",
+      "summary": "Across several decades in Hollywood, Caleb Deschanel has seen a lot. He served as cinematographer on films like The Passion of the Christ and The Patriot, worked on sequences in The Godfather and Titanic, and directed a few episodes of Twin Peaks. Even still, nothing could quite prepare him for his first stop-motion project: wor…",
+      "source": "The Verge",
+      "category": "technology",
+      "url": "https://www.theverge.com/entertainment/1017740/wildwood-stop-motion-interview-laika",
+      "image": "",
+      "published_at": "2026-10-24T12:00:00+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Laika has spent 20 years building up to Wildwood",
+          "summary": "Across several decades in Hollywood, Caleb Deschanel has seen a lot. He served as cinematographer on films like The Passion of the Christ and The Patriot, worked on sequences in The Godfather and Titanic, and directed a few episodes of Twin Peaks. Even still, nothing could quite prepare him for his first stop-motion project: wor…"
+        }
+      }
+    },
+    {
+      "id": "2567687dd6d0de8842",
+      "title": "It’s time to find a new browser",
+      "summary": "Hi, friends! Welcome to Installer No. 149, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy It Actually Feels Like Fall Now At Least In My Neighborhood), and also you can read all the old editions at the Installer homepage.) This week, I've been reading about Demis […]",
+      "source": "The Verge",
+      "category": "technology",
+      "url": "https://www.theverge.com/tech/1018121/cod-4-claude-duet-wildwood-installer",
+      "image": "",
+      "published_at": "2026-10-24T12:00:00+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "It’s time to find a new browser",
+          "summary": "Hi, friends! Welcome to Installer No. 149, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy It Actually Feels Like Fall Now At Least In My Neighborhood), and also you can read all the old editions at the Installer homepage.) This week, I've been reading about Demis […]"
+        }
+      }
+    },
+    {
+      "id": "4835cbf37c85e306cf",
+      "title": "SpaceX đề xuất tăng 20% lương cho nhân viên trung tâm dữ liệu",
+      "summary": "SpaceX đề xuất tăng lương 20% cho nhân viên tình nguyện đến Memphis hoặc Southaven, hỗ trợ xây trung tâm dữ liệu quan trọng của công ty trong 6 tuần.",
+      "source": "VnExpress",
+      "category": "technology",
+      "url": "https://vnexpress.net/spacex-de-xuat-tang-20-luong-cho-nhan-vien-trung-tam-du-lieu-5135810.html",
+      "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/23/afp20260604yanownotitle260603n-3376-4170-1792692809.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=pezZZUJnJv_0p0cD89XrPA",
+      "published_at": "2026-10-24T12:00:00+00:00",
+      "kind": "source_brief",
+      "source_lang": "vi",
+      "translations": {
+        "vi": {
+          "title": "SpaceX đề xuất tăng 20% lương cho nhân viên trung tâm dữ liệu",
+          "summary": "SpaceX đề xuất tăng lương 20% cho nhân viên tình nguyện đến Memphis hoặc Southaven, hỗ trợ xây trung tâm dữ liệu quan trọng của công ty trong 6 tuần."
+        }
+      }
+    },
+    {
+      "id": "28a3ac1f48449efd79",
+      "title": "A 1,000-mile cloud on Mars may reveal physics never seen in nature",
+      "summary": "A new model suggests Mars may host ice-forming physics never directly observed before.",
+      "source": "Ars Technica",
+      "category": "technology",
+      "url": "https://arstechnica.com/science/2026/10/a-1000-mile-cloud-on-mars-may-reveal-physics-never-seen-in-nature/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/marscloud-1152x648.jpg",
+      "published_at": "2026-10-24T11:50:28+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "A 1,000-mile cloud on Mars may reveal physics never seen in nature",
+          "summary": "A new model suggests Mars may host ice-forming physics never directly observed before."
+        }
+      }
+    },
+    {
+      "id": "b63a73bec91ba1d8c6",
+      "title": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
+      "summary": "Around 200 emergency personnel are deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b513/live/b8fe52a0-cf7e-11f1-ae2e-3fbb7ae6bffe.jpg",
+      "published_at": "2026-10-24T11:23:59+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
+          "summary": "Around 200 emergency personnel are deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany."
+        }
+      }
+    },
+    {
+      "id": "3e8922c315573e9a1f",
+      "title": "The datacentre next door: on the frontline of tech’s latest David v Goliath battle",
+      "summary": "The AI boom is pitting local residents against corporate giants seeking to power their energy-hungry networks – but one Welsh city is fighting back Dale Johnston opens the gate to his neat suburban garden on the western fringes of Newport in South Wales. There’s a trampoline and a slide on the lawn for his grandchildren, and cha…",
+      "source": "The Guardian",
+      "category": "ai",
+      "url": "https://www.theguardian.com/technology/2026/oct/24/the-datacentre-next-door-on-the-frontline-of-techs-latest-david-v-goliath-battle",
+      "image": "https://i.guim.co.uk/img/media/0373ee73af80c68fd75a9ab321de66de4801ad27/865_0_5902_4724/master/5902.jpg?width=140&quality=85&auto=format&fit=max&s=5f523b9df1901844cac4ef7d3a723b2b",
+      "published_at": "2026-10-24T11:00:32+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "The datacentre next door: on the frontline of tech’s latest David v Goliath battle",
+          "summary": "The AI boom is pitting local residents against corporate giants seeking to power their energy-hungry networks – but one Welsh city is fighting back Dale Johnston opens the gate to his neat suburban garden on the western fringes of Newport in South Wales. There’s a trampoline and a slide on the lawn for his grandchildren, and cha…"
+        }
+      }
+    },
+    {
+      "id": "bc0ee4ef9353aebda5",
+      "title": "Ice sheet expansion may have started 2,000 years ago, but we canceled that",
+      "summary": "The tiny remains of the Laurentide Ice Sheet began getting somewhat less tiny.",
+      "source": "Ars Technica",
+      "category": "technology",
+      "url": "https://arstechnica.com/science/2026/10/ice-sheet-expansion-may-have-started-2000-years-go-but-we-canceled-that/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1458824614-1152x648.jpg",
+      "published_at": "2026-10-24T11:00:09+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Ice sheet expansion may have started 2,000 years ago, but we canceled that",
+          "summary": "The tiny remains of the Laurentide Ice Sheet began getting somewhat less tiny."
+        }
+      }
+    },
+    {
+      "id": "73363ede06d374d699",
+      "title": "Một số iPhone Duo bị nứt, sọc màn hình",
+      "summary": "Một số người dùng cho biết điện thoại gập iPhone Duo bị nứt hoặc xuất hiện sọc màn hình dù không tác động lực mạnh, trong khi số khác gặp sự cố giao diện.",
+      "source": "VnExpress",
+      "category": "technology",
+      "url": "https://vnexpress.net/mot-so-iphone-duo-bi-nut-soc-man-hinh-5136441.html",
+      "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/24/screenshot-at-copy-1792837172-5532-1792837334.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=07lY7JJ9DXAo-Uhk2qx0Xw",
+      "published_at": "2026-10-24T10:49:41+00:00",
+      "kind": "source_brief",
+      "source_lang": "vi",
+      "translations": {
+        "vi": {
+          "title": "Một số iPhone Duo bị nứt, sọc màn hình",
+          "summary": "Một số người dùng cho biết điện thoại gập iPhone Duo bị nứt hoặc xuất hiện sọc màn hình dù không tác động lực mạnh, trong khi số khác gặp sự cố giao diện."
+        }
+      }
+    },
+    {
+      "id": "551d4317e7dfe4b01d",
+      "title": "Wales plans to ban steel pylons as government launches consultation",
+      "summary": "The Welsh government says it is consulting on an \"undergrounding-first approach\" to electricity lines.",
+      "source": "BBC News",
+      "category": "politics",
+      "url": "https://www.bbc.co.uk/news/articles/c9x28dgj2r0go?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a57f/live/b7611c70-cec5-11f1-b9e0-e5f0da03dc7f.jpg",
+      "published_at": "2026-10-24T10:04:29+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Wales plans to ban steel pylons as government launches consultation",
+          "summary": "The Welsh government says it is consulting on an \"undergrounding-first approach\" to electricity lines."
+        }
+      }
+    },
+    {
+      "id": "e8381cf0974cfe5fb0",
+      "title": "Suspect arrested over fire at Hitler’s ‘Eagle’s Nest’ retreat in Bavaria",
+      "summary": "About 200 firefighters deployed to tackle blaze at former Nazi mountain retreat in remote part of southern Germany German police have arrested a suspect after a fire ripped through Adolf Hitler’s former mountain retreat in Bavaria, leaving the historic Nazi meeting place – known as the Eagle’s Nest – largely destroyed. About 200…",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/world/2026/oct/24/blaze-engulfs-hitlers-eagles-nest-mountain-retreat-in-bavaria",
+      "image": "https://i.guim.co.uk/img/media/805a631469b67764a663280793d3d243bb83ede6/292_0_858_686/master/858.jpg?width=140&quality=85&auto=format&fit=max&s=a49ab17407cea9638e10af4c984cf697",
+      "published_at": "2026-10-24T10:04:04+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Suspect arrested over fire at Hitler’s ‘Eagle’s Nest’ retreat in Bavaria",
+          "summary": "About 200 firefighters deployed to tackle blaze at former Nazi mountain retreat in remote part of southern Germany German police have arrested a suspect after a fire ripped through Adolf Hitler’s former mountain retreat in Bavaria, leaving the historic Nazi meeting place – known as the Eagle’s Nest – largely destroyed. About 200…"
+        }
+      }
+    },
+    {
+      "id": "fc2568292034cd4579",
+      "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
+      "summary": "She was a close family member of the first victim, a man who had travelled from the Democratic Republic of Congo.",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d0b/live/15946bd0-cf39-11f1-a003-d5e5a8cb108b.jpg",
+      "published_at": "2026-10-24T09:46:53+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
+          "summary": "She was a close family member of the first victim, a man who had travelled from the Democratic Republic of Congo."
+        }
+      }
+    },
+    {
+      "id": "6221b4b7de9023e0cc",
+      "title": "British woman dies after trying to rescue sons swept away at sea in the Bahamas",
+      "summary": "The children were subsequently rescued from the water, police say.",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/74f9/live/3c3ce1b0-cf8c-11f1-bef0-7f8eb636c50b.jpg",
+      "published_at": "2026-10-24T09:45:47+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "British woman dies after trying to rescue sons swept away at sea in the Bahamas",
+          "summary": "The children were subsequently rescued from the water, police say."
+        }
+      }
+    },
+    {
+      "id": "6a0bebe65be73dd141",
+      "title": "Seven missing after multi-storey building collapses in Kenya's capital",
+      "summary": "Rescue efforts are under way to find people trapped under the block, which was still under construction when it buckled.",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c0e/live/818871d0-cf8c-11f1-bef0-7f8eb636c50b.jpg",
+      "published_at": "2026-10-24T09:44:01+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "Seven missing after multi-storey building collapses in Kenya's capital",
+          "summary": "Rescue efforts are under way to find people trapped under the block, which was still under construction when it buckled."
+        }
+      }
+    },
+    {
+      "id": "57bac841db7270e745",
+      "title": "British woman dies trying to save sons on Bahamas snorkelling trip",
+      "summary": "Mother, 36, died after current off North Bimini reportedly swept away two boys, who were later rescued, police say A British woman has died in the Bahamas while trying to rescue her two sons after a current swept them away as they were snorkelling. The Royal Bahamas police force said it had launched an investigation after the de…",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/world/2026/oct/24/british-woman-dies-trying-to-save-sons-on-bahamas-snorkelling-trip",
+      "image": "https://i.guim.co.uk/img/media/8aab2c6d270e81625bcb385b9817033d361e1ea0/252_0_3780_3024/master/3780.jpg?width=140&quality=85&auto=format&fit=max&s=ee5e9e53781191ecd66c4803e2746425",
+      "published_at": "2026-10-24T09:43:09+00:00",
+      "kind": "source_brief",
+      "source_lang": "en",
+      "translations": {
+        "en": {
+          "title": "British woman dies trying to save sons on Bahamas snorkelling trip",
+          "summary": "Mother, 36, died after current off North Bimini reportedly swept away two boys, who were later rescued, police say A British woman has died in the Bahamas while trying to rescue her two sons after a current swept them away as they were snorkelling. The Royal Bahamas police force said it had launched an investigation after the de…"
         }
       }
     },
@@ -75,24 +399,6 @@
         "vi": {
           "title": "Unai Emery - 'Tiến sĩ tử thần' của Ngoại hạng Anh",
           "summary": "Là bậc thầy trong nghệ thuật trừng phạt những đối thủ chơi thiếu nhịp điệu khi được mệnh danh là “tiến sĩ tử thần”, Unai Emery bốn năm kể từ ngày cập bến Villa Park đang trong hành trình làm nên kiệt tác của riêng ông."
-        }
-      }
-    },
-    {
-      "id": "b63a73bec91ba1d8c6",
-      "title": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
-      "summary": "Around 200 emergency personnel are deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
-      "source": "BBC News",
-      "category": "world",
-      "url": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b513/live/b8fe52a0-cf7e-11f1-ae2e-3fbb7ae6bffe.jpg",
-      "published_at": "2026-10-24T09:03:15+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
-          "summary": "Around 200 emergency personnel are deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany."
         }
       }
     },
@@ -189,7 +495,7 @@
     {
       "id": "ad6b67bc328927b634",
       "title": "Dónal Lunny, ‘colossus of Irish music’, dies aged 79",
-      "summary": "Founding member of Planxty, Lunny went on to play for bands such as Moving Hearts, the Bothy Band and Coolfin The Irish traditional musician Dónal Lunny has died at the age of 79 from cancer. Lunny rose to prominence in the band Rakes of Kildare alongside Christy Moore and his brother Frank. He went on to play in bands such as P…",
+      "summary": "Founding member of Planxty, Lunny went on to play for bands such as Moving Hearts, the Bothy Band and Coolfin The Irish traditional musician Dónal Lunny has died at the age of 79 from cancer. Lunny rose to prominence in the trio Rakes of Kildare alongside his brother Frank and Christy Moore. He went on to play in bands such as P…",
       "source": "The Guardian",
       "category": "world",
       "url": "https://www.theguardian.com/music/2026/oct/24/donal-lunny-colossus-irish-music-dies-aged-79",
@@ -200,7 +506,7 @@
       "translations": {
         "en": {
           "title": "Dónal Lunny, ‘colossus of Irish music’, dies aged 79",
-          "summary": "Founding member of Planxty, Lunny went on to play for bands such as Moving Hearts, the Bothy Band and Coolfin The Irish traditional musician Dónal Lunny has died at the age of 79 from cancer. Lunny rose to prominence in the band Rakes of Kildare alongside Christy Moore and his brother Frank. He went on to play in bands such as P…"
+          "summary": "Founding member of Planxty, Lunny went on to play for bands such as Moving Hearts, the Bothy Band and Coolfin The Irish traditional musician Dónal Lunny has died at the age of 79 from cancer. Lunny rose to prominence in the trio Rakes of Kildare alongside his brother Frank and Christy Moore. He went on to play in bands such as P…"
         }
       }
     },
@@ -263,7 +569,7 @@
       "title": "Con gái 24 tuổi của chủ tịch Nam A Bank làm tổng giám đốc hãng dược",
       "summary": "Bà Trần Ngô Minh Anh, sinh năm 2002, được bổ nhiệm chức CEO Công ty cổ phần Dược phẩm Bến Tre sau 3 tháng làm phó tổng giám đốc doanh nghiệp này.",
       "source": "VnExpress",
-      "category": "vietnam",
+      "category": "economy",
       "url": "https://vnexpress.net/con-gai-24-tuoi-cua-chu-tich-nam-a-bank-lam-tong-giam-doc-hang-duoc-5136393.html",
       "image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/24/tanceoduocphambentre-179282963-3965-1883-1792829850.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=TZUETERoXyW7c_rKGL4OOA",
       "published_at": "2026-10-24T08:20:07+00:00",
@@ -637,42 +943,6 @@
       }
     },
     {
-      "id": "e8381cf0974cfe5fb0",
-      "title": "Blaze engulfs Hitler’s ‘Eagle’s Nest’ mountain retreat in Bavaria",
-      "summary": "About 200 firefighters deployed to tackle the blaze at former Nazi retreat in a remote part of southern Germany German police said Saturday they had detained a suspect after a fire at Adolf Hitler’s former mountain retreat, known as the Eagle’s Nest, in the state of Bavaria. About 200 firefighters were deployed to tackle the bla…",
-      "source": "The Guardian",
-      "category": "world",
-      "url": "https://www.theguardian.com/world/2026/oct/24/blaze-engulfs-hitlers-eagles-nest-mountain-retreat-in-bavaria",
-      "image": "https://i.guim.co.uk/img/media/805a631469b67764a663280793d3d243bb83ede6/292_0_858_686/master/858.jpg?width=140&quality=85&auto=format&fit=max&s=a49ab17407cea9638e10af4c984cf697",
-      "published_at": "2026-10-24T06:21:44+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Blaze engulfs Hitler’s ‘Eagle’s Nest’ mountain retreat in Bavaria",
-          "summary": "About 200 firefighters deployed to tackle the blaze at former Nazi retreat in a remote part of southern Germany German police said Saturday they had detained a suspect after a fire at Adolf Hitler’s former mountain retreat, known as the Eagle’s Nest, in the state of Bavaria. About 200 firefighters were deployed to tackle the bla…"
-        }
-      }
-    },
-    {
-      "id": "a16392919788b46ac0",
-      "title": "France prepares for day of protest a week after nationwide riots",
-      "summary": "Hundreds of thousands are expected to turn out, as more than 70,000 police officers are to be deployed over some may defy restrictions.",
-      "source": "BBC News",
-      "category": "world",
-      "url": "https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f26/live/2a059180-cf74-11f1-aaa0-39a3560003e9.jpg",
-      "published_at": "2026-10-24T06:19:46+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "France prepares for day of protest a week after nationwide riots",
-          "summary": "Hundreds of thousands are expected to turn out, as more than 70,000 police officers are to be deployed over some may defy restrictions."
-        }
-      }
-    },
-    {
       "id": "6bd50b2268eff713fb",
       "title": "‘It’s part of our history’: can the menú del día survive Spain’s changing eating habits?",
       "summary": "Established under the Franco dictatorship, the lunchtime ritual is in decline but all is not lost A little before lunchtime each working day across Spain, evidence of one of the lingering, if less notorious, legacies of the Franco dictatorship is carefully traced in chalk, marker pen and printer ink. Beckoning to hungry workers…",
@@ -781,20 +1051,20 @@
       }
     },
     {
-      "id": "0bf50eafeb31c4a118",
-      "title": "Giá thành điện năm 2025 gần 2.093 đồng một kWh",
-      "summary": "Với giá bán điện bình quân 2.204,07 đồng, chi phí sản xuất điện năm 2025 gần 2.093 đồng, đồng nghĩa EVN lãi khoảng 111 đồng một kWh bán ra.",
+      "id": "1dfc1b800c4d945a2b",
+      "title": "Giá sản xuất điện 2025 của EVN thấp hơn mức bán ra hơn 5%",
+      "summary": "Với giá bán điện bình quân 2.204,07 đồng, chi phí sản xuất điện năm 2025 gần 2.093 đồng, EVN lãi khoảng 111 đồng một kWh bán ra, tương đương hơn 5%.",
       "source": "VnExpress",
       "category": "economy",
-      "url": "https://vnexpress.net/gia-thanh-dien-nam-2025-gan-2-093-dong-mot-kwh-5136347.html",
+      "url": "https://vnexpress.net/gia-san-xuat-dien-2025-cua-evn-thap-hon-muc-ban-ra-hon-5-5136347.html",
       "image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/24/wm1-wm1-pham3202-jpg-1792814023-1561-1792815439.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ucu5eckj44tzotxyQG2BWQ",
       "published_at": "2026-10-24T04:26:32+00:00",
       "kind": "source_brief",
       "source_lang": "vi",
       "translations": {
         "vi": {
-          "title": "Giá thành điện năm 2025 gần 2.093 đồng một kWh",
-          "summary": "Với giá bán điện bình quân 2.204,07 đồng, chi phí sản xuất điện năm 2025 gần 2.093 đồng, đồng nghĩa EVN lãi khoảng 111 đồng một kWh bán ra."
+          "title": "Giá sản xuất điện 2025 của EVN thấp hơn mức bán ra hơn 5%",
+          "summary": "Với giá bán điện bình quân 2.204,07 đồng, chi phí sản xuất điện năm 2025 gần 2.093 đồng, EVN lãi khoảng 111 đồng một kWh bán ra, tương đương hơn 5%."
         }
       }
     },
@@ -1105,24 +1375,6 @@
       }
     },
     {
-      "id": "fc2568292034cd4579",
-      "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
-      "summary": "She was a close family member of the first victim, a man who had travelled from the Democratic Republic of Congo.",
-      "source": "BBC News",
-      "category": "world",
-      "url": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d0b/live/15946bd0-cf39-11f1-a003-d5e5a8cb108b.jpg",
-      "published_at": "2026-10-24T00:05:43+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
-          "summary": "She was a close family member of the first victim, a man who had travelled from the Democratic Republic of Congo."
-        }
-      }
-    },
-    {
       "id": "fdf271095940d4a812",
       "title": "Thunderstorms, heavy rain and flash flooding predicted for much of Australia",
       "summary": "Parts of Queensland, Victoria and South Australia can expect severe storms on Saturday, moving into NSW and Tasmania by Sunday Get our breaking news email , free app or daily news podcast Severe thunderstorms and heavy rain will sweep across most Australian states this weekend, adding to the deluge in an already drenched Queensl…",
@@ -1137,24 +1389,6 @@
         "en": {
           "title": "Thunderstorms, heavy rain and flash flooding predicted for much of Australia",
           "summary": "Parts of Queensland, Victoria and South Australia can expect severe storms on Saturday, moving into NSW and Tasmania by Sunday Get our breaking news email , free app or daily news podcast Severe thunderstorms and heavy rain will sweep across most Australian states this weekend, adding to the deluge in an already drenched Queensl…"
-        }
-      }
-    },
-    {
-      "id": "2d6ad3e7edc9cef1d6",
-      "title": "Ruins of Limoges city hall a symbol of France divided by national protests",
-      "summary": "Younger Limoges residents see the destruction of their town hall as unfortunate collateral damage in a wider movement. For others, the fire was an unacceptable tragedy.",
-      "source": "BBC News",
-      "category": "world",
-      "url": "https://www.bbc.co.uk/news/articles/cxyvrged14d0o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2145/live/2966bce0-ced9-11f1-8507-45cb00a1c41c.jpg",
-      "published_at": "2026-10-23T23:09:16+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Ruins of Limoges city hall a symbol of France divided by national protests",
-          "summary": "Younger Limoges residents see the destruction of their town hall as unfortunate collateral damage in a wider movement. For others, the fire was an unacceptable tragedy."
         }
       }
     },
@@ -1251,7 +1485,7 @@
     {
       "id": "316ed2d0479cf95c43",
       "title": "Father who killed Oregon school gunman describes anguish over children he couldn't save",
-      "summary": "Kaylub Giamanco, has been hailed as a hero for killing a teenager who fatally shot three children and a teacher.",
+      "summary": "Kaylub Giamanco has been hailed as a hero for killing a teenager who fatally shot three children and a teacher.",
       "source": "BBC News",
       "category": "world",
       "url": "https://www.bbc.co.uk/news/articles/crgj9ndwvj9jo?at_medium=RSS&at_campaign=rss",
@@ -1262,7 +1496,7 @@
       "translations": {
         "en": {
           "title": "Father who killed Oregon school gunman describes anguish over children he couldn't save",
-          "summary": "Kaylub Giamanco, has been hailed as a hero for killing a teenager who fatally shot three children and a teacher."
+          "summary": "Kaylub Giamanco has been hailed as a hero for killing a teenager who fatally shot three children and a teacher."
         }
       }
     },
@@ -1483,42 +1717,6 @@
       }
     },
     {
-      "id": "9e87192325b43147ee",
-      "title": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
-      "summary": "Thirty-four people are also injured in the attack in southern Karak governorate, and a manhunt is now under way.",
-      "source": "BBC News",
-      "category": "world",
-      "url": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd9e/live/bb37b200-cee8-11f1-b441-2b33b063138f.jpg",
-      "published_at": "2026-10-23T19:46:30+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
-          "summary": "Thirty-four people are also injured in the attack in southern Karak governorate, and a manhunt is now under way."
-        }
-      }
-    },
-    {
-      "id": "e097ac388c0ec7ecba",
-      "title": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
-      "summary": "One person is killed and five wounded in a series of attacks. The suspected gunman has been apprehended.",
-      "source": "BBC News",
-      "category": "world",
-      "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c59/live/b8966750-cef5-11f1-a701-fddedf244c16.jpg",
-      "published_at": "2026-10-23T19:42:08+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
-          "summary": "One person is killed and five wounded in a series of attacks. The suspected gunman has been apprehended."
-        }
-      }
-    },
-    {
       "id": "3be5f2059474b551ba",
       "title": "Abandoned Popcorn Time apps had to be disabled to prevent a zombie army",
       "summary": "Remember Popcorn Time, the app that served as an easy-to-use front end for streaming torrents of movies and TV shows? Development of the MPAA's least-favorite app of the 2010s has been abandoned for years, but the \"Netflix of Piracy\" software is still installed on millions of devices that are just waiting to join a bot […]",
@@ -1591,24 +1789,6 @@
       }
     },
     {
-      "id": "dea976fbb312cf5603",
-      "title": "Spotify ramps up policy enforcement on family plans",
-      "summary": "If you share Spotify sub with family, you may need to scan QR code to prove it.",
-      "source": "Ars Technica",
-      "category": "technology",
-      "url": "https://arstechnica.com/gadgets/2026/10/spotify-ramps-up-policy-enforcement-on-family-plans/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2016/07/spotify-1152x648.png",
-      "published_at": "2026-10-23T19:20:27+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Spotify ramps up policy enforcement on family plans",
-          "summary": "If you share Spotify sub with family, you may need to scan QR code to prove it."
-        }
-      }
-    },
-    {
       "id": "6f6451b374ed58f7d8",
       "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
       "summary": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both inside and outside traditional startup hubs.",
@@ -1623,24 +1803,6 @@
         "en": {
           "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
           "summary": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both inside and outside traditional startup hubs."
-        }
-      }
-    },
-    {
-      "id": "2fc55096c931225c9e",
-      "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
-      "summary": "The network is used by the Ukrainian military, sources say, and Trump says \"if there is a problem, I'll get it straightened out\".",
-      "source": "BBC News",
-      "category": "world",
-      "url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/271c/live/d171b6a0-cebc-11f1-a64c-550be9e3c66b.jpg",
-      "published_at": "2026-10-23T18:52:17+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
-          "summary": "The network is used by the Ukrainian military, sources say, and Trump says \"if there is a problem, I'll get it straightened out\"."
         }
       }
     },
@@ -1681,42 +1843,6 @@
       }
     },
     {
-      "id": "75c55b9c071dc270e1",
-      "title": "Soundcore’s latest noise-crushing headphones are on sale for a new low price",
-      "summary": "My colleague John Higgins considered Soundcore’s Space One some of the best budget noise-canceling headphones you could buy when they launched in 2023 — and their successor has only improved upon their winning formula, albeit with a $30 price increase. Thankfully, the Soundcore Space 2 are currently on sale at Amazon, Best Buy,…",
-      "source": "The Verge",
-      "category": "technology",
-      "url": "https://www.theverge.com/gadgets/1017667/anker-soundcore-space-2-noise-canceling-headphones-deal-sale",
-      "image": "",
-      "published_at": "2026-10-23T18:43:30+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Soundcore’s latest noise-crushing headphones are on sale for a new low price",
-          "summary": "My colleague John Higgins considered Soundcore’s Space One some of the best budget noise-canceling headphones you could buy when they launched in 2023 — and their successor has only improved upon their winning formula, albeit with a $30 price increase. Thankfully, the Soundcore Space 2 are currently on sale at Amazon, Best Buy,…"
-        }
-      }
-    },
-    {
-      "id": "af25e18e067870e7ec",
-      "title": "Fi’s GPS-equipped dog trackers are on sale for 30 percent off",
-      "summary": "If your dog or cat is prone to getting lost, or you frequently go on adventures together, you can save 30 percent on Fi pet trackers through October 25th when you enter coupon code SCARY at checkout. The sale includes several satellite-connected trackers, including the Fi Ultra GPS we previously tested, which is down to […]",
-      "source": "The Verge",
-      "category": "technology",
-      "url": "https://www.theverge.com/gadgets/1017196/fi-ultra-gps-dog-tracker-kirby-air-riders-deal-sale",
-      "image": "",
-      "published_at": "2026-10-23T17:55:03+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Fi’s GPS-equipped dog trackers are on sale for 30 percent off",
-          "summary": "If your dog or cat is prone to getting lost, or you frequently go on adventures together, you can save 30 percent on Fi pet trackers through October 25th when you enter coupon code SCARY at checkout. The sale includes several satellite-connected trackers, including the Fi Ultra GPS we previously tested, which is down to […]"
-        }
-      }
-    },
-    {
       "id": "0e759a070cfd412142",
       "title": "Green councillors face Labour deadline to disown Zionism policy",
       "summary": "Green leaders have been given until Sunday to disown their party's \"Zionism is racism\" conference vote.",
@@ -1735,42 +1861,6 @@
       }
     },
     {
-      "id": "24c8b8c3e7a4bc871c",
-      "title": "Elon Musk’s dangerous grip on outer space",
-      "summary": "Last week, Starshield - the version of SpaceX's Starlink used by the Ukrainian military - was throttled to block terminals traveling above certain speeds from accessing the service. The Ukrainian army's interceptors, which counter Russian drones carrying bombs, suddenly stopped working at high speeds, making it easier for Russia…",
-      "source": "The Verge",
-      "category": "technology",
-      "url": "https://www.theverge.com/science/1017443/spacex-starlink-ukraine-elon-musk-monopoly",
-      "image": "",
-      "published_at": "2026-10-23T17:35:15+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Elon Musk’s dangerous grip on outer space",
-          "summary": "Last week, Starshield - the version of SpaceX's Starlink used by the Ukrainian military - was throttled to block terminals traveling above certain speeds from accessing the service. The Ukrainian army's interceptors, which counter Russian drones carrying bombs, suddenly stopped working at high speeds, making it easier for Russia…"
-        }
-      }
-    },
-    {
-      "id": "67838713450dd8b583",
-      "title": "Crows can evaluate visual info twice as fast as mammals",
-      "summary": "Birds' compact nervous system seems to help them handle tasks very quickly.",
-      "source": "Ars Technica",
-      "category": "technology",
-      "url": "https://arstechnica.com/science/2026/10/crows-can-evaluate-visual-info-twice-as-fast-as-mammals/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1472974929-1152x648.jpg",
-      "published_at": "2026-10-23T17:32:58+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Crows can evaluate visual info twice as fast as mammals",
-          "summary": "Birds' compact nervous system seems to help them handle tasks very quickly."
-        }
-      }
-    },
-    {
       "id": "f5e633181871b176a0",
       "title": "Trump says Burnham 'getting it done' after Jackdaw decision",
       "summary": "The US president has praised Burnham after the government allowed gas drilling in the North Sea's Jackdaw field.",
@@ -1785,42 +1875,6 @@
         "en": {
           "title": "Trump says Burnham 'getting it done' after Jackdaw decision",
           "summary": "The US president has praised Burnham after the government allowed gas drilling in the North Sea's Jackdaw field."
-        }
-      }
-    },
-    {
-      "id": "1e9b03cbb67bfe99c6",
-      "title": "Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs",
-      "summary": "Company says foreign-made robotic vehicles are crucial to US chip production.",
-      "source": "Ars Technica",
-      "category": "technology",
-      "url": "https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Intel-fab-interior-1152x648.jpg",
-      "published_at": "2026-10-23T17:18:31+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs",
-          "summary": "Company says foreign-made robotic vehicles are crucial to US chip production."
-        }
-      }
-    },
-    {
-      "id": "b3057c3a49fd9a0cbc",
-      "title": "Duchess of Sussex ‘deeply distressed’ over child sexual abuse image claims against father",
-      "summary": "Meghan reveals she was made aware of ‘disturbing allegations’ against him in 2018 by Met police The Duchess of Sussex has said she is “deeply distressed” over accusations involving child sexual abuse images against her estranged father, Thomas Markle Sr, and revealed she was made aware of “disturbing allegations” against him in…",
-      "source": "The Guardian",
-      "category": "world",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/23/meghan-duchess-of-sussex-distressed-child-sexual-abuse-image-claims-against-father",
-      "image": "https://i.guim.co.uk/img/media/cb82f430a06dc8d31acbdb8d325a697d131baec9/41_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=e69836a0430bf383d737234400018d19",
-      "published_at": "2026-10-23T17:14:16+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Duchess of Sussex ‘deeply distressed’ over child sexual abuse image claims against father",
-          "summary": "Meghan reveals she was made aware of ‘disturbing allegations’ against him in 2018 by Met police The Duchess of Sussex has said she is “deeply distressed” over accusations involving child sexual abuse images against her estranged father, Thomas Markle Sr, and revealed she was made aware of “disturbing allegations” against him in…"
         }
       }
     },
@@ -1861,24 +1915,6 @@
       }
     },
     {
-      "id": "1bb40ddffcb6c2abe1",
-      "title": "The iPhone Duo should have been an iPad",
-      "summary": "We gave the iPhone Duo a 7 /10. But that wasn't always the score we planned, and it might not be the right score forever. Such are the challenges of reviewing - and assessing - a big, new idea about the most popular smartphone in history. On this episode of The Vergecast, David and Nilay […]",
-      "source": "The Verge",
-      "category": "technology",
-      "url": "https://www.theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast",
-      "image": "",
-      "published_at": "2026-10-23T17:00:18+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "The iPhone Duo should have been an iPad",
-          "summary": "We gave the iPhone Duo a 7 /10. But that wasn't always the score we planned, and it might not be the right score forever. Such are the challenges of reviewing - and assessing - a big, new idea about the most popular smartphone in history. On this episode of The Vergecast, David and Nilay […]"
-        }
-      }
-    },
-    {
       "id": "39b982c804be426d32",
       "title": "Anh chật vật với 83.000 tủ lạnh hỏng chất đống",
       "summary": "Khoảng 83.000 tủ lạnh phế thải đang chất đống khắp nước Anh do hoạt động tái chế ngưng trệ, còn cơ sở lưu trữ quá tải.",
@@ -1915,24 +1951,6 @@
       }
     },
     {
-      "id": "a9526976eeebfbfe11",
-      "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
-      "summary": "Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features. The update, spotted by Android Authority, adds an exception to its promise about not using your Drive, Gmail, or Google Photos for personalized ads. While the previ…",
-      "source": "The Verge",
-      "category": "ai",
-      "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
-      "image": "",
-      "published_at": "2026-10-23T16:52:55+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
-          "summary": "Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features. The update, spotted by Android Authority, adds an exception to its promise about not using your Drive, Gmail, or Google Photos for personalized ads. While the previ…"
-        }
-      }
-    },
-    {
       "id": "1d17155788833fd03f",
       "title": "Oil price rises above $117 a barrel amid fears US will renew strikes on Iran",
       "summary": "Brent crude increase follows Tehran threatening retaliatory attacks on Gulf refineries and datacentres Oil has hit its highest level in more than six months as fears of fresh escalation in the Middle East conflict grip the energy markets. Brent crude, the international benchmark for oil, rose by about 3.5% on Friday to pass $117…",
@@ -1965,24 +1983,6 @@
         "en": {
           "title": "Police yet to receive £2m after A66 crash, says commissioner",
           "summary": "Cleveland Police and Crime Commissioner Matt Storey says it has been nearly two months since force was promised the cash."
-        }
-      }
-    },
-    {
-      "id": "551d4317e7dfe4b01d",
-      "title": "Wales plans to ban steel pylons as government launches consultation",
-      "summary": "The Welsh government says it is consulting on an \"undergrounding-first approach\" to electricity lines.",
-      "source": "BBC News",
-      "category": "politics",
-      "url": "https://www.bbc.co.uk/news/articles/c9x28dgj2r0go?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a57f/live/b7611c70-cec5-11f1-b9e0-e5f0da03dc7f.jpg",
-      "published_at": "2026-10-23T16:44:13+00:00",
-      "kind": "source_brief",
-      "source_lang": "en",
-      "translations": {
-        "en": {
-          "title": "Wales plans to ban steel pylons as government launches consultation",
-          "summary": "The Welsh government says it is consulting on an \"undergrounding-first approach\" to electricity lines."
         }
       }
     },
@@ -2026,13 +2026,115 @@
   "videos": {
     "vietnam": [
       {
+        "id": "mYFTlfzaDgg",
+        "title": "Iran tuyên bố không cho phép tàu Mỹ tiến vào Vùng Vịnh | Cụm tin Quốc tế | VTV24",
+        "channel": "VTV24",
+        "category": "vietnam",
+        "published_at": "2026-10-24T13:15:09+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/mYFTlfzaDgg/hqdefault.jpg",
+        "popularity": 144,
+        "provenance": "official_channel_api",
+        "source_lang": "vi",
+        "translations": {
+          "vi": {
+            "title": "Iran tuyên bố không cho phép tàu Mỹ tiến vào Vùng Vịnh | Cụm tin Quốc tế | VTV24",
+            "summary": ""
+          }
+        }
+      },
+      {
+        "id": "bNP40JXfWFk",
+        "title": "Túi tiêu chuẩn và bài toán phân loại rác tại nguồn | VTV24",
+        "channel": "VTV24",
+        "category": "vietnam",
+        "published_at": "2026-10-24T12:30:29+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/bNP40JXfWFk/hqdefault.jpg",
+        "popularity": 317,
+        "provenance": "official_channel_api",
+        "source_lang": "vi",
+        "translations": {
+          "vi": {
+            "title": "Túi tiêu chuẩn và bài toán phân loại rác tại nguồn | VTV24",
+            "summary": ""
+          }
+        }
+      },
+      {
+        "id": "RD1A75BsKws",
+        "title": "Không khí tại sân vận động Mỹ Đình trước giờ diễn ra concert của nhóm nhạc Bigbang | VTV24",
+        "channel": "VTV24",
+        "category": "vietnam",
+        "published_at": "2026-10-24T12:27:25+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/RD1A75BsKws/hqdefault.jpg",
+        "popularity": 1729,
+        "provenance": "official_channel_api",
+        "source_lang": "vi",
+        "translations": {
+          "vi": {
+            "title": "Không khí tại sân vận động Mỹ Đình trước giờ diễn ra concert của nhóm nhạc Bigbang | VTV24",
+            "summary": ""
+          }
+        }
+      },
+      {
+        "id": "l9uqOGwj_jo",
+        "title": "Triệt phá đường dây làm giả gần 1.500 văn bằng, chứng chỉ | VTV24",
+        "channel": "VTV24",
+        "category": "vietnam",
+        "published_at": "2026-10-24T12:07:56+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/l9uqOGwj_jo/hqdefault.jpg",
+        "popularity": 1005,
+        "provenance": "official_channel_api",
+        "source_lang": "vi",
+        "translations": {
+          "vi": {
+            "title": "Triệt phá đường dây làm giả gần 1.500 văn bằng, chứng chỉ | VTV24",
+            "summary": ""
+          }
+        }
+      },
+      {
+        "id": "7spE9hCkgNw",
+        "title": "Tọa đàm: Nông dân từ sử dụng công nghệ đến làm chủ công nghệ | VTV24",
+        "channel": "VTV24",
+        "category": "vietnam",
+        "published_at": "2026-10-24T12:00:07+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/7spE9hCkgNw/hqdefault.jpg",
+        "popularity": 384,
+        "provenance": "official_channel_api",
+        "source_lang": "vi",
+        "translations": {
+          "vi": {
+            "title": "Tọa đàm: Nông dân từ sử dụng công nghệ đến làm chủ công nghệ | VTV24",
+            "summary": ""
+          }
+        }
+      },
+      {
+        "id": "W_VK1I455EM",
+        "title": "Cảnh báo mất an toàn từ việc lắp đặt, sử dụng chế độ đèn sai quy định | VTV24",
+        "channel": "VTV24",
+        "category": "vietnam",
+        "published_at": "2026-10-24T10:20:35+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/W_VK1I455EM/hqdefault.jpg",
+        "popularity": 4052,
+        "provenance": "official_channel_api",
+        "source_lang": "vi",
+        "translations": {
+          "vi": {
+            "title": "Cảnh báo mất an toàn từ việc lắp đặt, sử dụng chế độ đèn sai quy định | VTV24",
+            "summary": ""
+          }
+        }
+      },
+      {
         "id": "RUkoUg7UCzs",
         "title": "Tiếp nhận 32 công dân từ Campuchia | Cụm tin | VTV24",
         "channel": "VTV24",
         "category": "vietnam",
         "published_at": "2026-10-24T08:30:06+00:00",
         "thumbnail": "https://i.ytimg.com/vi/RUkoUg7UCzs/hqdefault.jpg",
-        "popularity": 727,
+        "popularity": 7927,
         "provenance": "official_channel_api",
         "source_lang": "vi",
         "translations": {
@@ -2049,7 +2151,7 @@
         "category": "vietnam",
         "published_at": "2026-10-24T08:03:24+00:00",
         "thumbnail": "https://i.ytimg.com/vi/AOh0QpbYhZM/hqdefault.jpg",
-        "popularity": 4969,
+        "popularity": 18406,
         "provenance": "official_channel_api",
         "source_lang": "vi",
         "translations": {
@@ -2058,111 +2160,94 @@
             "summary": ""
           }
         }
-      },
-      {
-        "id": "jv8El-_gL1w",
-        "title": "Mỹ: Gần 1.000 người đăng ký tham gia tranh Giải vô địch đỗ xe song song | VTV24",
-        "channel": "VTV24",
-        "category": "vietnam",
-        "published_at": "2026-10-24T08:01:51+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/jv8El-_gL1w/hqdefault.jpg",
-        "popularity": 5011,
-        "provenance": "official_channel_api",
-        "source_lang": "vi",
-        "translations": {
-          "vi": {
-            "title": "Mỹ: Gần 1.000 người đăng ký tham gia tranh Giải vô địch đỗ xe song song | VTV24",
-            "summary": ""
-          }
-        }
-      },
-      {
-        "id": "dljER8Zfm7I",
-        "title": "Cầu vồng kỳ ảo bên thác nước tuôn xuống từ bầu trời tại Brazil | VTV24",
-        "channel": "VTV24",
-        "category": "vietnam",
-        "published_at": "2026-10-24T08:00:18+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/dljER8Zfm7I/hqdefault.jpg",
-        "popularity": 938,
-        "provenance": "official_channel_api",
-        "source_lang": "vi",
-        "translations": {
-          "vi": {
-            "title": "Cầu vồng kỳ ảo bên thác nước tuôn xuống từ bầu trời tại Brazil | VTV24",
-            "summary": ""
-          }
-        }
-      },
-      {
-        "id": "2TTJIcuzdmU",
-        "title": "Thời sự toàn cảnh trưa 24/10: Bắt được 1 trong 4 đối tượng trốn khỏi trại giam ở tỉnh Khánh Hòa",
-        "channel": "VTV24",
-        "category": "vietnam",
-        "published_at": "2026-10-24T07:38:29+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/2TTJIcuzdmU/hqdefault.jpg",
-        "popularity": 2502,
-        "provenance": "official_channel_api",
-        "source_lang": "vi",
-        "translations": {
-          "vi": {
-            "title": "Thời sự toàn cảnh trưa 24/10: Bắt được 1 trong 4 đối tượng trốn khỏi trại giam ở tỉnh Khánh Hòa",
-            "summary": ""
-          }
-        }
-      },
-      {
-        "id": "pVQ7ooHPGPY",
-        "title": "TIN NÓNG 10 PHÚT 24/10: Mổ lấy thai thành công, an toàn cho sản phụ nặng 150kg | VTV24",
-        "channel": "VTV24",
-        "category": "vietnam",
-        "published_at": "2026-10-24T06:23:06+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/pVQ7ooHPGPY/hqdefault.jpg",
-        "popularity": 14765,
-        "provenance": "official_channel_api",
-        "source_lang": "vi",
-        "translations": {
-          "vi": {
-            "title": "TIN NÓNG 10 PHÚT 24/10: Mổ lấy thai thành công, an toàn cho sản phụ nặng 150kg | VTV24",
-            "summary": ""
-          }
-        }
-      },
-      {
-        "id": "WoiNJ2dwsv4",
-        "title": "Nga và Ucraina nhất trí ngừng bắn tại Oleshky | Cụm tin Quốc tế | VTV24",
-        "channel": "VTV24",
-        "category": "vietnam",
-        "published_at": "2026-10-24T05:00:34+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/WoiNJ2dwsv4/hqdefault.jpg",
-        "popularity": 13209,
-        "provenance": "official_channel_api",
-        "source_lang": "vi",
-        "translations": {
-          "vi": {
-            "title": "Nga và Ucraina nhất trí ngừng bắn tại Oleshky | Cụm tin Quốc tế | VTV24",
-            "summary": ""
-          }
-        }
-      },
-      {
-        "id": "XXmNXEC1Dc0",
-        "title": "Sửa đổi Luật An toàn thực phẩm: Đổi mới tư duy quản lý, nâng cao hiệu quả kiểm soát | VTV24",
-        "channel": "VTV24",
-        "category": "vietnam",
-        "published_at": "2026-10-24T03:55:54+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/XXmNXEC1Dc0/hqdefault.jpg",
-        "popularity": 3473,
-        "provenance": "official_channel_api",
-        "source_lang": "vi",
-        "translations": {
-          "vi": {
-            "title": "Sửa đổi Luật An toàn thực phẩm: Đổi mới tư duy quản lý, nâng cao hiệu quả kiểm soát | VTV24",
-            "summary": ""
-          }
-        }
       }
     ],
     "world": [
+      {
+        "id": "Z7IUjkHTQUw",
+        "title": "Hunting the fraudster who stole millions in VAT - Behind The Investigation | BBC News",
+        "channel": "BBC News",
+        "category": "world",
+        "published_at": "2026-10-24T12:00:26+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/Z7IUjkHTQUw/hqdefault.jpg",
+        "popularity": 3443,
+        "provenance": "official_channel_api",
+        "source_lang": "en",
+        "translations": {
+          "en": {
+            "title": "Hunting the fraudster who stole millions in VAT - Behind The Investigation | BBC News",
+            "summary": ""
+          }
+        }
+      },
+      {
+        "id": "OEnC30e14mE",
+        "title": "The week before the secret Budget | BBC Newscast",
+        "channel": "BBC News",
+        "category": "world",
+        "published_at": "2026-10-24T11:30:03+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/OEnC30e14mE/hqdefault.jpg",
+        "popularity": 1920,
+        "provenance": "official_channel_api",
+        "source_lang": "en",
+        "translations": {
+          "en": {
+            "title": "The week before the secret Budget | BBC Newscast",
+            "summary": ""
+          }
+        }
+      },
+      {
+        "id": "aFtDtCSvSz0",
+        "title": "How are drones hunting hidden fires? #Cairngorms #BBCNews",
+        "channel": "BBC News",
+        "category": "world",
+        "published_at": "2026-10-24T11:00:12+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/aFtDtCSvSz0/hqdefault.jpg",
+        "popularity": 5060,
+        "provenance": "official_channel_api",
+        "source_lang": "en",
+        "translations": {
+          "en": {
+            "title": "How are drones hunting hidden fires? #Cairngorms #BBCNews",
+            "summary": ""
+          }
+        }
+      },
+      {
+        "id": "kCWt8P2ERBs",
+        "title": "Brazil to vote in second round of presidential election | BBC News",
+        "channel": "BBC News",
+        "category": "world",
+        "published_at": "2026-10-24T10:45:37+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/kCWt8P2ERBs/hqdefault.jpg",
+        "popularity": 9244,
+        "provenance": "official_channel_api",
+        "source_lang": "en",
+        "translations": {
+          "en": {
+            "title": "Brazil to vote in second round of presidential election | BBC News",
+            "summary": ""
+          }
+        }
+      },
+      {
+        "id": "QNb4aREBajI",
+        "title": "When do the clocks go back in the UK? #Winter #BBCNews",
+        "channel": "BBC News",
+        "category": "world",
+        "published_at": "2026-10-24T10:00:34+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/QNb4aREBajI/hqdefault.jpg",
+        "popularity": 6906,
+        "provenance": "official_channel_api",
+        "source_lang": "en",
+        "translations": {
+          "en": {
+            "title": "When do the clocks go back in the UK? #Winter #BBCNews",
+            "summary": ""
+          }
+        }
+      },
       {
         "id": "K9Mbt1fnHiE",
         "title": "How this wave energy system is inspired by the human heart | BBC News",
@@ -2170,7 +2255,7 @@
         "category": "world",
         "published_at": "2026-10-24T09:00:39+00:00",
         "thumbnail": "https://i.ytimg.com/vi/K9Mbt1fnHiE/hqdefault.jpg",
-        "popularity": 364,
+        "popularity": 35115,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2187,7 +2272,7 @@
         "category": "world",
         "published_at": "2026-10-24T08:45:19+00:00",
         "thumbnail": "https://i.ytimg.com/vi/I8tdFeeGLb8/hqdefault.jpg",
-        "popularity": 1651,
+        "popularity": 15228,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2204,7 +2289,7 @@
         "category": "world",
         "published_at": "2026-10-24T08:17:43+00:00",
         "thumbnail": "https://i.ytimg.com/vi/j-0JJ8uqpAI/hqdefault.jpg",
-        "popularity": 2372,
+        "popularity": 25795,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2213,226 +2298,141 @@
             "summary": ""
           }
         }
-      },
-      {
-        "id": "FF3cFfxJEhg",
-        "title": "AI election ads surging ahead of US midterms. #BBCNews",
-        "channel": "BBC News",
-        "category": "world",
-        "published_at": "2026-10-24T08:15:20+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/FF3cFfxJEhg/hqdefault.jpg",
-        "popularity": 427,
-        "provenance": "official_channel_api",
-        "source_lang": "en",
-        "translations": {
-          "en": {
-            "title": "AI election ads surging ahead of US midterms. #BBCNews",
-            "summary": ""
-          }
-        }
-      },
-      {
-        "id": "KF4DWhkugTM",
-        "title": "Modern Warfare 4 cast on the 'epic conclusion' of the saga | BBC News",
-        "channel": "BBC News",
-        "category": "world",
-        "published_at": "2026-10-24T00:30:07+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/KF4DWhkugTM/hqdefault.jpg",
-        "popularity": 22486,
-        "provenance": "official_channel_api",
-        "source_lang": "en",
-        "translations": {
-          "en": {
-            "title": "Modern Warfare 4 cast on the 'epic conclusion' of the saga | BBC News",
-            "summary": ""
-          }
-        }
-      },
-      {
-        "id": "Fu4KVwUlc_E",
-        "title": "Police Block Delhi March Over India’s Voter-Roll Overhaul",
-        "channel": "Bloomberg News",
-        "category": "world",
-        "published_at": "2026-10-24T00:00:33+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/Fu4KVwUlc_E/hqdefault.jpg",
-        "popularity": 1359,
-        "provenance": "official_channel_api",
-        "source_lang": "en",
-        "translations": {
-          "en": {
-            "title": "Police Block Delhi March Over India’s Voter-Roll Overhaul",
-            "summary": ""
-          }
-        }
-      },
-      {
-        "id": "7sAITRqU90o",
-        "title": "Iranian media is defiant as hardliners brace for war | BBC News",
-        "channel": "BBC News",
-        "category": "world",
-        "published_at": "2026-10-23T23:30:01+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/7sAITRqU90o/hqdefault.jpg",
-        "popularity": 168591,
-        "provenance": "official_channel_api",
-        "source_lang": "en",
-        "translations": {
-          "en": {
-            "title": "Iranian media is defiant as hardliners brace for war | BBC News",
-            "summary": ""
-          }
-        }
-      },
-      {
-        "id": "6bqaBgHVqAo",
-        "title": "Capehart and Ponnuru on Trump's threat to block Alaska election results",
-        "channel": "PBS NewsHour",
-        "category": "world",
-        "published_at": "2026-10-23T22:50:54+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/6bqaBgHVqAo/hqdefault.jpg",
-        "popularity": 234654,
-        "provenance": "youtube_popular",
-        "source_lang": "en",
-        "translations": {
-          "en": {
-            "title": "Capehart and Ponnuru on Trump's threat to block Alaska election results",
-            "summary": ""
-          }
-        }
       }
     ],
     "economy": [
       {
-        "id": "p8smG9rkQVY",
-        "title": "Singapore vs. Hong Kong: The Fight for Asia’s Money",
+        "id": "6FqKVPSTN28",
+        "title": "Persistent Oil Prices Threaten Inflation Outlook",
         "channel": "Bloomberg Television",
         "category": "economy",
-        "published_at": "2026-10-24T09:15:20+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/p8smG9rkQVY/hqdefault.jpg",
-        "popularity": 43,
+        "published_at": "2026-10-24T13:17:47+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/6FqKVPSTN28/hqdefault.jpg",
+        "popularity": 41,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
           "en": {
-            "title": "Singapore vs. Hong Kong: The Fight for Asia’s Money",
+            "title": "Persistent Oil Prices Threaten Inflation Outlook",
             "summary": ""
           }
         }
       },
       {
-        "id": "6OMTrnWcrp0",
-        "title": "AI Rout Hits Asia as Investors Rush to Safety",
+        "id": "NVTdb4xFsSY",
+        "title": "iPhone Duo Review + Pre-Order Problems with Andru Edwards",
         "channel": "Bloomberg Television",
         "category": "economy",
-        "published_at": "2026-10-24T09:07:53+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/6OMTrnWcrp0/hqdefault.jpg",
-        "popularity": 72,
+        "published_at": "2026-10-24T13:00:16+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/NVTdb4xFsSY/hqdefault.jpg",
+        "popularity": 61,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
           "en": {
-            "title": "AI Rout Hits Asia as Investors Rush to Safety",
+            "title": "iPhone Duo Review + Pre-Order Problems with Andru Edwards",
             "summary": ""
           }
         }
       },
       {
-        "id": "Hxf_veqgQUk",
-        "title": "Disclosure: The Big Lebowski and the Hunt for Presidential Records",
+        "id": "poNjEAEyJyo",
+        "title": "Russian Diesel Deal Confronts Legal Uncertainty",
         "channel": "Bloomberg Television",
         "category": "economy",
-        "published_at": "2026-10-24T09:00:29+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/Hxf_veqgQUk/hqdefault.jpg",
-        "popularity": 24,
+        "published_at": "2026-10-24T12:53:48+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/poNjEAEyJyo/hqdefault.jpg",
+        "popularity": 319,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
           "en": {
-            "title": "Disclosure: The Big Lebowski and the Hunt for Presidential Records",
+            "title": "Russian Diesel Deal Confronts Legal Uncertainty",
             "summary": ""
           }
         }
       },
       {
-        "id": "j0F0ZmMC_ro",
-        "title": "How the Ultrarich are Transforming the US South",
+        "id": "JN2IWdj-m3c",
+        "title": "Trump Tests His Political Pull in Midterm Races",
         "channel": "Bloomberg Television",
         "category": "economy",
-        "published_at": "2026-10-24T08:15:02+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/j0F0ZmMC_ro/hqdefault.jpg",
-        "popularity": 817,
+        "published_at": "2026-10-24T12:44:08+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/JN2IWdj-m3c/hqdefault.jpg",
+        "popularity": 412,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
           "en": {
-            "title": "How the Ultrarich are Transforming the US South",
+            "title": "Trump Tests His Political Pull in Midterm Races",
             "summary": ""
           }
         }
       },
       {
-        "id": "3fCwRW87470",
-        "title": "Power On: Apple’s iPhone Duo Is Here — But Good Luck Finding One",
+        "id": "Vdt18I6kTA0",
+        "title": "AI Boom Brings New Business to Matchmakers",
         "channel": "Bloomberg Television",
         "category": "economy",
-        "published_at": "2026-10-24T06:45:11+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/3fCwRW87470/hqdefault.jpg",
-        "popularity": 398,
+        "published_at": "2026-10-24T12:34:29+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/Vdt18I6kTA0/hqdefault.jpg",
+        "popularity": 132,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
           "en": {
-            "title": "Power On: Apple’s iPhone Duo Is Here — But Good Luck Finding One",
+            "title": "AI Boom Brings New Business to Matchmakers",
             "summary": ""
           }
         }
       },
       {
-        "id": "77w1_D1k-BA",
-        "title": "America's Changing Image in India",
+        "id": "oFf5UmUySoo",
+        "title": "France Faces New Protests After Week of Violence",
         "channel": "Bloomberg Television",
         "category": "economy",
-        "published_at": "2026-10-24T05:45:09+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/77w1_D1k-BA/hqdefault.jpg",
-        "popularity": 2818,
+        "published_at": "2026-10-24T12:23:54+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/oFf5UmUySoo/hqdefault.jpg",
+        "popularity": 4246,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
           "en": {
-            "title": "America's Changing Image in India",
+            "title": "France Faces New Protests After Week of Violence",
             "summary": ""
           }
         }
       },
       {
-        "id": "yiKknSMnKQc",
-        "title": "Michael Palin on Still Traveling the World at 83",
+        "id": "tSzX9FlhkiM",
+        "title": "Making Advanced MicroChips Takes a Global Ecosystem",
         "channel": "Bloomberg Television",
         "category": "economy",
-        "published_at": "2026-10-24T04:00:20+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/yiKknSMnKQc/hqdefault.jpg",
-        "popularity": 407,
+        "published_at": "2026-10-24T12:03:04+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/tSzX9FlhkiM/hqdefault.jpg",
+        "popularity": 287,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
           "en": {
-            "title": "Michael Palin on Still Traveling the World at 83",
+            "title": "Making Advanced MicroChips Takes a Global Ecosystem",
             "summary": ""
           }
         }
       },
       {
-        "id": "RfNb_DvR1QM",
-        "title": "How to Retire Rich in India",
+        "id": "tcFgsoufsfo",
+        "title": "Has Election Spending Hit a Tipping Point?",
         "channel": "Bloomberg Television",
         "category": "economy",
-        "published_at": "2026-10-24T00:00:39+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/RfNb_DvR1QM/hqdefault.jpg",
-        "popularity": 2193,
+        "published_at": "2026-10-24T12:00:30+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/tcFgsoufsfo/hqdefault.jpg",
+        "popularity": 175,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
           "en": {
-            "title": "How to Retire Rich in India",
+            "title": "Has Election Spending Hit a Tipping Point?",
             "summary": ""
           }
         }
@@ -2440,13 +2440,30 @@
     ],
     "technology": [
       {
+        "id": "Ky6ySu9mBQM",
+        "title": "What are microdramas?",
+        "channel": "The Verge",
+        "category": "technology",
+        "published_at": "2026-10-24T13:00:09+00:00",
+        "thumbnail": "https://i.ytimg.com/vi/Ky6ySu9mBQM/hqdefault.jpg",
+        "popularity": 248,
+        "provenance": "official_channel_api",
+        "source_lang": "en",
+        "translations": {
+          "en": {
+            "title": "What are microdramas?",
+            "summary": ""
+          }
+        }
+      },
+      {
         "id": "pT-x3cJMvKQ",
         "title": "Massive PHP security flaw #Vergecast",
         "channel": "The Verge",
         "category": "technology",
         "published_at": "2026-10-23T19:30:11+00:00",
         "thumbnail": "https://i.ytimg.com/vi/pT-x3cJMvKQ/hqdefault.jpg",
-        "popularity": 9208,
+        "popularity": 10530,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2463,7 +2480,7 @@
         "category": "technology",
         "published_at": "2026-10-23T18:45:32+00:00",
         "thumbnail": "https://i.ytimg.com/vi/kStnjnWXzXs/hqdefault.jpg",
-        "popularity": 27602,
+        "popularity": 31929,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2480,7 +2497,7 @@
         "category": "technology",
         "published_at": "2026-10-23T17:49:53+00:00",
         "thumbnail": "https://i.ytimg.com/vi/6IxqUNr8gcQ/hqdefault.jpg",
-        "popularity": 13654,
+        "popularity": 15216,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2497,7 +2514,7 @@
         "category": "technology",
         "published_at": "2026-10-23T17:15:30+00:00",
         "thumbnail": "https://i.ytimg.com/vi/6qvs8SJPtIc/hqdefault.jpg",
-        "popularity": 22809,
+        "popularity": 24916,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2514,7 +2531,7 @@
         "category": "technology",
         "published_at": "2026-10-23T16:57:19+00:00",
         "thumbnail": "https://i.ytimg.com/vi/HqxRJft0_4I/hqdefault.jpg",
-        "popularity": 33922,
+        "popularity": 37071,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2531,7 +2548,7 @@
         "category": "technology",
         "published_at": "2026-10-23T14:00:32+00:00",
         "thumbnail": "https://i.ytimg.com/vi/1wcErA5JquM/hqdefault.jpg",
-        "popularity": 13849,
+        "popularity": 15577,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2548,29 +2565,12 @@
         "category": "technology",
         "published_at": "2026-10-23T13:00:05+00:00",
         "thumbnail": "https://i.ytimg.com/vi/YYhJYOoqBp8/hqdefault.jpg",
-        "popularity": 33104,
+        "popularity": 35450,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
           "en": {
             "title": "Some thoughts on the iPhone Duo",
-            "summary": ""
-          }
-        }
-      },
-      {
-        "id": "lCCa5ntnfAo",
-        "title": "iPhone Duo challenges microdramas",
-        "channel": "The Verge",
-        "category": "technology",
-        "published_at": "2026-10-23T12:00:25+00:00",
-        "thumbnail": "https://i.ytimg.com/vi/lCCa5ntnfAo/hqdefault.jpg",
-        "popularity": 63741,
-        "provenance": "official_channel_api",
-        "source_lang": "en",
-        "translations": {
-          "en": {
-            "title": "iPhone Duo challenges microdramas",
             "summary": ""
           }
         }
@@ -2584,7 +2584,7 @@
         "category": "ai-trends",
         "published_at": "2026-10-23T05:13:07+00:00",
         "thumbnail": "https://i.ytimg.com/vi/UTBuWWbFjRI/hqdefault.jpg",
-        "popularity": 182658,
+        "popularity": 183973,
         "provenance": "youtube_popular",
         "source_lang": "en",
         "translations": {
@@ -2601,7 +2601,7 @@
         "category": "ai-trends",
         "published_at": "2026-10-21T23:00:08+00:00",
         "thumbnail": "https://i.ytimg.com/vi/CsF5oqVV5YE/hqdefault.jpg",
-        "popularity": 6975,
+        "popularity": 7355,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2618,7 +2618,7 @@
         "category": "ai-trends",
         "published_at": "2026-10-21T19:00:23+00:00",
         "thumbnail": "https://i.ytimg.com/vi/SOF3_evPje8/hqdefault.jpg",
-        "popularity": 26717,
+        "popularity": 27279,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2635,7 +2635,7 @@
         "category": "ai-trends",
         "published_at": "2026-10-21T18:41:29+00:00",
         "thumbnail": "https://i.ytimg.com/vi/fmodf-lNGEE/hqdefault.jpg",
-        "popularity": 1248573,
+        "popularity": 1269812,
         "provenance": "youtube_popular",
         "source_lang": "en",
         "translations": {
@@ -2669,7 +2669,7 @@
         "category": "ai-trends",
         "published_at": "2026-10-16T16:00:00+00:00",
         "thumbnail": "https://i.ytimg.com/vi/-nmcYcO-EE8/hqdefault.jpg",
-        "popularity": 8354,
+        "popularity": 8361,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2686,7 +2686,7 @@
         "category": "ai-trends",
         "published_at": "2026-10-15T23:00:26+00:00",
         "thumbnail": "https://i.ytimg.com/vi/qJplHFjyv2A/hqdefault.jpg",
-        "popularity": 7043,
+        "popularity": 7047,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
@@ -2703,7 +2703,7 @@
         "category": "ai-trends",
         "published_at": "2026-10-15T19:00:22+00:00",
         "thumbnail": "https://i.ytimg.com/vi/i3X7Fv0Z3Uc/hqdefault.jpg",
-        "popularity": 13948,
+        "popularity": 13975,
         "provenance": "official_channel_api",
         "source_lang": "en",
         "translations": {
